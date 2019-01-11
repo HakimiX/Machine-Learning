@@ -1,0 +1,215 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Gl. Ålbovej 14,Sønder Stenderup,6092,4,95,1890,397093.0,17-02-2017
+Varmarkvej 9,Sønder Stenderup,6092,4,94,1962,470000.0,31-01-2017
+Varmarkvej 38,Sønder Stenderup,6092,4,105,1970,880000.0,17-12-2016
+Skibelundvej 9,Sønder Stenderup,6092,3,92,1964,400000.0,17-11-2016
+Varmarkvej 37,Sønder Stenderup,6092,5,128,1917,1425000.0,13-11-2016
+Varmarkvej 11,Sønder Stenderup,6092,6,214,1947,1710000.0,05-09-2016
+Slunden 13,Sønder Stenderup,6092,4,134,1979,750000.0,30-06-2016
+Stenholt 49B,Sønder Stenderup,6092,5,153,1877,1725000.0,15-06-2016
+Smøgen 2,Sønder Stenderup,6092,5,156,1978,1535000.0,04-04-2016
+Frydenborgvej 42,Sønder Stenderup,6092,12,294,1906,4425000.0,22-03-2016
+Stenholtgade 5,Sønder Stenderup,6092,8,332,1896,1325000.0,19-02-2016
+Varmarkvej 21,Sønder Stenderup,6092,5,117,1923,1350000.0,28-01-2016
+Stenderupvej 202,Sønder Stenderup,6092,5,117,1936,1105000.0,21-12-2015
+Møllebro 7,Sønder Stenderup,6092,4,141,1998,1600000.0,30-11-2015
+Stenholt 2,Sønder Stenderup,6092,6,168,1778,754060.0,18-11-2015
+Stenholt 9,Sønder Stenderup,6092,4,95,1954,255000.0,12-11-2015
+Mørkholtvej 2,Sønder Stenderup,6092,5,142,1952,1525000.0,21-10-2015
+Skibelundvej 1,Sønder Stenderup,6092,5,104,1912,150000.0,17-09-2015
+Stenderupvej 224,Sønder Stenderup,6092,5,164,1910,1125000.0,26-08-2015
+Møllebro 6,Sønder Stenderup,6092,5,215,2000,2355000.0,27-07-2015
+Moshusevej 19,Sønder Stenderup,6092,3,87,1848,2850000.0,02-06-2015
+Moshusevej 50,Sønder Stenderup,6092,3,49,2016,1500000.0,23-02-2015
+Smøgen 14,Sønder Stenderup,6092,4,148,1978,1250000.0,17-02-2015
+Hundborgvej 23,Sønder Stenderup,6092,5,130,1976,680144.0,29-01-2015
+Hundborgvej 27,Sønder Stenderup,6092,4,91,1920,260000.0,19-01-2015
+Løveroddevej 7A,Sønder Stenderup,6092,10,336,1997,7000000.0,16-01-2015
+Moshusevej 17,Sønder Stenderup,6092,9,250,1857,9985000.0,06-01-2015
+Møllebro 2,Sønder Stenderup,6092,6,158,1997,1700000.0,05-12-2014
+Varmarkvej 35,Sønder Stenderup,6092,6,190,1917,691000.0,15-08-2014
+Slunden 10,Sønder Stenderup,6092,7,172,1996,2125000.0,14-08-2014
+Stenderupvej 222,Sønder Stenderup,6092,6,154,1877,1085000.0,12-08-2014
+Stenderupvej 161,Sønder Stenderup,6092,4,140,1858,925000.0,30-04-2014
+Moshusevej 23,Sønder Stenderup,6092,4,180,1986,3650000.0,21-03-2014
+Slunden 4,Sønder Stenderup,6092,5,155,1984,1450000.0,21-02-2014
+Gl. Ålbovej 7,Sønder Stenderup,6092,5,140,1808,1105000.0,12-02-2014
+Skibelundvej 2,Sønder Stenderup,6092,3,77,1877,500000.0,03-01-2014
+Stenholtgade 33,Sønder Stenderup,6092,4,173,1767,740000.0,19-12-2013
+Mørkholtvej 22,Sønder Stenderup,6092,2,100,2000,1900000.0,21-11-2013
+Hundborgvej 3,Sønder Stenderup,6092,4,148,1914,447500.0,11-10-2013
+Stenholt 11,Sønder Stenderup,6092,4,105,1956,430005.0,15-08-2013
+Stenholtgade 13,Sønder Stenderup,6092,3,92,1869,612500.0,23-07-2013
+Præstediget 5,Sønder Stenderup,6092,4,116,1914,580000.0,11-04-2013
+Varmarkvej 31,Sønder Stenderup,6092,3,83,1950,200000.0,28-11-2012
+Varmarkvej 47,Sønder Stenderup,6092,2,72,1955,1220000.0,30-10-2012
+Frydenborgvej 20,Sønder Stenderup,6092,5,176,1991,3850000.0,26-10-2012
+Hundborgvej 41,Sønder Stenderup,6092,4,115,1877,250000.0,13-09-2012
+Varmarkvej 60,Sønder Stenderup,6092,3,85,1920,375000.0,04-09-2012
+Stenderup Kirkealle 4,Sønder Stenderup,6092,6,165,1902,1200000.0,27-06-2012
+Frydenborgvej 38,Sønder Stenderup,6092,6,160,1904,3850000.0,15-06-2012
+Moshusevej 15,Sønder Stenderup,6092,4,100,1827,510000.0,11-06-2012
+Stenholt 43,Sønder Stenderup,6092,3,132,1800,813000.0,31-05-2012
+Hundborgvej 37,Sønder Stenderup,6092,4,90,1900,125711.0,19-04-2012
+Hundborgvej 15B,Sønder Stenderup,6092,5,169,1977,1625000.0,29-03-2012
+Gl. Ålbovej 10,Sønder Stenderup,6092,5,132,1915,750000.0,13-03-2012
+Varmarkvej 32,Sønder Stenderup,6092,4,133,1964,795000.0,11-02-2012
+Stenholtgade 1,Sønder Stenderup,6092,6,117,1897,925000.0,13-01-2012
+Stenholt 47,Sønder Stenderup,6092,2,56,1850,395000.0,05-12-2011
+Moshusevej 27,Sønder Stenderup,6092,4,108,2013,1150000.0,06-10-2011
+Hundborgvej 21,Sønder Stenderup,6092,4,99,1966,950000.0,30-09-2011
+Varmarkvej 45,Sønder Stenderup,6092,6,173,1973,729000.0,22-09-2011
+Gl. Ålbovej 18,Sønder Stenderup,6092,3,100,1964,765000.0,13-09-2011
+Varmarkvej 20,Sønder Stenderup,6092,6,195,1900,1650000.0,12-11-2010
+Stenholt 32,Sønder Stenderup,6092,3,86,1900,550000.0,17-09-2010
+Stenderupvej 127,Sønder Stenderup,6092,6,223,1978,1780000.0,04-09-2010
+Mørkholtvej 18,Sønder Stenderup,6092,2,79,1900,200000.0,12-08-2010
+Gl. Ålbovej 31,Sønder Stenderup,6092,6,181,1800,3292372.0,25-05-2010
+Stenderupvej 171,Sønder Stenderup,6092,6,150,1808,900000.0,12-05-2010
+Stenholt 17,Sønder Stenderup,6092,4,113,1880,1270000.0,09-03-2010
+Gl. Ålbovej 12,Sønder Stenderup,6092,6,250,1870,700000.0,18-02-2010
+Thygesmindevej 3,Sønder Stenderup,6092,4,115,1971,1080000.0,14-02-2010
+Stenholt 29,Sønder Stenderup,6092,5,185,1850,2660000.0,29-01-2010
+Stenderupvej 193,Sønder Stenderup,6092,5,190,2005,1455000.0,22-10-2009
+Stenderupvej 131,Sønder Stenderup,6092,8,239,1914,2750000.0,21-09-2009
+Stenholt 16,Sønder Stenderup,6092,3,84,1800,1050000.0,27-08-2009
+Skibelundvej 12,Sønder Stenderup,6092,3,96,1877,490000.0,06-07-2009
+Stenholt 30,Sønder Stenderup,6092,3,94,1777,1125000.0,08-06-2009
+Gl. Ålbovej 26,Sønder Stenderup,6092,5,119,1838,2200000.0,14-05-2009
+Stenderupvej 218,Sønder Stenderup,6092,5,140,1906,1175000.0,03-03-2009
+Varmarkvej 34,Sønder Stenderup,6092,5,121,1965,1650000.0,15-12-2008
+Stenholt 37,Sønder Stenderup,6092,5,135,1873,1125000.0,27-11-2008
+Moshusevej 72,Sønder Stenderup,6092,3,48,2004,106700.0,08-09-2008
+Mørkholtvej 19,Sønder Stenderup,6092,8,169,1678,1497075.0,03-09-2008
+Gl. Ålbovej 27,Sønder Stenderup,6092,4,124,1897,750000.0,18-06-2008
+Frydenborgvej 34,Sønder Stenderup,6092,4,154,2010,1994400.0,28-04-2008
+Moshusevej 26,Sønder Stenderup,6092,3,49,1949,760000.0,24-03-2008
+Gl. Ålbovej 20,Sønder Stenderup,6092,3,117,1900,680000.0,08-12-2007
+Moshusevej 68,Sønder Stenderup,6092,1,50,2007,1620000.0,10-09-2007
+Moshusevej 42,Sønder Stenderup,6092,3,50,2010,50000.0,17-08-2007
+Stenholt 28,Sønder Stenderup,6092,1,50,1900,950000.0,10-08-2007
+"Stenholtgade 11, ST",Sønder Stenderup,6092,5,157,2013,1100000.0,15-05-2007
+Stenderupvej 210,Sønder Stenderup,6092,5,176,1894,1840000.0,20-04-2007
+Stenholt 4,Sønder Stenderup,6092,5,155,1914,1260000.0,27-03-2007
+Smøgen 12,Sønder Stenderup,6092,7,193,1977,1910000.0,12-03-2007
+Smøgen 5,Sønder Stenderup,6092,4,114,1977,1460000.0,15-02-2007
+Frydenborgvej 1,Sønder Stenderup,6092,6,184,1900,10682660.0,12-01-2007
+Fæstevej 5,Sønder Stenderup,6092,8,195,2006,650000.0,20-12-2006
+Moshusevej 40,Sønder Stenderup,6092,3,31,2007,750000.0,30-10-2006
+Stenholt 20,Sønder Stenderup,6092,3,60,1900,484500.0,27-10-2006
+Moshusevej 20,Sønder Stenderup,6092,3,29,1950,280000.0,19-09-2006
+Stenholt 49A,Sønder Stenderup,6092,7,190,1999,2995000.0,11-09-2006
+Moshusevej 5,Sønder Stenderup,6092,6,190,1918,2495000.0,30-08-2006
+Stenderupvej 150,Sønder Stenderup,6092,2,75,1934,970000.0,28-08-2006
+Frydenborgvej 2,Sønder Stenderup,6092,7,241,2000,2250000.0,12-06-2006
+Hundborgvej 44,Sønder Stenderup,6092,3,67,1827,655000.0,31-05-2006
+Stenderupvej 129,Sønder Stenderup,6092,3,100,1963,1050000.0,16-05-2006
+Frydenborgvej 4,Sønder Stenderup,6092,6,181,1900,1285000.0,20-02-2006
+Stenderupvej 177,Sønder Stenderup,6092,3,137,1877,998000.0,30-01-2006
+Stenholt 21,Sønder Stenderup,6092,4,113,1777,1000000.0,25-01-2006
+Varmarkvej 1,Sønder Stenderup,6092,5,106,1960,600000.0,25-11-2005
+Stenderupvej 197,Sønder Stenderup,6092,4,130,1800,470000.0,24-11-2005
+Hundborgvej 29,Sønder Stenderup,6092,5,133,1800,960000.0,01-11-2005
+Smøgen 3,Sønder Stenderup,6092,4,144,1974,825000.0,30-09-2005
+Stenderupvej 180,Sønder Stenderup,6092,8,320,1979,5825000.0,04-09-2005
+Smøgen 16,Sønder Stenderup,6092,5,176,1999,1796000.0,15-07-2005
+Hundborgvej 11,Sønder Stenderup,6092,6,181,1978,1345000.0,14-06-2005
+Stenderupvej 127A,Sønder Stenderup,6092,6,219,1863,1972000.0,06-06-2005
+Stenderupvej 212,Sønder Stenderup,6092,8,249,1850,634571.0,04-02-2005
+Moshusevej 46,Sønder Stenderup,6092,3,50,2014,200000.0,15-12-2004
+Præstediget 1,Sønder Stenderup,6092,5,150,1910,750000.0,01-12-2004
+Gl. Ålbovej 28,Sønder Stenderup,6092,7,143,1910,865000.0,04-10-2004
+Stenderupvej 220,Sønder Stenderup,6092,4,105,1900,700000.0,21-08-2004
+Hundborgvej 1,Sønder Stenderup,6092,8,182,1877,1395000.0,13-03-2004
+Varmarkvej 50,Sønder Stenderup,6092,4,113,2001,809194.0,27-02-2004
+Varmarkvej 3,Sønder Stenderup,6092,3,74,1958,535500.0,26-02-2004
+Varmarkvej 8,Sønder Stenderup,6092,4,114,1958,770000.0,02-02-2004
+Mørkholtvej 20,Sønder Stenderup,6092,3,104,2006,27200.0,15-12-2003
+Mørkholtvej 16,Sønder Stenderup,6092,3,103,1873,411607.0,20-11-2003
+Hyldvej 1B,Sønder Stenderup,6092,4,101,1898,700000.0,19-09-2003
+Gl. Ålbovej 25,Sønder Stenderup,6092,4,156,1910,1360000.0,15-09-2003
+Varmarkvej 51,Sønder Stenderup,6092,4,101,1961,625000.0,11-09-2003
+Stenderupvej 207,Sønder Stenderup,6092,5,127,1955,670000.0,29-08-2003
+Varmarkvej 42,Sønder Stenderup,6092,6,206,1970,950000.0,14-07-2003
+Stihaven 4,Sønder Stenderup,6092,4,146,2005,975000.0,03-07-2003
+Gl. Ålbovej 6,Sønder Stenderup,6092,12,311,1929,1700000.0,28-06-2003
+Varmarkvej 36,Sønder Stenderup,6092,8,220,1965,1167480.0,09-12-2002
+Varmarkvej 6,Sønder Stenderup,6092,6,160,1960,635000.0,30-09-2002
+Stenholt 35,Sønder Stenderup,6092,5,199,1981,1650000.0,25-09-2002
+Stenderupvej 201,Sønder Stenderup,6092,6,114,1900,685000.0,04-09-2002
+Frydenborgvej 30,Sønder Stenderup,6092,3,77,1828,480000.0,08-08-2002
+Stenholtgade 7,Sønder Stenderup,6092,6,158,1878,1095000.0,01-08-2002
+Hundborgvej 33,Sønder Stenderup,6092,5,130,2003,120000.0,07-07-2002
+Stenholt 19,Sønder Stenderup,6092,3,73,1900,440000.0,25-04-2002
+Hundborgvej 66,Sønder Stenderup,6092,4,90,1877,275000.0,22-03-2002
+Møllebro 5,Sønder Stenderup,6092,6,155,2002,192500.0,27-09-2001
+Stenderup Kirkealle 2,Sønder Stenderup,6092,5,147,1930,527500.0,22-08-2001
+Møllebro 4,Sønder Stenderup,6092,7,175,2002,192500.0,26-06-2001
+Moshusevej 13,Sønder Stenderup,6092,8,205,1890,5058000.0,06-04-2001
+Stenholt 3,Sønder Stenderup,6092,5,113,1850,379984.0,04-04-2001
+Stenholt 25,Sønder Stenderup,6092,3,111,1958,840000.0,06-12-2000
+Møllebro 13,Sønder Stenderup,6092,4,104,2000,750000.0,04-12-2000
+Fæstevej 1,Sønder Stenderup,6092,7,345,1834,1600000.0,13-09-2000
+Hundborgvej 31,Sønder Stenderup,6092,4,110,2001,120000.0,12-09-2000
+Hundborgvej 9,Sønder Stenderup,6092,4,126,1977,1000000.0,26-06-2000
+Frydenborgvej 3,Sønder Stenderup,6092,2,148,1934,665000.0,28-04-2000
+Møllebro 10,Sønder Stenderup,6092,4,135,1998,1382547.0,26-04-2000
+Stenholt 12,Sønder Stenderup,6092,2,117,1800,892806.0,28-03-2000
+Gl. Ålbovej 21,Sønder Stenderup,6092,5,143,1878,950000.0,23-02-2000
+Varmarkvej 24B,Sønder Stenderup,6092,5,137,1998,1340785.0,18-02-2000
+Mørkholtvej 11,Sønder Stenderup,6092,4,169,1880,412250.0,29-07-1999
+Møllebro 3,Sønder Stenderup,6092,4,116,2004,100000.0,09-06-1999
+Stenholt 10,Sønder Stenderup,6092,5,113,1828,512500.0,06-05-1999
+Hundborgvej 13B,Sønder Stenderup,6092,4,155,1986,1450000.0,28-04-1999
+Midtvej 2,Sønder Stenderup,6092,9,335,1924,1737393.0,25-01-1999
+Skibelundvej 10,Sønder Stenderup,6092,8,176,1912,670000.0,30-11-1998
+Hundborgvej 5,Sønder Stenderup,6092,7,170,1980,1150000.0,24-11-1998
+Hundborgvej 35,Sønder Stenderup,6092,3,96,1914,787380.0,13-11-1998
+"Stenderupvej 167, 1",Sønder Stenderup,6092,2,65,1900,650000.0,18-09-1998
+Stenderupvej 214,Sønder Stenderup,6092,4,135,1900,250000.0,17-09-1998
+Thygesmindevej 2,Sønder Stenderup,6092,8,420,1872,8465000.0,15-07-1998
+Møllebro 11,Sønder Stenderup,6092,4,138,1998,192500.0,17-06-1998
+Møllebro 9,Sønder Stenderup,6092,4,139,1998,192500.0,04-06-1998
+Frydenborgvej 32,Sønder Stenderup,6092,3,88,1853,200000.0,07-05-1998
+Smøgen 10,Sønder Stenderup,6092,5,112,1978,748000.0,20-04-1998
+Stenholt 5,Sønder Stenderup,6092,4,125,1800,245000.0,15-04-1998
+Gl. Ålbovej 8,Sønder Stenderup,6092,6,192,1875,901000.0,14-01-1998
+Præstediget 9,Sønder Stenderup,6092,14,316,1901,971475.0,20-12-1997
+Gl. Ålbovej 4,Sønder Stenderup,6092,6,174,1960,450000.0,07-12-1997
+Møllebro 8,Sønder Stenderup,6092,4,124,1998,246000.0,19-11-1997
+Stenderupvej 228,Sønder Stenderup,6092,4,104,1970,442000.0,26-10-1997
+Varmarkvej 29,Sønder Stenderup,6092,7,204,1824,801000.0,12-08-1997
+Møllebro 14,Sønder Stenderup,6092,5,143,1997,206000.0,11-08-1997
+Møllebro 17,Sønder Stenderup,6092,4,143,1998,186000.0,23-07-1997
+Hundborgvej 13A,Sønder Stenderup,6092,5,138,1986,407088.0,07-07-1997
+Møllebro 12,Sønder Stenderup,6092,6,148,1997,217500.0,28-02-1997
+Stenholt 27,Sønder Stenderup,6092,3,94,1777,460114.0,28-02-1997
+Varmarkvej 28,Sønder Stenderup,6092,4,188,1894,1070500.0,10-12-1996
+Smøgen 1,Sønder Stenderup,6092,5,147,1973,800000.0,16-10-1996
+Stenholt 1,Sønder Stenderup,6092,2,96,1877,799000.0,18-07-1996
+Slunden 5,Sønder Stenderup,6092,3,117,1979,592158.0,01-07-1996
+Stenderupvej 205,Sønder Stenderup,6092,5,118,1955,665000.0,11-06-1996
+Varmarkvej 26,Sønder Stenderup,6092,6,132,1929,610000.0,27-09-1995
+Stenderupvej 216,Sønder Stenderup,6092,5,165,1905,498000.0,25-09-1995
+Frydenborgvej 22,Sønder Stenderup,6092,8,245,1865,828010.0,24-07-1995
+Stenderupvej 183,Sønder Stenderup,6092,15,489,1867,4376000.0,19-05-1995
+Stenholt 33,Sønder Stenderup,6092,3,84,1800,265000.0,09-05-1995
+Stenholtgade 17,Sønder Stenderup,6092,7,192,1850,854149.0,26-10-1994
+Moshusevej 25,Sønder Stenderup,6092,5,156,1999,600000.0,24-10-1994
+Smøgen 6,Sønder Stenderup,6092,5,155,1977,647000.0,07-10-1994
+Gl. Ålbovej 16,Sønder Stenderup,6092,6,160,1912,610199.0,15-08-1994
+Moshusevej 7,Sønder Stenderup,6092,5,220,1919,650000.0,12-08-1994
+Stenderupvej 175,Sønder Stenderup,6092,3,136,1877,450720.0,23-03-1994
+Hokvej 1,Sønder Stenderup,6092,4,137,1994,150000.0,23-02-1994
+Varmarkvej 44,Sønder Stenderup,6092,6,132,1981,553500.0,29-12-1993
+Gl. Ålbovej 30,Sønder Stenderup,6092,6,154,1996,1885000.0,10-12-1993
+Slunden 11,Sønder Stenderup,6092,4,120,1979,565000.0,27-08-1993
+Præstediget 7,Sønder Stenderup,6092,4,118,1915,375000.0,02-07-1993
+Gl. Ålbovej 23,Sønder Stenderup,6092,6,158,1915,400000.0,20-06-1993
+Varmarkvej 10,Sønder Stenderup,6092,4,118,1961,450000.0,08-06-1993
+Moshusevej 29,Sønder Stenderup,6092,4,118,1918,525000.0,31-03-1993
+Varmarkvej 43,Sønder Stenderup,6092,6,203,1975,740000.0,13-07-1992
+Varmarkvej 41,Sønder Stenderup,6092,6,204,1977,633000.0,04-07-1992
+Stenholtgade 19,Sønder Stenderup,6092,6,171,1830,625000.0,01-04-1992
+Stenderupvej 125,Sønder Stenderup,6092,5,105,1965,528037.0,31-03-1992
+Stihaven 2,Sønder Stenderup,6092,2,116,1877,366000.0,30-01-1992

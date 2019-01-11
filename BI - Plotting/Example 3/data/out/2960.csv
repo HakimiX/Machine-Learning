@@ -1,0 +1,1533 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Bolbro Villavej 9B,Rungsted Kyst,2960,13,313,1918,2919000.0,23-05-2017
+Bel Colle Parken 2,Rungsted Kyst,2960,4,134,1999,4295000.0,16-05-2017
+Bel Colle Parken 1,Rungsted Kyst,2960,4,134,1999,4595000.0,09-05-2017
+Bolbrovej 67,Rungsted Kyst,2960,4,110,1948,4995000.0,20-04-2017
+Sundkrogen 8,Rungsted Kyst,2960,6,180,1962,5800000.0,12-04-2017
+Lille Pennehave 1,Rungsted Kyst,2960,3,81,1985,3135000.0,12-04-2017
+Boganisvej 21,Rungsted Kyst,2960,6,169,1980,6700000.0,10-04-2017
+Kildevej 15,Rungsted Kyst,2960,7,186,1992,6850000.0,09-04-2017
+Bolbro Villavej 7A,Rungsted Kyst,2960,5,172,1970,4765500.0,07-04-2017
+"Rungsted Bytorv 9, 2. 36",Rungsted Kyst,2960,2,66,1994,1955000.0,05-04-2017
+Vestre Pennehavevej 8,Rungsted Kyst,2960,5,225,2014,7150000.0,17-03-2017
+Spejderbakken 3,Rungsted Kyst,2960,7,142,1949,7000000.0,13-03-2017
+Rungsted Strandvej 69D,Rungsted Kyst,2960,7,226,1959,6400000.0,13-03-2017
+Sophienberg Vænge 31,Rungsted Kyst,2960,3,108,1960,3875000.0,09-03-2017
+Solvænget 23,Rungsted Kyst,2960,8,187,1969,5050000.0,09-03-2017
+"Rungsted Strandvej 132, ST",Rungsted Kyst,2960,1,25,1918,5000000.0,01-03-2017
+"Ewalds Have 12, ST. TH",Rungsted Kyst,2960,4,129,1978,4550000.0,28-02-2017
+Svendsvej 10,Rungsted Kyst,2960,5,103,1925,5266666.0,13-02-2017
+Folehavevej 145,Rungsted Kyst,2960,11,420,1937,6500000.0,13-02-2017
+Folehavevej 143A,Rungsted Kyst,2960,3,116,1983,6500000.0,13-02-2017
+Sophienberg Vænge 17,Rungsted Kyst,2960,7,183,1957,6950000.0,03-02-2017
+Sophienberg Vænge 38,Rungsted Kyst,2960,8,206,1971,6400000.0,01-02-2017
+Doktorvænget 2,Rungsted Kyst,2960,8,228,1969,5350000.0,26-01-2017
+Engvej 2,Rungsted Kyst,2960,6,173,1956,10100000.0,25-01-2017
+Sophienbergvej 47,Rungsted Kyst,2960,6,198,1978,7000000.0,24-01-2017
+Knudsvej 1,Rungsted Kyst,2960,9,274,1917,6700000.0,20-01-2017
+Vallerødgade 13B,Rungsted Kyst,2960,5,146,1800,3750000.0,16-01-2017
+Piniehøj 8,Rungsted Kyst,2960,5,190,1961,7560000.0,16-01-2017
+Bolbro Villavej 2,Rungsted Kyst,2960,5,220,1995,7600000.0,14-01-2017
+Bolbrovænge 41A,Rungsted Kyst,2960,6,190,1981,5000000.0,12-01-2017
+Bolbrovænge 39,Rungsted Kyst,2960,6,261,1997,9000000.0,11-01-2017
+Sophienbergvej 33,Rungsted Kyst,2960,6,202,1978,6615000.0,09-01-2017
+Valdemarsvej 21,Rungsted Kyst,2960,4,135,1936,4750000.0,04-01-2017
+Østre Pennehavevej 27,Rungsted Kyst,2960,8,250,1958,7350000.0,24-12-2016
+Vallerødgade 8B,Rungsted Kyst,2960,7,256,1780,11000000.0,11-12-2016
+Rungstedvej 49,Rungsted Kyst,2960,7,226,1900,7000000.0,08-12-2016
+Skovgrænsen 6,Rungsted Kyst,2960,7,198,1977,6150000.0,05-12-2016
+Vallerød Banevej 48,Rungsted Kyst,2960,5,164,1922,5495000.0,02-12-2016
+Ved Hegnet 15,Rungsted Kyst,2960,7,236,1939,9200000.0,30-11-2016
+Solvænget 5,Rungsted Kyst,2960,3,85,1948,4100000.0,29-11-2016
+Rungsted Strandvej 77,Rungsted Kyst,2960,9,336,1912,10000000.0,28-11-2016
+Hulsøvang 15,Rungsted Kyst,2960,3,140,1944,5545000.0,22-11-2016
+Bukkeballevej 72,Rungsted Kyst,2960,6,231,2008,9050000.0,22-11-2016
+Bolbrodalen 8,Rungsted Kyst,2960,8,242,1977,5850000.0,21-11-2016
+Ved Hegnet 16,Rungsted Kyst,2960,6,136,1955,5200000.0,18-11-2016
+"Rungsted Bytorv 2, 1. 15",Rungsted Kyst,2960,2,66,1994,2000000.0,16-11-2016
+Sundtoften 6,Rungsted Kyst,2960,7,191,1980,6250000.0,15-11-2016
+Bukkeballevej 42A,Rungsted Kyst,2960,4,115,1915,3760000.0,15-11-2016
+Thyrasvej 11,Rungsted Kyst,2960,4,127,1973,4350000.0,15-11-2016
+Bukkeballevej 10,Rungsted Kyst,2960,8,296,1913,14300000.0,10-11-2016
+Cristinavej 2,Rungsted Kyst,2960,8,260,1973,6700000.0,08-11-2016
+Rungsted Strandvej 193B,Rungsted Kyst,2960,6,211,1907,5750000.0,08-11-2016
+Rungstedvej 54,Rungsted Kyst,2960,6,168,1979,4750000.0,04-11-2016
+Ved Hegnet 14,Rungsted Kyst,2960,5,207,1955,7200000.0,31-10-2016
+Bolbrovænge 4B,Rungsted Kyst,2960,6,166,1994,5850000.0,30-10-2016
+Enghave 25,Rungsted Kyst,2960,6,260,1930,11100000.0,24-10-2016
+Lange-Müllers Alle 24,Rungsted Kyst,2960,6,242,1979,6000000.0,24-10-2016
+Enghave 37,Rungsted Kyst,2960,6,214,2016,1700000.0,06-10-2016
+Bel Colle Parken 10,Rungsted Kyst,2960,4,152,1999,4850000.0,05-10-2016
+Bukkeballevej 13B,Rungsted Kyst,2960,10,265,1911,6300000.0,30-09-2016
+Ved Hegnet 10,Rungsted Kyst,2960,5,110,1955,4050000.0,29-09-2016
+Fuglevangsvej 3,Rungsted Kyst,2960,12,364,1942,14250000.0,28-09-2016
+Byskellet 1,Rungsted Kyst,2960,7,182,1960,5240000.0,20-09-2016
+Karen Blixens Vej 28,Rungsted Kyst,2960,5,161,1986,4925000.0,16-09-2016
+Margrethevej 1,Rungsted Kyst,2960,8,262,1926,8500000.0,16-09-2016
+Vallerødgade 6A,Rungsted Kyst,2960,6,154,1977,4515000.0,07-09-2016
+Bukkeballevej 74,Rungsted Kyst,2960,5,136,1979,2956000.0,06-09-2016
+Bolbro Villavej 12,Rungsted Kyst,2960,7,179,1936,7700000.0,02-09-2016
+Rungsted Strandvej 141,Rungsted Kyst,2960,7,373,1993,14200000.0,30-08-2016
+Piniehøj 26,Rungsted Kyst,2960,7,245,1898,7700000.0,30-08-2016
+Knudsvej 11,Rungsted Kyst,2960,5,172,1958,5875000.0,28-08-2016
+Christiansgave 30,Rungsted Kyst,2960,5,130,1956,6150000.0,19-08-2016
+Enghave 14,Rungsted Kyst,2960,6,201,1933,7900000.0,18-08-2016
+Sophienberg Vænge 32,Rungsted Kyst,2960,6,208,1968,4800000.0,17-08-2016
+Hulsø Ege 19,Rungsted Kyst,2960,5,187,1982,5000000.0,16-08-2016
+Piniehøj 5,Rungsted Kyst,2960,4,194,1961,7850000.0,12-08-2016
+Engvej 1A,Rungsted Kyst,2960,5,152,1965,8525000.0,10-08-2016
+Hestehaven 1,Rungsted Kyst,2960,7,230,1960,9600000.0,09-08-2016
+Bolbrovej 98,Rungsted Kyst,2960,4,107,1959,3400000.0,20-07-2016
+Hannelundsvej 5,Rungsted Kyst,2960,6,186,1957,5900000.0,11-07-2016
+Højagervej 16,Rungsted Kyst,2960,5,220,2011,10000000.0,11-07-2016
+Drosselvej 1,Rungsted Kyst,2960,6,236,1998,7800000.0,08-07-2016
+Helleholm 17,Rungsted Kyst,2960,6,178,1977,5500000.0,06-07-2016
+Bukkeballevej 21B,Rungsted Kyst,2960,3,135,1966,4020000.0,05-07-2016
+Sømandshvile Park 7,Rungsted Kyst,2960,4,155,1984,5050000.0,05-07-2016
+Hulsøvang 14,Rungsted Kyst,2960,4,154,1983,4850000.0,04-07-2016
+Strandvænget 9,Rungsted Kyst,2960,7,168,1954,6100000.0,03-07-2016
+Dreyersvej 40,Rungsted Kyst,2960,10,336,2011,21000000.0,30-06-2016
+Vallerød Banevej 22A,Rungsted Kyst,2960,7,157,1964,4950000.0,28-06-2016
+Bolbrovej 31,Rungsted Kyst,2960,6,244,1951,5100000.0,20-06-2016
+Præstevænget 5,Rungsted Kyst,2960,4,203,1958,2556500.0,20-06-2016
+"Bolbrovej 36B, 1",Rungsted Kyst,2960,5,128,1935,4175000.0,15-06-2016
+Bukkeballevej 12B,Rungsted Kyst,2960,7,162,1914,7600000.0,12-06-2016
+Vallerødvænge 8B,Rungsted Kyst,2960,4,145,1986,4250000.0,09-06-2016
+Karen Blixens Vej 7,Rungsted Kyst,2960,6,179,1986,4445000.0,09-06-2016
+Sophienberg Vænge 41,Rungsted Kyst,2960,5,178,2009,6600000.0,08-06-2016
+Christiansgave 16,Rungsted Kyst,2960,4,115,1956,4300000.0,07-06-2016
+Hulsøvang 1B,Rungsted Kyst,2960,4,181,1958,5800000.0,01-06-2016
+Rungsted Strandvej 82,Rungsted Kyst,2960,8,343,1971,18000000.0,14-05-2016
+Ingeborg Vænge 7,Rungsted Kyst,2960,5,163,1976,4850000.0,11-05-2016
+Louis Petersensvej 3,Rungsted Kyst,2960,6,178,1933,6275000.0,10-05-2016
+Bukkeballevej 39,Rungsted Kyst,2960,5,173,1934,8990000.0,04-05-2016
+Vallerød Banevej 18C,Rungsted Kyst,2960,4,116,1957,3700000.0,04-05-2016
+Spejderbakken 8,Rungsted Kyst,2960,7,185,1954,5715000.0,29-04-2016
+Helleholm 1,Rungsted Kyst,2960,5,152,1977,4900000.0,28-04-2016
+Constantiaparken 7,Rungsted Kyst,2960,6,154,1974,4225000.0,25-04-2016
+Vallerødgade 24,Rungsted Kyst,2960,6,223,1917,5081000.0,18-04-2016
+Dreyersvej 27,Rungsted Kyst,2960,6,159,1952,3100000.0,18-04-2016
+Gl Vallerødvej 22,Rungsted Kyst,2960,5,131,1916,4450000.0,08-04-2016
+Solbakkevej 11,Rungsted Kyst,2960,3,126,1959,5000000.0,07-04-2016
+Lille Pennehave 3,Rungsted Kyst,2960,3,81,1985,3265000.0,04-04-2016
+Bolbrovej 52,Rungsted Kyst,2960,10,345,1912,12350000.0,31-03-2016
+Sophienbergvej 30,Rungsted Kyst,2960,6,198,1977,6475000.0,28-03-2016
+Valdemarsvej 24,Rungsted Kyst,2960,6,185,2017,2550000.0,18-03-2016
+Bolbrovænge 27,Rungsted Kyst,2960,8,186,1943,6200000.0,17-03-2016
+"Ewalds Have 2, ST. TV",Rungsted Kyst,2960,2,96,1978,3295000.0,16-03-2016
+Bel Colle Parken 16,Rungsted Kyst,2960,4,152,1999,4795000.0,16-03-2016
+Louise Park 1,Rungsted Kyst,2960,5,270,1976,5500000.0,15-03-2016
+Christiansgave 45,Rungsted Kyst,2960,5,122,1956,9325000.0,15-03-2016
+Vallerød Banevej 18B,Rungsted Kyst,2960,4,151,1960,4950000.0,06-03-2016
+"Ewalds Have 10, ST. TH",Rungsted Kyst,2960,4,129,1978,4300000.0,29-02-2016
+Enghave 2,Rungsted Kyst,2960,5,171,1929,7900000.0,28-02-2016
+Kastanievej 6,Rungsted Kyst,2960,6,208,1913,4825000.0,24-02-2016
+Christiansgave 49,Rungsted Kyst,2960,3,166,1953,17500000.0,22-02-2016
+Peder Oxes Vej 3,Rungsted Kyst,2960,5,203,1975,5625000.0,18-02-2016
+Solkrogen 8,Rungsted Kyst,2960,4,104,1951,5400000.0,17-02-2016
+"Vallerød Banevej 20, 2",Rungsted Kyst,2960,4,136,1907,3455000.0,07-02-2016
+Vallerød Banevej 19C,Rungsted Kyst,2960,7,220,1963,4281667.0,05-02-2016
+Rungsted Strandvej 165A,Rungsted Kyst,2960,6,168,1900,8500000.0,31-01-2016
+Louise Park 8,Rungsted Kyst,2960,5,163,1974,5750000.0,12-01-2016
+Piniehøj 2,Rungsted Kyst,2960,5,180,1961,7000000.0,12-01-2016
+Vestre Pennehavevej 6,Rungsted Kyst,2960,4,94,1921,2500000.0,11-01-2016
+Hulsøvang 33,Rungsted Kyst,2960,8,169,1956,5840000.0,06-01-2016
+Gl Vallerødvej 40,Rungsted Kyst,2960,10,360,1908,4399400.0,05-01-2016
+Vallerødvænge 15,Rungsted Kyst,2960,5,155,1979,6200000.0,04-01-2016
+Rungsted Strandvej 137,Rungsted Kyst,2960,6,286,2011,21500000.0,04-01-2016
+Louise Park 17,Rungsted Kyst,2960,7,284,1974,3825000.0,30-12-2015
+Bolbro Villavej 14,Rungsted Kyst,2960,6,161,1936,6075000.0,28-12-2015
+Gl Vallerødvej 24,Rungsted Kyst,2960,5,140,1934,5350000.0,16-12-2015
+Constantiavej 4A,Rungsted Kyst,2960,4,146,1987,4600000.0,14-12-2015
+Rungsted Strandvej 86,Rungsted Kyst,2960,8,324,1973,16000000.0,11-12-2015
+Vallerødgade 11,Rungsted Kyst,2960,4,116,1949,4500000.0,09-12-2015
+Hannelundsvej 8,Rungsted Kyst,2960,5,330,1950,6000000.0,09-12-2015
+Højagervej 14,Rungsted Kyst,2960,10,283,1963,7900000.0,06-12-2015
+Valdemarsvej 8,Rungsted Kyst,2960,8,213,1962,6500000.0,03-12-2015
+Linstowsvej 9,Rungsted Kyst,2960,7,165,1911,3315000.0,01-12-2015
+Rungsted Strandvej 47B,Rungsted Kyst,2960,10,197,1860,6000000.0,17-11-2015
+Vallerødvænge 8A,Rungsted Kyst,2960,6,145,1908,4125000.0,13-11-2015
+Vallerød Banevej 21,Rungsted Kyst,2960,4,72,1901,2700000.0,12-11-2015
+Rungsted Strandvej 76B,Rungsted Kyst,2960,5,148,1956,15300000.0,30-10-2015
+"Ewalds Have 8, 1. TH",Rungsted Kyst,2960,3,113,1978,4000000.0,30-10-2015
+Sophienberg Vænge 30,Rungsted Kyst,2960,6,260,2002,7650000.0,27-10-2015
+Constantiavej 6,Rungsted Kyst,2960,7,190,1925,6400000.0,11-10-2015
+Piet Heins Vej 28,Rungsted Kyst,2960,3,175,2002,8600000.0,06-10-2015
+Bolbrovænge 13,Rungsted Kyst,2960,6,156,1957,5300000.0,21-09-2015
+Knudsvej 20,Rungsted Kyst,2960,5,153,1959,5900000.0,18-09-2015
+Engvej 1B,Rungsted Kyst,2960,6,238,1911,8000000.0,17-09-2015
+Sophienberg Vænge 3,Rungsted Kyst,2960,8,342,2004,13500000.0,31-08-2015
+Vallerød Banevej 10,Rungsted Kyst,2960,13,305,1905,10700000.0,31-08-2015
+Solkrogen 16,Rungsted Kyst,2960,8,186,1955,4900000.0,28-08-2015
+Langebakken 5,Rungsted Kyst,2960,5,281,1959,18000000.0,26-08-2015
+Constantiavej 21,Rungsted Kyst,2960,6,202,1970,4400000.0,17-08-2015
+Bolbrovej 72,Rungsted Kyst,2960,4,140,1850,4500000.0,17-08-2015
+Højagervej 4A,Rungsted Kyst,2960,4,237,2008,11800000.0,14-08-2015
+Pennehave 3F,Rungsted Kyst,2960,4,107,1982,2910000.0,13-08-2015
+Sophienbergvej 61,Rungsted Kyst,2960,6,201,1978,6900000.0,12-08-2015
+"Rungsted Bytorv 2, 1. 13",Rungsted Kyst,2960,3,130,1994,1955000.0,11-08-2015
+"Rungstedvej 74, 1. TH",Rungsted Kyst,2960,3,101,1936,1600000.0,10-08-2015
+Bel Colle Parken 9,Rungsted Kyst,2960,4,142,1999,4805000.0,10-08-2015
+Piniehøj 11,Rungsted Kyst,2960,7,212,1964,9975000.0,04-08-2015
+Bøgebakken 6,Rungsted Kyst,2960,5,260,1978,8195000.0,21-07-2015
+Vallerødgade 15D,Rungsted Kyst,2960,5,271,1780,7000000.0,20-07-2015
+Vallerødgade 15C,Rungsted Kyst,2960,11,455,1780,11000000.0,20-07-2015
+"Bolbrovej 36B, ST",Rungsted Kyst,2960,4,128,1935,3625000.0,20-07-2015
+Hulsøvang 19,Rungsted Kyst,2960,7,192,1959,6775000.0,16-07-2015
+Parkvej 3,Rungsted Kyst,2960,6,167,1956,6600000.0,14-07-2015
+Løvvænget 8,Rungsted Kyst,2960,5,193,1960,6440000.0,14-07-2015
+Sophienberg Vænge 8,Rungsted Kyst,2960,5,104,1953,4660000.0,07-07-2015
+Kildevej 27,Rungsted Kyst,2960,5,218,1952,7350000.0,07-07-2015
+Sundkrogen 10,Rungsted Kyst,2960,6,201,1958,5525000.0,04-07-2015
+Højskolevej 9,Rungsted Kyst,2960,5,137,1978,3650000.0,02-07-2015
+"Rungsted Strandvej 173, 1",Rungsted Kyst,2960,4,200,1979,5446600.0,26-06-2015
+"Rungsted Strandvej 173, ST",Rungsted Kyst,2960,6,151,1979,5853400.0,26-06-2015
+Byskellet 3,Rungsted Kyst,2960,6,166,1964,4500000.0,25-06-2015
+Rungsted Strandvej 167,Rungsted Kyst,2960,6,246,1901,11700000.0,22-06-2015
+Solvænget 30,Rungsted Kyst,2960,9,253,1974,8875000.0,17-06-2015
+Rungsted Strandvej 104,Rungsted Kyst,2960,5,195,1893,4600000.0,16-06-2015
+Vallerød Banevej 15A,Rungsted Kyst,2960,3,102,1973,3995000.0,16-06-2015
+Bukkeballevej 77,Rungsted Kyst,2960,7,173,1952,7650000.0,15-06-2015
+Piniehøj 24,Rungsted Kyst,2960,5,141,1962,4292000.0,15-06-2015
+Frihedsvej 14,Rungsted Kyst,2960,7,190,1903,5100000.0,12-06-2015
+Sophienberg Vænge 40,Rungsted Kyst,2960,5,176,1954,5695000.0,04-06-2015
+Bolbro Villavej 9D,Rungsted Kyst,2960,5,188,1989,8000000.0,02-06-2015
+"Rungstedvej 74, KL",Rungsted Kyst,2960,2,68,1936,950000.0,29-05-2015
+Ingeborg Vænge 5,Rungsted Kyst,2960,5,163,1976,4500000.0,27-05-2015
+"Bolbrovej 84A, 1",Rungsted Kyst,2960,3,80,1917,2600000.0,26-05-2015
+Vallerødgade 12B,Rungsted Kyst,2960,7,167,1900,6000000.0,23-05-2015
+Solkrogen 18,Rungsted Kyst,2960,5,160,1952,100000.0,23-05-2015
+Hannebjergvej 10,Rungsted Kyst,2960,7,310,1913,8500000.0,21-05-2015
+Engvej 32,Rungsted Kyst,2960,8,268,1938,1852000.0,21-05-2015
+Sophienberg Vænge 58,Rungsted Kyst,2960,8,265,2009,11400000.0,20-05-2015
+Hestehaven 9,Rungsted Kyst,2960,5,145,1960,5935000.0,14-05-2015
+Sophienberg Vænge 49A,Rungsted Kyst,2960,4,107,1980,3650000.0,05-05-2015
+Engvej 17,Rungsted Kyst,2960,6,170,1975,5350000.0,03-05-2015
+Smidstrupørevej 3B,Rungsted Kyst,2960,7,218,1977,5000000.0,30-04-2015
+Lundingsvej 2,Rungsted Kyst,2960,6,146,1920,5700000.0,29-04-2015
+Pennehave 3B,Rungsted Kyst,2960,4,107,1982,2975000.0,28-04-2015
+Vestre Pennehavevej 7,Rungsted Kyst,2960,9,209,1899,5500000.0,23-04-2015
+Christiansgave 40,Rungsted Kyst,2960,4,115,1956,3386800.0,21-04-2015
+Ewaldsvej 16B,Rungsted Kyst,2960,6,228,1940,9900000.0,17-04-2015
+Sophienbergvej 49,Rungsted Kyst,2960,6,201,1978,5800000.0,16-04-2015
+Valdemarsvej 28,Rungsted Kyst,2960,8,200,1956,4600000.0,16-04-2015
+Bolbro Villavej 4,Rungsted Kyst,2960,6,184,1933,7800000.0,12-04-2015
+Solkrogen 3,Rungsted Kyst,2960,6,186,1962,5450000.0,08-04-2015
+Skovgrænsen 1,Rungsted Kyst,2960,5,172,1977,5795000.0,08-04-2015
+Bolbrovej 34B,Rungsted Kyst,2960,5,177,1961,5000000.0,31-03-2015
+Hulsø Ege 7,Rungsted Kyst,2960,3,116,1986,4375000.0,23-03-2015
+Rungsted Strandvej 65,Rungsted Kyst,2960,9,251,1917,10250000.0,23-03-2015
+Bolbro Villavej 15,Rungsted Kyst,2960,8,252,1907,10000000.0,19-03-2015
+Hulsøvang 2,Rungsted Kyst,2960,9,233,1917,8800000.0,17-03-2015
+Valdemarsvej 26,Rungsted Kyst,2960,5,144,1956,3167153.0,12-03-2015
+Sundtoften 9,Rungsted Kyst,2960,4,148,1978,4400000.0,07-03-2015
+Byskellet 2,Rungsted Kyst,2960,5,145,1960,3800000.0,04-03-2015
+Bolbrovænge 14,Rungsted Kyst,2960,7,225,1939,8000000.0,28-02-2015
+Strandvænget 3,Rungsted Kyst,2960,8,280,1954,4675000.0,26-02-2015
+Rungsted Strandvej 36B,Rungsted Kyst,2960,5,194,1936,5205000.0,25-02-2015
+Louise Park 5,Rungsted Kyst,2960,8,303,1973,6000000.0,18-02-2015
+Kildevej 32,Rungsted Kyst,2960,6,194,1999,5200000.0,17-02-2015
+Løvvænget 7,Rungsted Kyst,2960,6,231,2017,4400000.0,10-02-2015
+Sømandshvile Park 31,Rungsted Kyst,2960,5,173,1984,5175000.0,30-01-2015
+Engvej 37B,Rungsted Kyst,2960,5,183,1974,4400000.0,22-01-2015
+Ewaldsvej 9,Rungsted Kyst,2960,8,200,1938,8500000.0,22-01-2015
+Gl Vallerødvej 26,Rungsted Kyst,2960,7,137,1927,4200000.0,22-01-2015
+Bolbrovej 102,Rungsted Kyst,2960,4,120,1943,2800000.0,20-01-2015
+Bolbrovænge 1,Rungsted Kyst,2960,4,211,1956,8020000.0,15-01-2015
+Christiansgave 13,Rungsted Kyst,2960,5,130,1956,3500000.0,14-01-2015
+Enghave 19,Rungsted Kyst,2960,5,192,1943,7995000.0,11-01-2015
+Kildevej 31,Rungsted Kyst,2960,7,179,1962,4700000.0,08-01-2015
+Højskolevej 12,Rungsted Kyst,2960,4,97,1900,2800000.0,18-12-2014
+Sophienbergvej 9,Rungsted Kyst,2960,8,194,1949,6325000.0,17-12-2014
+Birkedalen 20,Rungsted Kyst,2960,5,110,1963,2800000.0,15-12-2014
+Rungsted Strandvej 50,Rungsted Kyst,2960,6,165,1969,4775000.0,10-12-2014
+Piniehøj 7,Rungsted Kyst,2960,4,215,1960,8000000.0,01-12-2014
+Bukkeballevej 19B,Rungsted Kyst,2960,9,214,1915,6050000.0,25-11-2014
+Sømandshvilevej 31,Rungsted Kyst,2960,4,155,1984,4570000.0,19-11-2014
+Hestehaven 5,Rungsted Kyst,2960,5,161,1959,3800000.0,19-11-2014
+Bolbro Villavej 7B,Rungsted Kyst,2960,6,187,1965,7850000.0,14-11-2014
+Hannelundsvej 6,Rungsted Kyst,2960,7,177,1955,5900000.0,11-11-2014
+Engvej 27,Rungsted Kyst,2960,7,240,1959,3400000.0,08-11-2014
+Rungsted Strandvej 83,Rungsted Kyst,2960,4,183,1917,5200000.0,24-10-2014
+Bolbrohøj 12,Rungsted Kyst,2960,7,220,1975,6350000.0,21-10-2014
+Rungsted Strandvej 171,Rungsted Kyst,2960,6,207,1920,8600000.0,09-10-2014
+Fuglevangsvej 8B,Rungsted Kyst,2960,6,271,1980,8035000.0,06-10-2014
+Sophienberg Vænge 29,Rungsted Kyst,2960,6,220,1980,6225000.0,29-09-2014
+Pennehave 3D,Rungsted Kyst,2960,4,107,1982,2600000.0,19-09-2014
+Svendsvej 8B,Rungsted Kyst,2960,6,163,1970,4425000.0,18-09-2014
+"Vallerød Banevej 22B, ST",Rungsted Kyst,2960,5,199,1902,4000000.0,16-09-2014
+Christiansgave 27,Rungsted Kyst,2960,4,115,1956,3825000.0,11-09-2014
+Ewaldsvej 12,Rungsted Kyst,2960,7,196,1931,9000000.0,11-09-2014
+"Ulvemosen 10, ST",Rungsted Kyst,2960,3,100,1981,3750000.0,10-09-2014
+Constantiaparken 18,Rungsted Kyst,2960,4,134,1970,4051000.0,04-09-2014
+Bel Colles Alle 8D,Rungsted Kyst,2960,23,662,1900,18400000.0,03-09-2014
+Bukkeballevej 15A,Rungsted Kyst,2960,6,245,1917,5650000.0,01-09-2014
+Ved Hegnet 24,Rungsted Kyst,2960,5,259,2016,5000000.0,27-08-2014
+Kildevej 16,Rungsted Kyst,2960,6,177,2001,5750000.0,27-08-2014
+Sophienbergvej 39,Rungsted Kyst,2960,6,220,1978,5700000.0,26-08-2014
+Constantiavej 11,Rungsted Kyst,2960,5,180,1970,2600000.0,19-08-2014
+Vallerødvænge 9,Rungsted Kyst,2960,4,115,1984,3800000.0,14-08-2014
+"Ewalds Have 6, ST. TH",Rungsted Kyst,2960,3,113,1978,3950000.0,11-08-2014
+Piet Heins Vej 4,Rungsted Kyst,2960,4,137,2002,6775000.0,10-08-2014
+Enghave 31,Rungsted Kyst,2960,5,152,1931,4225000.0,09-08-2014
+Sundkrogen 12,Rungsted Kyst,2960,8,226,1958,7750000.0,18-07-2014
+Enghave 22,Rungsted Kyst,2960,6,170,1939,4900000.0,18-07-2014
+Dreyersvej 26,Rungsted Kyst,2960,7,251,2016,7500000.0,17-07-2014
+Sømandshvile Park 25,Rungsted Kyst,2960,4,173,1984,5200000.0,13-07-2014
+Helleholm 3,Rungsted Kyst,2960,5,152,1977,3850000.0,10-07-2014
+Rungsted Strandvej 169A,Rungsted Kyst,2960,5,152,1935,5250000.0,09-07-2014
+Christiansgave 35,Rungsted Kyst,2960,4,107,1956,5495000.0,04-07-2014
+Helenevej 7,Rungsted Kyst,2960,6,202,1917,2711000.0,03-07-2014
+"Rungsted Bytorv 9, 2. 38",Rungsted Kyst,2960,2,69,1994,1300000.0,30-06-2014
+Bolbrovej 109,Rungsted Kyst,2960,5,154,1950,4725000.0,27-06-2014
+Ewaldsvej 7,Rungsted Kyst,2960,14,378,1957,11000000.0,27-06-2014
+Strandvænget 15,Rungsted Kyst,2960,4,160,2002,5695000.0,24-06-2014
+Hannelundsvej 16,Rungsted Kyst,2960,6,324,2015,4800000.0,20-06-2014
+Bel Colle Parken 12,Rungsted Kyst,2960,4,152,1999,4700000.0,19-06-2014
+Constantiaparken 14,Rungsted Kyst,2960,5,170,1969,3700000.0,19-06-2014
+Bolbrovej 61,Rungsted Kyst,2960,7,300,1913,9000000.0,12-06-2014
+Bukkeballevej 46B,Rungsted Kyst,2960,6,161,1906,2967481.0,11-06-2014
+"Pennehave 5, 1",Rungsted Kyst,2960,3,88,1926,586500.0,10-06-2014
+Strandvænget 28,Rungsted Kyst,2960,6,197,1956,6555000.0,10-06-2014
+Gl Vallerødvej 17,Rungsted Kyst,2960,7,240,1916,6300000.0,10-06-2014
+Bolbro Villavej 26,Rungsted Kyst,2960,6,132,1952,3300000.0,09-06-2014
+Kildevej 2A,Rungsted Kyst,2960,6,192,1943,6475000.0,08-06-2014
+Louis Petersensvej 1,Rungsted Kyst,2960,9,289,1923,6850000.0,27-05-2014
+Gl Vallerødvej 21,Rungsted Kyst,2960,6,136,1967,4425000.0,23-05-2014
+Vallerød Banevej 14E,Rungsted Kyst,2960,6,176,1981,4675000.0,19-05-2014
+Vallerød Park 3,Rungsted Kyst,2960,6,189,1963,4875000.0,19-05-2014
+Louise Park 24,Rungsted Kyst,2960,4,174,1976,5700000.0,15-05-2014
+Dreyersvej 8,Rungsted Kyst,2960,7,301,1901,8500000.0,08-05-2014
+Rungsted Strandvej 102,Rungsted Kyst,2960,7,193,1896,9900000.0,07-05-2014
+Strandvænget 41,Rungsted Kyst,2960,8,224,1952,8000000.0,03-05-2014
+"Vestre Stationsvej 1, 3. TV",Rungsted Kyst,2960,3,84,1936,1450000.0,27-04-2014
+Fuglevangsvej 4B,Rungsted Kyst,2960,8,228,1981,3500000.0,25-04-2014
+Østre Pennehavevej 1B,Rungsted Kyst,2960,3,76,1986,2200000.0,22-04-2014
+Dreyersvej 31,Rungsted Kyst,2960,6,228,1984,6500000.0,13-04-2014
+Østre Pennehavevej 7,Rungsted Kyst,2960,7,250,1920,10500000.0,08-04-2014
+Højagervej 24,Rungsted Kyst,2960,8,233,1969,6650000.0,04-04-2014
+Bel Colles Alle 2D,Rungsted Kyst,2960,7,261,1897,5950000.0,02-04-2014
+Strandvænget 29,Rungsted Kyst,2960,4,138,1959,5400000.0,01-04-2014
+Sanskevej 15B,Rungsted Kyst,2960,5,166,2013,6200000.0,28-03-2014
+Bel Colle Parken 13,Rungsted Kyst,2960,4,142,1999,4700000.0,27-03-2014
+Christiansgave 25,Rungsted Kyst,2960,4,128,1956,3225000.0,17-03-2014
+Parkvej 8,Rungsted Kyst,2960,2,90,1952,4400000.0,10-03-2014
+Rungstedvej 119,Rungsted Kyst,2960,8,201,1918,3187500.0,10-03-2014
+Kildevej 4A,Rungsted Kyst,2960,8,282,1944,6950000.0,05-03-2014
+Vallerød Banevej 5A,Rungsted Kyst,2960,7,208,1917,900000.0,28-02-2014
+Sophienbergvej 31,Rungsted Kyst,2960,6,202,1978,3062500.0,26-02-2014
+Drosselvej 13,Rungsted Kyst,2960,9,227,1954,7000000.0,25-02-2014
+Christiansgave 10,Rungsted Kyst,2960,4,115,1956,3850000.0,17-02-2014
+Rungsted Strandvej 108,Rungsted Kyst,2960,4,303,2002,22400000.0,13-02-2014
+Vallerød Banevej 14B,Rungsted Kyst,2960,5,226,1985,4400000.0,07-02-2014
+Rungstedvej 58,Rungsted Kyst,2960,7,204,1974,4725000.0,05-02-2014
+Hulsøvang 29,Rungsted Kyst,2960,5,145,1957,4600000.0,30-01-2014
+Piet Heins Vej 7,Rungsted Kyst,2960,3,175,2002,8775000.0,30-01-2014
+Rungsted Strandvej 69C,Rungsted Kyst,2960,5,135,1960,5700000.0,30-01-2014
+Rungstedvej 111,Rungsted Kyst,2960,8,182,1927,7600000.0,27-01-2014
+Vallerød Banevej 50,Rungsted Kyst,2960,4,127,1972,4250000.0,24-01-2014
+Vallerødvænge 17,Rungsted Kyst,2960,6,150,1985,5250000.0,15-01-2014
+Engvej 14,Rungsted Kyst,2960,6,179,1976,5780000.0,14-01-2014
+Højagervej 4B,Rungsted Kyst,2960,6,259,2008,10600000.0,12-01-2014
+Kildevej 34,Rungsted Kyst,2960,6,194,1999,5175000.0,08-01-2014
+Bolbrovej 33,Rungsted Kyst,2960,4,146,1948,6250000.0,19-12-2013
+Constantiavej 1,Rungsted Kyst,2960,5,190,1970,4075000.0,18-12-2013
+Thyrasvej 12,Rungsted Kyst,2960,6,178,1971,4550000.0,18-12-2013
+Bukkeballevej 40B,Rungsted Kyst,2960,4,100,1970,174000.0,12-12-2013
+"Pennehave 7, 1",Rungsted Kyst,2960,4,126,1929,2425000.0,09-12-2013
+Lange-Müllers Alle 27,Rungsted Kyst,2960,5,179,1975,4750000.0,04-12-2013
+Smidstrupørevej 5,Rungsted Kyst,2960,6,286,1975,7000000.0,03-12-2013
+Bukkeballevej 1B,Rungsted Kyst,2960,7,232,1933,200000.0,26-11-2013
+Pennehave 13,Rungsted Kyst,2960,8,268,1885,7150000.0,26-11-2013
+Dreyersvej 13,Rungsted Kyst,2960,9,360,1977,6100000.0,25-11-2013
+Pennehave 3A,Rungsted Kyst,2960,4,110,1982,2550000.0,24-11-2013
+Birgitte Gøyes Vej 2,Rungsted Kyst,2960,6,157,1975,5350000.0,17-11-2013
+"Ulvemosen 4, 1. TV",Rungsted Kyst,2960,4,144,1981,4200000.0,09-11-2013
+Vallerødgade 6D,Rungsted Kyst,2960,4,259,1777,8000000.0,06-11-2013
+Kirkevej 3,Rungsted Kyst,2960,8,280,1979,5815000.0,03-11-2013
+Vallerød Banevej 34,Rungsted Kyst,2960,5,95,1934,5550000.0,03-11-2013
+Ewaldsvej 26,Rungsted Kyst,2960,5,224,1985,6000000.0,01-11-2013
+Bolbrohøj 10,Rungsted Kyst,2960,4,219,1974,4750000.0,28-10-2013
+Rungsted Strandvej 209,Rungsted Kyst,2960,4,229,1957,7000000.0,24-10-2013
+"Ewalds Have 6, 1. TH",Rungsted Kyst,2960,3,113,1978,4000000.0,22-10-2013
+Vallerød Banevej 30,Rungsted Kyst,2960,8,267,1928,6900000.0,21-10-2013
+Bolbrovænge 45,Rungsted Kyst,2960,6,278,2010,8100000.0,16-10-2013
+Ewaldsvej 30,Rungsted Kyst,2960,11,252,1961,2075000.0,16-10-2013
+Karen Blixens Vej 13,Rungsted Kyst,2960,6,186,1986,4995000.0,10-10-2013
+Bukkeballevej 14,Rungsted Kyst,2960,6,155,1957,9500000.0,30-09-2013
+Vallerødgade 16B,Rungsted Kyst,2960,10,347,1712,8400000.0,27-09-2013
+Christiansgave 26,Rungsted Kyst,2960,4,138,1956,3800000.0,27-09-2013
+Helenevej 1,Rungsted Kyst,2960,5,193,1918,6100000.0,26-09-2013
+Lange-Müllers Alle 10,Rungsted Kyst,2960,6,196,1974,5450000.0,23-09-2013
+Bel Colle Parken 11,Rungsted Kyst,2960,4,142,1999,4620000.0,20-09-2013
+Rungstedvej 55,Rungsted Kyst,2960,7,149,1918,2100000.0,19-09-2013
+Sophienbergvej 21,Rungsted Kyst,2960,6,228,1978,6900000.0,06-09-2013
+"Ewalds Have 4, 1. TH",Rungsted Kyst,2960,3,113,1978,4000000.0,30-08-2013
+Helleholm 11,Rungsted Kyst,2960,5,152,1977,5000000.0,27-08-2013
+Højskolevej 5A,Rungsted Kyst,2960,5,148,1924,5050000.0,23-08-2013
+Hulsøvang 9B,Rungsted Kyst,2960,6,171,1934,5575000.0,08-08-2013
+Linstowsvej 5,Rungsted Kyst,2960,4,168,1875,6000000.0,05-08-2013
+"Rungsted Bytorv 9, 2. 37",Rungsted Kyst,2960,2,74,1994,1525000.0,05-08-2013
+"Bolbro Villavej 2B, ST. TV",Rungsted Kyst,2960,4,112,1978,3355000.0,02-08-2013
+Østre Pennehavevej 1A,Rungsted Kyst,2960,3,77,1986,2700000.0,01-08-2013
+Ewaldsvej 11,Rungsted Kyst,2960,8,190,1930,8000000.0,31-07-2013
+Constantiaparken 24,Rungsted Kyst,2960,7,183,1970,4400000.0,23-07-2013
+Rungstedvej 107,Rungsted Kyst,2960,7,221,1937,2270000.0,23-07-2013
+Østre Pennehavevej 23,Rungsted Kyst,2960,5,162,1959,4000000.0,14-07-2013
+Thyrasvej 1,Rungsted Kyst,2960,4,127,1973,3233750.0,04-07-2013
+"Højskolevej 16, 1",Rungsted Kyst,2960,5,154,1896,3495000.0,02-07-2013
+Ewaldsvej 17,Rungsted Kyst,2960,6,188,1929,4650000.0,02-07-2013
+Kirkevej 2A,Rungsted Kyst,2960,4,156,1988,5600000.0,30-06-2013
+Bukkeballevej 4A,Rungsted Kyst,2960,6,243,2009,8700000.0,28-06-2013
+Solvænget 18,Rungsted Kyst,2960,7,171,1943,9250000.0,19-06-2013
+Louise Park 16,Rungsted Kyst,2960,7,267,1974,7350000.0,18-06-2013
+Blochs Vænge 1,Rungsted Kyst,2960,6,169,1967,4250000.0,13-06-2013
+Sømandshvilevej 33,Rungsted Kyst,2960,4,155,1984,4150000.0,06-06-2013
+Margrethevej 12,Rungsted Kyst,2960,6,152,1934,6000000.0,29-05-2013
+Vallerødgade 10,Rungsted Kyst,2960,6,135,1963,2550000.0,27-05-2013
+Sophienbergvej 14,Rungsted Kyst,2960,5,226,2015,5250000.0,27-05-2013
+Bolbrovej 49,Rungsted Kyst,2960,13,338,1916,10000000.0,24-05-2013
+Kildevej 14,Rungsted Kyst,2960,6,190,1973,4200000.0,22-05-2013
+Bøgebakken 2,Rungsted Kyst,2960,4,192,1969,3400000.0,21-05-2013
+Bolbrohøj 2,Rungsted Kyst,2960,5,168,1971,4435000.0,20-05-2013
+Vallerødgade 4B,Rungsted Kyst,2960,7,257,1977,6000000.0,09-05-2013
+Gormsvej 5,Rungsted Kyst,2960,6,171,1970,3675000.0,30-04-2013
+Rungstedvej 52,Rungsted Kyst,2960,6,220,1963,3750000.0,30-04-2013
+Bukkeballevej 51A,Rungsted Kyst,2960,8,379,1934,9450000.0,29-04-2013
+Bolbrovej 77,Rungsted Kyst,2960,5,122,1917,4150000.0,26-04-2013
+Rungsted Strandvej 47A,Rungsted Kyst,2960,6,300,2015,3600000.0,26-04-2013
+Skovridervej 2,Rungsted Kyst,2960,8,236,1977,6000000.0,20-04-2013
+Karen Blixens Vej 19,Rungsted Kyst,2960,5,154,1986,4675000.0,17-04-2013
+Bukkeballevej 3A,Rungsted Kyst,2960,8,366,1924,6875000.0,02-04-2013
+Nøddehegnet 5,Rungsted Kyst,2960,6,153,1968,5075000.0,22-03-2013
+Hulsøvang 31,Rungsted Kyst,2960,7,249,1952,8200000.0,21-03-2013
+Bolbrovænge 37A,Rungsted Kyst,2960,4,206,1973,6025000.0,21-03-2013
+Dreyersvej 33,Rungsted Kyst,2960,5,154,1953,6750000.0,19-03-2013
+Piniehøj 13,Rungsted Kyst,2960,4,126,1960,11200000.0,16-03-2013
+Solkrogen 7,Rungsted Kyst,2960,9,179,1953,7900000.0,14-03-2013
+Højagervej 2,Rungsted Kyst,2960,10,344,1902,20000000.0,08-03-2013
+Vestre Pennehavevej 3B,Rungsted Kyst,2960,5,206,1898,4850000.0,05-03-2013
+Solvænget 26,Rungsted Kyst,2960,6,215,1971,7000000.0,27-02-2013
+Rungsted Strandvej 151,Rungsted Kyst,2960,5,274,1896,10550000.0,22-02-2013
+Hulsøvang 5,Rungsted Kyst,2960,8,240,1929,9150000.0,10-02-2013
+Bel Colles Alle 8C,Rungsted Kyst,2960,8,310,1930,7260000.0,10-02-2013
+Bolbro Villavej 3,Rungsted Kyst,2960,9,249,1899,11375000.0,01-02-2013
+Hannelundsvej 1A,Rungsted Kyst,2960,4,160,1991,4840000.0,31-01-2013
+"Rungsted Bytorv 2, 2. 22",Rungsted Kyst,2960,2,66,1994,1040000.0,28-01-2013
+Højskolevej 23,Rungsted Kyst,2960,3,93,1936,3400000.0,27-01-2013
+Enghave 21A,Rungsted Kyst,2960,6,165,1935,7150000.0,24-01-2013
+"Bolbrovej 84A, ST",Rungsted Kyst,2960,2,124,1917,2150000.0,22-01-2013
+Skovridervej 7,Rungsted Kyst,2960,6,162,1977,2750000.0,16-01-2013
+Vallerødvænge 11,Rungsted Kyst,2960,5,140,1981,4345000.0,08-01-2013
+Sundtoften 3,Rungsted Kyst,2960,4,133,1977,4900000.0,14-12-2012
+Boganisvej 1,Rungsted Kyst,2960,4,198,1972,5675000.0,12-12-2012
+Bukkeballevej 80,Rungsted Kyst,2960,5,136,1935,2850000.0,30-11-2012
+Sophienbergvej 3,Rungsted Kyst,2960,6,210,1935,7075000.0,27-11-2012
+Piet Heins Vej 26,Rungsted Kyst,2960,3,134,2002,5275000.0,22-11-2012
+Bukkeballevej 51B,Rungsted Kyst,2960,6,193,2002,5650000.0,20-11-2012
+Strandbjerg 1A,Rungsted Kyst,2960,5,217,1900,7995000.0,19-11-2012
+Gormsvej 6,Rungsted Kyst,2960,6,153,1972,4375000.0,17-11-2012
+Louise Park 12,Rungsted Kyst,2960,4,184,1974,6250000.0,12-11-2012
+Ulvemosevej 4,Rungsted Kyst,2960,10,330,1904,10750000.0,09-11-2012
+Vallerødgade 20,Rungsted Kyst,2960,4,109,1937,3295000.0,21-10-2012
+Bolbrovej 32,Rungsted Kyst,2960,5,153,1955,4325000.0,15-10-2012
+Birkedalen 12,Rungsted Kyst,2960,5,110,1962,3050000.0,09-10-2012
+Sophienberg Vænge 56,Rungsted Kyst,2960,4,154,1973,4525000.0,05-10-2012
+Rungsted Strandvej 181A,Rungsted Kyst,2960,6,256,1959,9250000.0,04-10-2012
+Sanskevej 11,Rungsted Kyst,2960,7,228,1917,4860000.0,03-10-2012
+Bolbro Villavej 15A,Rungsted Kyst,2960,6,263,2014,3700000.0,03-10-2012
+Rungsted Strandvej 36A,Rungsted Kyst,2960,9,357,1936,5850000.0,01-10-2012
+Pennehave 3H,Rungsted Kyst,2960,4,108,1982,2525000.0,23-09-2012
+Kirkevej 4,Rungsted Kyst,2960,14,503,1919,12500000.0,21-09-2012
+Christiansgave 36,Rungsted Kyst,2960,4,133,1956,8600000.0,13-09-2012
+Rungsted Strandvej 62B,Rungsted Kyst,2960,13,638,1903,26500000.0,10-09-2012
+"Rungsted Bytorv 9, 2. 30",Rungsted Kyst,2960,2,66,1994,1095000.0,03-09-2012
+Bukkeballevej 11A,Rungsted Kyst,2960,8,271,1904,6800000.0,31-08-2012
+"Rungstedvej 87, ST",Rungsted Kyst,2960,4,154,1915,3000000.0,31-08-2012
+Birkedalen 5,Rungsted Kyst,2960,6,97,1963,5000000.0,31-08-2012
+Piniehøj 19,Rungsted Kyst,2960,6,186,1962,11500000.0,30-08-2012
+Sømandshvilevej 9,Rungsted Kyst,2960,4,125,1984,3200000.0,23-08-2012
+Bolbrovej 27A,Rungsted Kyst,2960,3,119,1955,4075000.0,17-08-2012
+Kildevej 19,Rungsted Kyst,2960,5,178,1937,5800000.0,22-07-2012
+Sømandshvile Park 3,Rungsted Kyst,2960,4,155,1984,4650000.0,20-07-2012
+"Ulvemosen 8, 1. TH",Rungsted Kyst,2960,3,104,1981,2995000.0,15-07-2012
+Dreyersvej 3,Rungsted Kyst,2960,4,103,1951,4750000.0,08-07-2012
+Solvænget 6,Rungsted Kyst,2960,7,228,1965,7525000.0,04-07-2012
+Sophienbergvej 16,Rungsted Kyst,2960,5,145,1952,4700000.0,02-07-2012
+Karen Blixens Vej 29,Rungsted Kyst,2960,5,179,1986,4725000.0,01-07-2012
+Bukkeballevej 42B,Rungsted Kyst,2960,4,230,1915,4800000.0,27-06-2012
+Engvej 25,Rungsted Kyst,2960,5,161,1958,4825000.0,26-06-2012
+Rungstedvej 95,Rungsted Kyst,2960,7,241,1978,3261097.0,26-06-2012
+Boganisvej 11,Rungsted Kyst,2960,7,231,1971,5500000.0,24-06-2012
+Skovfogedvej 2,Rungsted Kyst,2960,7,239,1978,5900000.0,24-06-2012
+Ved Hegnet 2,Rungsted Kyst,2960,6,113,1935,3825000.0,22-06-2012
+"Rungstedvej 74, 3. TH",Rungsted Kyst,2960,5,164,1936,4575000.0,19-06-2012
+Bukkeballevej 1A,Rungsted Kyst,2960,7,141,1923,2960000.0,11-06-2012
+Christiansgave 44,Rungsted Kyst,2960,4,135,1956,5400000.0,29-05-2012
+"Vestre Stationsvej 1, 4. TV",Rungsted Kyst,2960,3,84,1936,1875000.0,23-05-2012
+"Ewalds Have 6, 1. TV",Rungsted Kyst,2960,2,96,1978,2215000.0,23-05-2012
+Gl Vallerødvej 31B,Rungsted Kyst,2960,6,189,2005,5100000.0,22-05-2012
+Skovfogedvej 6,Rungsted Kyst,2960,5,138,1977,5100000.0,21-05-2012
+Bolbrovej 46,Rungsted Kyst,2960,5,128,1949,3400000.0,13-05-2012
+Rungsted Strandvej 217A,Rungsted Kyst,2960,4,127,1954,2084160.0,11-05-2012
+Vestre Pennehavevej 5,Rungsted Kyst,2960,7,163,1898,4500000.0,09-05-2012
+Rungsted Strandvej 217B,Rungsted Kyst,2960,4,118,1954,2084160.0,03-05-2012
+"Ewalds Have 4, 1. TV",Rungsted Kyst,2960,2,96,1978,3000000.0,01-05-2012
+Sundkrogen 6,Rungsted Kyst,2960,6,215,1962,8400000.0,30-04-2012
+Bolbrovej 24A,Rungsted Kyst,2960,4,170,1986,4500000.0,25-04-2012
+Vallerød Banevej 17,Rungsted Kyst,2960,8,260,1907,6950000.0,24-04-2012
+Bukkeballevej 53B,Rungsted Kyst,2960,4,136,1979,3250000.0,17-04-2012
+Hulsøvang 25,Rungsted Kyst,2960,8,230,1950,6300000.0,13-04-2012
+Christiansgave 11,Rungsted Kyst,2960,4,115,1956,3740000.0,10-04-2012
+Højagervej 6,Rungsted Kyst,2960,6,172,1938,6950000.0,25-03-2012
+Bolbrovej 97,Rungsted Kyst,2960,4,112,1970,3310000.0,23-03-2012
+Bolbrovænge 31,Rungsted Kyst,2960,7,348,2014,7000000.0,16-03-2012
+Thyrasvej 13,Rungsted Kyst,2960,5,145,1971,3375000.0,15-03-2012
+Bukkeballevej 6,Rungsted Kyst,2960,9,394,1907,14250000.0,14-03-2012
+Fuglevangsvej 8A,Rungsted Kyst,2960,7,250,1980,6500000.0,02-03-2012
+Christiansgave 29,Rungsted Kyst,2960,6,134,1956,3500000.0,08-02-2012
+Louis Petersensvej 20,Rungsted Kyst,2960,6,206,1998,5600000.0,06-02-2012
+Kildevej 6,Rungsted Kyst,2960,7,176,1969,4325000.0,27-01-2012
+Bolbro Sidevej 5A,Rungsted Kyst,2960,5,131,1900,3600000.0,27-01-2012
+"Ewalds Have 10, 1. TV",Rungsted Kyst,2960,4,129,1978,3900000.0,26-01-2012
+Svendsvej 11B,Rungsted Kyst,2960,6,168,1988,2562500.0,24-01-2012
+Bukkeballevej 44A,Rungsted Kyst,2960,6,184,1996,4750000.0,23-01-2012
+Sophienberg Vænge 52,Rungsted Kyst,2960,4,95,1954,2200000.0,20-01-2012
+Lange-Müllers Alle 30,Rungsted Kyst,2960,6,251,1979,8750000.0,10-01-2012
+"Pennehave 5, 2",Rungsted Kyst,2960,1,45,1926,365500.0,03-01-2012
+Svendsvej 1B,Rungsted Kyst,2960,7,208,1924,8100000.0,01-01-2012
+Bukkeballevej 5,Rungsted Kyst,2960,7,259,1918,4350000.0,23-12-2011
+Rungsted Strandvej 169B,Rungsted Kyst,2960,14,514,1900,12000000.0,22-12-2011
+Dreyersvej 37,Rungsted Kyst,2960,5,134,1938,4500000.0,22-12-2011
+Hestehaven 19,Rungsted Kyst,2960,4,119,1960,1859972.0,16-12-2011
+Bolbrovej 85,Rungsted Kyst,2960,5,157,1938,2171000.0,15-12-2011
+Hulsøvang 1D,Rungsted Kyst,2960,5,153,1961,3550000.0,15-12-2011
+Gormsvej 7,Rungsted Kyst,2960,5,171,1970,3600000.0,12-12-2011
+Solkrogen 10,Rungsted Kyst,2960,4,262,2013,5625000.0,11-12-2011
+Strandvænget 13,Rungsted Kyst,2960,6,241,2013,3300000.0,01-12-2011
+Vestre Pennehavevej 1A,Rungsted Kyst,2960,6,190,1925,4400000.0,28-11-2011
+Østre Stationsvej 13,Rungsted Kyst,2960,4,114,1910,1750000.0,25-11-2011
+Engvej 20A,Rungsted Kyst,2960,5,201,1968,2040000.0,20-11-2011
+Løvvænget 6,Rungsted Kyst,2960,5,204,2013,5755000.0,17-11-2011
+Vallerødgade 19B,Rungsted Kyst,2960,9,345,1950,4750000.0,08-11-2011
+"Rungsted Bytorv 9, 1. 34",Rungsted Kyst,2960,2,74,1994,2495000.0,25-10-2011
+Hestehaven 23,Rungsted Kyst,2960,3,105,1962,2500000.0,21-10-2011
+Bolbrovænge 8,Rungsted Kyst,2960,6,132,1933,7000000.0,17-10-2011
+Østre Stationsvej 23,Rungsted Kyst,2960,4,118,1910,2150000.0,14-10-2011
+Dreyersvej 43,Rungsted Kyst,2960,5,139,1959,6100000.0,12-10-2011
+Valdemarsvej 15,Rungsted Kyst,2960,6,225,1938,6100000.0,10-10-2011
+Rungsted Strandvej 60,Rungsted Kyst,2960,3,132,1921,5000000.0,06-10-2011
+Bolbrovej 56,Rungsted Kyst,2960,5,185,1991,3820000.0,30-09-2011
+Esbern Snares Vej 2,Rungsted Kyst,2960,5,141,1971,4195000.0,23-09-2011
+Vallerød Banevej 36,Rungsted Kyst,2960,6,170,1935,5850000.0,23-09-2011
+Christiansgave 39,Rungsted Kyst,2960,3,131,2012,8200000.0,22-09-2011
+Pennehave 3E,Rungsted Kyst,2960,4,107,1982,2400000.0,21-09-2011
+Rungsted Strandvej 205,Rungsted Kyst,2960,6,263,1954,9250000.0,16-09-2011
+Solvænget 1,Rungsted Kyst,2960,6,296,1973,1938000.0,09-09-2011
+Vallerød Park 2B,Rungsted Kyst,2960,4,143,1992,3820000.0,07-09-2011
+"Pennehave 7, 2",Rungsted Kyst,2960,4,109,1929,2100000.0,06-09-2011
+Dreyersvej 45,Rungsted Kyst,2960,7,258,2013,7188888.0,04-09-2011
+Bukkeballevej 46A,Rungsted Kyst,2960,6,140,1958,4600000.0,29-08-2011
+Præstevænget 3,Rungsted Kyst,2960,7,175,1958,5000000.0,24-08-2011
+Solbakkevej 5,Rungsted Kyst,2960,8,246,2013,3350000.0,24-08-2011
+Margrethevej 14,Rungsted Kyst,2960,6,163,1937,4900000.0,15-07-2011
+Piet Heins Vej 12,Rungsted Kyst,2960,3,134,2002,5300000.0,15-07-2011
+Ewaldsvej 6,Rungsted Kyst,2960,9,279,1934,9050000.0,09-07-2011
+Sanskevej 15C,Rungsted Kyst,2960,6,175,1927,4400000.0,01-07-2011
+Sophienbergvej 32,Rungsted Kyst,2960,8,192,1978,5600000.0,28-06-2011
+Rungsted Strandvej 66,Rungsted Kyst,2960,3,181,2015,11500000.0,10-06-2011
+Vallerød Banevej 19D,Rungsted Kyst,2960,4,161,1964,2650000.0,08-06-2011
+Hulsøvang 22,Rungsted Kyst,2960,4,127,1956,4310000.0,06-06-2011
+Vallerødgade 34B,Rungsted Kyst,2960,7,184,1951,4800000.0,01-06-2011
+Ved Hegnet 20B,Rungsted Kyst,2960,6,177,1996,5950000.0,13-05-2011
+"Vallerød Banevej 20, ST",Rungsted Kyst,2960,5,170,1907,5450000.0,13-05-2011
+Engvej 43,Rungsted Kyst,2960,5,122,1960,4860000.0,05-05-2011
+Rungsted Strandvej 183,Rungsted Kyst,2960,3,228,2009,25000000.0,27-04-2011
+Piniehøj 14,Rungsted Kyst,2960,3,207,1960,13410000.0,16-04-2011
+Solkrogen 5,Rungsted Kyst,2960,5,174,2009,8775000.0,31-03-2011
+Præstevænget 8,Rungsted Kyst,2960,4,106,1958,2450000.0,22-03-2011
+Bukkeballevej 48A,Rungsted Kyst,2960,8,213,1908,5410000.0,16-03-2011
+Hulsø Ege 5,Rungsted Kyst,2960,4,156,1986,5600000.0,13-03-2011
+Gl Vallerødvej 23,Rungsted Kyst,2960,6,313,2013,3900000.0,03-03-2011
+Louise Park 3,Rungsted Kyst,2960,7,262,1980,7150000.0,10-02-2011
+Constantiavej 17,Rungsted Kyst,2960,4,135,1970,3750000.0,05-02-2011
+Solbrinken 9,Rungsted Kyst,2960,6,231,1970,7100000.0,03-02-2011
+"Ulvemosen 18, ST",Rungsted Kyst,2960,3,100,1981,3600000.0,05-01-2011
+Bolbrovej 50A,Rungsted Kyst,2960,6,236,2012,2700000.0,17-12-2010
+Valdemarsvej 13,Rungsted Kyst,2960,6,221,2011,4250000.0,08-12-2010
+Vallerødvænge 4,Rungsted Kyst,2960,5,228,1880,7300000.0,07-12-2010
+Ulvemosen 12,Rungsted Kyst,2960,3,96,1981,3250000.0,03-12-2010
+Solvænget 19,Rungsted Kyst,2960,6,181,1956,6200000.0,25-11-2010
+Louise Park 19,Rungsted Kyst,2960,7,239,1975,8275000.0,25-11-2010
+Christiansgave 46,Rungsted Kyst,2960,4,136,1956,5000000.0,09-11-2010
+Sanskevej 15D,Rungsted Kyst,2960,5,182,2013,6985000.0,08-11-2010
+"Ewalds Have 8, ST. TH",Rungsted Kyst,2960,3,113,1978,3700000.0,01-11-2010
+Dreyersvej 15,Rungsted Kyst,2960,5,136,1911,1890260.0,29-10-2010
+Sophienberg Vænge 15,Rungsted Kyst,2960,7,206,2012,3525000.0,27-10-2010
+Christiansgave 48,Rungsted Kyst,2960,6,183,1956,12000000.0,26-10-2010
+Parkvej 1,Rungsted Kyst,2960,5,151,1918,5200000.0,22-10-2010
+Sundtoften 7,Rungsted Kyst,2960,5,199,1992,6400000.0,20-10-2010
+Vallerød Banevej 9C,Rungsted Kyst,2960,7,207,1973,5867000.0,22-09-2010
+Hannebjergvej 6,Rungsted Kyst,2960,5,181,1963,6500000.0,21-09-2010
+Langebakken 11,Rungsted Kyst,2960,10,387,1976,45500000.0,11-09-2010
+Sanskevej 1,Rungsted Kyst,2960,7,192,1925,4350000.0,08-09-2010
+Ved Hegnet 26,Rungsted Kyst,2960,7,206,2006,7000000.0,07-09-2010
+Frihedsvej 10,Rungsted Kyst,2960,7,270,1900,5150000.0,17-08-2010
+Christiansgave 2,Rungsted Kyst,2960,5,115,1956,3750000.0,15-08-2010
+Sophienberg Vænge 45,Rungsted Kyst,2960,7,157,1960,5475000.0,06-08-2010
+Vestre Pennehavevej 4,Rungsted Kyst,2960,5,134,1922,3500000.0,23-07-2010
+"Ewalds Have 2, 1. TH",Rungsted Kyst,2960,3,113,1978,7100000.0,22-07-2010
+Dreyersvej 2,Rungsted Kyst,2960,5,245,1964,14150000.0,22-07-2010
+Margrethevej 2,Rungsted Kyst,2960,6,128,1925,4750000.0,08-07-2010
+Sophienberg Vænge 53,Rungsted Kyst,2960,6,159,1969,6010000.0,02-07-2010
+Christiansgave 21,Rungsted Kyst,2960,5,115,1956,4025000.0,01-07-2010
+Birkedalen 10,Rungsted Kyst,2960,5,115,1963,3075000.0,24-06-2010
+Frihedsvej 12,Rungsted Kyst,2960,7,200,1915,4500000.0,10-06-2010
+Rungsted Strandvej 64,Rungsted Kyst,2960,7,286,1907,16000000.0,08-06-2010
+Vallerødgade 12A,Rungsted Kyst,2960,5,128,1900,3600000.0,02-06-2010
+Byskellet 5,Rungsted Kyst,2960,6,170,1960,4800000.0,31-05-2010
+Solbakkevej 7,Rungsted Kyst,2960,5,145,1954,3145000.0,27-05-2010
+Thyrasvej 4,Rungsted Kyst,2960,6,185,1972,5850000.0,26-05-2010
+Vallerød Banevej 40,Rungsted Kyst,2960,9,281,1926,40000.0,18-05-2010
+Højskolevej 20,Rungsted Kyst,2960,5,178,1954,4800000.0,11-05-2010
+Doktorvænget 5,Rungsted Kyst,2960,7,200,1971,5200000.0,04-05-2010
+Østre Pennehavevej 17,Rungsted Kyst,2960,5,243,2012,3150000.0,04-05-2010
+Birkedalen 3,Rungsted Kyst,2960,7,176,1964,4350000.0,02-05-2010
+Skovridervej 1,Rungsted Kyst,2960,5,185,1975,5500000.0,22-04-2010
+Hulsøvang 2C,Rungsted Kyst,2960,4,110,1927,2995000.0,09-04-2010
+Louis Petersensvej 9,Rungsted Kyst,2960,4,121,1969,3650000.0,06-04-2010
+Vallerødgade 28B,Rungsted Kyst,2960,6,200,2013,4000000.0,06-04-2010
+Kildevej 9,Rungsted Kyst,2960,5,206,1996,6100000.0,02-04-2010
+Solholt 1,Rungsted Kyst,2960,5,207,1966,3650000.0,29-03-2010
+Drosselvej 7,Rungsted Kyst,2960,5,140,1954,3700000.0,10-03-2010
+Engvej 8,Rungsted Kyst,2960,5,196,2010,7350000.0,08-03-2010
+Hannelundsvej 20,Rungsted Kyst,2960,5,183,1956,6750000.0,04-03-2010
+Solbrinken 6,Rungsted Kyst,2960,6,211,1967,4750000.0,03-03-2010
+Hulsøvang 1A,Rungsted Kyst,2960,6,173,1993,4552500.0,28-02-2010
+Hulsøvang 2B,Rungsted Kyst,2960,4,112,1927,4450000.0,28-02-2010
+Bolbro Villavej 2A,Rungsted Kyst,2960,8,296,1938,11500000.0,25-02-2010
+Bukkeballevej 44B,Rungsted Kyst,2960,7,212,1997,5000000.0,23-02-2010
+Bel Colles Alle 2A,Rungsted Kyst,2960,5,157,1967,4800000.0,03-02-2010
+Enghave 15,Rungsted Kyst,2960,6,207,1943,6650000.0,22-01-2010
+Parkvej 18,Rungsted Kyst,2960,5,272,2008,5700000.0,22-01-2010
+Bolbrovænge 43,Rungsted Kyst,2960,7,329,1951,10500000.0,20-01-2010
+Peder Oxes Vej 4,Rungsted Kyst,2960,4,157,1976,3800000.0,19-01-2010
+Constantiavej 13,Rungsted Kyst,2960,4,200,1970,4500000.0,15-01-2010
+Valdemarsvej 10,Rungsted Kyst,2960,6,126,1917,4400000.0,14-01-2010
+Christiansgave 38,Rungsted Kyst,2960,4,129,1956,4400000.0,14-01-2010
+"Bukkeballevej 2D, ST",Rungsted Kyst,2960,5,107,1910,2400000.0,13-01-2010
+Svendsvej 11A,Rungsted Kyst,2960,7,153,1918,6325000.0,07-01-2010
+Helleholm 39,Rungsted Kyst,2960,7,191,1977,5925000.0,29-12-2009
+Christiansgave 42,Rungsted Kyst,2960,3,129,1956,4700000.0,22-12-2009
+Solbrinken 10,Rungsted Kyst,2960,5,224,1968,7500000.0,16-12-2009
+Bolbrovænge 10,Rungsted Kyst,2960,9,232,1934,14500000.0,16-12-2009
+Solvænget 4,Rungsted Kyst,2960,7,291,1958,7350000.0,15-12-2009
+Bolbrovej 63A,Rungsted Kyst,2960,6,263,1914,10500000.0,12-12-2009
+Ved Hegnet 11,Rungsted Kyst,2960,9,193,1937,3745000.0,04-12-2009
+Bel Colles Alle 1B,Rungsted Kyst,2960,8,184,1890,5165250.0,01-12-2009
+Louise Park 11,Rungsted Kyst,2960,6,334,1973,8250000.0,26-11-2009
+Rungsted Strandvej 98,Rungsted Kyst,2960,6,360,1885,15000000.0,25-11-2009
+Piniehøj 12,Rungsted Kyst,2960,5,169,1962,4900000.0,18-11-2009
+Piniehøj 17,Rungsted Kyst,2960,6,181,1960,19500000.0,17-11-2009
+Svendsvej 5,Rungsted Kyst,2960,6,172,1959,5750000.0,30-10-2009
+Sophienberg Vænge 39,Rungsted Kyst,2960,5,243,2016,3000000.0,28-10-2009
+Bolbro Villavej 13,Rungsted Kyst,2960,7,227,1919,10000000.0,27-10-2009
+Rungstedvej 121,Rungsted Kyst,2960,8,352,2011,4625000.0,24-10-2009
+Bolbrovej 92,Rungsted Kyst,2960,8,245,1953,5750000.0,21-10-2009
+Bolbrovej 94,Rungsted Kyst,2960,4,139,1959,3550000.0,20-10-2009
+"Ulvemosen 10, 1",Rungsted Kyst,2960,3,100,1981,3750000.0,19-10-2009
+Thyrasvej 6,Rungsted Kyst,2960,5,167,1970,5750000.0,09-10-2009
+Bel Colles Alle 7,Rungsted Kyst,2960,12,345,1912,16500000.0,30-09-2009
+Karen Blixens Vej 30,Rungsted Kyst,2960,5,161,1986,5295000.0,27-09-2009
+Rungstedvej 91,Rungsted Kyst,2960,10,320,1918,9900000.0,24-09-2009
+Strandvænget 37,Rungsted Kyst,2960,5,246,1961,3150000.0,14-09-2009
+Østre Pennehavevej 10,Rungsted Kyst,2960,7,175,1977,3850000.0,12-09-2009
+Hestehaven 29,Rungsted Kyst,2960,6,129,1954,500000.0,01-09-2009
+Bolbrovej 87A,Rungsted Kyst,2960,3,115,1984,3200000.0,31-08-2009
+"Ewalds Have 10, 1. TH",Rungsted Kyst,2960,4,129,1978,5500000.0,28-08-2009
+Bolbrohøj 20,Rungsted Kyst,2960,6,188,1971,5200000.0,20-08-2009
+Rungsted Strandvej 94C,Rungsted Kyst,2960,4,206,1780,8000000.0,18-08-2009
+Bolbrohøj 14,Rungsted Kyst,2960,7,238,1975,5600000.0,17-08-2009
+"Rungstedvej 74, 1. TV",Rungsted Kyst,2960,4,115,1936,2100000.0,17-08-2009
+Piet Heins Vej 31,Rungsted Kyst,2960,3,149,2002,6250000.0,12-08-2009
+Østre Pennehavevej 6,Rungsted Kyst,2960,7,174,1895,4450000.0,10-08-2009
+Vallerødgade 26,Rungsted Kyst,2960,11,334,1915,4250000.0,27-07-2009
+Piniehøj 18,Rungsted Kyst,2960,4,217,1963,22000000.0,19-07-2009
+"Højskolevej 16, ST",Rungsted Kyst,2960,4,173,1896,4000000.0,10-07-2009
+"Pennehave 18, 1",Rungsted Kyst,2960,5,163,1919,4390000.0,22-06-2009
+Hulsøvang 2A,Rungsted Kyst,2960,5,225,1982,6495000.0,11-06-2009
+Rungsted Strandvej 103,Rungsted Kyst,2960,4,83,1866,2000000.0,29-05-2009
+Constantiaparken 1,Rungsted Kyst,2960,6,221,1972,4500000.0,28-05-2009
+Østre Pennehavevej 29,Rungsted Kyst,2960,5,133,1958,2800000.0,18-05-2009
+Vallerød Banevej 9B,Rungsted Kyst,2960,5,159,1979,5100000.0,14-05-2009
+Solbrinken 5,Rungsted Kyst,2960,5,223,1969,10000000.0,27-04-2009
+Linstowsvej 13,Rungsted Kyst,2960,7,247,2010,3700000.0,26-04-2009
+Ewaldsvej 18,Rungsted Kyst,2960,9,261,1934,4150000.0,26-04-2009
+Bolbrovænge 9B,Rungsted Kyst,2960,7,194,1972,2025000.0,16-04-2009
+Løvvænget 9,Rungsted Kyst,2960,5,188,1964,4800000.0,05-04-2009
+Bukkeballevej 60,Rungsted Kyst,2960,6,216,2000,3270000.0,16-03-2009
+Bukkeballevej 90,Rungsted Kyst,2960,10,331,1924,16500000.0,16-03-2009
+Rungsted Strandvej 197C,Rungsted Kyst,2960,7,298,1975,4590000.0,10-03-2009
+Kildevej 12,Rungsted Kyst,2960,7,200,1986,1727000.0,04-03-2009
+Bolbrovænge 19A,Rungsted Kyst,2960,5,144,1933,3925000.0,23-02-2009
+Sundtoften 1,Rungsted Kyst,2960,6,162,1977,5100000.0,01-02-2009
+Kastanievej 11,Rungsted Kyst,2960,6,244,1908,4300000.0,26-01-2009
+"Ewalds Have 8, ST. TV",Rungsted Kyst,2960,2,96,1978,3000000.0,13-01-2009
+Vallerød Banevej 16,Rungsted Kyst,2960,4,176,1958,6200000.0,18-12-2008
+Bukkeballevej 58B,Rungsted Kyst,2960,7,184,1968,4144999.0,13-12-2008
+Bolbrovej 101,Rungsted Kyst,2960,5,122,1956,4400000.0,10-12-2008
+Sømandshvilevej 25,Rungsted Kyst,2960,4,155,1984,4300000.0,27-11-2008
+Solvænget 17,Rungsted Kyst,2960,8,268,1981,10400000.0,20-11-2008
+Sophienberg Vænge 27,Rungsted Kyst,2960,5,160,2009,7000000.0,18-11-2008
+Bolbrovej 50B,Rungsted Kyst,2960,7,281,2011,3000000.0,18-11-2008
+Bukkeballevej 25A,Rungsted Kyst,2960,8,337,1917,8500000.0,16-11-2008
+Bukkeballevej 86B,Rungsted Kyst,2960,6,192,1990,3365000.0,07-11-2008
+Karen Blixens Vej 36,Rungsted Kyst,2960,5,192,1986,5750000.0,04-11-2008
+Sømandshvile Park 21,Rungsted Kyst,2960,5,173,1984,5975000.0,20-10-2008
+Østre Pennehavevej 9,Rungsted Kyst,2960,7,195,1919,5600000.0,28-09-2008
+Karen Blixens Vej 5,Rungsted Kyst,2960,5,191,1986,5800000.0,02-09-2008
+Christiansgave 1,Rungsted Kyst,2960,4,118,1956,1901207.0,28-08-2008
+Vallerødgade 32,Rungsted Kyst,2960,7,213,1975,5400000.0,23-08-2008
+Solbrinken 11,Rungsted Kyst,2960,6,213,1969,7200000.0,10-08-2008
+Vallerød Banevej 19B,Rungsted Kyst,2960,5,159,1963,4900000.0,27-07-2008
+Spejderbakken 13,Rungsted Kyst,2960,8,216,1953,6000000.0,24-07-2008
+Sanskevej 3,Rungsted Kyst,2960,6,149,1903,5500000.0,15-07-2008
+Fuglevangsvej 6B,Rungsted Kyst,2960,7,191,1981,8825000.0,11-07-2008
+Thyrasvej 3,Rungsted Kyst,2960,7,190,1971,5300000.0,08-07-2008
+Sophienbergvej 18,Rungsted Kyst,2960,5,135,1955,6246000.0,30-06-2008
+Dreyersvej 17,Rungsted Kyst,2960,7,172,1954,9650000.0,25-06-2008
+Ved Hegnet 4,Rungsted Kyst,2960,6,228,1935,6600000.0,23-06-2008
+Hulsøvang 24,Rungsted Kyst,2960,8,172,1949,5700000.0,12-06-2008
+Bolbro Villavej 10A,Rungsted Kyst,2960,4,95,1935,3835000.0,31-05-2008
+Parkvej 10,Rungsted Kyst,2960,4,174,1972,5650000.0,27-05-2008
+Piet Heins Vej 33,Rungsted Kyst,2960,7,271,2002,20000000.0,16-05-2008
+Karen Blixens Vej 9,Rungsted Kyst,2960,5,186,1986,6208000.0,08-05-2008
+Rungstedvej 129,Rungsted Kyst,2960,8,222,1907,8050000.0,07-05-2008
+Vallerød Banevej 29,Rungsted Kyst,2960,7,174,1907,7000000.0,24-04-2008
+Christiansgave 3,Rungsted Kyst,2960,4,126,1956,4500000.0,04-04-2008
+Bel Colles Alle 1C,Rungsted Kyst,2960,5,198,2000,9300000.0,02-04-2008
+Drosselvej 5,Rungsted Kyst,2960,5,128,1955,1800000.0,31-03-2008
+Karen Blixens Vej 31,Rungsted Kyst,2960,5,167,1986,6475000.0,13-03-2008
+Sophienberg Vænge 44,Rungsted Kyst,2960,9,183,1954,6150000.0,07-03-2008
+Ved Hegnet 12,Rungsted Kyst,2960,5,145,1960,4900000.0,06-03-2008
+Sanskevej 13,Rungsted Kyst,2960,7,169,1974,6600000.0,17-02-2008
+Bukkeballevej 54A,Rungsted Kyst,2960,8,239,1936,7850000.0,16-01-2008
+Sophienberg Vænge 28,Rungsted Kyst,2960,5,149,1957,4400000.0,08-01-2008
+"Ulvemosen 14, ST",Rungsted Kyst,2960,3,100,1981,4400000.0,18-12-2007
+Rungsted Strandvej 81,Rungsted Kyst,2960,4,175,1980,10450000.0,04-12-2007
+Sophienbergvej 53,Rungsted Kyst,2960,6,195,1978,7950000.0,04-12-2007
+Lille Pennehave 4,Rungsted Kyst,2960,3,81,1985,3250000.0,15-11-2007
+Constantiaparken 5,Rungsted Kyst,2960,7,199,1978,5350000.0,11-11-2007
+Solvænget 7,Rungsted Kyst,2960,5,166,1967,8800000.0,29-10-2007
+Strandvænget 25,Rungsted Kyst,2960,6,198,1957,3750000.0,23-10-2007
+"Ewalds Have 4, ST. TV",Rungsted Kyst,2960,2,96,1978,3100000.0,04-10-2007
+"Rungsted Bytorv 2, 1. 12",Rungsted Kyst,2960,4,140,1994,2100000.0,04-10-2007
+"Ewalds Have 2, 1. TV",Rungsted Kyst,2960,2,96,1978,3900000.0,25-09-2007
+Vallerød Banevej 14A,Rungsted Kyst,2960,6,152,1984,7595000.0,10-09-2007
+Bukkeballevej 29A,Rungsted Kyst,2960,5,160,1990,6200000.0,03-09-2007
+"Ewalds Have 12, 1. TH",Rungsted Kyst,2960,4,129,1978,6375000.0,31-08-2007
+Christiansgave 4,Rungsted Kyst,2960,4,115,1956,3561000.0,29-08-2007
+Christiansgave 34,Rungsted Kyst,2960,4,142,1956,6680000.0,25-08-2007
+Vallerødvænge 12,Rungsted Kyst,2960,4,122,1897,4000000.0,21-08-2007
+Constantiavej 5,Rungsted Kyst,2960,5,184,1970,6500000.0,17-08-2007
+Knudsvej 27,Rungsted Kyst,2960,7,208,1973,6925000.0,16-08-2007
+Enghave 9,Rungsted Kyst,2960,6,161,1957,5530000.0,15-08-2007
+"Ulvemosen 4, 1. TH",Rungsted Kyst,2960,4,144,1981,4350000.0,10-08-2007
+Christiansgave 5,Rungsted Kyst,2960,4,124,1956,5400000.0,07-08-2007
+Vallerødvænge 16,Rungsted Kyst,2960,8,201,1979,4950000.0,28-06-2007
+Tværvej 3,Rungsted Kyst,2960,6,164,1931,8150000.0,28-06-2007
+Skovridervej 5,Rungsted Kyst,2960,6,234,1975,10750000.0,28-06-2007
+Sømandshvilevej 15,Rungsted Kyst,2960,4,125,1984,2085990.0,21-06-2007
+Vallerødvænge 19,Rungsted Kyst,2960,10,322,1979,7950000.0,14-06-2007
+Dreyersvej 20,Rungsted Kyst,2960,8,258,1907,22000000.0,14-06-2007
+Ved Hegnet 28,Rungsted Kyst,2960,5,175,1954,6600000.0,13-06-2007
+Rungsted Strandvej 199A,Rungsted Kyst,2960,5,219,1986,6000000.0,10-06-2007
+Sømandshvilevej 5,Rungsted Kyst,2960,4,125,1984,5250000.0,05-06-2007
+Bolbrovej 80,Rungsted Kyst,2960,5,215,1812,3450000.0,07-05-2007
+Bukkeballevej 27A,Rungsted Kyst,2960,8,259,1892,15625000.0,07-05-2007
+Bolbrovej 107,Rungsted Kyst,2960,5,167,1959,4000000.0,07-05-2007
+Engvej 25A,Rungsted Kyst,2960,6,275,2010,5500000.0,26-04-2007
+Bukkeballevej 31B,Rungsted Kyst,2960,8,269,1919,12500000.0,14-04-2007
+"Rungsted Bytorv 2, 2. 20",Rungsted Kyst,2960,2,66,1994,2300000.0,02-04-2007
+Sophienbergvej 23,Rungsted Kyst,2960,6,222,1978,7870000.0,29-03-2007
+Hulsøvang 13,Rungsted Kyst,2960,6,218,1951,8500000.0,05-03-2007
+Piet Heins Vej 8,Rungsted Kyst,2960,3,131,2002,8000000.0,05-03-2007
+Kildevej 7,Rungsted Kyst,2960,4,109,1939,6750000.0,28-02-2007
+Ulvemosevej 7,Rungsted Kyst,2960,7,187,1915,1827500.0,22-02-2007
+Vallerød Banevej 42,Rungsted Kyst,2960,6,188,1927,9600000.0,22-02-2007
+Thyrasvej 7,Rungsted Kyst,2960,7,185,1969,7250000.0,05-02-2007
+Byskellet 8,Rungsted Kyst,2960,7,132,1961,5595000.0,01-02-2007
+Piet Heins Vej 3,Rungsted Kyst,2960,3,149,2002,9045000.0,01-02-2007
+"Vestre Stationsvej 1, 4. TH",Rungsted Kyst,2960,4,114,1936,3550000.0,23-01-2007
+Kildevej 8,Rungsted Kyst,2960,6,208,1974,7575000.0,19-12-2006
+Solvænget 32,Rungsted Kyst,2960,5,191,1970,7200000.0,12-12-2006
+Engvej 15,Rungsted Kyst,2960,6,210,1961,8100000.0,16-11-2006
+Engvej 35,Rungsted Kyst,2960,5,175,1958,1775000.0,05-11-2006
+Lundingsvej 8,Rungsted Kyst,2960,4,202,1919,9000000.0,05-11-2006
+"Vallerød Banevej 22B, 1",Rungsted Kyst,2960,5,177,1902,4750000.0,19-10-2006
+Enghave 1,Rungsted Kyst,2960,5,117,1954,6100000.0,12-10-2006
+Valdemarsvej 6,Rungsted Kyst,2960,4,125,1942,4500000.0,05-10-2006
+Engvej 38,Rungsted Kyst,2960,7,168,1968,7375000.0,21-09-2006
+"Rungsted Bytorv 2, 1. 2",Rungsted Kyst,2960,2,75,1994,2485000.0,18-09-2006
+Bolbrovej 100,Rungsted Kyst,2960,9,224,1966,1200000.0,14-09-2006
+Engvej 11,Rungsted Kyst,2960,8,200,2006,9100000.0,27-08-2006
+Sophienbergvej 51,Rungsted Kyst,2960,6,201,1978,7300000.0,25-08-2006
+Sophienbergvej 59,Rungsted Kyst,2960,6,197,1978,7000000.0,06-08-2006
+Constantiaparken 10,Rungsted Kyst,2960,5,186,1970,6200000.0,04-08-2006
+Bukkeballevej 23A,Rungsted Kyst,2960,4,149,1977,6250000.0,04-08-2006
+Rungstedvej 135,Rungsted Kyst,2960,4,120,1994,5350000.0,23-07-2006
+Bolbrovænge 41B,Rungsted Kyst,2960,4,143,1981,5400000.0,23-07-2006
+Boganisvej 6,Rungsted Kyst,2960,6,167,1971,7750000.0,23-07-2006
+Rungstedvej 71A,Rungsted Kyst,2960,4,121,1978,1300000.0,19-07-2006
+Birkedalen 7,Rungsted Kyst,2960,6,124,1962,4900000.0,18-07-2006
+Helleholm 25,Rungsted Kyst,2960,5,152,1977,6750000.0,14-07-2006
+Rungsted Strandvej 68,Rungsted Kyst,2960,2,126,1959,16500000.0,14-07-2006
+Strandvænget 17,Rungsted Kyst,2960,6,170,1954,7100000.0,24-06-2006
+Solvænget 14,Rungsted Kyst,2960,6,239,1951,8800000.0,19-06-2006
+Kildevej 26,Rungsted Kyst,2960,7,160,1940,8800000.0,19-06-2006
+Sømandshvile Park 27,Rungsted Kyst,2960,4,155,1984,2100000.0,16-06-2006
+Boganisvej 7,Rungsted Kyst,2960,6,274,1971,7500000.0,12-06-2006
+Vallerødgade 8A,Rungsted Kyst,2960,7,170,1982,5200000.0,06-06-2006
+Rungsted Strandvej 99,Rungsted Kyst,2960,4,122,1913,5750000.0,26-05-2006
+Lange-Müllers Alle 28,Rungsted Kyst,2960,11,296,1979,14750000.0,22-05-2006
+Pennehave 3C,Rungsted Kyst,2960,4,107,1982,3200000.0,10-05-2006
+Engvej 29,Rungsted Kyst,2960,6,204,1958,7495000.0,09-05-2006
+Lykkevej 4,Rungsted Kyst,2960,4,129,1954,6000000.0,09-05-2006
+Louise Park 13,Rungsted Kyst,2960,6,181,1980,7765000.0,06-05-2006
+"Vestre Stationsvej 1, 5. TV",Rungsted Kyst,2960,4,93,1936,3685000.0,04-05-2006
+Bolbrovænge 23B,Rungsted Kyst,2960,7,284,1939,8950000.0,02-05-2006
+Birgitte Gøyes Vej 4,Rungsted Kyst,2960,6,156,1977,5400000.0,26-04-2006
+Rungstedvej 50A,Rungsted Kyst,2960,6,148,1959,8375000.0,18-04-2006
+Drosselvej 6,Rungsted Kyst,2960,4,223,2012,4800000.0,18-04-2006
+"Rungsted Bytorv 2, 1. 5",Rungsted Kyst,2960,2,75,1994,2482000.0,10-04-2006
+Rungsted Strandvej 195,Rungsted Kyst,2960,5,166,1962,11000000.0,09-04-2006
+Sundtoften 17,Rungsted Kyst,2960,5,176,1976,5995000.0,07-04-2006
+Kastanievej 5,Rungsted Kyst,2960,8,337,1919,12900000.0,31-03-2006
+Constantiavej 7,Rungsted Kyst,2960,5,185,1972,7500000.0,24-03-2006
+Karen Blixens Vej 23,Rungsted Kyst,2960,5,207,1912,7650000.0,21-03-2006
+"Rungsted Bytorv 2, 1. 3",Rungsted Kyst,2960,2,75,1994,2482000.0,21-03-2006
+Vallerødvænge 10,Rungsted Kyst,2960,7,158,1907,5700000.0,19-03-2006
+"Rungsted Bytorv 2, 2. 8",Rungsted Kyst,2960,2,75,1994,2455000.0,10-03-2006
+Bukkeballevej 65,Rungsted Kyst,2960,10,309,1934,6431000.0,26-02-2006
+Bolbrovej 13,Rungsted Kyst,2960,6,208,1904,5725000.0,22-02-2006
+Boganisvej 17,Rungsted Kyst,2960,7,210,1975,8000000.0,12-02-2006
+Rungsted Strandvej 34,Rungsted Kyst,2960,4,223,1988,8500000.0,09-02-2006
+"Ulvemosen 16, ST",Rungsted Kyst,2960,3,100,1981,4185000.0,05-02-2006
+Østre Pennehavevej 1C,Rungsted Kyst,2960,3,77,1986,1900000.0,01-02-2006
+"Rungsted Bytorv 9, 1. 27",Rungsted Kyst,2960,2,66,1994,2076000.0,31-01-2006
+Bel Colles Alle 8B,Rungsted Kyst,2960,3,138,1877,2900000.0,26-01-2006
+Rungstedvej 93,Rungsted Kyst,2960,6,238,1919,7250000.0,18-01-2006
+Bolbro Sidevej 9,Rungsted Kyst,2960,6,172,1994,6395000.0,16-01-2006
+Kildevej 1B,Rungsted Kyst,2960,6,155,1979,4250000.0,11-01-2006
+Thyrasvej 8,Rungsted Kyst,2960,5,163,1972,4995000.0,05-01-2006
+"Pennehave 14, 2",Rungsted Kyst,2960,3,86,1900,2600000.0,01-01-2006
+Bolbro Sidevej 8,Rungsted Kyst,2960,6,172,1999,5805000.0,28-12-2005
+Birkedalen 14,Rungsted Kyst,2960,5,115,1962,2975000.0,27-12-2005
+Engvej 47,Rungsted Kyst,2960,8,255,1936,9250000.0,18-12-2005
+Sanskevej 9A,Rungsted Kyst,2960,4,169,1985,6100000.0,17-12-2005
+Bolbrovænge 23A,Rungsted Kyst,2960,6,209,1971,5950000.0,15-12-2005
+Bolbrohøj 5,Rungsted Kyst,2960,5,162,1971,5450000.0,12-12-2005
+Rungsted Strandvej 100,Rungsted Kyst,2960,6,229,1998,8900000.0,08-12-2005
+Kastanievej 2,Rungsted Kyst,2960,7,266,1915,7950000.0,23-11-2005
+Langebakken 14,Rungsted Kyst,2960,7,209,1970,6100000.0,21-11-2005
+Engtoften 3,Rungsted Kyst,2960,5,202,2000,5250000.0,08-11-2005
+Karen Blixens Vej 8,Rungsted Kyst,2960,4,195,1974,5400000.0,05-11-2005
+Rungsted Strandvej 80,Rungsted Kyst,2960,11,420,1974,13800000.0,03-11-2005
+Bolbrovænge 2B,Rungsted Kyst,2960,6,170,1977,4450000.0,03-11-2005
+Rungsted Strandvej 73B,Rungsted Kyst,2960,9,212,1958,1200000.0,28-10-2005
+Vallerød Banevej 13,Rungsted Kyst,2960,5,170,1900,5806000.0,28-10-2005
+Enghave 33D,Rungsted Kyst,2960,5,146,1981,3200000.0,27-10-2005
+Vallerød Park 5,Rungsted Kyst,2960,6,179,1962,4525000.0,27-10-2005
+Solvænget 22,Rungsted Kyst,2960,7,210,1970,6975000.0,15-10-2005
+Rungsted Strandvej 60A,Rungsted Kyst,2960,11,448,1921,6300000.0,30-09-2005
+Piniehøj 20,Rungsted Kyst,2960,5,135,1962,3995000.0,27-09-2005
+Sophienberg Vænge 14,Rungsted Kyst,2960,6,199,1955,5267000.0,25-09-2005
+Hulsø Ege 1,Rungsted Kyst,2960,4,154,1986,4780000.0,20-09-2005
+Engvej 21,Rungsted Kyst,2960,5,185,2007,3000000.0,09-09-2005
+Bolbrovej 68,Rungsted Kyst,2960,8,223,1897,6000000.0,08-09-2005
+Helleholm 29,Rungsted Kyst,2960,4,152,1976,4325000.0,26-08-2005
+Solholt 2,Rungsted Kyst,2960,6,164,1970,3245000.0,24-08-2005
+Skovridervej 4,Rungsted Kyst,2960,5,180,1976,4995000.0,23-08-2005
+Karen Blixens Vej 3,Rungsted Kyst,2960,6,186,1986,4925000.0,19-08-2005
+Lange-Müllers Alle 12,Rungsted Kyst,2960,7,184,1975,5250000.0,17-08-2005
+Højagervej 8,Rungsted Kyst,2960,5,224,1877,6950000.0,14-08-2005
+Sundtoften 2,Rungsted Kyst,2960,5,138,1977,5450000.0,10-08-2005
+Kildevej 30,Rungsted Kyst,2960,6,211,1999,6150000.0,08-08-2005
+Sophienbergvej 37,Rungsted Kyst,2960,6,208,1978,5150000.0,07-08-2005
+Langebakken 2,Rungsted Kyst,2960,5,151,1971,4200000.0,26-07-2005
+Linstowsvej 7,Rungsted Kyst,2960,6,180,1954,5795000.0,23-07-2005
+Cristinavej 5,Rungsted Kyst,2960,7,208,1972,6295000.0,18-07-2005
+Valdemarsvej 42,Rungsted Kyst,2960,4,120,1936,3300000.0,01-07-2005
+Vallerød Banevej 14D,Rungsted Kyst,2960,14,600,1896,5500000.0,01-07-2005
+Bukkeballevej 63,Rungsted Kyst,2960,6,187,2001,3950000.0,30-06-2005
+Helleholm 5,Rungsted Kyst,2960,4,175,1976,2175000.0,28-06-2005
+Smidstrupørevej 1A,Rungsted Kyst,2960,5,163,1977,4800000.0,26-06-2005
+Rungsted Strandvej 163,Rungsted Kyst,2960,5,224,1900,7975000.0,16-06-2005
+Bukkeballevej 9C,Rungsted Kyst,2960,7,240,1909,7250000.0,15-06-2005
+Bukkeballevej 36,Rungsted Kyst,2960,5,180,1916,5095000.0,15-06-2005
+Enghave 24,Rungsted Kyst,2960,7,217,1937,4550000.0,12-06-2005
+Solkrogen 12,Rungsted Kyst,2960,6,207,2007,5025000.0,09-06-2005
+Valdemarsvej 36,Rungsted Kyst,2960,5,137,1963,3300000.0,07-06-2005
+Solbakkevej 1,Rungsted Kyst,2960,5,187,2000,2835610.0,07-06-2005
+Gl Vallerødvej 31A,Rungsted Kyst,2960,7,199,2002,6150000.0,07-06-2005
+Dreyersvej 12,Rungsted Kyst,2960,6,245,1969,9200000.0,06-06-2005
+Hannelundsvej 11,Rungsted Kyst,2960,6,181,1973,5475000.0,05-06-2005
+Bukkeballevej 27B,Rungsted Kyst,2960,5,178,1984,4300000.0,23-05-2005
+Bukkeballevej 69,Rungsted Kyst,2960,7,159,1935,4429000.0,20-05-2005
+Boganisvej 12,Rungsted Kyst,2960,6,210,1978,5400000.0,19-05-2005
+Langebakken 1,Rungsted Kyst,2960,7,265,1973,6200000.0,17-05-2005
+Rungstedvej 125,Rungsted Kyst,2960,6,130,1917,5750000.0,10-05-2005
+Hulsø Ege 11,Rungsted Kyst,2960,5,187,1982,2326875.0,01-05-2005
+Engvej 31,Rungsted Kyst,2960,5,146,1958,5100000.0,29-04-2005
+Hulsøvang 1C,Rungsted Kyst,2960,5,96,1934,4700000.0,13-04-2005
+Smidstrupørevej 3A,Rungsted Kyst,2960,6,163,1977,2550000.0,06-04-2005
+Solvænget 2,Rungsted Kyst,2960,6,172,1948,5685000.0,03-04-2005
+Ingeborg Vænge 2,Rungsted Kyst,2960,12,380,1920,9350000.0,03-04-2005
+Rungsted Strandvej 201B,Rungsted Kyst,2960,9,279,1913,6700000.0,29-03-2005
+Esbern Snares Vej 14,Rungsted Kyst,2960,6,140,1970,3875000.0,24-03-2005
+Byskellet 4,Rungsted Kyst,2960,5,124,1961,3295000.0,23-03-2005
+Dreyersvej 29,Rungsted Kyst,2960,8,184,1954,6225000.0,23-03-2005
+Karen Blixens Vej 33,Rungsted Kyst,2960,5,154,1986,1700000.0,22-03-2005
+Birkedalen 16,Rungsted Kyst,2960,6,195,1964,2730000.0,20-03-2005
+Rungsted Strandvej 70,Rungsted Kyst,2960,3,207,2006,8500000.0,19-03-2005
+Bolbrovej 23,Rungsted Kyst,2960,7,198,1951,4880000.0,15-03-2005
+Bolbrovej 40,Rungsted Kyst,2960,7,231,1946,6500000.0,15-03-2005
+Hannebjergvej 12,Rungsted Kyst,2960,6,146,1963,3875000.0,04-03-2005
+Bolbrovænge 35,Rungsted Kyst,2960,6,210,1973,5425000.0,03-03-2005
+Sømandshvilevej 17,Rungsted Kyst,2960,4,125,1984,3300000.0,17-02-2005
+Sophienberg Vænge 13,Rungsted Kyst,2960,5,230,2014,3300000.0,11-02-2005
+Piet Heins Vej 1,Rungsted Kyst,2960,2,107,2002,3360000.0,08-02-2005
+Louise Park 22,Rungsted Kyst,2960,7,209,1974,6250000.0,02-02-2005
+Christiansgave 56,Rungsted Kyst,2960,5,224,1918,6250000.0,20-01-2005
+Vallerødgade 9,Rungsted Kyst,2960,7,176,1870,4650000.0,11-01-2005
+Sophienbergvej 29,Rungsted Kyst,2960,6,201,1978,4800000.0,29-12-2004
+Blochs Vænge 5,Rungsted Kyst,2960,4,198,1967,4000000.0,21-12-2004
+Bukkeballevej 9A,Rungsted Kyst,2960,5,125,1980,1950000.0,16-12-2004
+Karen Blixens Vej 17,Rungsted Kyst,2960,5,186,1986,4600000.0,06-12-2004
+Svendsvej 6,Rungsted Kyst,2960,7,173,1925,4700000.0,01-12-2004
+Østre Pennehavevej 20B,Rungsted Kyst,2960,9,232,1912,7600000.0,30-11-2004
+Bolbro Villavej 1A,Rungsted Kyst,2960,7,246,2006,2600000.0,16-11-2004
+Vallerød Banevej 11D,Rungsted Kyst,2960,4,143,1958,3100000.0,12-11-2004
+Esbern Snares Vej 5,Rungsted Kyst,2960,7,181,1971,3100000.0,10-11-2004
+Rungsted Strandvej 207,Rungsted Kyst,2960,6,190,1951,7200000.0,05-11-2004
+Rungsted Strandvej 177,Rungsted Kyst,2960,8,258,1994,8765000.0,03-11-2004
+Helleholm 33,Rungsted Kyst,2960,5,183,1976,3950000.0,29-10-2004
+Rungstedvej 51,Rungsted Kyst,2960,7,165,2004,4750000.0,28-10-2004
+Ved Hegnet 9,Rungsted Kyst,2960,5,109,1938,2965000.0,26-10-2004
+Skovgrænsen 8,Rungsted Kyst,2960,6,157,1976,4200000.0,23-10-2004
+Engvej 16,Rungsted Kyst,2960,6,227,2008,1950000.0,15-10-2004
+Bolbro Villavej 20,Rungsted Kyst,2960,7,181,1936,4450000.0,13-10-2004
+Bel Colles Alle 2B,Rungsted Kyst,2960,5,148,1966,2800000.0,11-10-2004
+Bukkeballevej 7,Rungsted Kyst,2960,8,237,1914,6350000.0,06-10-2004
+Sophienberg Vænge 51,Rungsted Kyst,2960,6,175,1955,4800000.0,04-10-2004
+Svendsvej 8A,Rungsted Kyst,2960,7,261,1917,6925000.0,04-10-2004
+Kastanievej 9,Rungsted Kyst,2960,4,130,1954,1040073.0,30-09-2004
+Hannelundsvej 1B,Rungsted Kyst,2960,4,160,1991,4500000.0,29-09-2004
+Engvej 20C,Rungsted Kyst,2960,4,137,1963,3400000.0,28-09-2004
+Skovkysten 3,Rungsted Kyst,2960,4,147,1975,3850000.0,19-09-2004
+"Pennehave 5, ST",Rungsted Kyst,2960,3,77,1926,570000.0,15-09-2004
+Sophienberg Vænge 18,Rungsted Kyst,2960,6,234,2015,3900000.0,11-09-2004
+Valdemarsvej 32,Rungsted Kyst,2960,6,130,1954,3150000.0,08-09-2004
+Christiansgave 17,Rungsted Kyst,2960,4,115,1956,3150000.0,07-09-2004
+Vallerødgade 30,Rungsted Kyst,2960,6,138,1939,4625000.0,06-09-2004
+Rungsted Strandvej 75,Rungsted Kyst,2960,8,245,1930,5300000.0,03-09-2004
+Kildevej 33,Rungsted Kyst,2960,10,283,1962,4200000.0,02-09-2004
+Hulsø Ege 3,Rungsted Kyst,2960,4,156,1986,4150000.0,25-08-2004
+Sophienberg Vænge 37,Rungsted Kyst,2960,5,131,1958,3000000.0,14-08-2004
+Esbern Snares Vej 12,Rungsted Kyst,2960,4,127,1972,3195000.0,04-08-2004
+Vallerød Banevej 11B,Rungsted Kyst,2960,7,223,1962,3195000.0,04-08-2004
+Skovfogedvej 1,Rungsted Kyst,2960,4,156,1978,5100000.0,04-08-2004
+"Pennehave 9, 1",Rungsted Kyst,2960,3,130,1933,3100000.0,31-07-2004
+"Bukkeballevej 2D, 1",Rungsted Kyst,2960,3,85,1910,1500000.0,24-07-2004
+Højskolevej 1,Rungsted Kyst,2960,8,233,1935,5475000.0,16-07-2004
+Bolbrohøj 7,Rungsted Kyst,2960,5,169,1973,4200000.0,14-07-2004
+Piet Heins Vej 25,Rungsted Kyst,2960,3,137,2002,4730000.0,14-07-2004
+Vallerød Banevej 31,Rungsted Kyst,2960,6,188,1977,3565000.0,10-07-2004
+Rungsted Strandvej 215,Rungsted Kyst,2960,5,127,1955,3800000.0,04-07-2004
+Bukkeballevej 33,Rungsted Kyst,2960,9,379,1904,5350000.0,21-06-2004
+Pennehave 3G,Rungsted Kyst,2960,4,107,1982,2120000.0,20-06-2004
+Parkvej 6A,Rungsted Kyst,2960,5,135,1918,2950000.0,18-06-2004
+Louise Park 6,Rungsted Kyst,2960,8,260,1974,4950000.0,09-06-2004
+Bukkeballevej 64,Rungsted Kyst,2960,5,177,1994,4695000.0,09-06-2004
+Doktorvænget 3,Rungsted Kyst,2960,7,226,1971,4295000.0,22-05-2004
+Sophienbergvej 8,Rungsted Kyst,2960,4,126,1934,4150000.0,15-05-2004
+Bukkeballevej 37,Rungsted Kyst,2960,4,156,1936,3495000.0,12-05-2004
+Bolbrodalen 4,Rungsted Kyst,2960,6,225,2005,2478247.0,04-05-2004
+Bukkeballevej 55,Rungsted Kyst,2960,4,151,1933,2400000.0,26-04-2004
+Vallerød Park 2A,Rungsted Kyst,2960,5,134,1992,2375000.0,25-04-2004
+"Ewalds Have 4, ST. TH",Rungsted Kyst,2960,3,113,1978,2900000.0,24-04-2004
+Bukkeballevej 75,Rungsted Kyst,2960,5,166,1951,4525000.0,23-04-2004
+Lange-Müllers Alle 26,Rungsted Kyst,2960,5,225,1977,6850000.0,10-04-2004
+Strandvænget 20,Rungsted Kyst,2960,6,204,1958,2900000.0,05-04-2004
+"Vestre Stationsvej 1, 5. TH",Rungsted Kyst,2960,2,50,1936,4700000.0,29-03-2004
+Vestre Pennehavevej 3A,Rungsted Kyst,2960,5,150,1987,3705000.0,22-03-2004
+Strandvænget 27,Rungsted Kyst,2960,8,210,1958,5100000.0,05-03-2004
+Solvænget 9,Rungsted Kyst,2960,6,153,1967,3785000.0,03-03-2004
+Bolbrovænge 2A,Rungsted Kyst,2960,5,202,1976,3600000.0,02-03-2004
+Engvej 7,Rungsted Kyst,2960,3,119,2004,3790000.0,29-02-2004
+Constantiavej 23,Rungsted Kyst,2960,5,204,1969,3850000.0,26-02-2004
+Bolbrovej 96,Rungsted Kyst,2960,5,118,1944,2595000.0,25-02-2004
+Østre Stationsvej 3B,Rungsted Kyst,2960,4,70,1903,1770000.0,19-02-2004
+Piet Heins Vej 10,Rungsted Kyst,2960,3,149,2002,3495000.0,16-02-2004
+"Vestre Stationsvej 1, 3. TH",Rungsted Kyst,2960,5,114,1936,1805000.0,14-02-2004
+Hulsøvang 18,Rungsted Kyst,2960,6,132,1951,3350000.0,12-02-2004
+Byskellet 9,Rungsted Kyst,2960,7,228,1970,3600000.0,06-02-2004
+Christiansgave 12,Rungsted Kyst,2960,5,115,1956,2750000.0,02-02-2004
+Helleholm 15,Rungsted Kyst,2960,5,152,1977,3090000.0,02-02-2004
+Piet Heins Vej 39,Rungsted Kyst,2960,5,195,1901,3650000.0,28-01-2004
+Folehavevej 151A,Rungsted Kyst,2960,4,208,1974,3500000.0,26-01-2004
+Skovfogedvej 7,Rungsted Kyst,2960,5,223,1976,4295000.0,26-01-2004
+Parkvej 16,Rungsted Kyst,2960,7,262,2005,2100000.0,23-01-2004
+Bolbrovej 105,Rungsted Kyst,2960,6,158,1960,2290000.0,12-01-2004
+Parkvej 14,Rungsted Kyst,2960,7,228,2005,1950000.0,12-01-2004
+Skovgrænsen 10,Rungsted Kyst,2960,5,163,1977,3600000.0,11-01-2004
+Sømandshvile Park 19,Rungsted Kyst,2960,5,172,1984,2210000.0,31-12-2003
+Folehavevej 155,Rungsted Kyst,2960,7,243,1937,5135000.0,12-12-2003
+Hestehaven 10,Rungsted Kyst,2960,6,182,1954,3000000.0,01-12-2003
+Hulsøvang 4,Rungsted Kyst,2960,6,231,1925,3800000.0,24-11-2003
+Sophienberg Vænge 24,Rungsted Kyst,2960,5,259,1958,4750000.0,21-11-2003
+Sophienbergvej 43,Rungsted Kyst,2960,6,197,1978,4010000.0,18-11-2003
+Sundtoften 4,Rungsted Kyst,2960,8,237,1977,3450000.0,12-11-2003
+Bolbrovej 7,Rungsted Kyst,2960,5,195,1939,3600000.0,31-10-2003
+Ingeborg Vænge 6,Rungsted Kyst,2960,7,174,1977,3450000.0,23-10-2003
+Bukkeballevej 20,Rungsted Kyst,2960,5,243,1950,3575000.0,17-10-2003
+Rungsted Strandvej 165B,Rungsted Kyst,2960,4,146,1900,3720000.0,14-10-2003
+Lille Pennehave 2,Rungsted Kyst,2960,3,81,1985,2140000.0,28-09-2003
+Bukkeballevej 52B,Rungsted Kyst,2960,4,195,1994,5100000.0,25-09-2003
+Sophienberg Vænge 50,Rungsted Kyst,2960,7,198,2011,2850000.0,24-09-2003
+Bolbrovej 29,Rungsted Kyst,2960,8,247,1934,5200000.0,19-09-2003
+Stadionalle 1,Rungsted Kyst,2960,6,127,1961,2125000.0,18-09-2003
+Dreyersvej 7,Rungsted Kyst,2960,9,232,1912,2700000.0,15-09-2003
+Christiansgave 43,Rungsted Kyst,2960,4,126,1956,3195000.0,10-09-2003
+Sophienberg Vænge 9,Rungsted Kyst,2960,9,213,1964,3000000.0,09-09-2003
+Enghave 7,Rungsted Kyst,2960,3,81,1956,1660000.0,01-09-2003
+Constantiaparken 11,Rungsted Kyst,2960,6,175,1979,4475000.0,22-08-2003
+Bolbrovej 2,Rungsted Kyst,2960,12,419,1926,8350000.0,19-08-2003
+Solkrogen 11,Rungsted Kyst,2960,5,112,1953,3675000.0,11-08-2003
+Bel Colles Alle 8A,Rungsted Kyst,2960,12,362,1900,4260000.0,05-08-2003
+Bolbrovej 24B,Rungsted Kyst,2960,6,158,1948,3750000.0,04-08-2003
+Bolbro Sidevej 6,Rungsted Kyst,2960,6,235,1982,2850000.0,01-08-2003
+"Ulvemosen 2, 1",Rungsted Kyst,2960,4,152,1981,4000000.0,28-07-2003
+Enghave 26,Rungsted Kyst,2960,5,138,1939,2900000.0,23-07-2003
+Hulsøvang 6,Rungsted Kyst,2960,7,196,1926,5475000.0,14-07-2003
+Engvej 23,Rungsted Kyst,2960,8,190,1959,2950000.0,10-07-2003
+Dreyersvej 22,Rungsted Kyst,2960,9,233,1912,4325000.0,07-07-2003
+Bukkeballevej 25B,Rungsted Kyst,2960,8,237,1935,3100000.0,06-07-2003
+Ewaldsvej 19,Rungsted Kyst,2960,4,152,1958,2715000.0,02-07-2003
+Bolbrovænge 9C,Rungsted Kyst,2960,4,183,1974,2960000.0,22-06-2003
+Strandvænget 35,Rungsted Kyst,2960,4,152,1959,2985000.0,15-06-2003
+Margrethevej 8,Rungsted Kyst,2960,6,152,1934,3175000.0,11-06-2003
+Sophienbergvej 2,Rungsted Kyst,2960,7,195,1937,3585000.0,06-06-2003
+Enghave 20,Rungsted Kyst,2960,5,184,1939,2400000.0,23-05-2003
+"Ewalds Have 6, ST. TV",Rungsted Kyst,2960,2,96,1978,2735000.0,14-05-2003
+Sømandshvile Park 23,Rungsted Kyst,2960,5,173,1984,3150000.0,13-05-2003
+Rungsted Strandvej 211,Rungsted Kyst,2960,7,229,1959,4915542.0,08-05-2003
+Engvej 13,Rungsted Kyst,2960,6,190,1978,3800246.0,22-04-2003
+Knudsvej 23,Rungsted Kyst,2960,7,228,1914,3365076.0,06-04-2003
+Piet Heins Vej 18,Rungsted Kyst,2960,3,149,2002,4250000.0,03-04-2003
+Constantiavej 19,Rungsted Kyst,2960,4,170,1970,3100000.0,02-04-2003
+Boganisvej 8,Rungsted Kyst,2960,8,270,1972,4769447.0,31-03-2003
+"Rungstedvej 74, 2. TH",Rungsted Kyst,2960,3,101,1936,721594.0,12-03-2003
+Ved Hegnet 20A,Rungsted Kyst,2960,6,245,1937,5850000.0,09-03-2003
+Strandvænget 39,Rungsted Kyst,2960,6,130,1961,2350000.0,26-02-2003
+Rungsted Strandvej 213,Rungsted Kyst,2960,8,347,2003,3800000.0,31-01-2003
+Bolbrovej 35,Rungsted Kyst,2960,4,116,1955,3295000.0,23-01-2003
+Constantiavej 2A,Rungsted Kyst,2960,7,206,1917,3525000.0,21-01-2003
+Sophienberg Vænge 49B,Rungsted Kyst,2960,5,163,1980,3350000.0,19-01-2003
+Hannebjergvej 4,Rungsted Kyst,2960,6,157,1963,3150000.0,08-01-2003
+Engvej 30,Rungsted Kyst,2960,7,196,1949,3850000.0,06-01-2003
+Bukkeballevej 54B,Rungsted Kyst,2960,8,250,2005,880000.0,01-01-2003
+Enghave 5,Rungsted Kyst,2960,4,141,1946,2550000.0,23-12-2002
+Parkvej 20,Rungsted Kyst,2960,7,325,1934,4700000.0,17-12-2002
+Engvej 33,Rungsted Kyst,2960,6,119,1957,1100000.0,13-12-2002
+Rungsted Strandvej 96,Rungsted Kyst,2960,4,132,1954,350000.0,09-12-2002
+Constantiaparken 4,Rungsted Kyst,2960,5,194,1969,3300000.0,08-12-2002
+Østre Pennehavevej 20A,Rungsted Kyst,2960,5,156,1977,3000000.0,29-11-2002
+Karen Blixens Vej 40,Rungsted Kyst,2960,6,187,1986,3540700.0,29-11-2002
+Rungsted Strandvej 110,Rungsted Kyst,2960,5,220,2009,2300000.0,25-11-2002
+Constantiavej 15,Rungsted Kyst,2960,5,199,1970,3080000.0,11-11-2002
+Piet Heins Vej 14,Rungsted Kyst,2960,3,175,2002,5500000.0,02-11-2002
+Piet Heins Vej 15,Rungsted Kyst,2960,3,131,2002,3300000.0,28-10-2002
+Smidstrupørevej 1B,Rungsted Kyst,2960,6,179,1977,3600000.0,28-10-2002
+Karen Blixens Vej 21,Rungsted Kyst,2960,5,161,1912,5085000.0,25-10-2002
+Constantiaparken 30,Rungsted Kyst,2960,7,163,1971,2995000.0,25-10-2002
+Bolbrovej 82B,Rungsted Kyst,2960,6,170,1910,3625000.0,24-10-2002
+Sømandshvile Park 11,Rungsted Kyst,2960,4,173,1984,3125000.0,21-10-2002
+Rungsted Strandvej 106,Rungsted Kyst,2960,2,72,1873,2395000.0,03-10-2002
+Ved Hegnet 18,Rungsted Kyst,2960,6,142,1958,1497500.0,30-09-2002
+Sophienberg Vænge 34,Rungsted Kyst,2960,6,204,1981,2850000.0,27-09-2002
+Christiansgave 33,Rungsted Kyst,2960,5,110,1956,2995000.0,27-09-2002
+Strandvænget 26,Rungsted Kyst,2960,7,232,1958,3650000.0,27-09-2002
+Birkedalen 4,Rungsted Kyst,2960,6,195,1964,2600000.0,24-09-2002
+Sømandshvilevej 19,Rungsted Kyst,2960,5,143,1984,2577500.0,10-09-2002
+Vallerød Banevej 8,Rungsted Kyst,2960,12,293,1900,600000.0,05-09-2002
+Rungsted Strandvej 113,Rungsted Kyst,2960,2,125,1900,10600000.0,30-08-2002
+Bukkeballevej 67,Rungsted Kyst,2960,6,218,1934,1400000.0,23-08-2002
+"Vallerød Banevej 22B, 2",Rungsted Kyst,2960,4,119,1902,1625000.0,19-08-2002
+Bolbrovej 86,Rungsted Kyst,2960,3,115,1900,1600000.0,11-08-2002
+Bolbrovænge 6,Rungsted Kyst,2960,7,214,1933,650000.0,11-08-2002
+Bukkeballevej 15B,Rungsted Kyst,2960,5,194,1985,3250000.0,08-07-2002
+Bukkeballevej 57,Rungsted Kyst,2960,4,95,1934,2326755.0,23-06-2002
+Sanskevej 5,Rungsted Kyst,2960,5,192,1900,2900000.0,18-06-2002
+Sømandshvile Park 13,Rungsted Kyst,2960,4,155,1984,3150000.0,11-06-2002
+Piet Heins Vej 11,Rungsted Kyst,2960,3,137,2002,3695000.0,07-06-2002
+Enghave 3,Rungsted Kyst,2960,6,238,2012,2800000.0,06-06-2002
+Bukkeballevej 81,Rungsted Kyst,2960,5,153,1960,3850000.0,03-06-2002
+Strandvænget 22,Rungsted Kyst,2960,5,225,2012,2200000.0,31-05-2002
+Ewaldsvej 13,Rungsted Kyst,2960,4,131,1933,3165000.0,20-05-2002
+Bukkeballevej 52A,Rungsted Kyst,2960,8,249,1954,3925000.0,17-05-2002
+Engvej 49,Rungsted Kyst,2960,7,241,1974,6000000.0,14-05-2002
+Piet Heins Vej 41,Rungsted Kyst,2960,6,169,1972,2430000.0,07-05-2002
+Hannelundsvej 3,Rungsted Kyst,2960,6,210,1957,3500000.0,02-05-2002
+Gl Vallerødvej 15,Rungsted Kyst,2960,7,176,1969,2492079.0,30-04-2002
+Bolbro Villavej 9C,Rungsted Kyst,2960,6,203,1918,1287500.0,29-04-2002
+Hulsøvang 17,Rungsted Kyst,2960,6,231,1953,3000000.0,13-04-2002
+Hulsøvang 27,Rungsted Kyst,2960,4,119,1948,2895000.0,12-04-2002
+Højskolevej 13,Rungsted Kyst,2960,7,210,1938,4000000.0,09-04-2002
+Bukkeballevej 43,Rungsted Kyst,2960,5,140,1936,2920000.0,09-04-2002
+Ved Hegnet 7,Rungsted Kyst,2960,7,208,1935,3400000.0,02-04-2002
+Piet Heins Vej 9,Rungsted Kyst,2960,3,131,2002,2900000.0,13-03-2002
+Piet Heins Vej 35,Rungsted Kyst,2960,3,175,2002,475000.0,13-03-2002
+Sømandshvile Park 35,Rungsted Kyst,2960,4,155,1984,3100000.0,12-03-2002
+Hestehaven 13,Rungsted Kyst,2960,5,163,1964,3100000.0,08-03-2002
+Thyrasvej 5,Rungsted Kyst,2960,8,166,1970,2875000.0,28-02-2002
+Ulvemosevej 10,Rungsted Kyst,2960,9,339,1899,7000000.0,21-02-2002
+Helleholm 19,Rungsted Kyst,2960,5,152,1977,2914009.0,20-02-2002
+Piet Heins Vej 2,Rungsted Kyst,2960,2,107,2002,2375000.0,18-02-2002
+Piet Heins Vej 5,Rungsted Kyst,2960,2,111,2002,2475000.0,18-02-2002
+Piet Heins Vej 21,Rungsted Kyst,2960,3,187,2002,5100000.0,18-02-2002
+Skovkysten 2,Rungsted Kyst,2960,4,200,1977,4250000.0,14-02-2002
+Piet Heins Vej 6,Rungsted Kyst,2960,2,111,2002,2475000.0,05-02-2002
+Birkedalen 8,Rungsted Kyst,2960,7,184,1964,2179500.0,05-02-2002
+Drosselvej 3,Rungsted Kyst,2960,5,228,1954,2677500.0,04-02-2002
+Boganisvej 19,Rungsted Kyst,2960,6,183,1970,4107394.0,03-02-2002
+Piet Heins Vej 13,Rungsted Kyst,2960,3,134,2002,2990000.0,21-01-2002
+Ved Hegnet 8,Rungsted Kyst,2960,7,209,2006,1950000.0,18-01-2002
+Piet Heins Vej 19,Rungsted Kyst,2960,3,134,2002,2890000.0,07-01-2002
+Piet Heins Vej 16,Rungsted Kyst,2960,3,131,2002,2900000.0,28-12-2001
+Piet Heins Vej 20,Rungsted Kyst,2960,3,134,2002,2990000.0,28-12-2001
+Piet Heins Vej 17,Rungsted Kyst,2960,3,161,2002,3700000.0,13-12-2001
+Piet Heins Vej 22,Rungsted Kyst,2960,3,131,2002,2800000.0,13-12-2001
+Piet Heins Vej 24,Rungsted Kyst,2960,3,149,2002,3495000.0,13-12-2001
+Piet Heins Vej 27,Rungsted Kyst,2960,3,134,2002,2990000.0,13-12-2001
+Kildevej 3,Rungsted Kyst,2960,4,165,1937,3500000.0,12-12-2001
+Piet Heins Vej 23,Rungsted Kyst,2960,3,131,2002,2900000.0,07-12-2001
+Piet Heins Vej 30,Rungsted Kyst,2960,3,131,2002,2900000.0,07-12-2001
+Piet Heins Vej 34,Rungsted Kyst,2960,3,134,2002,2990000.0,07-12-2001
+Piet Heins Vej 29,Rungsted Kyst,2960,3,131,2002,2800000.0,27-11-2001
+Engvej 37A,Rungsted Kyst,2960,5,183,1974,3200000.0,15-11-2001
+Solvænget 27,Rungsted Kyst,2960,8,180,1968,3953000.0,04-11-2001
+Højskolevej 3,Rungsted Kyst,2960,7,190,1927,3481380.0,01-11-2001
+Helenevej 2,Rungsted Kyst,2960,7,139,1916,3467640.0,15-10-2001
+Bolbro Villavej 18,Rungsted Kyst,2960,10,241,1927,3125000.0,29-09-2001
+Sophienberg Vænge 7,Rungsted Kyst,2960,6,216,1953,3550000.0,28-09-2001
+Sophienberg Vænge 25,Rungsted Kyst,2960,7,173,1957,3096549.0,23-09-2001
+Knudsvej 31,Rungsted Kyst,2960,5,224,1962,2200000.0,18-09-2001
+Constantiavej 12,Rungsted Kyst,2960,5,141,1987,3133740.0,06-09-2001
+Rungstedvej 113,Rungsted Kyst,2960,8,220,1928,5150000.0,05-09-2001
+Sømandshvile Park 1B,Rungsted Kyst,2960,5,196,2002,2114566.0,03-09-2001
+Vallerød Banevej 3A,Rungsted Kyst,2960,8,261,1910,4250000.0,29-08-2001
+Sundtoften 12,Rungsted Kyst,2960,5,146,1976,3600000.0,25-08-2001
+Constantiavej 2B,Rungsted Kyst,2960,5,164,1974,3162950.0,21-08-2001
+Ved Hegnet 5,Rungsted Kyst,2960,4,100,1936,2964460.0,03-08-2001
+Valdemarsvej 17,Rungsted Kyst,2960,7,179,1960,3540000.0,02-08-2001
+Bolbrovej 43,Rungsted Kyst,2960,5,138,1957,2981900.0,01-08-2001
+Sømandshvile Park 1A,Rungsted Kyst,2960,9,236,1964,4050750.0,25-07-2001
+Rungsted Strandvej 197A,Rungsted Kyst,2960,7,267,1921,4900000.0,10-07-2001
+Bolbro Villavej 28,Rungsted Kyst,2960,9,256,1914,1825000.0,01-07-2001
+Sophienbergvej 55,Rungsted Kyst,2960,6,197,1978,3995000.0,22-06-2001
+Louise Park 18,Rungsted Kyst,2960,7,464,1974,6600000.0,20-06-2001
+Strandvænget 30,Rungsted Kyst,2960,8,269,1953,4024986.0,15-06-2001
+Sømandshvilevej 11,Rungsted Kyst,2960,5,143,1984,2607576.0,14-06-2001
+Bolbrohøj 6,Rungsted Kyst,2960,7,206,1973,2250000.0,13-06-2001
+Skovkysten 1,Rungsted Kyst,2960,5,208,1975,4890000.0,12-06-2001
+Sanskevej 4,Rungsted Kyst,2960,8,197,1916,2177356.0,11-06-2001
+Sophienbergvej 7,Rungsted Kyst,2960,7,259,1950,3928817.0,17-05-2001
+Helenevej 10,Rungsted Kyst,2960,6,134,1982,3748000.0,16-05-2001
+Bøgebakken 4,Rungsted Kyst,2960,6,140,1969,2250000.0,09-05-2001
+Bukkeballevej 41,Rungsted Kyst,2960,8,196,1935,2985920.0,09-05-2001
+Fuglevangsvej 4A,Rungsted Kyst,2960,7,213,1981,2950000.0,01-05-2001
+Constantiavej 8,Rungsted Kyst,2960,5,179,1974,3795000.0,30-04-2001
+Bolbrovej 44A,Rungsted Kyst,2960,6,203,1926,3125000.0,21-04-2001
+"Ewalds Have 8, 1. TV",Rungsted Kyst,2960,2,96,1978,2474232.0,23-03-2001
+Boganisvej 3,Rungsted Kyst,2960,7,244,1971,4420000.0,20-03-2001
+Højskolevej 5B,Rungsted Kyst,2960,5,151,1959,2648259.0,19-03-2001
+Østre Pennehavevej 3,Rungsted Kyst,2960,6,154,1922,3384520.0,18-03-2001
+Bukkeballevej 35,Rungsted Kyst,2960,6,167,1918,1800000.0,14-03-2001
+Gl Vallerødvej 39,Rungsted Kyst,2960,5,163,1965,2860000.0,09-03-2001
+Boganisvej 13,Rungsted Kyst,2960,6,215,1971,4850000.0,07-03-2001
+Solbakkevej 3,Rungsted Kyst,2960,4,91,1953,2300000.0,23-02-2001
+Vallerødgade 19F,Rungsted Kyst,2960,8,200,1970,3650000.0,20-02-2001
+Karen Blixens Vej 11,Rungsted Kyst,2960,5,187,1986,3425000.0,09-02-2001
+Rungsted Strandvej 73A,Rungsted Kyst,2960,7,210,1958,2487138.0,08-02-2001
+Bolbrovej 73,Rungsted Kyst,2960,7,208,1907,3975000.0,16-01-2001
+Tværvej 6,Rungsted Kyst,2960,7,254,1936,2709300.0,15-01-2001
+Piniehøj 10,Rungsted Kyst,2960,6,178,1969,4337000.0,08-01-2001
+Peder Oxes Vej 8,Rungsted Kyst,2960,5,163,1977,3265400.0,27-12-2000
+Bolbrovej 36A,Rungsted Kyst,2960,6,202,1966,2152420.0,14-12-2000
+Rungsted Strandvej 74,Rungsted Kyst,2960,5,187,1958,4053868.0,11-12-2000
+Helleholm 7,Rungsted Kyst,2960,5,152,1977,2355000.0,22-11-2000
+Solvænget 10,Rungsted Kyst,2960,6,145,1953,3371300.0,20-11-2000
+Hestehaven 4,Rungsted Kyst,2960,5,140,1937,2730000.0,20-11-2000
+Rungstedvej 50B,Rungsted Kyst,2960,4,168,1999,4300000.0,11-11-2000
+Ved Hegnet 6,Rungsted Kyst,2960,7,142,1947,2566544.0,17-10-2000
+Skovgrænsen 7,Rungsted Kyst,2960,7,213,1977,3499200.0,14-10-2000
+Strandvænget 5,Rungsted Kyst,2960,5,175,1958,3266992.0,05-10-2000
+Solvænget 12,Rungsted Kyst,2960,8,219,1939,3488785.0,21-09-2000
+Kildevej 23,Rungsted Kyst,2960,4,114,1945,2560442.0,20-09-2000
+Vallerødgade 19D,Rungsted Kyst,2960,6,143,1999,3884645.0,08-09-2000
+Bukkeballevej 8,Rungsted Kyst,2960,7,187,1977,2837870.0,22-08-2000
+Bolbrodalen 6,Rungsted Kyst,2960,5,202,1973,2989540.0,09-08-2000
+Sophienberg Vænge 22,Rungsted Kyst,2960,5,159,2002,1900000.0,08-08-2000
+Bolbrovej 121,Rungsted Kyst,2960,6,134,1955,2025000.0,06-08-2000
+Karen Blixens Vej 38,Rungsted Kyst,2960,5,160,1986,2892457.0,03-08-2000
+Margrethevej 3,Rungsted Kyst,2960,6,219,1927,3100000.0,21-07-2000
+Christiansgave 41,Rungsted Kyst,2960,4,135,1956,2600000.0,20-07-2000
+Hulsøvang 20,Rungsted Kyst,2960,4,107,1960,2185000.0,10-07-2000
+Bøgebakken 3,Rungsted Kyst,2960,6,125,1967,2399950.0,09-07-2000
+Helleholm 37,Rungsted Kyst,2960,5,152,1977,2797446.0,24-06-2000
+Bolbrovænge 19B,Rungsted Kyst,2960,7,220,1933,3300000.0,16-06-2000
+"Pennehave 14, 1",Rungsted Kyst,2960,3,104,1900,1450000.0,15-06-2000
+Solvænget 16,Rungsted Kyst,2960,7,250,1956,5083331.0,13-06-2000
+Hannelundsvej 4,Rungsted Kyst,2960,10,290,1934,5000000.0,11-06-2000
+Kildevej 17,Rungsted Kyst,2960,8,201,1954,2899948.0,09-06-2000
+Piniehøj 21,Rungsted Kyst,2960,4,121,1960,1870000.0,07-06-2000
+"Østre Pennehavevej 1D, ST",Rungsted Kyst,2960,2,255,1933,1300894.0,31-05-2000
+Svendsvej 4,Rungsted Kyst,2960,6,152,1926,3644000.0,17-05-2000
+Bolbro Villavej 9A,Rungsted Kyst,2960,7,209,1976,1150000.0,10-05-2000
+Dreyersvej 25,Rungsted Kyst,2960,7,220,1951,3763407.0,02-05-2000
+Doktorvænget 7,Rungsted Kyst,2960,7,275,1972,3763000.0,27-04-2000
+Bolbrovænge 11,Rungsted Kyst,2960,3,102,1956,2250000.0,26-04-2000
+Bukkeballevej 38,Rungsted Kyst,2960,8,200,1936,3179000.0,12-04-2000
+Sømandshvile Park 9,Rungsted Kyst,2960,4,155,1984,2960000.0,12-04-2000
+Enghave 35,Rungsted Kyst,2960,6,165,1951,2800000.0,07-04-2000
+Enghave 30,Rungsted Kyst,2960,8,199,1953,2100000.0,06-04-2000
+Rungsted Strandvej 155,Rungsted Kyst,2960,9,281,1904,3272500.0,27-03-2000
+Hulsøvang 9A,Rungsted Kyst,2960,5,126,1966,2200000.0,21-03-2000
+Piniehøj 1,Rungsted Kyst,2960,5,148,1961,2750000.0,10-03-2000
+Skovfogedvej 8,Rungsted Kyst,2960,7,216,1975,4004000.0,01-02-2000
+Solholt 3,Rungsted Kyst,2960,7,178,1965,2712000.0,24-01-2000
+Sophienberg Vænge 35,Rungsted Kyst,2960,6,212,2010,1487500.0,24-01-2000
+Enghave 32,Rungsted Kyst,2960,6,170,1954,1800000.0,20-01-2000
+"Højskolevej 14, ST",Rungsted Kyst,2960,7,220,1896,2547980.0,19-01-2000
+Sundtoften 15,Rungsted Kyst,2960,5,209,1975,3250000.0,13-01-2000
+Nøddehegnet 3,Rungsted Kyst,2960,7,163,1951,3548800.0,12-01-2000
+Gormsvej 3,Rungsted Kyst,2960,6,177,1971,2744000.0,30-12-1999
+Sophienbergvej 1,Rungsted Kyst,2960,8,245,1936,4750000.0,22-12-1999
+Vallerødgade 34A,Rungsted Kyst,2960,6,186,1990,3342220.0,21-12-1999
+Hannelundsvej 9,Rungsted Kyst,2960,5,157,1954,2450000.0,21-12-1999
+Vestre Pennehavevej 2,Rungsted Kyst,2960,8,256,1903,1750000.0,16-12-1999
+Hulsøvang 23,Rungsted Kyst,2960,5,243,1956,2323250.0,10-12-1999
+Louis Petersensvej 18,Rungsted Kyst,2960,10,500,1930,7050000.0,05-12-1999
+"Rungstedvej 74, 3. TV",Rungsted Kyst,2960,5,115,1936,1307457.0,02-11-1999
+Dreyersvej 16,Rungsted Kyst,2960,7,222,1925,3461596.0,28-10-1999
+Vallerød Banevej 27,Rungsted Kyst,2960,6,185,1935,1955000.0,28-10-1999
+Bel Colles Alle 5,Rungsted Kyst,2960,8,314,1917,2720000.0,22-10-1999
+Vallerød Banevej 15C,Rungsted Kyst,2960,4,170,1973,2775000.0,17-10-1999
+Engvej 40,Rungsted Kyst,2960,6,174,1961,2828000.0,07-10-1999
+Piniehøj 9,Rungsted Kyst,2960,7,161,1961,2869540.0,05-10-1999
+Østre Pennehavevej 18,Rungsted Kyst,2960,4,168,1963,3175000.0,01-10-1999
+Karen Blixens Vej 10,Rungsted Kyst,2960,4,175,1972,3100000.0,01-10-1999
+Bolbrovænge 5,Rungsted Kyst,2960,6,240,1950,2955025.0,27-09-1999
+Ewaldsvej 21,Rungsted Kyst,2960,3,85,1926,1909227.0,17-09-1999
+Enghave 11,Rungsted Kyst,2960,6,223,1942,3200447.0,05-09-1999
+Solbrinken 3,Rungsted Kyst,2960,12,263,1968,3492287.0,12-08-1999
+Ulvemosevej 2,Rungsted Kyst,2960,6,142,1902,2295021.0,12-08-1999
+Birgitte Gøyes Vej 1,Rungsted Kyst,2960,5,206,1977,2823000.0,12-08-1999
+Nøddehegnet 6,Rungsted Kyst,2960,6,233,2008,1000000.0,11-08-1999
+Gl Vallerødvej 37,Rungsted Kyst,2960,4,122,1965,2050000.0,09-08-1999
+Langebakken 4,Rungsted Kyst,2960,7,171,1960,3500000.0,07-08-1999
+Højagervej 18,Rungsted Kyst,2960,6,182,1959,1816000.0,03-08-1999
+Vestre Pennehavevej 11,Rungsted Kyst,2960,5,131,1978,1800000.0,08-07-1999
+Sophienberg Vænge 36,Rungsted Kyst,2960,7,242,1974,3276000.0,06-07-1999
+Vallerødgade 2,Rungsted Kyst,2960,6,217,1877,3500000.0,28-06-1999
+Engvej 19,Rungsted Kyst,2960,7,273,2003,1985000.0,27-06-1999
+Bolbro Sidevej 7,Rungsted Kyst,2960,6,159,1906,1000000.0,06-06-1999
+Bukkeballevej 17,Rungsted Kyst,2960,9,154,1954,1900000.0,01-06-1999
+Kildevej 5,Rungsted Kyst,2960,5,154,1993,3055414.0,27-05-1999
+Bolbrovej 81,Rungsted Kyst,2960,5,176,1939,2009331.0,24-05-1999
+Constantiaparken 3B,Rungsted Kyst,2960,4,185,1987,2534954.0,20-05-1999
+Kildevej 20,Rungsted Kyst,2960,8,241,1938,3545299.0,19-05-1999
+Valdemarsvej 1,Rungsted Kyst,2960,7,213,1925,3750000.0,10-05-1999
+Christiansgave 8,Rungsted Kyst,2960,4,118,1956,2193669.0,09-05-1999
+Ewaldsvej 16A,Rungsted Kyst,2960,6,200,1956,1175000.0,03-05-1999
+Enghave 33B,Rungsted Kyst,2960,4,135,1985,2797820.0,02-05-1999
+Bolbrohøj 16,Rungsted Kyst,2960,6,163,1980,4516666.0,25-04-1999
+Enghave 10,Rungsted Kyst,2960,7,171,1939,2599938.0,21-04-1999
+Sophienbergvej 27,Rungsted Kyst,2960,6,215,1978,2840000.0,21-04-1999
+Vallerødgade 19C,Rungsted Kyst,2960,5,126,1954,2625000.0,28-03-1999
+Bukkeballevej 34,Rungsted Kyst,2960,7,436,1938,5057275.0,01-03-1999
+Rungstedvej 85,Rungsted Kyst,2960,5,160,1957,2925000.0,17-02-1999
+Karen Blixens Vej 12,Rungsted Kyst,2960,7,208,1979,2950000.0,16-02-1999
+Sophienberg Vænge 54,Rungsted Kyst,2960,6,152,1993,3203000.0,27-01-1999
+Folehavevej 72,Rungsted Kyst,2960,7,163,1897,1727530.0,17-01-1999
+Ewaldsvej 5,Rungsted Kyst,2960,7,188,1934,2825000.0,30-12-1998
+Piniehøj 22,Rungsted Kyst,2960,7,131,1960,2914676.0,24-12-1998
+Peder Oxes Vej 5,Rungsted Kyst,2960,6,176,1979,3118000.0,21-12-1998
+Sophienbergvej 41,Rungsted Kyst,2960,6,197,1978,2649996.0,27-11-1998
+"Ulvemosen 18, 1",Rungsted Kyst,2960,3,100,1981,1800000.0,11-11-1998
+Solbrinken 8,Rungsted Kyst,2960,9,216,1972,3284623.0,30-10-1998
+Margrethevej 4,Rungsted Kyst,2960,6,144,1935,1900000.0,25-10-1998
+Skovridervej 8,Rungsted Kyst,2960,4,164,1979,3601641.0,10-10-1998
+"Bolbro Villavej 2B, ST. TH",Rungsted Kyst,2960,4,118,1978,1900000.0,04-09-1998
+Rungstedvej 115,Rungsted Kyst,2960,6,172,1933,2650000.0,23-08-1998
+"Ulvemosen 14, 1",Rungsted Kyst,2960,3,100,1981,1020000.0,24-07-1998
+Dreyersvej 5,Rungsted Kyst,2960,5,185,1950,2325000.0,17-07-1998
+Margrethevej 11,Rungsted Kyst,2960,8,230,1938,3779082.0,13-07-1998
+Cristinavej 1,Rungsted Kyst,2960,4,222,1974,3246000.0,14-06-1998
+Sømandshvile Park 15,Rungsted Kyst,2960,4,155,1984,2400000.0,04-06-1998
+Margrethevej 7,Rungsted Kyst,2960,6,226,1930,3877893.0,01-06-1998
+Bukkeballevej 73,Rungsted Kyst,2960,4,105,1933,1300000.0,12-05-1998
+"Ulvemosen 6, ST",Rungsted Kyst,2960,3,96,1981,977000.0,11-05-1998
+Drosselvej 8,Rungsted Kyst,2960,7,193,1954,2574428.0,04-05-1998
+Bolbrovej 90,Rungsted Kyst,2960,6,150,1952,2348340.0,30-04-1998
+Christiansgave 6,Rungsted Kyst,2960,4,115,1956,1544998.0,30-03-1998
+"Ewalds Have 2, ST. TH",Rungsted Kyst,2960,3,113,1978,1845858.0,08-03-1998
+Hestehaven 15,Rungsted Kyst,2960,8,233,1985,3316179.0,08-02-1998
+Bolbrovej 70,Rungsted Kyst,2960,10,243,1850,2820000.0,01-02-1998
+Bel Colles Alle 2C,Rungsted Kyst,2960,6,176,1984,2207000.0,01-02-1998
+Bolbrovej 48B,Rungsted Kyst,2960,8,185,1918,2388576.0,19-01-1998
+Rungsted Strandvej 45,Rungsted Kyst,2960,11,314,1936,6814153.0,16-01-1998
+Hestehaven 21,Rungsted Kyst,2960,6,191,2008,1524001.0,14-12-1997
+Rungstedvej 82,Rungsted Kyst,2960,5,262,1925,3400000.0,11-12-1997
+Bolbro Villavej 5,Rungsted Kyst,2960,6,147,1904,2027000.0,01-12-1997
+Sophienberg Vænge 55,Rungsted Kyst,2960,4,140,1950,2680000.0,25-11-1997
+Vestre Pennehavevej 9,Rungsted Kyst,2960,5,132,1978,1882000.0,25-11-1997
+Bolbrovej 66,Rungsted Kyst,2960,5,110,1950,1190000.0,01-11-1997
+Christiansgave 22,Rungsted Kyst,2960,5,115,1956,1540000.0,29-10-1997
+Bukkeballevej 47,Rungsted Kyst,2960,8,209,1937,2849605.0,26-10-1997
+Gl Vallerødvej 38,Rungsted Kyst,2960,4,127,1960,1623126.0,22-10-1997
+Louis Petersensvej 2,Rungsted Kyst,2960,8,262,1907,3600000.0,14-10-1997
+Rungsted Strandvej 85,Rungsted Kyst,2960,10,276,1917,4050000.0,12-10-1997
+Bolbrovej 87B,Rungsted Kyst,2960,4,115,1984,2042760.0,03-10-1997
+Constantiaparken 16,Rungsted Kyst,2960,4,170,1969,1800000.0,03-10-1997
+Ved Hegnet 30,Rungsted Kyst,2960,6,214,1937,2958917.0,25-09-1997
+Enghave 23,Rungsted Kyst,2960,4,173,1969,2068000.0,15-09-1997
+Lykkevej 1,Rungsted Kyst,2960,6,201,2006,1917590.0,15-09-1997
+Østre Pennehavevej 14,Rungsted Kyst,2960,6,208,1951,1770360.0,10-09-1997
+Hannelundsvej 10,Rungsted Kyst,2960,6,140,1918,1402500.0,08-09-1997
+Valdemarsvej 44,Rungsted Kyst,2960,4,114,1954,1570000.0,28-08-1997
+Dreyersvej 38,Rungsted Kyst,2960,7,198,1918,3988301.0,14-08-1997
+Louise Park 14,Rungsted Kyst,2960,7,209,1975,3338410.0,12-08-1997
+Dreyersvej 18,Rungsted Kyst,2960,5,155,1904,2610000.0,09-08-1997
+Rungstedvej 97,Rungsted Kyst,2960,6,170,1928,3060078.0,07-08-1997
+Rungsted Strandvej 78,Rungsted Kyst,2960,8,399,1896,5125000.0,01-08-1997
+Bukkeballevej 53A,Rungsted Kyst,2960,4,136,1979,1817494.0,31-07-1997
+Helleholm 23,Rungsted Kyst,2960,5,152,1977,2012000.0,31-07-1997
+Sophienbergvej 4,Rungsted Kyst,2960,6,158,1936,2430000.0,29-07-1997
+Ewaldsvej 4,Rungsted Kyst,2960,5,130,1934,2023124.0,20-07-1997
+Solholt 6,Rungsted Kyst,2960,5,145,1973,1800000.0,14-07-1997
+Sømandshvilevej 27,Rungsted Kyst,2960,4,155,1984,2122798.0,09-07-1997
+Enghave 27,Rungsted Kyst,2960,6,161,1941,2983578.0,01-07-1997
+Skovfogedvej 4,Rungsted Kyst,2960,6,201,1977,2655000.0,09-06-1997
+Dreyersvej 34,Rungsted Kyst,2960,11,290,1916,4673165.0,08-06-1997
+Strandvænget 18,Rungsted Kyst,2960,6,209,1958,1277580.0,02-06-1997
+Solbrinken 1,Rungsted Kyst,2960,7,168,1968,2438115.0,01-06-1997
+Sophienbergvej 10,Rungsted Kyst,2960,5,155,1951,1909155.0,30-05-1997
+Esbern Snares Vej 3,Rungsted Kyst,2960,7,218,1972,1750000.0,27-05-1997
+Solvænget 28,Rungsted Kyst,2960,6,216,1968,3034070.0,23-05-1997
+Constantiaparken 26,Rungsted Kyst,2960,4,161,1971,2779849.0,16-05-1997
+Valdemarsvej 38,Rungsted Kyst,2960,4,127,1961,1020000.0,06-05-1997
+Margrethevej 9,Rungsted Kyst,2960,6,183,1936,2137000.0,27-04-1997
+Esbern Snares Vej 9,Rungsted Kyst,2960,5,160,1970,2047525.0,24-03-1997
+Kildevej 24,Rungsted Kyst,2960,6,123,1938,443918.0,16-03-1997
+Engtoften 1,Rungsted Kyst,2960,7,205,1997,3014375.0,13-03-1997
+Bolbrovænge 9A,Rungsted Kyst,2960,7,203,1974,2085000.0,03-03-1997
+Bukkeballevej 13A,Rungsted Kyst,2960,6,209,1972,1920000.0,02-03-1997
+Knudsvej 3,Rungsted Kyst,2960,7,210,1910,1401000.0,25-02-1997
+Bukkeballevej 58A,Rungsted Kyst,2960,6,210,1936,2514154.0,31-01-1997
+Helenevej 8,Rungsted Kyst,2960,7,172,1917,2371933.0,30-01-1997
+Bukkeballevej 66,Rungsted Kyst,2960,6,207,1936,2502242.0,27-01-1997
+Esbern Snares Vej 7,Rungsted Kyst,2960,7,156,1973,248534.0,17-01-1997
+Kastanievej 10,Rungsted Kyst,2960,7,230,1906,1850000.0,12-01-1997
+Spejderbakken 11,Rungsted Kyst,2960,7,240,2010,1402500.0,17-12-1996
+Rungsted Strandvej 191,Rungsted Kyst,2960,10,334,1934,4650000.0,13-12-1996
+Vallerødvænge 14,Rungsted Kyst,2960,7,204,1979,1970000.0,12-12-1996
+Rungstedvej 117,Rungsted Kyst,2960,5,219,1934,3000000.0,12-12-1996
+Bukkeballevej 70,Rungsted Kyst,2960,3,115,1936,1200000.0,04-12-1996
+Engvej 6C,Rungsted Kyst,2960,5,170,1973,2925496.0,26-11-1996
+Bolbrovej 47,Rungsted Kyst,2960,5,190,1966,2247500.0,24-11-1996
+Strandvænget 43,Rungsted Kyst,2960,4,115,1955,1860000.0,18-11-1996
+Bolbro Villavej 1B,Rungsted Kyst,2960,7,204,1933,2033000.0,15-11-1996
+Sømandshvilevej 21,Rungsted Kyst,2960,5,143,1984,1708000.0,04-10-1996
+Engtoften 5,Rungsted Kyst,2960,6,174,1998,650000.0,01-10-1996
+Bolbrovej 39,Rungsted Kyst,2960,9,281,1998,1064000.0,30-09-1996
+Constantiavej 4B,Rungsted Kyst,2960,5,203,1986,3575000.0,03-09-1996
+Boganisvej 15,Rungsted Kyst,2960,4,178,1974,3011000.0,02-09-1996
+Hannelundsvej 12,Rungsted Kyst,2960,5,135,1998,2960000.0,01-09-1996
+Fuglevangsvej 1,Rungsted Kyst,2960,7,321,1944,3467000.0,26-08-1996
+Piniehøj 16,Rungsted Kyst,2960,3,160,1964,5300000.0,23-08-1996
+Bolbrovænge 3,Rungsted Kyst,2960,8,246,1953,1650000.0,18-08-1996
+Spejderbakken 4,Rungsted Kyst,2960,3,125,1997,850000.0,24-07-1996
+Engvej 28,Rungsted Kyst,2960,5,208,1984,2875535.0,20-06-1996
+Valdemarsvej 16,Rungsted Kyst,2960,5,115,1956,1370000.0,10-06-1996
+Vallerødgade 4A,Rungsted Kyst,2960,6,193,1910,2432000.0,08-06-1996
+Vallerødgade 17,Rungsted Kyst,2960,7,220,1911,1811435.0,06-06-1996
+Rungstedvej 105,Rungsted Kyst,2960,6,156,1919,1820000.0,23-05-1996
+Rungsted Strandvej 72,Rungsted Kyst,2960,7,228,1957,3900000.0,30-04-1996
+Bolbrovej 12,Rungsted Kyst,2960,5,186,1986,3103000.0,25-04-1996
+Rungsted Strandvej 199B,Rungsted Kyst,2960,8,140,1907,3200000.0,23-04-1996
+Constantiaparken 6,Rungsted Kyst,2960,5,163,1970,1500000.0,22-04-1996
+Engtoften 7,Rungsted Kyst,2960,4,240,1997,650000.0,11-04-1996
+Louis Petersensvej 22,Rungsted Kyst,2960,6,178,1918,2199400.0,08-04-1996
+Kirkevej 7,Rungsted Kyst,2960,6,128,1918,1330000.0,01-04-1996
+Ewaldsvej 22,Rungsted Kyst,2960,6,152,1952,1700000.0,31-03-1996
+Bukkeballevej 2E,Rungsted Kyst,2960,5,117,1960,555000.0,28-03-1996
+Strandvænget 16,Rungsted Kyst,2960,8,175,1958,1370000.0,28-03-1996
+Karen Blixens Vej 32,Rungsted Kyst,2960,5,160,1986,1802000.0,18-03-1996
+Solholt 5,Rungsted Kyst,2960,5,137,1966,1070000.0,04-02-1996
+Sophienberg Vænge 6,Rungsted Kyst,2960,6,195,1952,1233175.0,22-12-1995
+Dreyersvej 11,Rungsted Kyst,2960,6,184,1996,3277000.0,21-12-1995
+Helleholm 9,Rungsted Kyst,2960,5,176,1976,1535000.0,18-12-1995
+Bolbrovej 25,Rungsted Kyst,2960,5,172,1951,1823681.0,15-12-1995
+Strandvænget 14,Rungsted Kyst,2960,6,160,1958,1367000.0,07-12-1995
+Strandvænget 10,Rungsted Kyst,2960,6,162,1959,1230000.0,23-11-1995
+Esbern Snares Vej 6,Rungsted Kyst,2960,5,187,1971,2150500.0,12-11-1995
+Byskellet 6,Rungsted Kyst,2960,3,105,1959,487500.0,16-10-1995
+Karen Blixens Vej 18,Rungsted Kyst,2960,6,177,1996,3007000.0,15-10-1995
+Bolbro Sidevej 5B,Rungsted Kyst,2960,5,112,1996,1526000.0,06-10-1995
+Lykkevej 3,Rungsted Kyst,2960,6,140,1934,1359400.0,11-09-1995
+Bolbrovej 17,Rungsted Kyst,2960,7,202,1922,1716480.0,06-09-1995
+Constantiaparken 3A,Rungsted Kyst,2960,6,174,1930,1408000.0,20-08-1995
+Hulsøvang 16,Rungsted Kyst,2960,8,296,1957,547172.0,17-08-1995
+Bolbrovej 27B,Rungsted Kyst,2960,5,160,1943,746348.0,05-08-1995
+Rungsted Strandvej 97,Rungsted Kyst,2960,4,140,1913,241250.0,26-07-1995
+Sanskevej 15A,Rungsted Kyst,2960,6,181,1988,2695000.0,24-07-1995
+Solvænget 15,Rungsted Kyst,2960,6,196,1981,2100000.0,16-07-1995
+Bøgebakken 9,Rungsted Kyst,2960,7,152,1966,1587369.0,28-06-1995
+Bolbrovænge 4C,Rungsted Kyst,2960,6,190,1995,2790000.0,28-06-1995
+Rungstedvej 47,Rungsted Kyst,2960,7,124,1900,1581250.0,27-06-1995
+Dreyersvej 24,Rungsted Kyst,2960,6,286,1912,2678000.0,17-06-1995
+Enghave 29,Rungsted Kyst,2960,9,215,1934,1245000.0,06-06-1995
+Kildevej 13,Rungsted Kyst,2960,5,134,1953,1185000.0,29-05-1995
+Rungsted Strandvej 197B,Rungsted Kyst,2960,6,193,1976,1838000.0,28-05-1995
+Bolbro Sidevej 2B,Rungsted Kyst,2960,9,309,1926,2013937.0,03-05-1995
+Vallerødgade 21,Rungsted Kyst,2960,4,180,1957,1855800.0,01-05-1995
+Sømandshvile Park 5,Rungsted Kyst,2960,4,155,1984,1749000.0,26-04-1995
+Højagervej 12,Rungsted Kyst,2960,5,244,1980,2456837.0,10-04-1995
+Strandvænget 12,Rungsted Kyst,2960,5,113,1957,1280000.0,20-03-1995
+Enghave 21B,Rungsted Kyst,2960,5,129,1960,1577000.0,06-03-1995
+Birkedalen 6,Rungsted Kyst,2960,4,123,1959,1305400.0,19-02-1995
+Knudsvej 18,Rungsted Kyst,2960,6,191,1916,1098600.0,29-01-1995
+Lange-Müllers Alle 20,Rungsted Kyst,2960,6,226,1977,2402526.0,19-01-1995
+Tværvej 4,Rungsted Kyst,2960,6,146,1936,1630000.0,01-01-1995
+Birkedalen 11,Rungsted Kyst,2960,6,124,1963,1356633.0,28-12-1994
+Vallerød Banevej 26,Rungsted Kyst,2960,6,228,1910,2250000.0,20-12-1994
+Rungsted Strandvej 88,Rungsted Kyst,2960,4,379,1982,9600000.0,29-11-1994
+Helleholm 21,Rungsted Kyst,2960,5,152,1977,1515000.0,15-11-1994
+Bolbrovej 21,Rungsted Kyst,2960,9,240,1949,2485000.0,09-11-1994
+Rungsted Strandvej 51,Rungsted Kyst,2960,8,204,1971,1787000.0,06-11-1994
+"Ulvemosen 8, ST",Rungsted Kyst,2960,3,100,1981,1219130.0,04-11-1994
+Louis Petersensvej 7,Rungsted Kyst,2960,3,123,1935,1332600.0,28-10-1994
+Sundtoften 10,Rungsted Kyst,2960,5,178,1977,2068000.0,03-10-1994
+Højskolevej 15,Rungsted Kyst,2960,7,160,1978,1410000.0,02-10-1994
+Sophienberg Vænge 12,Rungsted Kyst,2960,7,179,1959,761000.0,25-09-1994
+Piniehøj 23,Rungsted Kyst,2960,10,315,1961,4000000.0,23-09-1994
+Solvænget 20,Rungsted Kyst,2960,3,176,1943,1186532.0,19-09-1994
+Sømandshvilevej 13,Rungsted Kyst,2960,4,143,1984,1595000.0,18-09-1994
+Bolbrovej 99,Rungsted Kyst,2960,6,169,1957,1380000.0,16-09-1994
+Knudsvej 13,Rungsted Kyst,2960,7,193,1971,2280000.0,02-09-1994
+Kildevej 21,Rungsted Kyst,2960,6,170,1937,1521518.0,30-08-1994
+Christiansgave 52,Rungsted Kyst,2960,5,263,1918,3450000.0,30-08-1994
+Bolbro Villavej 8,Rungsted Kyst,2960,7,162,1934,1050000.0,21-08-1994
+Bolbrovej 44B,Rungsted Kyst,2960,4,140,1961,1386940.0,17-08-1994
+Strandvænget 7,Rungsted Kyst,2960,7,142,1953,1505297.0,11-08-1994
+Rungsted Strandvej 92,Rungsted Kyst,2960,8,270,1898,5201498.0,28-07-1994
+Drosselvej 4,Rungsted Kyst,2960,4,156,1954,1360998.0,20-07-1994
+"Dreyersvej 10, 2",Rungsted Kyst,2960,5,175,1903,1525000.0,14-07-1994
+Bel Colles Alle 3,Rungsted Kyst,2960,8,250,1915,3065000.0,07-07-1994
+Bukkeballevej 40A,Rungsted Kyst,2960,9,248,1905,1480000.0,15-06-1994
+Vallerød Banevej 38,Rungsted Kyst,2960,7,249,1935,1599000.0,08-06-1994
+"Dreyersvej 10, 1",Rungsted Kyst,2960,5,200,1903,1900000.0,30-05-1994
+Gormsvej 1,Rungsted Kyst,2960,6,205,1971,2288025.0,29-05-1994
+Vallerød Banevej 12,Rungsted Kyst,2960,7,246,1912,1563550.0,26-05-1994
+Kastanievej 4,Rungsted Kyst,2960,10,224,1918,1960000.0,22-05-1994
+Engvej 41,Rungsted Kyst,2960,8,238,1965,2201480.0,05-04-1994
+Birkedalen 13,Rungsted Kyst,2960,7,163,1964,1056145.0,03-04-1994
+Langebakken 10,Rungsted Kyst,2960,5,177,1958,2032500.0,12-03-1994
+Svendsvej 7,Rungsted Kyst,2960,5,158,1954,1800000.0,21-02-1994
+Folehavevej 151B,Rungsted Kyst,2960,4,208,1974,1676000.0,09-02-1994
+Sophienbergvej 28,Rungsted Kyst,2960,6,207,1976,2446360.0,08-02-1994
+Enghave 33C,Rungsted Kyst,2960,5,144,1981,1146500.0,04-02-1994
+Vallerød Banevej 4,Rungsted Kyst,2960,6,223,1931,1700000.0,02-02-1994
+Rungsted Strandvej 84A,Rungsted Kyst,2960,6,206,1915,700000.0,22-12-1993
+Hulsø Ege 13,Rungsted Kyst,2960,5,187,1982,791000.0,06-12-1993
+"Ulvemosen 16, 1",Rungsted Kyst,2960,4,100,1981,1146480.0,01-12-1993
+Bukkeballevej 29B,Rungsted Kyst,2960,8,193,1918,2200000.0,03-11-1993
+Valdemarsvej 20,Rungsted Kyst,2960,3,88,1948,695000.0,30-10-1993
+Vallerød Banevej 3B,Rungsted Kyst,2960,7,195,1952,3500000.0,29-10-1993
+Bukkeballevej 4,Rungsted Kyst,2960,11,372,1907,2056800.0,28-10-1993
+Bukkeballevej 16,Rungsted Kyst,2960,5,214,1952,1500000.0,26-10-1993
+Rungsted Strandvej 175A,Rungsted Kyst,2960,4,212,1995,775000.0,19-10-1993
+Ulvemosevej 9,Rungsted Kyst,2960,7,234,1900,2780282.0,18-10-1993
+Lange-Müllers Alle 32,Rungsted Kyst,2960,8,257,1979,1830000.0,04-10-1993
+"Ulvemosen 8, 1. TV",Rungsted Kyst,2960,3,96,1981,1077000.0,01-10-1993
+Lange-Müllers Alle 6,Rungsted Kyst,2960,4,172,1977,1700000.0,03-09-1993
+Rungsted Strandvej 175B,Rungsted Kyst,2960,5,196,1994,835000.0,27-08-1993
+Christiansgave 14,Rungsted Kyst,2960,5,130,1956,1275000.0,23-08-1993
+Skovgrænsen 2,Rungsted Kyst,2960,4,164,1976,1770000.0,23-08-1993
+Hulsø Ege 15,Rungsted Kyst,2960,5,187,1982,527174.0,08-08-1993
+Drosselvej 11,Rungsted Kyst,2960,4,145,1957,1288800.0,01-08-1993
+"Ulvemosen 4, ST",Rungsted Kyst,2960,3,96,1981,1015380.0,31-07-1993
+Sophienberg Vænge 48,Rungsted Kyst,2960,5,190,1954,691797.0,23-07-1993
+Engvej 20B,Rungsted Kyst,2960,7,229,1968,823000.0,22-07-1993
+Rungsted Strandvej 161,Rungsted Kyst,2960,5,230,1963,1900000.0,11-07-1993
+Bukkeballevej 23B,Rungsted Kyst,2960,8,291,1905,1775000.0,01-07-1993
+Louise Park 20,Rungsted Kyst,2960,7,303,1974,3000000.0,27-06-1993
+Ewaldsvej 1,Rungsted Kyst,2960,8,206,1927,2000000.0,27-06-1993
+Bolbro Villavej 11B,Rungsted Kyst,2960,4,101,1949,1280800.0,15-06-1993
+Bolbrovænge 29,Rungsted Kyst,2960,8,273,1971,2475000.0,13-06-1993
+Ewaldsvej 20,Rungsted Kyst,2960,5,158,1955,1365000.0,08-06-1993
+Løvvænget 13,Rungsted Kyst,2960,5,154,1970,1439519.0,02-06-1993
+Bolbrovej 9,Rungsted Kyst,2960,9,219,1917,1238038.0,30-05-1993
+Rungstedvej 139,Rungsted Kyst,2960,6,164,1852,1380000.0,04-05-1993
+Kildevej 2B,Rungsted Kyst,2960,6,195,1984,900000.0,18-04-1993
+Bolbrovej 34A,Rungsted Kyst,2960,4,140,1960,800000.0,14-04-1993
+Vallerødgade 18A,Rungsted Kyst,2960,5,154,1975,1390000.0,17-03-1993
+Vallerødgade 15A,Rungsted Kyst,2960,7,205,1969,1603000.0,25-02-1993
+Valdemarsvej 18,Rungsted Kyst,2960,4,120,1959,651000.0,25-02-1993
+"Ewalds Have 12, 1. TV",Rungsted Kyst,2960,4,129,1978,1293000.0,20-01-1993
+Sømandshvile Park 33,Rungsted Kyst,2960,4,155,1984,1247545.0,08-01-1993
+Bukkeballevej 86A,Rungsted Kyst,2960,4,185,1942,1450000.0,22-12-1992
+Gl Vallerødvej 30A,Rungsted Kyst,2960,6,230,1903,1345000.0,03-11-1992
+Sanskevej 9B,Rungsted Kyst,2960,6,200,1930,1625000.0,28-10-1992
+Sømandshvilevej 35,Rungsted Kyst,2960,4,155,1984,1481939.0,27-10-1992
+Dreyersvej 30,Rungsted Kyst,2960,7,196,1902,1415000.0,23-10-1992
+Bolbrovænge 7,Rungsted Kyst,2960,8,270,1954,2965576.0,03-10-1992
+Kildevej 22,Rungsted Kyst,2960,4,80,1943,600000.0,01-10-1992
+Østre Pennehavevej 2,Rungsted Kyst,2960,6,223,1920,1600000.0,20-09-1992
+Piniehøj 15,Rungsted Kyst,2960,4,160,1966,3050000.0,16-09-1992
+Vallerød Banevej 7B,Rungsted Kyst,2960,5,148,1966,1449600.0,23-08-1992
+Helleholm 45,Rungsted Kyst,2960,5,152,1977,1282000.0,18-08-1992
+Engvej 6D,Rungsted Kyst,2960,3,174,1958,1225000.0,08-08-1992
+Solbakkevej 10,Rungsted Kyst,2960,5,204,2014,936000.0,03-08-1992
+Bolbro Sidevej 4,Rungsted Kyst,2960,5,112,1900,890000.0,02-08-1992
+Sømandshvilevej 7,Rungsted Kyst,2960,5,143,1984,625000.0,30-07-1992
+Solbakkevej 8,Rungsted Kyst,2960,6,157,1933,1047000.0,30-07-1992
+Bolbro Villavej 2D,Rungsted Kyst,2960,4,108,1955,1010090.0,21-07-1992
+Vallerød Banevej 32,Rungsted Kyst,2960,4,117,1924,880000.0,14-07-1992
+Kirkevej 2B,Rungsted Kyst,2960,4,156,1988,1091477.0,27-06-1992
+Linstowsvej 11,Rungsted Kyst,2960,7,162,1903,550000.0,22-06-1992
+Sophienbergvej 35,Rungsted Kyst,2960,6,200,1978,2275430.0,14-06-1992
+Sømandshvilevej 23,Rungsted Kyst,2960,4,125,1983,1123565.0,12-06-1992
+Langebakken 3,Rungsted Kyst,2960,10,259,1969,2700000.0,10-06-1992
+Karen Blixens Vej 34,Rungsted Kyst,2960,5,185,1986,1667214.0,01-06-1992
+Bukkeballevej 50,Rungsted Kyst,2960,6,176,1949,2316000.0,31-05-1992
+Sophienbergvej 45,Rungsted Kyst,2960,6,197,1978,1846030.0,27-05-1992
+Knudsvej 21,Rungsted Kyst,2960,3,91,1913,775000.0,14-05-1992
+Kildevej 28,Rungsted Kyst,2960,5,231,1953,1530000.0,10-05-1992
+Strandvænget 4,Rungsted Kyst,2960,5,154,1964,1600000.0,07-05-1992
+Blochs Vænge 3,Rungsted Kyst,2960,7,187,1930,1065450.0,03-05-1992
+Rungstedvej 71B,Rungsted Kyst,2960,4,122,1978,1050000.0,27-04-1992
+Karen Blixens Vej 25,Rungsted Kyst,2960,5,186,1986,605625.0,21-04-1992
+Engvej 22B,Rungsted Kyst,2960,3,117,1969,975000.0,06-04-1992
+Thyrasvej 9,Rungsted Kyst,2960,5,166,1969,1747517.0,30-03-1992
+Strandvænget 6,Rungsted Kyst,2960,5,151,1955,1066000.0,15-03-1992
+Knudsvej 15,Rungsted Kyst,2960,6,190,1971,1600000.0,07-03-1992
+Kastanievej 1,Rungsted Kyst,2960,7,234,1917,1600000.0,24-02-1992
+Kildevej 4B,Rungsted Kyst,2960,8,256,1987,1680000.0,22-02-1992
+Gl Vallerødvej 35,Rungsted Kyst,2960,6,166,1965,430000.0,02-02-1992
+Præstevænget 4,Rungsted Kyst,2960,4,106,1958,1020000.0,30-01-1992
+Dreyersvej 23,Rungsted Kyst,2960,4,158,1968,1650000.0,26-01-1992
+Ingeborg Vænge 1,Rungsted Kyst,2960,5,163,1977,1535000.0,15-01-1992
+Rungstedvej 99,Rungsted Kyst,2960,8,165,1936,157500.0,12-01-1992

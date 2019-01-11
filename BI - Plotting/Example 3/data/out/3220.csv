@@ -1,0 +1,1647 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Rådyrvej 12,Tisvildeleje,3220,4,77,1974,2950000.0,02-05-2017
+Tjørnevej 4,Tisvildeleje,3220,2,50,1966,1061250.0,20-04-2017
+Slugtvej 10,Tisvildeleje,3220,4,90,1927,5300000.0,19-04-2017
+Slugtvej 19,Tisvildeleje,3220,4,66,1955,5700000.0,10-04-2017
+Nordre Strandvej 3,Tisvildeleje,3220,6,158,1964,2750000.0,07-04-2017
+Solvangsvej 26,Tisvildeleje,3220,4,57,1925,2400000.0,28-03-2017
+Sørøjlsvænget 7,Tisvildeleje,3220,4,69,1972,616250.0,27-03-2017
+Ahorn Alle 9,Tisvildeleje,3220,4,117,1964,2550000.0,24-03-2017
+Skovridervænget 24,Tisvildeleje,3220,4,117,1972,1850000.0,20-03-2017
+Bomskolevej 13,Tisvildeleje,3220,2,88,1985,1600000.0,20-03-2017
+Vandtårnsvej 12,Tisvildeleje,3220,5,117,1959,5450000.0,16-03-2017
+Tibirkebro 5,Tisvildeleje,3220,5,142,1961,1599000.0,13-03-2017
+Bakkefrydvej 17,Tisvildeleje,3220,4,80,1961,1811111.0,10-03-2017
+Spættestien 3,Tisvildeleje,3220,4,99,1968,2700000.0,06-03-2017
+Egekærsvej 24,Tisvildeleje,3220,6,258,1977,2370000.0,03-03-2017
+Fogedgårdsvej 9,Tisvildeleje,3220,4,113,1969,1111111.0,02-03-2017
+Bækkebrovej 21,Tisvildeleje,3220,7,187,1870,1060000.0,28-02-2017
+Lønborgsvej 2,Tisvildeleje,3220,8,170,1970,3800000.0,28-02-2017
+Sankt Helene Vej 17,Tisvildeleje,3220,4,132,1980,3000000.0,23-02-2017
+Tibirkebro 11,Tisvildeleje,3220,5,159,1967,2650000.0,13-02-2017
+Hovedgaden 33A,Tisvildeleje,3220,4,120,2004,1300000.0,08-02-2017
+Sankt Helene Vej 3F,Tisvildeleje,3220,4,94,1900,1650000.0,08-02-2017
+Sørøjlsvænget 13,Tisvildeleje,3220,4,95,1970,1426000.0,31-01-2017
+Rigmor Stampes Vej 5B,Tisvildeleje,3220,4,59,1969,2000000.0,29-01-2017
+Møllevej 2B,Tisvildeleje,3220,4,68,1980,2700000.0,22-01-2017
+Tisvildegårdsvej 16,Tisvildeleje,3220,3,62,1973,1485000.0,20-01-2017
+Egekærsvej 26A,Tisvildeleje,3220,5,117,1981,1100000.0,16-01-2017
+Hovedgaden 58C,Tisvildeleje,3220,1,23,1920,370000.0,15-01-2017
+Sankt Helene Vej 3B,Tisvildeleje,3220,2,66,1900,1275000.0,11-01-2017
+Godhavnsvej 17,Tisvildeleje,3220,6,161,1963,2300000.0,10-01-2017
+Tisvilde Bygade 21D,Tisvildeleje,3220,3,102,1982,1250000.0,09-01-2017
+Helenevangen 17,Tisvildeleje,3220,4,130,1974,1956000.0,02-01-2017
+Lysagervej 1,Tisvildeleje,3220,4,99,1969,1475000.0,29-12-2016
+Grünersvej 12,Tisvildeleje,3220,4,78,2001,3800000.0,19-12-2016
+Ahorn Alle 6,Tisvildeleje,3220,3,70,1965,1840000.0,18-12-2016
+Kildegårdsvej 5,Tisvildeleje,3220,5,204,1907,6250000.0,15-12-2016
+Vandtårnsvej 8,Tisvildeleje,3220,4,97,2017,635998.0,15-12-2016
+Skolelodden 11,Tisvildeleje,3220,3,83,1954,1695000.0,12-12-2016
+Iglekærvej 24,Tisvildeleje,3220,4,110,1973,2625000.0,09-12-2016
+Helenevangen 14,Tisvildeleje,3220,4,69,1977,1232500.0,08-12-2016
+Ellevej 3,Tisvildeleje,3220,4,89,1964,1402500.0,08-12-2016
+Rigmor Stampes Vej 4,Tisvildeleje,3220,4,90,1959,102500.0,05-12-2016
+Vængevej 19,Tisvildeleje,3220,4,65,1985,5000000.0,30-11-2016
+Vængevej 26,Tisvildeleje,3220,3,70,1954,1530000.0,30-11-2016
+Øvrevænget 3,Tisvildeleje,3220,3,95,1963,1638000.0,30-11-2016
+Lundebjergvej 35,Tisvildeleje,3220,4,80,1980,2500000.0,29-11-2016
+Haagen-Müllersvej 14,Tisvildeleje,3220,4,108,1999,3750000.0,28-11-2016
+Vieholmgårdsvej 14,Tisvildeleje,3220,3,77,1973,1950000.0,24-11-2016
+Sjelleager 2,Tisvildeleje,3220,4,82,1999,1530000.0,17-11-2016
+Bækkebrovej 27C,Tisvildeleje,3220,3,88,1949,1950000.0,17-11-2016
+Hovedgaden 64,Tisvildeleje,3220,6,113,1914,4100000.0,16-11-2016
+Nordre Strandvej 28,Tisvildeleje,3220,5,94,1930,8625000.0,12-11-2016
+Wadstedsvej 16,Tisvildeleje,3220,5,70,1955,965000.0,10-11-2016
+Hovedgaden 91,Tisvildeleje,3220,7,125,1915,8200000.0,06-11-2016
+Iglekærvej 19,Tisvildeleje,3220,3,70,1980,1550000.0,04-11-2016
+Helenekildevej 22,Tisvildeleje,3220,5,90,1936,5150000.0,31-10-2016
+Vejbyvej 3A,Tisvildeleje,3220,5,126,1930,250000.0,31-10-2016
+Ellevej 5,Tisvildeleje,3220,3,53,1960,1190000.0,30-10-2016
+Rugmarken 6,Tisvildeleje,3220,4,63,1974,1825000.0,28-10-2016
+Aspevej 1,Tisvildeleje,3220,5,141,2004,3450000.0,14-10-2016
+Wadstedsvej 6,Tisvildeleje,3220,6,104,1940,3000000.0,06-10-2016
+Lønborgsvej 3,Tisvildeleje,3220,7,230,1928,5850000.0,04-10-2016
+Havreengen 5,Tisvildeleje,3220,4,59,1963,1200000.0,29-09-2016
+Egeløvsvej 11,Tisvildeleje,3220,4,79,1968,1875000.0,16-09-2016
+Skolemarksvej 3,Tisvildeleje,3220,5,102,1961,1695000.0,15-09-2016
+Degnemarken 6,Tisvildeleje,3220,4,65,1973,850000.0,13-09-2016
+Skovporten 6,Tisvildeleje,3220,16,600,1923,6000000.0,12-09-2016
+Dyrehøj 4F,Tisvildeleje,3220,4,128,1917,3050000.0,09-09-2016
+Tisvilde Lundevej 21B,Tisvildeleje,3220,4,100,2008,3000000.0,07-09-2016
+Tisvilde Bygade 38,Tisvildeleje,3220,7,220,1827,2200000.0,05-09-2016
+Rådyrvej 9,Tisvildeleje,3220,3,88,1986,1083333.0,05-09-2016
+Rivedalen 21,Tisvildeleje,3220,5,69,1988,2400000.0,02-09-2016
+Hyrdeleddet 5,Tisvildeleje,3220,4,93,1969,1700000.0,02-09-2016
+Slugtvej 12,Tisvildeleje,3220,4,75,1928,3100000.0,31-08-2016
+Vieholmgårdsvej 5,Tisvildeleje,3220,3,71,1975,1116165.0,31-08-2016
+Tværledet 8,Tisvildeleje,3220,3,50,1970,552500.0,29-08-2016
+Hans Olriks Vej 9B,Tisvildeleje,3220,6,138,1898,18500000.0,22-08-2016
+Julius Paulsens Vej 12,Tisvildeleje,3220,7,111,1951,3300000.0,21-08-2016
+Hovedgaden 80,Tisvildeleje,3220,3,105,1890,3900000.0,19-08-2016
+Godhavnsvej 25,Tisvildeleje,3220,4,97,1961,2750000.0,19-08-2016
+Tisvildesvinget 10,Tisvildeleje,3220,3,77,2013,1699600.0,18-08-2016
+Klammerhøj 1,Tisvildeleje,3220,5,175,1892,2550000.0,12-08-2016
+Bækkebrovej 32,Tisvildeleje,3220,5,130,1908,1700000.0,09-08-2016
+Nordre Strandvej 17,Tisvildeleje,3220,4,106,1959,3550000.0,09-08-2016
+Iglekærvej 11,Tisvildeleje,3220,3,64,1987,1850000.0,07-08-2016
+Langetravs 6,Tisvildeleje,3220,4,134,1958,7250000.0,07-08-2016
+Nordre Strandvej 48,Tisvildeleje,3220,3,65,1936,4000000.0,29-07-2016
+Ellevej 11,Tisvildeleje,3220,4,85,1972,2300000.0,29-07-2016
+Strandgårdshaven 3,Tisvildeleje,3220,2,47,1960,1350000.0,29-07-2016
+Hovedgaden 16,Tisvildeleje,3220,6,119,1911,2600000.0,21-07-2016
+Sjelleager 1,Tisvildeleje,3220,4,130,1974,3000000.0,19-07-2016
+Skovridervænget 14,Tisvildeleje,3220,4,107,1967,1850000.0,17-07-2016
+Degnemarken 14,Tisvildeleje,3220,3,73,1977,2550000.0,13-07-2016
+Sogneskellet 3,Tisvildeleje,3220,2,19,1959,1350000.0,12-07-2016
+Vængevej 29,Tisvildeleje,3220,5,65,1933,3575000.0,05-07-2016
+Krondyrvej 4,Tisvildeleje,3220,3,55,1972,2250000.0,04-07-2016
+Vieholmgårdsvej 16,Tisvildeleje,3220,3,60,1973,1800000.0,03-07-2016
+Chr. Hansens Vej 4,Tisvildeleje,3220,4,99,1961,1870000.0,27-06-2016
+Strandgårdshaven 6,Tisvildeleje,3220,2,55,1960,1001000.0,25-06-2016
+Toftevej 13,Tisvildeleje,3220,3,78,1951,2400000.0,22-06-2016
+Nordre Strandvej 19B,Tisvildeleje,3220,4,145,2007,3667500.0,17-06-2016
+Torpen 5,Tisvildeleje,3220,3,56,1971,2000000.0,16-06-2016
+Svanekæret 7,Tisvildeleje,3220,4,127,2006,3400000.0,15-06-2016
+N P Nielsens Vej 7,Tisvildeleje,3220,3,47,1965,1625000.0,07-06-2016
+Kornvej 8,Tisvildeleje,3220,2,62,1964,1100000.0,04-06-2016
+Strandbakkevej 3,Tisvildeleje,3220,5,70,1968,3800000.0,03-06-2016
+"Ullersvej 1, 1",Tisvildeleje,3220,4,119,1920,1213000.0,31-05-2016
+N P Nielsens Vej 21,Tisvildeleje,3220,3,50,1969,200000.0,30-05-2016
+Nyvej 15,Tisvildeleje,3220,5,148,1982,2900000.0,25-05-2016
+Vieholmgårdsvej 8,Tisvildeleje,3220,5,114,1984,2695000.0,20-05-2016
+Tisvildesvinget 1,Tisvildeleje,3220,10,237,2011,1767765.0,17-05-2016
+Godhavnsvej 29,Tisvildeleje,3220,2,42,1927,1650000.0,16-05-2016
+Tværledet 9,Tisvildeleje,3220,4,65,1974,1450000.0,14-05-2016
+Sankt Helene Vej 2,Tisvildeleje,3220,4,143,1984,2250000.0,09-05-2016
+Vængevej 37,Tisvildeleje,3220,5,102,1916,6500000.0,03-05-2016
+Nordre Strandvej 68,Tisvildeleje,3220,2,63,1958,3300000.0,01-05-2016
+Slugtvej 16,Tisvildeleje,3220,6,61,1932,4500000.0,30-04-2016
+Ved Gærdet 9B,Tisvildeleje,3220,3,57,1983,1615000.0,26-04-2016
+Strandvejen 32,Tisvildeleje,3220,3,60,1977,2200000.0,07-04-2016
+Dyrehegnet 7,Tisvildeleje,3220,3,65,1965,1600000.0,05-04-2016
+Ved Stranden 11,Tisvildeleje,3220,6,166,1881,13000000.0,04-04-2016
+Markvej 7,Tisvildeleje,3220,4,94,1962,2500000.0,02-04-2016
+Lundebjergvej 37,Tisvildeleje,3220,5,132,1967,2995000.0,01-04-2016
+Ahorn Alle 8,Tisvildeleje,3220,5,113,1971,2600000.0,31-03-2016
+Dyrehøj 4C,Tisvildeleje,3220,3,90,1917,1960000.0,31-03-2016
+Tisvilde Bygade 31,Tisvildeleje,3220,4,102,1930,1995000.0,26-03-2016
+Fogedgårdsvej 17,Tisvildeleje,3220,4,117,1969,1565000.0,24-03-2016
+Bakkefrydvej 4,Tisvildeleje,3220,4,87,1961,1575000.0,22-03-2016
+Margot Nyholms Vej 8,Tisvildeleje,3220,6,155,1936,1350000.0,17-03-2016
+Tisvilde Lundevej 8A,Tisvildeleje,3220,4,64,1976,550000.0,14-03-2016
+N P Nielsens Vej 19,Tisvildeleje,3220,3,63,1961,1025000.0,09-03-2016
+Hørmarken 10,Tisvildeleje,3220,3,47,1963,1365000.0,07-03-2016
+"Hovedgaden 63A, ST. MF",Tisvildeleje,3220,1,67,1910,1300000.0,04-03-2016
+Nordre Strandvej 25,Tisvildeleje,3220,5,120,2006,2750000.0,03-03-2016
+Ved Stranden 1A,Tisvildeleje,3220,2,33,1896,620000.0,27-02-2016
+Bymosen 8B,Tisvildeleje,3220,4,110,1933,1790000.0,26-02-2016
+Hulvej 2,Tisvildeleje,3220,6,132,1915,2000000.0,24-02-2016
+Iglekærvej 60,Tisvildeleje,3220,5,108,1975,2600000.0,15-02-2016
+Solvangsvej 32,Tisvildeleje,3220,4,83,1974,2125000.0,03-02-2016
+Bækkebrovej 13,Tisvildeleje,3220,6,233,1916,4400000.0,03-02-2016
+Gadekærbakken 8,Tisvildeleje,3220,3,100,1941,297500.0,02-02-2016
+Egekærsvej 26B,Tisvildeleje,3220,3,90,1981,600000.0,02-02-2016
+Skovridervænget 36,Tisvildeleje,3220,6,210,1775,2550000.0,09-01-2016
+Indelukket 3,Tisvildeleje,3220,3,69,1961,1000000.0,31-12-2015
+Hovedgaden 66A,Tisvildeleje,3220,5,90,1969,880000.0,21-12-2015
+Bækkebrovej 31,Tisvildeleje,3220,3,68,1953,935000.0,17-12-2015
+Kunertsvej 9,Tisvildeleje,3220,6,176,1763,2000000.0,17-12-2015
+Bækkebrovej 7,Tisvildeleje,3220,4,141,1937,1760000.0,04-12-2015
+Kornvej 12,Tisvildeleje,3220,4,82,1968,1402500.0,03-12-2015
+Dyrekærskellet 2,Tisvildeleje,3220,4,80,1941,1317500.0,01-12-2015
+Agernvej 2,Tisvildeleje,3220,4,99,1965,1451100.0,01-12-2015
+Kornvej 5,Tisvildeleje,3220,2,32,1969,191000.0,25-11-2015
+Hovedgaden 67A,Tisvildeleje,3220,7,247,1969,3700000.0,16-11-2015
+Tisvilde Bygade 20,Tisvildeleje,3220,10,221,1925,2100000.0,04-11-2015
+Gadekærbakken 4A,Tisvildeleje,3220,4,66,1941,950000.0,02-11-2015
+Solvangsvej 25,Tisvildeleje,3220,7,241,1917,5850000.0,02-11-2015
+N P Nielsens Vej 10,Tisvildeleje,3220,5,114,2001,3155000.0,30-10-2015
+Stuebjerggårdsvej 6,Tisvildeleje,3220,6,166,1932,4050000.0,23-10-2015
+Helenevangen 25,Tisvildeleje,3220,4,123,1974,2073637.0,23-10-2015
+Borshøjvænget 6,Tisvildeleje,3220,5,144,1959,1700000.0,21-10-2015
+Skovridervænget 30,Tisvildeleje,3220,4,103,1980,1395000.0,18-10-2015
+Nordre Strandvej 35,Tisvildeleje,3220,4,67,1981,3575000.0,16-10-2015
+Sankt Helene Vej 5,Tisvildeleje,3220,3,93,1980,1425000.0,15-10-2015
+Ellevej 9,Tisvildeleje,3220,5,72,1953,268959.0,14-10-2015
+Hovedgaden 51,Tisvildeleje,3220,6,102,1917,3000000.0,12-10-2015
+Bakkefrydvej 15,Tisvildeleje,3220,4,132,2015,3400000.0,07-10-2015
+Lundebjergvej 55,Tisvildeleje,3220,3,72,1973,1500000.0,06-10-2015
+Lundebjergvej 41,Tisvildeleje,3220,4,75,1965,1495000.0,05-10-2015
+Stuebjerg Alle 22,Tisvildeleje,3220,4,96,1998,2075000.0,30-09-2015
+Rugmarken 2,Tisvildeleje,3220,3,43,1962,650000.0,30-09-2015
+Nordre Strandvej 18,Tisvildeleje,3220,4,128,1940,11500000.0,25-09-2015
+Hovedgaden 42B,Tisvildeleje,3220,3,103,1945,1800000.0,16-09-2015
+Øvrevænget 6,Tisvildeleje,3220,5,117,1971,4550000.0,08-09-2015
+Strandvejen 8A,Tisvildeleje,3220,5,103,1916,1147500.0,06-09-2015
+Bakkefrydvej 18,Tisvildeleje,3220,6,125,1961,2500000.0,04-09-2015
+Nordre Strandvej 11,Tisvildeleje,3220,4,33,1965,4050000.0,03-09-2015
+Spættestien 5,Tisvildeleje,3220,3,91,1962,2500000.0,03-09-2015
+Torpen 4,Tisvildeleje,3220,3,51,1971,1495000.0,03-09-2015
+Solvangsvej 6A,Tisvildeleje,3220,3,48,1969,1050000.0,03-09-2015
+"Ullersvej 1, ST",Tisvildeleje,3220,2,60,1920,1050000.0,30-08-2015
+Bygmarken 22,Tisvildeleje,3220,4,64,1969,1068600.0,30-08-2015
+Tisvilde Lundevej 4A,Tisvildeleje,3220,3,160,2017,800000.0,24-08-2015
+Silkebjerg 3,Tisvildeleje,3220,5,105,1932,3800000.0,21-08-2015
+Sankt Helene Vej 25,Tisvildeleje,3220,5,145,1945,1175000.0,21-08-2015
+Wadstedsvej 4,Tisvildeleje,3220,8,200,1960,2000000.0,19-08-2015
+Aspevej 3,Tisvildeleje,3220,3,94,1955,3150000.0,18-08-2015
+Tisvildegårdsvej 27,Tisvildeleje,3220,3,50,1971,2650000.0,18-08-2015
+Margot Nyholms Vej 10,Tisvildeleje,3220,7,170,1910,6100000.0,14-08-2015
+Lundebjergvej 47,Tisvildeleje,3220,6,103,1967,1750000.0,12-08-2015
+Godhavnsvej 8,Tisvildeleje,3220,2,42,1961,425000.0,11-08-2015
+Oldenvej 3,Tisvildeleje,3220,3,54,1970,1650000.0,05-08-2015
+Ahorn Alle 1,Tisvildeleje,3220,3,84,1997,1215000.0,04-08-2015
+Haarlandskrogen 10,Tisvildeleje,3220,3,49,1965,1675000.0,04-08-2015
+Julius Paulsens Vej 1,Tisvildeleje,3220,2,39,2003,1500000.0,29-07-2015
+Sortebakken 4,Tisvildeleje,3220,10,228,1910,15000000.0,27-07-2015
+Langetravs 5,Tisvildeleje,3220,4,70,1937,338917.0,15-07-2015
+Rydevej 16,Tisvildeleje,3220,3,55,1972,1221000.0,13-07-2015
+Sankt Helene Vej 21,Tisvildeleje,3220,4,66,1962,1600000.0,08-07-2015
+"Hovedgaden 57, 1",Tisvildeleje,3220,9,182,1918,5250000.0,29-06-2015
+Haarlandsbakken 1,Tisvildeleje,3220,4,43,1964,1000000.0,25-06-2015
+Silkebjerg 8,Tisvildeleje,3220,4,129,1976,5650000.0,24-06-2015
+Borshøjvænget 7,Tisvildeleje,3220,5,117,1958,1600000.0,24-06-2015
+Julius Paulsens Vej 10,Tisvildeleje,3220,7,196,1925,5400000.0,23-06-2015
+Sortebakken 11,Tisvildeleje,3220,4,70,1934,4500000.0,19-06-2015
+N P Nielsens Vej 13,Tisvildeleje,3220,3,88,1973,1000000.0,18-06-2015
+Godhavnsvej 27,Tisvildeleje,3220,3,49,1966,666666.0,18-06-2015
+Granhaven 1,Tisvildeleje,3220,4,92,1940,1402500.0,17-06-2015
+Gyvelbakken 1A,Tisvildeleje,3220,4,113,1963,2300000.0,17-06-2015
+Ellevej 4,Tisvildeleje,3220,5,124,1995,2995000.0,16-06-2015
+Pyramidestien 1A,Tisvildeleje,3220,6,113,1940,2700000.0,16-06-2015
+Toftevej 17,Tisvildeleje,3220,4,91,2002,3100000.0,12-06-2015
+Skovskellet 8,Tisvildeleje,3220,4,127,1915,4600000.0,09-06-2015
+Ullersvej 7,Tisvildeleje,3220,4,94,1960,3300000.0,07-06-2015
+Agerleddet 5,Tisvildeleje,3220,3,50,1965,1495000.0,05-06-2015
+Stenbrobakken 6,Tisvildeleje,3220,3,133,1972,1440000.0,04-06-2015
+Godhavnsvej 31,Tisvildeleje,3220,4,64,2014,1802000.0,04-06-2015
+Hegnsvej 6,Tisvildeleje,3220,5,113,1996,4275000.0,28-05-2015
+Præstebakkevej 3,Tisvildeleje,3220,4,71,1941,800000.0,27-05-2015
+Kædemosevej 17,Tisvildeleje,3220,4,60,1984,2295000.0,22-05-2015
+Øvrevænget 4,Tisvildeleje,3220,10,227,1935,3683333.0,20-05-2015
+Tisvilde Bygade 21L,Tisvildeleje,3220,4,93,1904,925000.0,19-05-2015
+Markvej 6,Tisvildeleje,3220,5,107,2003,2600000.0,05-05-2015
+Vesterprisvej 7,Tisvildeleje,3220,6,126,1939,3250000.0,02-05-2015
+Fogedgårdsvej 18,Tisvildeleje,3220,4,146,1972,1600000.0,29-04-2015
+Mindevej 5,Tisvildeleje,3220,4,67,1993,1445000.0,26-04-2015
+Strandbakkevej 13,Tisvildeleje,3220,7,113,1935,5300000.0,23-04-2015
+Egekærsvej 1,Tisvildeleje,3220,5,90,1988,1700000.0,23-04-2015
+Tisvilde Bygade 21K,Tisvildeleje,3220,3,76,1904,850000.0,22-04-2015
+Pilevej 2,Tisvildeleje,3220,3,60,1958,2150000.0,21-04-2015
+Toftevej 7,Tisvildeleje,3220,3,50,1947,1400000.0,19-04-2015
+Kornvej 2,Tisvildeleje,3220,5,72,1962,1650000.0,14-04-2015
+Blæsbjergvej 10,Tisvildeleje,3220,5,150,2016,1620000.0,09-04-2015
+Solvangsvej 11C,Tisvildeleje,3220,2,77,1971,2895000.0,06-04-2015
+Solvej 14,Tisvildeleje,3220,4,136,1960,2800000.0,06-04-2015
+Nordre Strandvej 8,Tisvildeleje,3220,3,84,1937,3198000.0,02-04-2015
+Rugvænget 2,Tisvildeleje,3220,3,56,1962,1995000.0,02-04-2015
+Vængevej 6C,Tisvildeleje,3220,2,66,1910,1050000.0,31-03-2015
+Haarlands Alle 24,Tisvildeleje,3220,3,50,1961,1085000.0,31-03-2015
+Vibevænget 13C,Tisvildeleje,3220,4,130,2008,3450000.0,25-03-2015
+Haarlandsvænget 5,Tisvildeleje,3220,3,35,1961,1300000.0,25-03-2015
+Haarlands Alle 39,Tisvildeleje,3220,3,55,1974,1600000.0,24-03-2015
+Hørmarken 4,Tisvildeleje,3220,5,81,1966,3245000.0,23-03-2015
+Aspevej 8,Tisvildeleje,3220,3,96,1919,1525000.0,20-03-2015
+Brentingevej 17,Tisvildeleje,3220,5,142,1970,1595000.0,19-03-2015
+Julsgårdsvej 12,Tisvildeleje,3220,4,105,1942,1005000.0,03-03-2015
+Bakkefrydvej 11,Tisvildeleje,3220,5,79,2000,2750000.0,15-02-2015
+Haarlandsbakken 5,Tisvildeleje,3220,4,44,1962,1095000.0,14-02-2015
+Toftevej 33,Tisvildeleje,3220,4,63,1977,2440000.0,07-02-2015
+Agervej 2,Tisvildeleje,3220,6,146,1989,2574300.0,07-02-2015
+Grønnevænge 11,Tisvildeleje,3220,2,34,1972,625000.0,04-02-2015
+Skovridervænget 11,Tisvildeleje,3220,4,106,1969,1595000.0,03-02-2015
+Kildeskåret 1,Tisvildeleje,3220,6,154,1961,8800000.0,03-02-2015
+Rosenbakken 13,Tisvildeleje,3220,5,152,1949,1700000.0,27-01-2015
+Tisvilde Bygade 9D,Tisvildeleje,3220,3,116,1850,800000.0,20-01-2015
+Sankt Helene Vej 3A,Tisvildeleje,3220,4,113,2004,1900000.0,19-01-2015
+Engvej 6,Tisvildeleje,3220,5,80,1959,1200000.0,13-01-2015
+Hulvej 5,Tisvildeleje,3220,16,244,1897,416747.0,11-01-2015
+Vedbendvej 4,Tisvildeleje,3220,3,84,1967,1595000.0,09-01-2015
+Julius Paulsens Vej 7A,Tisvildeleje,3220,7,199,1934,2600000.0,06-01-2015
+Hans Olriks Vej 3A,Tisvildeleje,3220,10,308,1895,11000000.0,30-12-2014
+Rydevej 7,Tisvildeleje,3220,4,146,2015,866666.0,30-12-2014
+Parallelvej 22,Tisvildeleje,3220,5,100,1959,1700000.0,21-12-2014
+Nordhusvej 21,Tisvildeleje,3220,4,85,1935,3135600.0,20-12-2014
+Silkebjerg 13,Tisvildeleje,3220,5,138,1930,2700000.0,18-12-2014
+"Godhavnsvej 13C, ST. TH",Tisvildeleje,3220,2,62,1927,2500000.0,18-12-2014
+Vængevej 39,Tisvildeleje,3220,5,70,1998,1650600.0,15-12-2014
+Nordre Strandvej 54,Tisvildeleje,3220,5,120,1917,11400000.0,13-12-2014
+Stuebjerg Alle 3A,Tisvildeleje,3220,3,54,1962,800000.0,06-12-2014
+Kornvej 6,Tisvildeleje,3220,5,81,1967,1395000.0,04-12-2014
+Iglekærvej 26,Tisvildeleje,3220,5,180,2015,995000.0,23-11-2014
+Tibirkebro 12,Tisvildeleje,3220,3,55,1937,920000.0,19-11-2014
+Sjelleager 3,Tisvildeleje,3220,4,89,1974,1975000.0,19-11-2014
+Egekærsvej 12,Tisvildeleje,3220,4,79,1969,1400000.0,18-11-2014
+Øllekollevej 1,Tisvildeleje,3220,5,89,2002,410000.0,06-11-2014
+Strandbakkevej 4,Tisvildeleje,3220,3,134,1935,2845000.0,04-11-2014
+Vesterprisvej 1,Tisvildeleje,3220,3,75,1950,2800000.0,03-11-2014
+Julius Paulsens Vej 13,Tisvildeleje,3220,5,119,1971,3375000.0,03-11-2014
+Øllekollevej 5,Tisvildeleje,3220,5,163,1975,2675000.0,02-11-2014
+Dyrehøj 9,Tisvildeleje,3220,4,90,1974,2565000.0,01-11-2014
+Pyramidestien 14,Tisvildeleje,3220,3,86,1938,40000.0,01-11-2014
+Skovridervænget 10,Tisvildeleje,3220,3,90,1965,1500000.0,28-10-2014
+Toftevej 23,Tisvildeleje,3220,4,73,1972,1317500.0,26-10-2014
+Siestavej 2,Tisvildeleje,3220,6,125,1917,2351372.0,24-10-2014
+Bækkebrovej 3,Tisvildeleje,3220,4,95,1925,550000.0,16-10-2014
+Rugvænget 1,Tisvildeleje,3220,3,53,1967,1050000.0,16-10-2014
+Pilevej 5,Tisvildeleje,3220,4,63,1947,1705000.0,13-10-2014
+Strandgårdshaven 5,Tisvildeleje,3220,2,38,1960,750000.0,02-10-2014
+Tibirkevej 34,Tisvildeleje,3220,4,69,1922,1500000.0,01-10-2014
+Kornmodsvej 4,Tisvildeleje,3220,4,78,1972,2200000.0,30-09-2014
+Tisvilde Bygade 21E,Tisvildeleje,3220,3,102,1982,1090000.0,30-09-2014
+Stokkevej 31,Tisvildeleje,3220,5,92,1964,2250000.0,25-09-2014
+Sortebakken 2,Tisvildeleje,3220,4,74,1914,1038933.0,20-09-2014
+Strandvejen 21,Tisvildeleje,3220,4,135,1935,10350000.0,19-09-2014
+Strandvejen 7,Tisvildeleje,3220,6,108,1941,9600000.0,15-09-2014
+Strandvejen 36,Tisvildeleje,3220,5,82,1967,1525000.0,11-09-2014
+Vedbendvej 10,Tisvildeleje,3220,4,95,1967,1995000.0,11-09-2014
+Gadekærbakken 12,Tisvildeleje,3220,3,65,1957,1350000.0,03-09-2014
+Julius Paulsens Vej 7B,Tisvildeleje,3220,3,50,1976,1650000.0,03-09-2014
+Strandvejen 37,Tisvildeleje,3220,6,130,1935,3100000.0,02-09-2014
+Hotelbakken 3,Tisvildeleje,3220,3,180,1914,10550000.0,02-09-2014
+Granhaven 4,Tisvildeleje,3220,4,47,1942,1500000.0,01-09-2014
+Tværledet 3,Tisvildeleje,3220,4,66,1971,1800000.0,01-09-2014
+Skolelodden 22,Tisvildeleje,3220,4,102,2014,1600000.0,29-08-2014
+Pyramidestien 7A,Tisvildeleje,3220,3,59,2008,1225000.0,25-08-2014
+Helenevangen 11,Tisvildeleje,3220,5,75,1989,2775000.0,15-08-2014
+N P Nielsens Vej 11,Tisvildeleje,3220,3,66,1971,1685000.0,15-08-2014
+Tisvilde Bygade 34A,Tisvildeleje,3220,5,165,1976,2150000.0,13-08-2014
+Skovridervænget 12,Tisvildeleje,3220,7,147,1967,1050000.0,04-08-2014
+Solvangsvej 8,Tisvildeleje,3220,5,116,1926,3050000.0,03-08-2014
+Ved Stranden 9,Tisvildeleje,3220,8,245,1894,10700000.0,01-08-2014
+Haarlandsbakken 10,Tisvildeleje,3220,3,58,1961,1100000.0,23-07-2014
+Mindevej 6,Tisvildeleje,3220,4,54,1974,1695000.0,22-07-2014
+Rosenbakken 10,Tisvildeleje,3220,5,128,1951,2300000.0,17-07-2014
+Hovedgaden 58H,Tisvildeleje,3220,1,24,1958,407400.0,10-07-2014
+Vængevej 6A,Tisvildeleje,3220,2,77,1910,1120000.0,09-07-2014
+Bækkebrovej 29,Tisvildeleje,3220,4,95,1945,1450000.0,09-07-2014
+Stokkevej 19,Tisvildeleje,3220,4,101,1962,1500000.0,08-07-2014
+Tisvilde Bygade 45B,Tisvildeleje,3220,4,130,1969,2100000.0,04-07-2014
+Strandvejen 8B,Tisvildeleje,3220,5,60,1940,493800.0,30-06-2014
+Helenekildevej 6,Tisvildeleje,3220,4,81,1936,900000.0,27-06-2014
+Strandvejen 3C,Tisvildeleje,3220,7,165,1920,10100000.0,23-06-2014
+Vibevænget 21,Tisvildeleje,3220,4,105,2011,2750000.0,23-06-2014
+Lundebjergvej 36,Tisvildeleje,3220,4,72,2013,148750.0,19-06-2014
+Stokkevej 25,Tisvildeleje,3220,4,62,1980,2095000.0,18-06-2014
+Julsgårdsvej 26,Tisvildeleje,3220,7,184,2015,3500000.0,15-06-2014
+Sjellebjerg 1,Tisvildeleje,3220,4,56,1972,1595000.0,10-06-2014
+Stuebjerg Alle 1B,Tisvildeleje,3220,4,142,2003,550000.0,30-05-2014
+Birkevej 12,Tisvildeleje,3220,5,79,1941,2175000.0,23-05-2014
+Tennisvej 16,Tisvildeleje,3220,3,92,1915,1080000.0,15-05-2014
+Rivedalen 15,Tisvildeleje,3220,4,100,2005,4200000.0,14-05-2014
+Rigmor Stampes Vej 10,Tisvildeleje,3220,7,194,1908,4300000.0,09-05-2014
+Tibirke Lundevej 3,Tisvildeleje,3220,3,71,1950,781000.0,07-05-2014
+Kornmodsvej 6,Tisvildeleje,3220,4,96,2015,1595000.0,06-05-2014
+Tibirkevej 18,Tisvildeleje,3220,4,100,1850,1445000.0,04-05-2014
+Victor Bendix Vej 6,Tisvildeleje,3220,4,84,2015,1350000.0,21-04-2014
+Victor Bendix Vej 5,Tisvildeleje,3220,5,109,1934,2500000.0,15-04-2014
+Rådyrvej 14,Tisvildeleje,3220,5,71,1973,1775000.0,14-04-2014
+Møllevej 5B,Tisvildeleje,3220,6,149,1938,2800000.0,03-04-2014
+Ved Kirken 5,Tisvildeleje,3220,5,112,1930,2000000.0,02-04-2014
+Rådyrvej 10,Tisvildeleje,3220,4,81,1973,2395000.0,31-03-2014
+Tibirkevej 7,Tisvildeleje,3220,6,156,2016,725000.0,30-03-2014
+Strandgårdshaven 7,Tisvildeleje,3220,2,51,1960,795000.0,27-03-2014
+Borshøjvænget 2,Tisvildeleje,3220,3,109,1966,785000.0,26-03-2014
+Haagen-Müllersvej 9,Tisvildeleje,3220,3,50,1967,495000.0,19-03-2014
+Stuebjerg Alle 13,Tisvildeleje,3220,4,56,1965,500000.0,10-03-2014
+Møllevej 2A,Tisvildeleje,3220,4,106,2011,3200000.0,28-02-2014
+Stuebjerggårdsvej 2G,Tisvildeleje,3220,2,64,1915,784700.0,25-02-2014
+Skolelodden 3,Tisvildeleje,3220,4,95,1955,1325000.0,24-02-2014
+Sørøjlsvænget 10,Tisvildeleje,3220,4,70,1970,2195000.0,23-02-2014
+Nyvej 10,Tisvildeleje,3220,4,114,1953,2595000.0,19-02-2014
+Vibevænget 13A,Tisvildeleje,3220,4,130,2008,2130000.0,17-02-2014
+Dyremose 7,Tisvildeleje,3220,4,75,1974,600000.0,17-02-2014
+Tisvildesvinget 8,Tisvildeleje,3220,5,120,2013,3416000.0,06-02-2014
+Hovedgaden 45,Tisvildeleje,3220,7,95,1946,2250000.0,29-01-2014
+Østerled 17,Tisvildeleje,3220,7,174,1938,1205000.0,13-01-2014
+Nordhusvej 16,Tisvildeleje,3220,4,67,1985,168880.0,06-01-2014
+Vibevænget 3,Tisvildeleje,3220,3,74,1959,787500.0,03-01-2014
+Ved Gærdet 15,Tisvildeleje,3220,4,71,1913,1956000.0,24-12-2013
+Pilevej 6B,Tisvildeleje,3220,5,90,1914,1600000.0,17-12-2013
+Solvangsvej 11A,Tisvildeleje,3220,4,118,1930,4600000.0,16-12-2013
+Havreengen 8,Tisvildeleje,3220,4,46,1967,580000.0,10-12-2013
+Nordhusvej 12,Tisvildeleje,3220,5,117,1917,1326000.0,08-12-2013
+Blæsbjergvej 4,Tisvildeleje,3220,6,258,1928,2000000.0,04-12-2013
+Haarlands Alle 13,Tisvildeleje,3220,3,48,1967,975000.0,26-11-2013
+Rigmor Stampes Vej 8,Tisvildeleje,3220,6,131,1917,4000000.0,22-11-2013
+Godhavnsvej 5,Tisvildeleje,3220,5,151,1907,1300000.0,20-11-2013
+Helenevangen 19,Tisvildeleje,3220,4,69,1974,2100000.0,19-11-2013
+Haarlandsvænget 3,Tisvildeleje,3220,6,120,1964,1025000.0,19-11-2013
+Tisvilde Bygade 25,Tisvildeleje,3220,6,140,1926,2850000.0,14-11-2013
+Fogedgårdsvej 24,Tisvildeleje,3220,5,150,1973,1195000.0,11-11-2013
+Nordre Strandvej 14,Tisvildeleje,3220,4,105,1902,6000000.0,07-11-2013
+Bækkebrovej 8,Tisvildeleje,3220,4,81,1938,1495000.0,04-11-2013
+Tværledet 16,Tisvildeleje,3220,4,70,1986,1450000.0,29-10-2013
+Tisvildesvinget 7,Tisvildeleje,3220,8,216,2014,850000.0,22-10-2013
+Iglekærvej 48,Tisvildeleje,3220,4,65,1979,1935000.0,17-10-2013
+Tjørnebrovej 10,Tisvildeleje,3220,5,124,2000,3400000.0,06-10-2013
+Tisvildegårdsvej 23,Tisvildeleje,3220,4,65,1986,1275000.0,02-10-2013
+Pyramidestien 22,Tisvildeleje,3220,2,113,2009,4050000.0,01-10-2013
+Paradisvej 5,Tisvildeleje,3220,4,86,1943,2800000.0,24-09-2013
+Oldenvej 4,Tisvildeleje,3220,3,50,1966,1100000.0,17-09-2013
+Stuebjerggårdsvej 2A,Tisvildeleje,3220,2,85,1915,1300000.0,16-09-2013
+Sankt Helene Vej 3E,Tisvildeleje,3220,2,52,1900,500000.0,05-09-2013
+Vieholmgårdsvej 7,Tisvildeleje,3220,3,113,2015,1750000.0,03-09-2013
+Rydevej 5,Tisvildeleje,3220,4,77,1974,1600000.0,03-09-2013
+Nordre Strandvej 52,Tisvildeleje,3220,7,138,1930,9500000.0,29-08-2013
+Helenevangen 9,Tisvildeleje,3220,6,101,1993,2750000.0,28-08-2013
+Strandgårdshaven 14,Tisvildeleje,3220,2,55,1960,850000.0,27-08-2013
+Fogedgårdsvej 14,Tisvildeleje,3220,5,142,1972,1520000.0,26-08-2013
+Engvej 1,Tisvildeleje,3220,3,93,1978,2500000.0,26-08-2013
+Hans Olriks Vej 5,Tisvildeleje,3220,6,160,1923,335000.0,20-08-2013
+Vængevej 18,Tisvildeleje,3220,4,111,2008,5200000.0,14-08-2013
+Egeløvsvej 10,Tisvildeleje,3220,5,92,1971,1900000.0,14-08-2013
+Sortebakken 6,Tisvildeleje,3220,5,79,1936,2400000.0,13-08-2013
+Kædemosevej 31,Tisvildeleje,3220,3,72,1966,1500000.0,05-08-2013
+Solvej 5B,Tisvildeleje,3220,4,72,1920,2500000.0,29-07-2013
+Lundebjergvej 33,Tisvildeleje,3220,3,35,1966,1045000.0,21-07-2013
+William Scharffs Vej 2,Tisvildeleje,3220,6,132,1943,2200000.0,17-07-2013
+Torpen 6,Tisvildeleje,3220,3,47,1982,1275000.0,16-07-2013
+Aspevej 12,Tisvildeleje,3220,7,188,1973,3000000.0,13-07-2013
+Stuebjerggårdsvej 10,Tisvildeleje,3220,5,95,1936,2550000.0,09-07-2013
+Haagen-Müllersvej 12,Tisvildeleje,3220,4,81,1976,666666.0,04-07-2013
+Stuebjergsvinget 15,Tisvildeleje,3220,4,68,1970,1475000.0,25-06-2013
+Hovedgaden 32,Tisvildeleje,3220,4,111,1942,1975000.0,25-06-2013
+Brentingevej 12,Tisvildeleje,3220,7,149,1969,1225000.0,21-06-2013
+Bækkebrovej 38,Tisvildeleje,3220,6,211,1957,1550000.0,19-06-2013
+Vibevænget 4,Tisvildeleje,3220,5,164,2009,2250000.0,19-06-2013
+Iglekærvej 54,Tisvildeleje,3220,4,71,1971,1200000.0,16-06-2013
+Ved Gærdet 2,Tisvildeleje,3220,2,45,1920,1000000.0,13-06-2013
+Tjørnebrovej 11,Tisvildeleje,3220,4,68,1973,2370000.0,13-06-2013
+Pyramidestien 5A,Tisvildeleje,3220,6,107,1931,1995000.0,13-06-2013
+Tisvildesvinget 6,Tisvildeleje,3220,5,120,2013,1860000.0,10-06-2013
+Ved Stranden 4,Tisvildeleje,3220,8,187,1930,2300000.0,09-06-2013
+Tisvilde Bygade 16,Tisvildeleje,3220,3,45,1817,925000.0,06-06-2013
+Hovedgaden 15,Tisvildeleje,3220,3,115,1949,1100000.0,04-06-2013
+Egeløvsvej 13,Tisvildeleje,3220,4,126,1978,1990000.0,03-06-2013
+Agernvej 6,Tisvildeleje,3220,3,56,1966,1475000.0,31-05-2013
+Solmarken 6,Tisvildeleje,3220,6,116,2006,2335000.0,31-05-2013
+Solvangsvej 5,Tisvildeleje,3220,5,58,1941,2700000.0,31-05-2013
+Hovedgaden 102A,Tisvildeleje,3220,3,60,1895,1955000.0,13-05-2013
+Vieholmgårdsvej 1,Tisvildeleje,3220,4,74,1974,1200000.0,08-05-2013
+Pyramidestien 7B,Tisvildeleje,3220,3,100,1992,3200000.0,07-05-2013
+Iglekærvej 42,Tisvildeleje,3220,3,58,1970,1270000.0,06-05-2013
+Vibevænget 13D,Tisvildeleje,3220,4,123,2010,2250000.0,06-05-2013
+Hovedgaden 94,Tisvildeleje,3220,6,157,1886,4000000.0,06-05-2013
+Haagen-Müllersvej 1B,Tisvildeleje,3220,3,74,2009,2500000.0,29-04-2013
+Brøndgraverens Vej 8,Tisvildeleje,3220,3,68,1938,1545000.0,07-04-2013
+Engvej 2,Tisvildeleje,3220,5,178,1949,1970000.0,04-04-2013
+Bakkefrydvej 9,Tisvildeleje,3220,2,50,1963,1485000.0,02-04-2013
+Degnemarken 10,Tisvildeleje,3220,4,69,1972,15000.0,30-03-2013
+Vibevænget 19,Tisvildeleje,3220,8,167,1961,4300000.0,25-03-2013
+Dyreholm 1,Tisvildeleje,3220,5,103,1985,2150000.0,22-03-2013
+Dyreholm 6,Tisvildeleje,3220,4,70,1972,1225000.0,22-03-2013
+Stuebjerg Alle 36,Tisvildeleje,3220,8,137,1963,1054000.0,21-03-2013
+Hovedgaden 50,Tisvildeleje,3220,6,118,1935,2000000.0,19-03-2013
+Sankt Helene Vej 12B,Tisvildeleje,3220,5,99,1996,2900000.0,17-03-2013
+Sankt Helene Vej 29E,Tisvildeleje,3220,3,86,2006,1550000.0,03-03-2013
+Ellevej 12,Tisvildeleje,3220,3,55,1962,1060000.0,26-02-2013
+Sørøjlsvænget 12,Tisvildeleje,3220,3,58,1972,1190000.0,18-02-2013
+Væverlodden 17,Tisvildeleje,3220,5,182,1991,1497500.0,11-02-2013
+Oldenvej 5,Tisvildeleje,3220,4,86,1968,1200000.0,11-02-2013
+Agernvej 3,Tisvildeleje,3220,4,74,1971,1428800.0,11-02-2013
+Siestavej 3,Tisvildeleje,3220,4,72,1930,1200000.0,07-02-2013
+Sørøjlsvænget 11,Tisvildeleje,3220,3,50,1980,1147500.0,31-01-2013
+Tisvilde Lundevej 14,Tisvildeleje,3220,7,326,1922,4200000.0,29-01-2013
+Tisvilde Bygade 42,Tisvildeleje,3220,3,88,1902,475000.0,21-01-2013
+Stokkevej 9,Tisvildeleje,3220,4,66,1979,2550000.0,16-01-2013
+Melbys Vænge 2,Tisvildeleje,3220,4,70,1973,1350000.0,15-01-2013
+Nordhusvej 19,Tisvildeleje,3220,5,126,2014,2720000.0,03-01-2013
+Hovedgaden 78,Tisvildeleje,3220,6,55,1923,1445000.0,22-12-2012
+Silkebjerg 7,Tisvildeleje,3220,6,148,1919,741094.0,20-12-2012
+Haarlandsvænget 10,Tisvildeleje,3220,4,106,2008,666666.0,18-12-2012
+Svanekæret 3,Tisvildeleje,3220,5,120,2009,1400000.0,18-12-2012
+Grønnevænge 8,Tisvildeleje,3220,5,114,1963,1375000.0,14-12-2012
+Bomskolevej 7,Tisvildeleje,3220,5,150,1977,2400000.0,10-12-2012
+Godhavnsvej 22,Tisvildeleje,3220,4,108,2007,2500000.0,09-12-2012
+Helenevangen 13,Tisvildeleje,3220,3,82,1973,382500.0,07-12-2012
+Strandvejen 35,Tisvildeleje,3220,5,112,1909,1813333.0,04-12-2012
+Bækkebrovej 19,Tisvildeleje,3220,6,180,1920,3250000.0,22-11-2012
+Vejbyvej 1B,Tisvildeleje,3220,9,172,1931,1216943.0,20-11-2012
+Agervej 1,Tisvildeleje,3220,4,117,2014,1200000.0,20-11-2012
+Skolelodden 7,Tisvildeleje,3220,4,101,1963,1000000.0,19-11-2012
+Wadstedsvej 2A,Tisvildeleje,3220,3,121,1975,1350000.0,13-11-2012
+Melbys Vænge 9B,Tisvildeleje,3220,5,121,1962,7400000.0,11-11-2012
+Tisvilde Bygade 52,Tisvildeleje,3220,4,172,1952,1000000.0,19-10-2012
+Torpen 12,Tisvildeleje,3220,4,55,1972,1250000.0,11-10-2012
+Stokkevej 17,Tisvildeleje,3220,4,75,1973,3375000.0,10-10-2012
+Iglekærvej 40,Tisvildeleje,3220,4,81,2013,1225000.0,08-10-2012
+Iglekærvej 1,Tisvildeleje,3220,3,126,1966,953592.0,01-10-2012
+"Godhavnsvej 13C, 1. MF",Tisvildeleje,3220,2,36,1927,2500000.0,01-10-2012
+Torpen 10,Tisvildeleje,3220,3,56,1976,612500.0,01-10-2012
+Vedbendvej 6,Tisvildeleje,3220,3,62,1971,1700000.0,19-09-2012
+Vibevænget 13B,Tisvildeleje,3220,4,136,2010,3210000.0,18-09-2012
+Langs Diget 7,Tisvildeleje,3220,4,134,1918,2400000.0,10-09-2012
+Chr. Hansens Vej 7,Tisvildeleje,3220,3,58,1956,1530000.0,05-09-2012
+Rivedalen 27,Tisvildeleje,3220,5,171,2011,5960000.0,30-08-2012
+N P Nielsens Vej 4,Tisvildeleje,3220,3,63,1971,1240000.0,25-08-2012
+Melbys Vænge 13,Tisvildeleje,3220,5,279,2014,4200000.0,21-08-2012
+Hovedgaden 63C,Tisvildeleje,3220,3,90,1910,1700000.0,16-08-2012
+Fogedgårdsvej 7,Tisvildeleje,3220,4,134,1970,1500000.0,13-08-2012
+Hyrdebakken 1,Tisvildeleje,3220,4,161,1920,2200000.0,13-08-2012
+Julsgårdsvej 32,Tisvildeleje,3220,3,72,1986,3700000.0,13-08-2012
+Tisvilde Bygade 12,Tisvildeleje,3220,5,152,1773,1000000.0,10-08-2012
+Sankt Helene Vej 55,Tisvildeleje,3220,4,75,1938,2500000.0,07-08-2012
+Ved Gærdet 11,Tisvildeleje,3220,4,119,1910,5200000.0,05-08-2012
+Hørmarken 8,Tisvildeleje,3220,3,49,1969,950000.0,03-08-2012
+Degnemarken 1,Tisvildeleje,3220,4,97,1971,1625000.0,25-07-2012
+Dyreholm 7,Tisvildeleje,3220,4,76,2013,1250000.0,20-07-2012
+Egekærsvej 2,Tisvildeleje,3220,3,88,1968,1350000.0,19-07-2012
+Birkevej 6,Tisvildeleje,3220,3,60,1936,1700000.0,17-07-2012
+Tværledet 14,Tisvildeleje,3220,3,59,1973,1420000.0,17-07-2012
+Toftevej 12,Tisvildeleje,3220,4,49,1947,1970000.0,17-07-2012
+Bakkefrydvej 8,Tisvildeleje,3220,3,70,1957,1000000.0,10-07-2012
+Rivedalen 7,Tisvildeleje,3220,5,112,2007,1997500.0,02-07-2012
+Strandvejen 49,Tisvildeleje,3220,7,198,1963,6050000.0,26-06-2012
+Kløvervej 15,Tisvildeleje,3220,4,65,1961,1265000.0,24-06-2012
+Havreengen 2,Tisvildeleje,3220,3,44,1966,1500000.0,18-06-2012
+Rivedalen 25,Tisvildeleje,3220,4,66,1973,1595000.0,15-06-2012
+Hovedgaden 67B,Tisvildeleje,3220,6,190,1972,3600000.0,14-06-2012
+Haarlandsbakken 7,Tisvildeleje,3220,3,74,1962,1000000.0,11-06-2012
+Grünersvej 1,Tisvildeleje,3220,4,100,1938,2870000.0,08-06-2012
+Agerleddet 8,Tisvildeleje,3220,3,35,1964,875000.0,08-06-2012
+Engtoften 7,Tisvildeleje,3220,4,111,2014,870000.0,06-06-2012
+Solvangsvej 17,Tisvildeleje,3220,5,95,1927,4150000.0,05-06-2012
+Hyrdeleddet 10,Tisvildeleje,3220,4,64,1971,1350000.0,30-05-2012
+Tisvilde Lundevej 3,Tisvildeleje,3220,3,83,1952,750000.0,26-05-2012
+Iglekærvej 32,Tisvildeleje,3220,4,71,1970,1100000.0,25-05-2012
+Vieholmgårdsvej 30,Tisvildeleje,3220,3,64,1974,1200000.0,23-05-2012
+Margot Nyholms Vej 6B,Tisvildeleje,3220,4,115,1975,2855000.0,21-05-2012
+Væverlodden 12,Tisvildeleje,3220,7,194,1980,1440000.0,01-05-2012
+Rørkæret 4,Tisvildeleje,3220,3,46,1968,1300000.0,01-05-2012
+Vibevænget 5,Tisvildeleje,3220,3,68,1961,1900000.0,30-04-2012
+Hegnsvej 28,Tisvildeleje,3220,7,151,1915,4400000.0,29-04-2012
+Bakkedalen 5,Tisvildeleje,3220,4,105,1994,5200000.0,26-04-2012
+Tværledet 1,Tisvildeleje,3220,3,41,1971,595000.0,25-04-2012
+Hyrdeleddet 8,Tisvildeleje,3220,2,34,1963,1050000.0,24-04-2012
+Brentingevej 23,Tisvildeleje,3220,4,117,1970,700000.0,19-04-2012
+Rådyrvej 6,Tisvildeleje,3220,4,86,1972,2200000.0,05-04-2012
+Bækkebrovej 30,Tisvildeleje,3220,3,83,1775,1150000.0,04-04-2012
+Nordhusvej 24,Tisvildeleje,3220,6,101,1932,2250000.0,02-04-2012
+Lundebjergvej 27,Tisvildeleje,3220,4,75,1965,1000000.0,27-03-2012
+Tisvildegårdsvej 2,Tisvildeleje,3220,4,104,2016,600000.0,26-03-2012
+Solvangsvej 18,Tisvildeleje,3220,5,118,2012,2500000.0,19-03-2012
+Rugvænget 8,Tisvildeleje,3220,3,46,1963,1025000.0,13-03-2012
+Nordre Strandvej 6,Tisvildeleje,3220,2,45,1940,930000.0,28-02-2012
+Bækkebrovej 15,Tisvildeleje,3220,8,212,1880,1800000.0,16-02-2012
+William Scharffs Vej 1,Tisvildeleje,3220,5,128,1917,1906400.0,06-02-2012
+Nordhusvej 4,Tisvildeleje,3220,3,113,1986,1900000.0,03-02-2012
+Vibevænget 7,Tisvildeleje,3220,4,61,1961,838000.0,20-01-2012
+Stuebjergsvinget 13,Tisvildeleje,3220,6,135,1981,828750.0,17-01-2012
+Bækkebrovej 46,Tisvildeleje,3220,3,69,1974,1050000.0,10-01-2012
+Hegnsvej 8,Tisvildeleje,3220,4,105,2012,2300000.0,06-01-2012
+Blæsbjergvej 5,Tisvildeleje,3220,3,112,1965,3333333.0,28-12-2011
+Højbohusvej 5,Tisvildeleje,3220,3,70,1917,1717000.0,27-12-2011
+Strandvejen 27,Tisvildeleje,3220,5,93,1935,2252500.0,24-12-2011
+Strandvejen 38,Tisvildeleje,3220,6,123,1972,658750.0,16-12-2011
+Stuebjergsvinget 19,Tisvildeleje,3220,4,56,1962,1530000.0,28-11-2011
+Banevej 6,Tisvildeleje,3220,4,61,1954,2000000.0,24-11-2011
+Sankt Helene Vej 29A,Tisvildeleje,3220,3,86,2006,1800000.0,10-11-2011
+Dyrehegnet 3,Tisvildeleje,3220,4,77,2003,1775000.0,08-11-2011
+Tisvildegårdsvej 18,Tisvildeleje,3220,4,77,1978,1215000.0,28-10-2011
+Dyrekærstien 1,Tisvildeleje,3220,5,189,1997,3900000.0,25-10-2011
+Dyremose 10,Tisvildeleje,3220,4,74,1973,2100000.0,07-10-2011
+Markvej 15,Tisvildeleje,3220,3,65,1950,637500.0,29-09-2011
+Rydevej 13,Tisvildeleje,3220,4,67,1974,1150000.0,27-09-2011
+Slugtvej 15,Tisvildeleje,3220,3,67,1972,287500.0,23-09-2011
+Slugtvej 1,Tisvildeleje,3220,5,122,1920,2000000.0,21-09-2011
+Melbys Vænge 7,Tisvildeleje,3220,5,132,1942,9150000.0,24-08-2011
+Skovridervænget 28,Tisvildeleje,3220,5,146,1972,1995000.0,14-08-2011
+Tisvilde Bygade 66,Tisvildeleje,3220,3,87,1927,1100000.0,14-08-2011
+Tisvilde Bygade 3A,Tisvildeleje,3220,4,87,1985,1550000.0,12-08-2011
+Rørkæret 9,Tisvildeleje,3220,3,79,1964,573750.0,12-08-2011
+Tibirkebro 10,Tisvildeleje,3220,5,270,1968,3650000.0,02-08-2011
+Godhavnsvej 33,Tisvildeleje,3220,6,142,1951,2630000.0,28-07-2011
+Margot Nyholms Vej 3,Tisvildeleje,3220,4,52,1949,1275000.0,22-07-2011
+Hovedgaden 62,Tisvildeleje,3220,10,221,1890,2100000.0,22-07-2011
+Tibirkevej 24,Tisvildeleje,3220,3,80,1931,1400000.0,20-07-2011
+Wadstedsvej 8,Tisvildeleje,3220,2,82,1944,2050000.0,13-07-2011
+Strandgårdshaven 9,Tisvildeleje,3220,2,38,1960,750000.0,13-07-2011
+Tisvildesvinget 3,Tisvildeleje,3220,9,236,2013,4620000.0,08-07-2011
+Sørøjlsvænget 23,Tisvildeleje,3220,4,81,1978,2130000.0,29-06-2011
+Nordre Strandvej 13,Tisvildeleje,3220,1,36,1951,1500000.0,24-06-2011
+Hovedgaden 29,Tisvildeleje,3220,5,136,1963,1900000.0,20-06-2011
+Ahorn Alle 17,Tisvildeleje,3220,3,92,1985,3200000.0,10-06-2011
+Tisvilde Lundevej 18,Tisvildeleje,3220,4,76,1990,2100000.0,10-06-2011
+Tisvildesvinget 5,Tisvildeleje,3220,9,212,2012,888510.0,08-06-2011
+Vængevej 12,Tisvildeleje,3220,4,141,1885,9100000.0,07-06-2011
+Nordre Strandvej 40,Tisvildeleje,3220,3,91,1939,6300000.0,07-06-2011
+Melbys Vænge 4,Tisvildeleje,3220,4,72,1987,2350000.0,01-06-2011
+Toftevej 9,Tisvildeleje,3220,2,44,1962,1400000.0,26-05-2011
+Bakkefrydvej 33,Tisvildeleje,3220,3,64,1963,1145000.0,25-05-2011
+Birkevej 1,Tisvildeleje,3220,4,129,1932,1995000.0,24-05-2011
+Hovedgaden 58G,Tisvildeleje,3220,1,23,1958,650000.0,23-05-2011
+Solvej 10,Tisvildeleje,3220,5,64,1962,1000000.0,12-05-2011
+Bakkefrydvej 3,Tisvildeleje,3220,4,71,1960,1300000.0,05-05-2011
+Stuebjergsvinget 1,Tisvildeleje,3220,4,121,1971,1950000.0,29-04-2011
+Bakkedalen 7,Tisvildeleje,3220,6,162,1907,3500000.0,13-04-2011
+Engtoften 5,Tisvildeleje,3220,3,35,1962,722500.0,12-04-2011
+Nyvej 13A,Tisvildeleje,3220,3,85,1927,722500.0,11-04-2011
+Skovridervænget 42,Tisvildeleje,3220,4,106,1981,1750000.0,10-04-2011
+Stokkevej 3,Tisvildeleje,3220,3,87,2014,2150000.0,07-04-2011
+Sørøjlsvænget 4,Tisvildeleje,3220,4,120,2012,1850000.0,04-04-2011
+Hovedgaden 9,Tisvildeleje,3220,5,95,1937,1350000.0,30-03-2011
+Klammerhøj 7,Tisvildeleje,3220,6,185,1912,7500000.0,26-03-2011
+Solvangsvej 21B,Tisvildeleje,3220,4,121,2005,6500000.0,25-03-2011
+Xylografensvej 3,Tisvildeleje,3220,6,147,1991,2750000.0,23-03-2011
+Sørøjlsvænget 27,Tisvildeleje,3220,5,87,1993,1860000.0,09-03-2011
+Østerled 2,Tisvildeleje,3220,3,48,1963,3200000.0,03-03-2011
+Kløvervej 9,Tisvildeleje,3220,5,167,2012,1100000.0,28-02-2011
+Wadstedsvej 5,Tisvildeleje,3220,4,65,1960,1360000.0,27-02-2011
+Bomskolevej 4B,Tisvildeleje,3220,3,100,1981,1525000.0,25-02-2011
+Toftevej 3,Tisvildeleje,3220,4,119,2009,3750000.0,19-02-2011
+Margot Nyholms Vej 5,Tisvildeleje,3220,3,72,1951,354235.0,27-01-2011
+Tisvildesvinget 2,Tisvildeleje,3220,9,220,2011,4420000.0,24-01-2011
+"Østerled 9, ST",Tisvildeleje,3220,4,309,2013,9500000.0,21-01-2011
+Ahorn Alle 16,Tisvildeleje,3220,3,57,1966,1317000.0,17-01-2011
+Kastanievej 2,Tisvildeleje,3220,1,70,1936,1222727.0,11-01-2011
+Henriksensvej 2,Tisvildeleje,3220,8,200,1926,4700000.0,10-01-2011
+"Hovedgaden 82, 1",Tisvildeleje,3220,3,70,1900,2275000.0,10-01-2011
+Grønnevænge 5,Tisvildeleje,3220,3,103,2014,1080000.0,22-12-2010
+Dyrehøj 4B,Tisvildeleje,3220,4,118,1917,2000000.0,13-12-2010
+Strandvejen 15,Tisvildeleje,3220,4,153,2013,9650000.0,10-12-2010
+Degnemarken 3,Tisvildeleje,3220,3,57,1970,1250000.0,06-12-2010
+Nordre Strandvej 33,Tisvildeleje,3220,4,83,2001,4200000.0,04-12-2010
+Hegnsvej 19,Tisvildeleje,3220,4,117,1999,2154000.0,22-11-2010
+Stubvænget 6,Tisvildeleje,3220,4,63,1974,1475000.0,21-11-2010
+Henriksensvej 3,Tisvildeleje,3220,2,42,1929,1062500.0,13-11-2010
+Strandvejen 33,Tisvildeleje,3220,3,117,1938,3250000.0,10-11-2010
+Melbys Vænge 10,Tisvildeleje,3220,5,142,2013,2600000.0,28-10-2010
+Vesterprisvej 9,Tisvildeleje,3220,5,96,1929,4500000.0,28-10-2010
+Egekærsvej 18,Tisvildeleje,3220,4,108,1969,2200000.0,10-10-2010
+Tibirkevej 20,Tisvildeleje,3220,4,100,1935,1950000.0,06-10-2010
+Krondyrvej 10,Tisvildeleje,3220,5,71,1996,2600000.0,05-10-2010
+Toftevej 1,Tisvildeleje,3220,7,164,1960,1650000.0,05-10-2010
+Strandgårdshaven 10,Tisvildeleje,3220,2,51,1960,790000.0,05-10-2010
+Øvrevænget 11,Tisvildeleje,3220,6,111,1952,221800.0,27-09-2010
+Krondyrvej 1,Tisvildeleje,3220,2,63,1974,1575000.0,21-09-2010
+Sankt Helene Vej 29B,Tisvildeleje,3220,3,86,2006,1800000.0,16-09-2010
+Rivedalen 17,Tisvildeleje,3220,4,91,1974,1200000.0,10-09-2010
+Kløvervej 11,Tisvildeleje,3220,4,99,2011,653310.0,08-09-2010
+Skolemarksvej 7,Tisvildeleje,3220,3,78,1959,1200000.0,02-09-2010
+Egeløvsvej 9,Tisvildeleje,3220,3,50,1982,1550000.0,28-08-2010
+Vesterprisvej 19,Tisvildeleje,3220,6,174,1937,2900000.0,26-08-2010
+Stokkevej 21,Tisvildeleje,3220,3,66,1960,1950000.0,25-08-2010
+Nordre Strandvej 10,Tisvildeleje,3220,4,78,2014,800000.0,09-08-2010
+Sankt Helene Vej 3G,Tisvildeleje,3220,3,69,1900,1700000.0,04-08-2010
+Tennisvej 2,Tisvildeleje,3220,4,102,1946,3200000.0,04-08-2010
+Torpen 1,Tisvildeleje,3220,3,67,2015,780000.0,25-07-2010
+Dyrekærstien 4B,Tisvildeleje,3220,5,122,2007,4000000.0,23-07-2010
+Stubvænget 8,Tisvildeleje,3220,4,70,1963,1200000.0,20-07-2010
+Vieholmgårdsvej 3,Tisvildeleje,3220,4,78,1987,2050000.0,19-07-2010
+Torpen 7,Tisvildeleje,3220,4,128,1968,2500000.0,12-07-2010
+Strandvejen 31,Tisvildeleje,3220,5,72,1934,1343000.0,02-07-2010
+Grünersvej 13,Tisvildeleje,3220,6,100,1916,4275000.0,29-06-2010
+Nordre Strandvej 29,Tisvildeleje,3220,5,125,2013,2900000.0,24-06-2010
+Bomskolevej 9,Tisvildeleje,3220,4,127,1973,1740000.0,15-06-2010
+Langs Diget 9,Tisvildeleje,3220,5,67,1940,2800000.0,15-06-2010
+Tisvildegårdsvej 11,Tisvildeleje,3220,3,94,1981,2035000.0,11-06-2010
+Vibevænget 9,Tisvildeleje,3220,5,103,2015,1550000.0,09-06-2010
+Hovedgaden 93,Tisvildeleje,3220,6,110,1880,3100000.0,09-06-2010
+Sankt Helene Vej 29F,Tisvildeleje,3220,3,86,2006,1670000.0,07-06-2010
+Hovedgaden 108,Tisvildeleje,3220,7,117,1850,2250000.0,31-05-2010
+Doktorstien 8,Tisvildeleje,3220,7,128,1933,2400000.0,13-05-2010
+Stuebjergsvinget 10,Tisvildeleje,3220,5,105,1936,2847500.0,29-04-2010
+Julsgårdsvej 36,Tisvildeleje,3220,5,111,1992,5400000.0,29-04-2010
+Vængevej 25,Tisvildeleje,3220,6,138,1900,10000000.0,26-04-2010
+Haarlands Alle 37,Tisvildeleje,3220,4,78,1974,1375000.0,23-04-2010
+Hyrdeleddet 6,Tisvildeleje,3220,2,52,1965,1000000.0,22-04-2010
+Julius Paulsens Vej 15,Tisvildeleje,3220,6,90,1940,1866667.0,21-04-2010
+Lundebjergvej 43,Tisvildeleje,3220,5,82,1965,1350000.0,21-04-2010
+Fogedgårdsvej 2,Tisvildeleje,3220,4,124,1970,1500000.0,19-04-2010
+Haredalen 5,Tisvildeleje,3220,5,139,2006,3300000.0,19-04-2010
+Bakkefrydvej 31,Tisvildeleje,3220,4,95,2011,1200000.0,16-04-2010
+Nordhusvej 25B,Tisvildeleje,3220,8,176,1928,6650000.0,06-04-2010
+Pyramidestien 3A,Tisvildeleje,3220,6,143,1925,5500000.0,23-03-2010
+Tibirkebro 15,Tisvildeleje,3220,4,90,1922,1150000.0,22-03-2010
+Stuebjerggårdsvej 3,Tisvildeleje,3220,5,170,2013,750000.0,18-03-2010
+Kædemosevej 10,Tisvildeleje,3220,4,147,1968,2175000.0,09-03-2010
+Kløvervej 10,Tisvildeleje,3220,4,120,2004,900000.0,08-03-2010
+Bækkebrovej 18,Tisvildeleje,3220,3,84,1961,450000.0,04-03-2010
+Sankt Helene Vej 10B,Tisvildeleje,3220,2,83,2003,1225000.0,02-03-2010
+Julsgårdsvej 9,Tisvildeleje,3220,4,120,1927,2200000.0,02-03-2010
+Tisvilde Bygade 9E,Tisvildeleje,3220,3,136,1850,1200000.0,24-02-2010
+Alleen 6,Tisvildeleje,3220,5,193,1849,3200000.0,23-02-2010
+Sankt Helene Vej 10A,Tisvildeleje,3220,3,99,2003,1750000.0,19-02-2010
+Hovedgaden 106B,Tisvildeleje,3220,4,206,1927,9375000.0,19-02-2010
+Silkebjerg 11,Tisvildeleje,3220,3,72,1919,1808750.0,04-02-2010
+Iglekærvej 20,Tisvildeleje,3220,4,68,1971,800000.0,02-02-2010
+Bymosen 3,Tisvildeleje,3220,4,180,1972,1800000.0,01-02-2010
+Nyvej 11,Tisvildeleje,3220,5,175,1938,1940000.0,25-01-2010
+Stuebjerg Alle 11,Tisvildeleje,3220,2,45,1966,153420.0,22-01-2010
+Møllevej 8,Tisvildeleje,3220,6,100,1932,3250000.0,14-01-2010
+Kløvervej 12,Tisvildeleje,3220,3,69,1966,2250000.0,04-01-2010
+Dyrehegnet 5,Tisvildeleje,3220,3,44,1966,650000.0,30-12-2009
+Fiskerbakken 8,Tisvildeleje,3220,7,130,1925,14300000.0,29-12-2009
+N P Nielsens Vej 2,Tisvildeleje,3220,4,112,2000,2550000.0,22-12-2009
+Hørmarken 3,Tisvildeleje,3220,4,84,2016,700000.0,22-12-2009
+Hotelbakken 2,Tisvildeleje,3220,4,117,1956,4000000.0,08-12-2009
+Stuebjergsvinget 21,Tisvildeleje,3220,4,92,1964,2100000.0,05-12-2009
+Haarlands Alle 17,Tisvildeleje,3220,4,80,1960,2125000.0,01-12-2009
+Agernvej 4,Tisvildeleje,3220,3,48,1966,1256000.0,26-11-2009
+Tjørnebrovej 3,Tisvildeleje,3220,6,148,1970,2300000.0,26-11-2009
+Haagen-Müllersvej 1A,Tisvildeleje,3220,4,125,1932,4900000.0,24-11-2009
+Nordhusvej 29,Tisvildeleje,3220,6,113,1929,3600000.0,16-11-2009
+Dyrehøj 8,Tisvildeleje,3220,3,62,1972,1000000.0,16-11-2009
+Øvrevænget 9,Tisvildeleje,3220,4,85,1959,3250000.0,09-11-2009
+Præstebakkevej 5,Tisvildeleje,3220,3,138,1942,4200000.0,07-11-2009
+Østerled 6,Tisvildeleje,3220,5,95,1970,4030000.0,27-10-2009
+Vieholmgårdsvej 13,Tisvildeleje,3220,3,91,2003,3125000.0,27-10-2009
+Sørøjlsvænget 8,Tisvildeleje,3220,3,95,1971,2900000.0,06-10-2009
+Tibirke Lundevej 4,Tisvildeleje,3220,6,114,1957,1600000.0,01-10-2009
+Sankt Helene Vej 10D,Tisvildeleje,3220,4,173,2003,1860000.0,14-09-2009
+Sankt Helene Vej 10F,Tisvildeleje,3220,4,161,2003,1930000.0,14-09-2009
+Sankt Helene Vej 10C,Tisvildeleje,3220,5,147,2003,1600000.0,14-09-2009
+Markvej 3,Tisvildeleje,3220,1,50,1972,1325000.0,31-08-2009
+Tisvildegårdsvej 15,Tisvildeleje,3220,4,86,1975,1850000.0,28-08-2009
+Egekærsvej 10,Tisvildeleje,3220,3,89,1969,2250000.0,26-08-2009
+Grønnevænge 12,Tisvildeleje,3220,4,72,1971,2500000.0,11-08-2009
+Kildeskåret 3,Tisvildeleje,3220,6,120,1940,2000000.0,04-08-2009
+Strandbakkevej 10,Tisvildeleje,3220,3,82,1929,4800000.0,03-08-2009
+Vieholmgårdsvej 25,Tisvildeleje,3220,4,77,1974,2500000.0,26-07-2009
+Helenekildevej 11,Tisvildeleje,3220,5,189,2012,3300000.0,14-07-2009
+Bakkefrydvej 29,Tisvildeleje,3220,3,86,1969,2125000.0,14-07-2009
+Sjelleager 8,Tisvildeleje,3220,4,66,1976,1800000.0,06-07-2009
+Tjørnevej 8,Tisvildeleje,3220,4,85,1963,2252500.0,03-07-2009
+Vieholmgårdsvej 24,Tisvildeleje,3220,3,56,1970,1400000.0,02-07-2009
+"Godhavnsvej 13C, ST. MF",Tisvildeleje,3220,2,68,1927,1585000.0,24-06-2009
+"Godhavnsvej 13C, 1. TH",Tisvildeleje,3220,2,58,1927,1585000.0,24-06-2009
+"Godhavnsvej 13C, ST. TV",Tisvildeleje,3220,2,60,1927,1585000.0,24-06-2009
+"Godhavnsvej 13C, 1. TV",Tisvildeleje,3220,2,51,1927,1585000.0,24-06-2009
+Solvej 11,Tisvildeleje,3220,4,61,1970,1475000.0,20-06-2009
+Stuebjerg Alle 24,Tisvildeleje,3220,3,55,1969,1100000.0,18-06-2009
+Hovedgaden 102B,Tisvildeleje,3220,4,113,1948,9450000.0,18-06-2009
+Lundebjergvej 50,Tisvildeleje,3220,2,35,1970,570000.0,10-06-2009
+Vejbyvej 4,Tisvildeleje,3220,8,193,1959,135000.0,08-06-2009
+Julsgårdsvej 15,Tisvildeleje,3220,3,64,2005,750000.0,02-06-2009
+Engvej 8,Tisvildeleje,3220,7,120,1960,1900000.0,30-05-2009
+Agerleddet 3,Tisvildeleje,3220,3,46,1971,900000.0,29-05-2009
+Ahorn Alle 11,Tisvildeleje,3220,3,53,1963,1075000.0,26-05-2009
+Nordhusvej 8,Tisvildeleje,3220,6,135,1955,4025000.0,25-05-2009
+Sankt Helene Vej 23,Tisvildeleje,3220,3,110,2001,1406708.0,11-05-2009
+Engtoften 1,Tisvildeleje,3220,5,81,1970,1395000.0,09-05-2009
+Nordre Strandvej 60,Tisvildeleje,3220,4,98,2001,12500000.0,08-05-2009
+Dyrehøj 4G,Tisvildeleje,3220,4,124,1917,2450000.0,07-05-2009
+Stuebjerg Alle 15,Tisvildeleje,3220,4,50,1963,1800000.0,01-05-2009
+Sankt Helene Vej 10E,Tisvildeleje,3220,3,134,2003,2475000.0,29-04-2009
+Dyrehøj 4A,Tisvildeleje,3220,4,143,1917,2850000.0,27-04-2009
+Birkevej 5,Tisvildeleje,3220,5,158,1995,2800000.0,25-04-2009
+Tisvilde Bygade 9B,Tisvildeleje,3220,4,184,1850,2424000.0,24-04-2009
+Brøndgraverens Vej 10,Tisvildeleje,3220,4,72,1981,1800000.0,21-04-2009
+"Hovedgaden 66B, 1. TH",Tisvildeleje,3220,3,97,1918,1700000.0,20-04-2009
+Iglekærvej 34,Tisvildeleje,3220,3,59,1972,812500.0,21-03-2009
+Langs Diget 11,Tisvildeleje,3220,2,52,1976,2600000.0,20-03-2009
+Hovedgaden 2,Tisvildeleje,3220,3,100,1925,2000000.0,19-03-2009
+Tibirkevej 9,Tisvildeleje,3220,3,106,1907,1950000.0,12-03-2009
+Haarlands Alle 43,Tisvildeleje,3220,5,96,1978,2040000.0,15-02-2009
+Slugtvej 2D,Tisvildeleje,3220,10,138,1969,3133020.0,12-02-2009
+Bavnebakke 10,Tisvildeleje,3220,1,30,1967,1400000.0,03-02-2009
+Wadstedsvej 30,Tisvildeleje,3220,4,78,1950,1100000.0,20-01-2009
+Tibirkebro 9A. TV,Tisvildeleje,3220,5,130,2008,1310000.0,16-01-2009
+Tibirkebro 9A. TH,Tisvildeleje,3220,5,130,2008,1360000.0,16-01-2009
+Silkebjerg 9,Tisvildeleje,3220,9,215,1938,3250000.0,16-01-2009
+Markvej 8,Tisvildeleje,3220,6,91,1939,132500.0,16-01-2009
+Vibevænget 15,Tisvildeleje,3220,5,133,2008,1800000.0,01-01-2009
+Kædemosevej 19,Tisvildeleje,3220,5,114,1962,1875000.0,31-12-2008
+Holløselund Strandvej 2,Tisvildeleje,3220,4,119,1911,1875000.0,09-12-2008
+Tisvildegårdsvej 21,Tisvildeleje,3220,4,80,1973,1105000.0,01-12-2008
+Mindevej 1,Tisvildeleje,3220,4,99,2010,1600000.0,26-11-2008
+Nordre Strandvej 1,Tisvildeleje,3220,2,59,1968,1075000.0,25-11-2008
+Kornmodsvej 2,Tisvildeleje,3220,4,75,1986,2175000.0,12-11-2008
+Strandbakkevej 12,Tisvildeleje,3220,5,179,1928,9450000.0,11-11-2008
+Chr. Hansens Vej 2,Tisvildeleje,3220,2,42,1943,1657500.0,30-10-2008
+Julsgårdsvej 16,Tisvildeleje,3220,2,50,1942,3700000.0,28-10-2008
+Strandbakkevej 9,Tisvildeleje,3220,4,82,1937,4000000.0,25-10-2008
+Stubvænget 2,Tisvildeleje,3220,3,43,1967,1000000.0,01-10-2008
+Solvangsvej 34,Tisvildeleje,3220,6,162,2010,4400000.0,18-09-2008
+Stokkevej 11,Tisvildeleje,3220,5,99,1950,2300000.0,09-09-2008
+Haarlandskrogen 6,Tisvildeleje,3220,4,79,1969,1700000.0,07-09-2008
+Gyvelbakken 4,Tisvildeleje,3220,4,62,1962,2900000.0,15-08-2008
+Strandvejen 12A,Tisvildeleje,3220,5,70,1936,1007950.0,13-08-2008
+Margot Nyholms Vej 18,Tisvildeleje,3220,4,71,1973,2900000.0,30-07-2008
+Ellevej 2,Tisvildeleje,3220,2,30,1946,3300000.0,18-07-2008
+Bækkebrovej 2,Tisvildeleje,3220,4,113,1964,2200000.0,15-07-2008
+Bækkebrovej 10,Tisvildeleje,3220,5,120,1941,1121244.0,14-07-2008
+Væverlodden 11,Tisvildeleje,3220,4,141,2003,3150000.0,14-07-2008
+Wadstedsvej 17,Tisvildeleje,3220,7,109,1930,4275000.0,07-07-2008
+Haarlandskrogen 7,Tisvildeleje,3220,3,55,1962,1400000.0,02-07-2008
+Lundebjergvej 39,Tisvildeleje,3220,4,77,1965,2945000.0,24-06-2008
+Kædemosevej 8,Tisvildeleje,3220,4,104,1994,425000.0,16-06-2008
+Kædemosevej 5,Tisvildeleje,3220,4,143,1982,2675000.0,11-06-2008
+Haredalen 6,Tisvildeleje,3220,4,89,1968,1848750.0,08-06-2008
+Tisvilde Bygade 68,Tisvildeleje,3220,5,183,2011,1700000.0,04-06-2008
+Krondyrvej 5,Tisvildeleje,3220,3,71,1974,2000000.0,01-06-2008
+Egeløvsvej 6,Tisvildeleje,3220,4,81,1989,1300000.0,05-05-2008
+Pyramidestien 16,Tisvildeleje,3220,6,127,1964,1500000.0,01-05-2008
+Tisvildegårdsvej 25,Tisvildeleje,3220,3,77,1972,1725000.0,20-04-2008
+Bymosen 5,Tisvildeleje,3220,7,179,1900,2425000.0,28-03-2008
+Vesterprisvej 22,Tisvildeleje,3220,3,70,1960,1020000.0,26-03-2008
+Kastanievej 6,Tisvildeleje,3220,5,150,1954,2925000.0,08-03-2008
+Ved Gærdet 9A,Tisvildeleje,3220,5,100,1968,2635000.0,01-03-2008
+Rydevej 8,Tisvildeleje,3220,3,47,1972,1500000.0,11-02-2008
+Tibirkebro 9B. TH,Tisvildeleje,3220,5,130,2007,2950000.0,27-01-2008
+"Hovedgaden 66B, 1. TV",Tisvildeleje,3220,3,70,1918,1485000.0,27-01-2008
+Bakkedalen 11,Tisvildeleje,3220,5,167,1916,9550000.0,25-01-2008
+Hyrdeleddet 2,Tisvildeleje,3220,3,69,1951,1900000.0,23-01-2008
+Strandvejen 19,Tisvildeleje,3220,5,137,2013,3145000.0,22-01-2008
+Dyrehøj 4E,Tisvildeleje,3220,3,119,1917,3475000.0,21-01-2008
+Bækkebrovej 4B,Tisvildeleje,3220,6,170,2007,2380000.0,18-01-2008
+Fogedgårdsvej 26,Tisvildeleje,3220,5,136,1971,2025000.0,16-01-2008
+Nyvej 9,Tisvildeleje,3220,4,142,2009,1800000.0,13-01-2008
+Stuebjerggårdsvej 2B,Tisvildeleje,3220,3,94,1915,2150000.0,13-01-2008
+Helenekildevej 12,Tisvildeleje,3220,4,54,1942,2650000.0,04-01-2008
+Vesterprisvej 16,Tisvildeleje,3220,9,240,1932,1152000.0,01-01-2008
+Bakkedalen 3,Tisvildeleje,3220,4,140,1979,2104500.0,10-12-2007
+Tisvilde Lundevej 12,Tisvildeleje,3220,7,156,1937,1083750.0,07-12-2007
+Strandvejen 3A,Tisvildeleje,3220,8,115,1993,3740000.0,28-11-2007
+Hovedgaden 59,Tisvildeleje,3220,5,140,1900,5500000.0,23-11-2007
+Grønnevænge 3,Tisvildeleje,3220,4,149,2010,1000000.0,05-11-2007
+Iglekærvej 16,Tisvildeleje,3220,4,75,1973,1900000.0,04-11-2007
+Øllekollevej 3,Tisvildeleje,3220,4,87,2007,2400000.0,14-10-2007
+Skovridervænget 25,Tisvildeleje,3220,4,91,1971,348000.0,02-10-2007
+Grønnevænge 1,Tisvildeleje,3220,4,120,2007,1600000.0,01-10-2007
+Langs Diget 5,Tisvildeleje,3220,3,65,1947,4850000.0,18-09-2007
+Aspevej 6,Tisvildeleje,3220,5,154,1917,3700000.0,11-09-2007
+Vejbyvej 3B,Tisvildeleje,3220,7,189,2015,275000.0,04-09-2007
+Skovridervænget 35,Tisvildeleje,3220,3,119,1980,2300000.0,03-09-2007
+Stokkevej 13,Tisvildeleje,3220,5,82,1948,1750000.0,02-09-2007
+Solvej 12,Tisvildeleje,3220,5,128,2013,2380000.0,01-09-2007
+Melbys Vænge 9A,Tisvildeleje,3220,4,102,2003,3100000.0,27-08-2007
+Krondyrvej 3,Tisvildeleje,3220,4,81,1976,2900000.0,23-08-2007
+Sankt Helene Vej 8,Tisvildeleje,3220,3,80,1960,1250000.0,21-08-2007
+"Hovedgaden 63A, 2",Tisvildeleje,3220,2,79,1910,1950000.0,20-08-2007
+Banevej 2,Tisvildeleje,3220,3,82,1965,2500000.0,14-08-2007
+Vængevej 17,Tisvildeleje,3220,7,195,1947,6500000.0,13-08-2007
+Stuebjerggårdsvej 2I,Tisvildeleje,3220,2,81,1915,1600159.0,06-08-2007
+Vesterprisvej 11,Tisvildeleje,3220,5,110,1926,8000000.0,13-07-2007
+Degnemarken 5,Tisvildeleje,3220,4,59,1973,1232500.0,12-07-2007
+Rosenbakken 1,Tisvildeleje,3220,3,95,1961,2695000.0,09-07-2007
+Sortebakken 5B,Tisvildeleje,3220,6,140,1911,9000000.0,07-07-2007
+Gyvelvej 6,Tisvildeleje,3220,4,82,1962,3515000.0,02-07-2007
+Tibirkevej 11B,Tisvildeleje,3220,6,213,1890,3800000.0,25-06-2007
+Banevej 8,Tisvildeleje,3220,7,203,1924,350000.0,20-06-2007
+Rådyrvej 13,Tisvildeleje,3220,4,77,1978,850000.0,11-06-2007
+Dyrekærstien 4D,Tisvildeleje,3220,3,115,2006,4000000.0,06-06-2007
+Hans Olriks Vej 4,Tisvildeleje,3220,4,103,1918,7925000.0,04-06-2007
+Tisvilde Lundevej 1,Tisvildeleje,3220,4,120,1978,2675000.0,23-05-2007
+Rørkæret 8,Tisvildeleje,3220,6,96,1965,1445000.0,19-05-2007
+Tibirkevej 12,Tisvildeleje,3220,3,66,1978,1895000.0,18-05-2007
+Rigmor Stampes Vej 13,Tisvildeleje,3220,5,88,1971,559500.0,10-05-2007
+Strandbakkevej 14,Tisvildeleje,3220,5,126,1926,1800000.0,10-05-2007
+Tisvilde Bygade 21B,Tisvildeleje,3220,3,102,1982,1975000.0,05-04-2007
+Sjelleager 7,Tisvildeleje,3220,3,93,1998,2535000.0,25-03-2007
+Østerled 5,Tisvildeleje,3220,7,144,1982,2700000.0,13-03-2007
+Fogedgårdsvej 22,Tisvildeleje,3220,6,138,1971,553683.0,05-03-2007
+Rosenbakken 6,Tisvildeleje,3220,3,104,1949,2510000.0,19-02-2007
+Julsgårdsvej 11,Tisvildeleje,3220,3,81,2016,811750.0,18-02-2007
+Tennisvej 10,Tisvildeleje,3220,5,88,1930,1020000.0,08-02-2007
+Kløvervej 8,Tisvildeleje,3220,4,81,1961,446250.0,27-01-2007
+Blæsbjergvej 3,Tisvildeleje,3220,3,93,1970,2040000.0,22-01-2007
+Krondyrvej 9,Tisvildeleje,3220,4,67,1972,2250000.0,22-01-2007
+Haarlandskrogen 3,Tisvildeleje,3220,4,56,1964,1650000.0,21-01-2007
+Helenekildevej 13,Tisvildeleje,3220,5,101,1946,4400000.0,17-01-2007
+Hegnsvej 21,Tisvildeleje,3220,5,123,1999,2580000.0,01-01-2007
+Dyrevang 4,Tisvildeleje,3220,4,71,1981,3800000.0,26-12-2006
+Ahorn Alle 5,Tisvildeleje,3220,4,70,1962,1062500.0,22-12-2006
+Ved Gærdet 4,Tisvildeleje,3220,5,143,1917,4000000.0,08-12-2006
+Øvrevænget 5,Tisvildeleje,3220,5,137,1936,5500000.0,07-12-2006
+Haredalen 8,Tisvildeleje,3220,5,172,1956,5700000.0,05-12-2006
+Langetravs 17,Tisvildeleje,3220,6,163,1970,11000000.0,02-12-2006
+Paradisvej 3,Tisvildeleje,3220,3,78,1942,1675000.0,07-11-2006
+Fiskerbakken 2,Tisvildeleje,3220,6,130,1910,2040000.0,01-11-2006
+Tisvilde Bygade 21M,Tisvildeleje,3220,3,93,1904,1500000.0,26-10-2006
+Iglekærvej 56,Tisvildeleje,3220,4,86,1972,1800000.0,14-10-2006
+Nordre Strandvej 15,Tisvildeleje,3220,4,66,1978,3425000.0,12-10-2006
+Hegnsvej 24,Tisvildeleje,3220,2,46,1942,908000.0,09-10-2006
+Solvangsvej 9,Tisvildeleje,3220,5,130,1940,6900000.0,03-10-2006
+Tibirkebro 7A,Tisvildeleje,3220,5,100,1956,2620000.0,01-10-2006
+Iglekærvej 33,Tisvildeleje,3220,4,68,1970,1232500.0,28-09-2006
+Ellevej 10,Tisvildeleje,3220,3,63,2016,1000000.0,21-09-2006
+Olskærvej 10,Tisvildeleje,3220,4,105,1940,1041731.0,20-09-2006
+Stokkevej 15,Tisvildeleje,3220,3,82,1949,850000.0,19-09-2006
+Lundebjergvej 51,Tisvildeleje,3220,5,86,1965,1995000.0,15-09-2006
+Vængevej 31,Tisvildeleje,3220,4,36,1917,1320000.0,14-09-2006
+Dyreholm 2,Tisvildeleje,3220,4,92,1980,3150000.0,11-09-2006
+Hovedgaden 58D,Tisvildeleje,3220,1,24,1958,1000000.0,11-09-2006
+Tisvilde Lundevej 15B,Tisvildeleje,3220,4,79,1979,3100000.0,22-08-2006
+Dyrekærstien 6,Tisvildeleje,3220,5,116,2005,3235000.0,21-08-2006
+Sankt Helene Vej 29D,Tisvildeleje,3220,3,86,2006,2300000.0,15-08-2006
+Kløvervej 1,Tisvildeleje,3220,4,50,1965,2520000.0,14-08-2006
+Rugmarken 3,Tisvildeleje,3220,4,50,1965,213240.0,13-08-2006
+Rådyrvej 5,Tisvildeleje,3220,4,120,2005,1041250.0,04-08-2006
+Haarlandsvænget 9,Tisvildeleje,3220,4,102,1971,900000.0,04-08-2006
+Tisvilde Bygade 23B,Tisvildeleje,3220,6,158,2000,3500000.0,03-08-2006
+Julius Paulsens Vej 2,Tisvildeleje,3220,3,69,1989,2950000.0,01-08-2006
+Tibirkevej 30,Tisvildeleje,3220,3,100,1896,2800000.0,26-07-2006
+Åkirkesvej 2,Tisvildeleje,3220,7,114,1961,1785000.0,23-07-2006
+Stuebjerggårdsvej 2K,Tisvildeleje,3220,3,99,1915,2175000.0,17-07-2006
+Tennisvej 20,Tisvildeleje,3220,6,102,1924,7700000.0,11-07-2006
+Stuebjerggårdsvej 2E,Tisvildeleje,3220,3,102,1915,1995000.0,07-07-2006
+Stubvænget 5,Tisvildeleje,3220,4,110,2009,1495000.0,02-07-2006
+Stuebjerggårdsvej 2F,Tisvildeleje,3220,3,100,1915,1995000.0,30-06-2006
+Holløselund Strandvej 17,Tisvildeleje,3220,3,50,1960,2550000.0,17-06-2006
+Strandvejen 17,Tisvildeleje,3220,3,99,1937,15000.0,05-06-2006
+Borshøjvænget 8,Tisvildeleje,3220,6,162,2007,2400000.0,05-06-2006
+Tisvilde Bygade 9C,Tisvildeleje,3220,3,112,1850,1800000.0,04-06-2006
+Skovridervænget 29,Tisvildeleje,3220,4,105,1968,2095000.0,23-05-2006
+Ahorn Alle 13,Tisvildeleje,3220,4,88,2008,2000000.0,22-05-2006
+Tennisvej 8,Tisvildeleje,3220,3,70,1930,475000.0,27-04-2006
+Tisvilde Lundevej 16A,Tisvildeleje,3220,5,133,1998,4100000.0,26-03-2006
+Hegnsvej 15,Tisvildeleje,3220,6,143,1964,3675000.0,26-03-2006
+Ullersvej 5,Tisvildeleje,3220,4,86,1943,800000.0,24-03-2006
+Olskærvej 4,Tisvildeleje,3220,3,40,1952,150000.0,20-03-2006
+Tisvildegårdsvej 19,Tisvildeleje,3220,5,103,1972,500000.0,13-03-2006
+Tibirkevej 32,Tisvildeleje,3220,4,100,1910,2675000.0,03-03-2006
+Bomskolevej 6,Tisvildeleje,3220,4,136,1974,2225000.0,27-02-2006
+Vieholmgårdsvej 2,Tisvildeleje,3220,4,72,1973,1915000.0,17-02-2006
+Haarlands Alle 10,Tisvildeleje,3220,4,115,2007,907000.0,10-02-2006
+Lundebjergvej 59,Tisvildeleje,3220,5,159,1964,2650000.0,09-02-2006
+Strandvejen 41,Tisvildeleje,3220,7,171,1920,8950000.0,07-02-2006
+Tennisvej 3,Tisvildeleje,3220,3,62,1954,1275000.0,29-01-2006
+Stuebjerg Alle 30,Tisvildeleje,3220,4,133,1965,2195000.0,24-01-2006
+Skovporten 5,Tisvildeleje,3220,9,148,1906,4315000.0,23-01-2006
+Svanekæret 2,Tisvildeleje,3220,4,122,1976,2725000.0,12-01-2006
+Stenbrobakken 2,Tisvildeleje,3220,6,147,1969,2400000.0,09-01-2006
+Parallelvej 10,Tisvildeleje,3220,3,75,1955,2375000.0,08-01-2006
+Haarlandsvænget 8,Tisvildeleje,3220,3,46,2001,671500.0,30-12-2005
+Helenekildevej 9,Tisvildeleje,3220,4,86,1939,1572500.0,26-12-2005
+Sørøjlsvænget 5,Tisvildeleje,3220,5,77,1970,935000.0,25-12-2005
+Margot Nyholms Vej 12,Tisvildeleje,3220,5,112,1938,2500000.0,12-12-2005
+Vængevej 38A,Tisvildeleje,3220,4,109,2007,3400000.0,12-12-2005
+Fiskerbakken 1,Tisvildeleje,3220,10,292,1893,3825000.0,11-12-2005
+Spættestien 2,Tisvildeleje,3220,3,51,1956,980000.0,01-12-2005
+Nordre Strandvej 72,Tisvildeleje,3220,4,65,1972,1317500.0,22-11-2005
+Hovedgaden 58E,Tisvildeleje,3220,1,23,1958,263500.0,22-11-2005
+Nordre Strandvej 50,Tisvildeleje,3220,7,238,1937,7000000.0,14-11-2005
+Nordre Strandvej 74,Tisvildeleje,3220,4,66,1967,1360000.0,11-11-2005
+Skovridervænget 8,Tisvildeleje,3220,5,142,1966,2500000.0,10-11-2005
+Lysagervej 3,Tisvildeleje,3220,5,79,1956,552500.0,07-11-2005
+Nordre Strandvej 21,Tisvildeleje,3220,3,84,1968,2750000.0,05-11-2005
+Melbys Vænge 12,Tisvildeleje,3220,2,38,1959,1147500.0,03-11-2005
+Langetravs 9,Tisvildeleje,3220,6,85,1917,5750000.0,19-10-2005
+Dyrekærstien 4C,Tisvildeleje,3220,5,97,2005,3320000.0,14-10-2005
+Slugtvej 14,Tisvildeleje,3220,6,73,1939,1700000.0,10-10-2005
+Skovridervænget 23,Tisvildeleje,3220,6,142,1965,1815000.0,09-10-2005
+Tisvilde Bygade 21N,Tisvildeleje,3220,3,81,1904,1300000.0,09-10-2005
+Sankt Helene Vej 29G,Tisvildeleje,3220,3,86,2006,1875000.0,05-10-2005
+Sankt Helene Vej 29C,Tisvildeleje,3220,3,86,2006,1875000.0,01-10-2005
+Stuebjerg Alle 3B,Tisvildeleje,3220,3,60,1968,1895000.0,25-09-2005
+Helenekildevej 3,Tisvildeleje,3220,4,155,2014,550000.0,25-09-2005
+Øvrevænget 14,Tisvildeleje,3220,5,79,1955,6495000.0,13-09-2005
+Rosenbakken 11,Tisvildeleje,3220,3,98,1949,1275000.0,06-09-2005
+Pilevej 1A,Tisvildeleje,3220,4,114,1978,550000.0,25-08-2005
+Hovedgaden 100,Tisvildeleje,3220,5,150,1885,4900000.0,23-08-2005
+Bakkefrydvej 23,Tisvildeleje,3220,2,33,1964,2095000.0,17-08-2005
+Slugtvej 9,Tisvildeleje,3220,5,121,1925,4995000.0,09-08-2005
+Vieholmgårdsvej 15,Tisvildeleje,3220,4,87,1971,2350000.0,09-08-2005
+Åkirkesvej 1,Tisvildeleje,3220,6,133,1956,935000.0,09-08-2005
+Pyramidestien 4,Tisvildeleje,3220,5,72,1937,340000.0,06-08-2005
+Vesterprisvej 2,Tisvildeleje,3220,8,207,1953,2400000.0,05-08-2005
+Tisvilde Bygade 21C,Tisvildeleje,3220,3,102,1982,1525000.0,05-08-2005
+Iglekærvej 35,Tisvildeleje,3220,4,89,1992,2850000.0,04-08-2005
+Stuebjerggårdsvej 2D,Tisvildeleje,3220,3,91,1915,2075000.0,26-07-2005
+Iglekærvej 44,Tisvildeleje,3220,4,68,1971,900000.0,25-07-2005
+Sankt Helene Vej 3D,Tisvildeleje,3220,2,54,1900,1195000.0,14-07-2005
+Dyrekærskellet 3,Tisvildeleje,3220,4,82,1937,980000.0,07-07-2005
+Stuebjergsvinget 9,Tisvildeleje,3220,5,135,2013,432000.0,06-07-2005
+Væverlodden 13,Tisvildeleje,3220,6,143,1977,2130000.0,03-07-2005
+N P Nielsens Vej 12,Tisvildeleje,3220,8,108,1962,1700000.0,01-07-2005
+Havreengen 4,Tisvildeleje,3220,5,60,1968,1595000.0,01-07-2005
+Dyrekærstien 4A,Tisvildeleje,3220,5,120,2007,9000000.0,29-06-2005
+Hovedgaden 12,Tisvildeleje,3220,4,156,2000,2895000.0,14-06-2005
+Tibirkevej 28,Tisvildeleje,3220,3,65,1944,1275000.0,13-06-2005
+"Hovedgaden 63A, 1. TH",Tisvildeleje,3220,1,67,1910,1195000.0,13-06-2005
+Østerled 3B,Tisvildeleje,3220,4,116,1968,680000.0,12-06-2005
+Egekærsvej 32,Tisvildeleje,3220,5,139,2000,2995000.0,05-06-2005
+Arildsvej 1,Tisvildeleje,3220,5,148,1936,1360000.0,04-06-2005
+Johs V Jensens Vej 4,Tisvildeleje,3220,4,54,1955,1900000.0,20-05-2005
+Sørøjlsvænget 1,Tisvildeleje,3220,3,70,1972,2500000.0,17-05-2005
+Toftevej 16,Tisvildeleje,3220,5,130,1955,2750000.0,14-05-2005
+Julsgårdsvej 19,Tisvildeleje,3220,5,140,1925,7200000.0,10-05-2005
+Tisvilde Bygade 54,Tisvildeleje,3220,3,140,1977,2075000.0,08-05-2005
+Øllekollevej 2,Tisvildeleje,3220,3,79,1976,1150000.0,07-05-2005
+Tisvilde Bygade 23A,Tisvildeleje,3220,7,159,1848,2845000.0,02-05-2005
+Agerleddet 6,Tisvildeleje,3220,4,52,1963,1450000.0,01-05-2005
+Dyrekærskellet 8,Tisvildeleje,3220,3,40,1956,75000.0,28-04-2005
+Sortebakken 9,Tisvildeleje,3220,3,70,1933,637500.0,23-04-2005
+Gartnersvinget 4,Tisvildeleje,3220,7,149,1952,1075000.0,23-04-2005
+Hovedgaden 41,Tisvildeleje,3220,5,135,1924,452304.0,23-04-2005
+Vedbendvej 8,Tisvildeleje,3220,3,52,1966,1345000.0,20-04-2005
+Tibirkevej 26,Tisvildeleje,3220,3,63,1775,1785000.0,19-04-2005
+Haredalen 3,Tisvildeleje,3220,6,187,1939,245000.0,18-04-2005
+"Hovedgaden 63A, ST. TV",Tisvildeleje,3220,3,142,1910,1625000.0,11-04-2005
+Sørøjlsvænget 17,Tisvildeleje,3220,4,92,1974,2525000.0,07-04-2005
+Dyrehegnet 4,Tisvildeleje,3220,3,81,1964,1695000.0,27-03-2005
+Solvangsvej 21A,Tisvildeleje,3220,4,103,2004,3475000.0,07-03-2005
+Nordhusvej 11,Tisvildeleje,3220,4,64,1960,1190000.0,05-03-2005
+Møllevej 1,Tisvildeleje,3220,5,37,1937,1300000.0,28-02-2005
+Egekærsvej 9,Tisvildeleje,3220,4,106,2005,945000.0,16-02-2005
+Øvrevænget 12,Tisvildeleje,3220,5,125,1954,2040000.0,01-02-2005
+Stokkevej 29,Tisvildeleje,3220,4,87,1967,935000.0,30-01-2005
+Væverlodden 10,Tisvildeleje,3220,3,86,1950,2025000.0,24-01-2005
+Sankt Helene Vej 3C,Tisvildeleje,3220,2,55,1900,1150000.0,21-01-2005
+Julius Paulsens Vej 17B,Tisvildeleje,3220,4,66,1928,469080.0,03-01-2005
+Gyvelvej 3,Tisvildeleje,3220,3,115,1962,65000.0,20-12-2004
+Sankt Helene Vej 33,Tisvildeleje,3220,4,154,1952,953000.0,19-12-2004
+Klammerhøj 3,Tisvildeleje,3220,5,121,1978,1586666.0,16-12-2004
+Kornmodsvej 8,Tisvildeleje,3220,4,48,1982,714000.0,12-12-2004
+Dyrevang 7,Tisvildeleje,3220,4,111,2005,265000.0,17-11-2004
+Tisvilde Bygade 18,Tisvildeleje,3220,4,127,1927,1550000.0,16-11-2004
+Kunertsvej 7,Tisvildeleje,3220,5,99,1940,950000.0,31-10-2004
+Sjellebjerg 16,Tisvildeleje,3220,4,63,1979,2050000.0,30-10-2004
+Nordhusvej 1B,Tisvildeleje,3220,7,128,1937,1800000.0,26-10-2004
+Sjellebjerg 15,Tisvildeleje,3220,4,80,1973,475000.0,25-10-2004
+Tværledet 4,Tisvildeleje,3220,3,57,1974,1325000.0,17-10-2004
+Agervej 4,Tisvildeleje,3220,4,105,1962,1500000.0,17-10-2004
+Kædemosevej 22,Tisvildeleje,3220,4,68,1985,1575000.0,11-10-2004
+Skovridervænget 7,Tisvildeleje,3220,5,126,1984,1925000.0,07-10-2004
+Nyvej 2,Tisvildeleje,3220,6,136,1946,2135000.0,20-09-2004
+Tisvilde Bygade 70,Tisvildeleje,3220,4,90,1947,1630000.0,11-08-2004
+Dyrekærskellet 4A,Tisvildeleje,3220,4,87,2006,950000.0,10-08-2004
+Rigmor Stampes Vej 1A,Tisvildeleje,3220,5,112,1970,2365000.0,04-08-2004
+Margot Nyholms Vej 7,Tisvildeleje,3220,4,42,1949,800000.0,04-08-2004
+Stuebjerggårdsvej 2H,Tisvildeleje,3220,3,99,1915,1725000.0,02-08-2004
+Stuebjergsvinget 3,Tisvildeleje,3220,4,85,1980,1991255.0,27-07-2004
+Mindevej 3,Tisvildeleje,3220,3,64,1964,1450000.0,17-07-2004
+Kædemosevej 12,Tisvildeleje,3220,4,89,1973,446250.0,14-07-2004
+Fogedgårdsvej 8,Tisvildeleje,3220,5,161,1970,1825000.0,10-07-2004
+Tisvilde Lundevej 7,Tisvildeleje,3220,4,77,1965,780000.0,08-07-2004
+Solvangsvej 13A,Tisvildeleje,3220,5,104,1972,2750000.0,24-06-2004
+Nordre Strandvej 32,Tisvildeleje,3220,5,103,1962,5200000.0,22-06-2004
+Tennisvej 14,Tisvildeleje,3220,4,104,2006,1100000.0,22-06-2004
+Øvrevænget 15,Tisvildeleje,3220,4,98,1960,1250000.0,14-06-2004
+Strandvejen 14,Tisvildeleje,3220,3,80,1935,3150000.0,10-06-2004
+Hovedgaden 40,Tisvildeleje,3220,6,170,1968,1995000.0,09-06-2004
+Grønnevænge 14,Tisvildeleje,3220,3,50,1969,500000.0,08-06-2004
+Julsgårdsvej 22,Tisvildeleje,3220,5,98,1943,1530000.0,24-05-2004
+Skolelodden 36,Tisvildeleje,3220,3,50,1955,700000.0,18-05-2004
+Dyrekærskellet 4B,Tisvildeleje,3220,8,202,1919,4550000.0,15-05-2004
+Kædemosevej 7,Tisvildeleje,3220,6,165,1971,1100000.0,08-05-2004
+Haarlandsvænget 6,Tisvildeleje,3220,3,65,1973,1250000.0,26-04-2004
+Rosenbakken 9,Tisvildeleje,3220,3,114,1960,1350000.0,23-04-2004
+Haarlands Alle 31,Tisvildeleje,3220,4,94,1971,1125000.0,07-04-2004
+Engtoften 3,Tisvildeleje,3220,3,70,1998,1595000.0,02-04-2004
+Tisvildegårdsvej 17,Tisvildeleje,3220,4,98,1997,1610000.0,01-04-2004
+Bomskolevej 2,Tisvildeleje,3220,6,162,1974,852263.0,31-03-2004
+Engvej 9,Tisvildeleje,3220,3,45,1947,1200000.0,22-03-2004
+Tibirkevej 4,Tisvildeleje,3220,4,62,1936,1268362.0,21-03-2004
+Julsgårdsvej 35B,Tisvildeleje,3220,7,209,1969,3687500.0,19-03-2004
+Skolelodden 34,Tisvildeleje,3220,3,77,1958,1075000.0,18-03-2004
+Haarlandsvænget 7,Tisvildeleje,3220,3,105,1966,1100000.0,15-03-2004
+Skolemarksvej 1,Tisvildeleje,3220,4,109,1959,1375000.0,10-03-2004
+Haarlandsbakken 9,Tisvildeleje,3220,3,108,1961,1286000.0,10-03-2004
+Julsgårdsvej 7,Tisvildeleje,3220,4,64,1925,2550000.0,29-02-2004
+Nyvej 5,Tisvildeleje,3220,4,65,1937,765000.0,20-02-2004
+Haarlandskrogen 8,Tisvildeleje,3220,4,63,1972,1100000.0,28-01-2004
+Tibirke Lundevej 1,Tisvildeleje,3220,4,124,1961,1350000.0,20-01-2004
+Brentingevej 19,Tisvildeleje,3220,7,192,1969,1575000.0,15-01-2004
+Gartnersvinget 2,Tisvildeleje,3220,3,55,1920,1000000.0,04-12-2003
+Kløvervej 13,Tisvildeleje,3220,4,74,1970,700000.0,06-11-2003
+Vængevej 6E,Tisvildeleje,3220,3,63,1910,945000.0,01-11-2003
+Toftevej 19,Tisvildeleje,3220,4,76,1988,900000.0,01-11-2003
+Nyvej 13B,Tisvildeleje,3220,5,130,1981,1650000.0,31-10-2003
+Ahorn Alle 4,Tisvildeleje,3220,7,127,1965,1235000.0,27-10-2003
+Tibirkebro 8B,Tisvildeleje,3220,4,155,1964,1200000.0,06-10-2003
+Egeløvsvej 4,Tisvildeleje,3220,4,75,1970,1375000.0,03-10-2003
+Skovridervænget 40,Tisvildeleje,3220,4,110,1984,1900000.0,01-10-2003
+Hyrdeleddet 4,Tisvildeleje,3220,6,102,1969,518500.0,30-09-2003
+Hovedgaden 34,Tisvildeleje,3220,6,81,1950,1300000.0,28-09-2003
+Tjørnevej 1,Tisvildeleje,3220,4,71,1964,910000.0,28-09-2003
+Sankt Helene Vej 47,Tisvildeleje,3220,10,254,1986,3200000.0,10-09-2003
+Stuebjerg Alle 26,Tisvildeleje,3220,2,92,2007,233805.0,08-09-2003
+Strandgårdshaven 17,Tisvildeleje,3220,2,38,1960,238623.0,01-09-2003
+Pyramidestien 2,Tisvildeleje,3220,4,79,1970,1650000.0,26-08-2003
+N P Nielsens Vej 16,Tisvildeleje,3220,5,77,1961,1545000.0,25-08-2003
+Vængevej 6B,Tisvildeleje,3220,2,57,1910,845000.0,23-08-2003
+Nordhusvej 15,Tisvildeleje,3220,5,107,1954,3100000.0,19-08-2003
+Brentingevej 13,Tisvildeleje,3220,6,176,1968,1550000.0,16-08-2003
+Alleen 2B,Tisvildeleje,3220,6,190,1926,2575000.0,13-08-2003
+Hulvej 14,Tisvildeleje,3220,4,107,1898,2000000.0,11-08-2003
+Lundebjergvej 49,Tisvildeleje,3220,4,80,1965,450500.0,05-08-2003
+Rydevej 9,Tisvildeleje,3220,4,57,1997,1345000.0,01-08-2003
+Strandvejen 23,Tisvildeleje,3220,3,90,1936,1725000.0,28-07-2003
+Lundebjergvej 56,Tisvildeleje,3220,3,76,1967,820000.0,28-07-2003
+Silkebjerg 4,Tisvildeleje,3220,7,132,1937,4100000.0,21-07-2003
+Melbys Vænge 15,Tisvildeleje,3220,5,103,1955,2710000.0,18-07-2003
+Vængevej 6D,Tisvildeleje,3220,3,71,1910,1150000.0,09-07-2003
+Haarlandsbakken 8,Tisvildeleje,3220,4,63,1964,728972.0,07-07-2003
+Stuebjerg Alle 28,Tisvildeleje,3220,4,112,1963,1400000.0,02-07-2003
+N P Nielsens Vej 1,Tisvildeleje,3220,4,103,1965,820000.0,02-07-2003
+Strandgårdshaven 11,Tisvildeleje,3220,2,55,1960,599704.0,29-06-2003
+Skolemarksvej 6,Tisvildeleje,3220,3,104,1956,1350000.0,26-06-2003
+Sankt Helene Vej 15,Tisvildeleje,3220,3,93,1980,1425000.0,26-06-2003
+Bomskolevej 11,Tisvildeleje,3220,2,88,1985,1200000.0,18-06-2003
+Tjørnebrovej 16,Tisvildeleje,3220,4,89,2005,750000.0,09-06-2003
+Brøndgraverens Vej 3,Tisvildeleje,3220,4,112,1971,2025000.0,31-05-2003
+Pyramidestien 18,Tisvildeleje,3220,5,73,1937,235000.0,30-05-2003
+Strandgårdshaven 12,Tisvildeleje,3220,3,44,1960,675000.0,25-05-2003
+Strandvejen 13,Tisvildeleje,3220,7,175,1912,7500000.0,10-05-2003
+Hegnsvej 1,Tisvildeleje,3220,6,138,1941,1615000.0,06-05-2003
+Hovedgaden 37,Tisvildeleje,3220,3,103,1958,1595000.0,30-04-2003
+Julsgårdsvej 14,Tisvildeleje,3220,3,120,2001,1750000.0,28-04-2003
+Sankt Helene Vej 51,Tisvildeleje,3220,7,293,1942,2050000.0,28-04-2003
+Paradisvej 7,Tisvildeleje,3220,3,54,1942,315000.0,28-04-2003
+Brøndgraverens Vej 1,Tisvildeleje,3220,4,137,1940,430000.0,23-04-2003
+Bækkebrovej 25,Tisvildeleje,3220,5,120,1943,914960.0,11-04-2003
+Bækkebrovej 20,Tisvildeleje,3220,6,157,1963,1791666.0,14-03-2003
+Lundebjergvej 57,Tisvildeleje,3220,3,53,1968,810000.0,12-03-2003
+Dyrehegnet 8,Tisvildeleje,3220,5,84,1967,1095000.0,07-03-2003
+Hulvej 16,Tisvildeleje,3220,3,90,1927,935000.0,03-03-2003
+Stubvænget 9,Tisvildeleje,3220,3,78,2002,749000.0,23-02-2003
+Gartnersvinget 17,Tisvildeleje,3220,3,66,1981,1000000.0,18-02-2003
+Lønborgsvej 4,Tisvildeleje,3220,4,135,1971,2250000.0,07-02-2003
+Xylografensvej 1,Tisvildeleje,3220,4,84,1987,1550000.0,26-01-2003
+Iglekærvej 21,Tisvildeleje,3220,5,136,1997,1620000.0,12-01-2003
+Aspevej 10,Tisvildeleje,3220,4,152,1977,1975000.0,03-01-2003
+Toftevej 21,Tisvildeleje,3220,3,99,2006,150000.0,25-12-2002
+Hovedgaden 20,Tisvildeleje,3220,5,130,1948,1595000.0,19-12-2002
+Iglekærvej 29,Tisvildeleje,3220,5,101,1990,1195000.0,16-12-2002
+Øvrevænget 7,Tisvildeleje,3220,2,53,1960,1600000.0,09-12-2002
+Pyramidestien 20,Tisvildeleje,3220,2,30,1990,330000.0,06-12-2002
+Solvangsvej 36,Tisvildeleje,3220,5,95,1958,1275000.0,04-12-2002
+Strandgårdshaven 16,Tisvildeleje,3220,2,51,1960,532000.0,04-12-2002
+Engtoften 10,Tisvildeleje,3220,4,119,2004,161160.0,19-11-2002
+Østerled 15,Tisvildeleje,3220,4,76,1984,1900000.0,18-11-2002
+Sjellebjerg 9,Tisvildeleje,3220,4,61,1970,570000.0,14-11-2002
+Helenekildevej 7,Tisvildeleje,3220,4,97,2002,2400000.0,01-11-2002
+Bakkefrydvej 14,Tisvildeleje,3220,4,85,1963,1090599.0,25-10-2002
+Tisvildegårdsvej 9,Tisvildeleje,3220,3,56,1971,792220.0,09-10-2002
+Nordre Strandvej 66,Tisvildeleje,3220,4,131,2003,518500.0,06-10-2002
+Rørkæret 3,Tisvildeleje,3220,2,39,1957,860771.0,06-10-2002
+Iglekærvej 58,Tisvildeleje,3220,4,67,1971,936843.0,30-09-2002
+Rørkæret 6,Tisvildeleje,3220,5,148,2016,1025000.0,24-09-2002
+Tisvilde Bygade 21F,Tisvildeleje,3220,3,102,1982,1229788.0,20-09-2002
+Strandvejen 10,Tisvildeleje,3220,4,140,1900,2675000.0,16-09-2002
+Julsgårdsvej 21,Tisvildeleje,3220,3,99,2008,540800.0,01-09-2002
+Bækkebrovej 27A,Tisvildeleje,3220,3,57,1970,25000.0,01-09-2002
+Vesterprisvej 14,Tisvildeleje,3220,5,140,1942,2375000.0,15-08-2002
+Solvangsvej 28,Tisvildeleje,3220,4,65,1925,2450000.0,12-08-2002
+Margot Nyholms Vej 17,Tisvildeleje,3220,3,56,1962,1250000.0,08-08-2002
+Rugmarken 4,Tisvildeleje,3220,4,97,2014,530000.0,06-08-2002
+Tisvilde Bygade 36,Tisvildeleje,3220,4,80,1875,1375000.0,05-08-2002
+Bakkedalen 15,Tisvildeleje,3220,9,339,1927,72000.0,02-08-2002
+Margot Nyholms Vej 14,Tisvildeleje,3220,5,231,1938,5750000.0,27-07-2002
+Solvangsvej 1B,Tisvildeleje,3220,4,110,1976,1550000.0,26-07-2002
+Strandgårdshaven 18,Tisvildeleje,3220,2,38,1960,425000.0,24-07-2002
+Tisvildegårdsvej 3,Tisvildeleje,3220,4,67,1970,850000.0,19-07-2002
+Lundebjergvej 31,Tisvildeleje,3220,3,57,1967,670000.0,19-07-2002
+Brentingevej 29,Tisvildeleje,3220,5,123,1970,1200000.0,18-07-2002
+Tisvilde Bygade 27,Tisvildeleje,3220,5,124,1917,1360000.0,08-07-2002
+Sjellebjerg 4,Tisvildeleje,3220,2,76,2003,750000.0,03-07-2002
+Johs V Jensens Vej 5,Tisvildeleje,3220,6,109,1969,1600000.0,29-06-2002
+Ved Gærdet 6,Tisvildeleje,3220,5,84,1969,1900000.0,25-06-2002
+Stuebjerggårdsvej 4B,Tisvildeleje,3220,5,189,1976,1000000.0,23-06-2002
+Tisvilde Bygade 47,Tisvildeleje,3220,3,130,1937,1800000.0,22-06-2002
+Grünersvej 4,Tisvildeleje,3220,5,97,1920,2270000.0,21-06-2002
+William Scharffs Vej 3A,Tisvildeleje,3220,4,76,2012,275000.0,21-06-2002
+Hegnsvej 2,Tisvildeleje,3220,3,60,1944,700000.0,20-06-2002
+Skovridervænget 44,Tisvildeleje,3220,4,103,1985,1400000.0,04-06-2002
+Tværledet 13,Tisvildeleje,3220,4,61,1971,885000.0,01-06-2002
+Skolemarksvej 9,Tisvildeleje,3220,5,110,1960,1038000.0,31-05-2002
+Væverlodden 8,Tisvildeleje,3220,5,140,1973,1795000.0,26-05-2002
+Kornmodsvej 14,Tisvildeleje,3220,5,95,1971,1199443.0,19-05-2002
+Bækkebrovej 16,Tisvildeleje,3220,4,71,2017,385000.0,17-05-2002
+Iglekærvej 27,Tisvildeleje,3220,3,43,1972,659696.0,16-05-2002
+Pilevej 9,Tisvildeleje,3220,3,97,1912,950000.0,14-05-2002
+Brøndgraverens Vej 7,Tisvildeleje,3220,4,70,1989,2050000.0,12-05-2002
+Julsgårdsvej 17,Tisvildeleje,3220,6,117,1933,1487500.0,03-05-2002
+Øvrevænget 13A,Tisvildeleje,3220,3,98,1984,1125000.0,01-05-2002
+Vængevej 22,Tisvildeleje,3220,4,70,1920,940000.0,30-04-2002
+Gyvelvej 4,Tisvildeleje,3220,6,124,1963,775000.0,23-04-2002
+Ahorn Alle 3,Tisvildeleje,3220,4,88,1997,1571182.0,22-04-2002
+Degnemarken 9,Tisvildeleje,3220,4,84,1997,1420726.0,19-04-2002
+Birkevej 2,Tisvildeleje,3220,6,144,1932,2103489.0,12-04-2002
+Nordre Strandvej 39,Tisvildeleje,3220,4,90,2014,710000.0,12-04-2002
+Indelukket 8,Tisvildeleje,3220,5,145,1968,1390000.0,11-04-2002
+Iglekærvej 8,Tisvildeleje,3220,5,120,2008,345000.0,09-04-2002
+Kædemosevej 4,Tisvildeleje,3220,4,128,1967,1250000.0,09-04-2002
+Parallelvej 12,Tisvildeleje,3220,5,128,1963,1000000.0,09-04-2002
+Stokkevej 23,Tisvildeleje,3220,3,66,1962,875000.0,08-04-2002
+Sogneskellet 5,Tisvildeleje,3220,4,84,1969,1190000.0,26-03-2002
+Ellevej 1,Tisvildeleje,3220,4,50,1971,1025000.0,25-03-2002
+Solmarken 1,Tisvildeleje,3220,4,62,1983,750000.0,24-03-2002
+Sortebakken 3,Tisvildeleje,3220,7,166,1929,2600000.0,09-03-2002
+Aspevej 2,Tisvildeleje,3220,4,128,1920,1819930.0,03-03-2002
+Rigmor Stampes Vej 2,Tisvildeleje,3220,5,65,1962,395250.0,01-03-2002
+Nordre Strandvej 43,Tisvildeleje,3220,3,63,1948,760000.0,01-03-2002
+Iglekærvej 50,Tisvildeleje,3220,4,75,2001,1409693.0,26-02-2002
+"Hovedgaden 63A, 1. TV",Tisvildeleje,3220,2,76,1910,735000.0,23-02-2002
+Dyrekærskellet 5,Tisvildeleje,3220,5,149,1936,2973538.0,22-02-2002
+Tisvilde Bygade 28,Tisvildeleje,3220,5,140,1909,1451800.0,15-02-2002
+Nyvej 4,Tisvildeleje,3220,4,113,1953,850000.0,11-02-2002
+Brentingevej 7,Tisvildeleje,3220,5,113,1969,1105643.0,01-02-2002
+Skovgærdet 1B,Tisvildeleje,3220,5,249,1865,2167000.0,29-01-2002
+Tisvilde Bygade 21H,Tisvildeleje,3220,2,76,1904,850000.0,22-01-2002
+Gadekærbakken 1,Tisvildeleje,3220,2,30,1961,510000.0,20-01-2002
+Godhavnsvej 13A,Tisvildeleje,3220,6,165,1927,610000.0,20-01-2002
+Wadstedsvej 20,Tisvildeleje,3220,4,64,2005,200000.0,14-01-2002
+Ved Gærdet 7,Tisvildeleje,3220,5,111,1966,2625000.0,06-01-2002
+Dyrekærstien 3,Tisvildeleje,3220,5,98,1966,1265000.0,02-01-2002
+Pyramidestien 24,Tisvildeleje,3220,4,68,1971,830000.0,31-12-2001
+Stokkevej 38,Tisvildeleje,3220,6,122,1975,1200000.0,21-12-2001
+Sankt Helene Vej 14,Tisvildeleje,3220,4,64,1954,1150000.0,20-12-2001
+Bakkefrydvej 10,Tisvildeleje,3220,4,47,1962,735000.0,12-12-2001
+Kløvervej 3,Tisvildeleje,3220,3,58,1963,795000.0,26-11-2001
+Egekærsvej 20,Tisvildeleje,3220,3,84,1970,626000.0,24-11-2001
+Agervej 3,Tisvildeleje,3220,3,120,1960,434600.0,10-11-2001
+Nordre Strandvej 5,Tisvildeleje,3220,9,157,1960,1950000.0,05-11-2001
+Strandvejen 20,Tisvildeleje,3220,4,65,1953,2500000.0,22-10-2001
+Nordre Strandvej 9,Tisvildeleje,3220,4,63,1984,1104618.0,14-10-2001
+Tisvilde Bygade 49,Tisvildeleje,3220,5,108,1964,940000.0,01-10-2001
+Alleen 2A,Tisvildeleje,3220,3,140,1922,1340000.0,21-09-2001
+Sankt Helene Vej 57,Tisvildeleje,3220,3,85,1961,1523780.0,21-09-2001
+Wadstedsvej 15,Tisvildeleje,3220,3,36,1951,700000.0,14-09-2001
+Solvangsvej 20,Tisvildeleje,3220,3,66,1955,1550000.0,04-09-2001
+Klammerhøj 4,Tisvildeleje,3220,3,145,1965,3996387.0,31-08-2001
+Nordhusvej 5,Tisvildeleje,3220,4,84,1956,1300000.0,29-08-2001
+Strandvejen 16B,Tisvildeleje,3220,6,147,1777,3600000.0,29-08-2001
+Iglekærvej 52,Tisvildeleje,3220,2,102,1975,880000.0,19-08-2001
+Godhavnsvej 35,Tisvildeleje,3220,3,72,2007,350000.0,17-08-2001
+Tisvildegårdsvej 1,Tisvildeleje,3220,5,116,1965,693940.0,03-08-2001
+Østerled 13,Tisvildeleje,3220,4,73,1937,3800000.0,31-07-2001
+Tibirkevej 5A,Tisvildeleje,3220,5,126,1900,1388134.0,25-07-2001
+Helenekildevej 8,Tisvildeleje,3220,4,103,1936,950000.0,06-07-2001
+Helenekildevej 5,Tisvildeleje,3220,6,166,1927,1675000.0,01-07-2001
+Vængevej 43,Tisvildeleje,3220,7,156,1898,3550000.0,25-06-2001
+Tisvilde Bygade 45A,Tisvildeleje,3220,4,156,1967,1412500.0,01-06-2001
+Aspevej 4,Tisvildeleje,3220,6,164,1917,1304267.0,31-05-2001
+Dyrevang 10,Tisvildeleje,3220,4,113,2011,231455.0,25-04-2001
+Arildsvej 7,Tisvildeleje,3220,4,72,1942,306000.0,23-04-2001
+Rivedalen 11,Tisvildeleje,3220,4,88,1972,1383741.0,16-04-2001
+Strandgårdshaven 1,Tisvildeleje,3220,2,51,1960,470973.0,08-04-2001
+Tisvilde Bygade 3B,Tisvildeleje,3220,4,87,1985,1055000.0,12-03-2001
+Dyrekærstien 5,Tisvildeleje,3220,4,81,1997,1300000.0,02-02-2001
+Krondyrvej 11,Tisvildeleje,3220,4,66,1973,388000.0,31-01-2001
+Dyreholm 9,Tisvildeleje,3220,4,84,1973,1000000.0,28-01-2001
+Sørøjlsvænget 14,Tisvildeleje,3220,4,71,1970,800000.0,25-01-2001
+Skovridervænget 17,Tisvildeleje,3220,4,120,1966,980000.0,15-01-2001
+Bækkebrovej 14,Tisvildeleje,3220,5,152,1937,830000.0,05-01-2001
+Dyrehegnet 9,Tisvildeleje,3220,3,37,1965,525000.0,05-01-2001
+Langetravs 15,Tisvildeleje,3220,3,87,1917,2450000.0,10-11-2000
+Kædemosevej 6,Tisvildeleje,3220,5,83,1968,883777.0,04-11-2000
+Tjørnevej 6,Tisvildeleje,3220,3,48,1968,624080.0,03-11-2000
+Tibirkebro 21,Tisvildeleje,3220,8,154,1890,1556772.0,03-10-2000
+Vedbendvej 9,Tisvildeleje,3220,3,40,1962,265000.0,29-09-2000
+Tjørnevej 3,Tisvildeleje,3220,3,66,1976,720000.0,23-09-2000
+Dyrevang 9,Tisvildeleje,3220,4,67,1972,1013265.0,17-09-2000
+Hans Olriks Vej 9A,Tisvildeleje,3220,3,134,1993,4298688.0,09-09-2000
+Markvej 4B,Tisvildeleje,3220,4,98,1966,666000.0,06-09-2000
+Strandleddet 17,Tisvildeleje,3220,2,60,1969,611444.0,05-09-2000
+Rugvænget 5,Tisvildeleje,3220,3,42,1963,635000.0,25-08-2000
+Iglekærvej 12,Tisvildeleje,3220,4,70,1972,164000.0,15-08-2000
+Hyrdeleddet 9,Tisvildeleje,3220,3,55,1971,541586.0,13-08-2000
+Rigmor Stampes Vej 9,Tisvildeleje,3220,4,79,1973,783333.0,05-08-2000
+Bavnebakke 5,Tisvildeleje,3220,3,84,2001,1400000.0,31-07-2000
+Hotelbakken 7,Tisvildeleje,3220,3,112,1967,3450000.0,28-07-2000
+Skovridervænget 20,Tisvildeleje,3220,4,129,1966,605239.0,10-07-2000
+Pilevej 3,Tisvildeleje,3220,4,136,2001,123500.0,10-07-2000
+Gadekærbakken 6,Tisvildeleje,3220,4,140,2004,600000.0,03-07-2000
+Stuebjerg Alle 9,Tisvildeleje,3220,2,68,1965,780311.0,28-06-2000
+Strandbakkevej 15,Tisvildeleje,3220,4,189,2005,512764.0,26-06-2000
+Lyngvej 9,Tisvildeleje,3220,3,125,1940,225000.0,25-06-2000
+Toftevej 14,Tisvildeleje,3220,4,118,1958,1648924.0,04-06-2000
+Helenevangen 7,Tisvildeleje,3220,5,80,1987,1194498.0,23-05-2000
+Solvej 2,Tisvildeleje,3220,6,150,1926,1206591.0,21-05-2000
+Solvej 8,Tisvildeleje,3220,3,87,1925,756591.0,21-05-2000
+Rådyrvej 3,Tisvildeleje,3220,3,114,1973,504365.0,19-05-2000
+Skolelodden 32,Tisvildeleje,3220,4,48,1956,650000.0,15-05-2000
+Strandbakkevej 8,Tisvildeleje,3220,3,99,1932,906000.0,15-05-2000
+Tisvilde Bygade 56,Tisvildeleje,3220,4,62,1951,400000.0,10-05-2000
+Strandbakkevej 11,Tisvildeleje,3220,3,71,1935,850000.0,01-05-2000
+Hegnsvej 38,Tisvildeleje,3220,5,115,1987,1645000.0,28-04-2000
+Øllekollevej 6,Tisvildeleje,3220,4,78,1979,450195.0,26-04-2000
+Nordhusvej 14,Tisvildeleje,3220,4,69,1927,1548491.0,25-04-2000
+Helenekildevej 14,Tisvildeleje,3220,4,78,1933,1495621.0,25-04-2000
+Rugvænget 6,Tisvildeleje,3220,3,44,1967,647143.0,25-04-2000
+Kornvej 14,Tisvildeleje,3220,3,55,1962,706875.0,23-04-2000
+Haarlands Alle 11,Tisvildeleje,3220,7,103,1991,839386.0,16-04-2000
+Vængevej 10A,Tisvildeleje,3220,8,240,1900,2256000.0,15-04-2000
+Egekærsvej 17,Tisvildeleje,3220,6,190,1967,755999.0,15-04-2000
+Egekærsvej 19,Tisvildeleje,3220,5,189,1987,2300000.0,14-04-2000
+Tisvildegårdsvej 14,Tisvildeleje,3220,3,55,1971,650000.0,12-04-2000
+Haarlandsbakken 3,Tisvildeleje,3220,4,114,1964,341318.0,06-04-2000
+Tværledet 10,Tisvildeleje,3220,4,85,2000,320000.0,05-04-2000
+Havreengen 1,Tisvildeleje,3220,5,106,1961,306000.0,29-03-2000
+Grünersvej 8,Tisvildeleje,3220,4,65,1940,620000.0,28-03-2000
+Slugtvej 5,Tisvildeleje,3220,6,138,1918,855000.0,16-03-2000
+Nordre Strandvej 12,Tisvildeleje,3220,3,185,1985,1800000.0,15-03-2000
+Kornmodsvej 16,Tisvildeleje,3220,4,84,1975,430000.0,12-03-2000
+Rørkæret 2,Tisvildeleje,3220,3,99,2016,357000.0,06-03-2000
+Tennisvej 18A,Tisvildeleje,3220,3,78,2001,701746.0,05-03-2000
+Godhavnsvej 13B,Tisvildeleje,3220,8,298,1927,455000.0,03-03-2000
+Haagen-Müllersvej 6,Tisvildeleje,3220,7,206,1875,50000.0,21-02-2000
+Julsgårdsvej 20,Tisvildeleje,3220,5,125,1942,675000.0,13-02-2000
+Møllevej 7,Tisvildeleje,3220,4,109,1966,700000.0,31-01-2000
+Haarlands Alle 35,Tisvildeleje,3220,4,78,1962,370000.0,21-01-2000
+Haredalen 1A,Tisvildeleje,3220,3,157,1930,1439435.0,13-01-2000
+Nordre Strandvej 64A,Tisvildeleje,3220,6,143,1992,2000000.0,01-01-2000
+Pyramidestien 6,Tisvildeleje,3220,4,55,1956,1249999.0,29-12-1999
+Bakkefrydvej 16,Tisvildeleje,3220,4,120,1961,259409.0,22-12-1999
+Egekærsvej 16,Tisvildeleje,3220,4,70,1972,239386.0,22-12-1999
+Ahorn Alle 20,Tisvildeleje,3220,4,63,1966,391000.0,14-12-1999
+Tibirkebro 13,Tisvildeleje,3220,8,187,1919,680000.0,12-12-1999
+Ved Gærdet 8,Tisvildeleje,3220,4,70,1967,964000.0,08-12-1999
+Paradisvej 1,Tisvildeleje,3220,4,70,1942,644999.0,30-11-1999
+Solvangsvej 23,Tisvildeleje,3220,7,132,1915,1400000.0,25-11-1999
+Toftevej 25,Tisvildeleje,3220,4,69,1972,440000.0,15-11-1999
+Sankt Helene Vej 31,Tisvildeleje,3220,4,103,1946,1125496.0,11-11-1999
+Tisvildegårdsvej 5,Tisvildeleje,3220,4,120,1980,655000.0,26-10-1999
+Bækkebrovej 35,Tisvildeleje,3220,3,104,1952,1006606.0,25-10-1999
+Egekærsvej 30,Tisvildeleje,3220,5,157,1974,1850000.0,20-10-1999
+Torpen 3,Tisvildeleje,3220,4,56,1972,568956.0,15-10-1999
+Hovedgaden 18B,Tisvildeleje,3220,5,101,1860,772807.0,07-10-1999
+Wadstedsvej 18,Tisvildeleje,3220,6,82,1949,650000.0,04-10-1999
+Nyvej 3,Tisvildeleje,3220,4,100,1957,1160520.0,28-09-1999
+Strandvejen 1A,Tisvildeleje,3220,6,170,2012,2200000.0,20-09-1999
+Hovedgaden 47,Tisvildeleje,3220,5,148,1928,1250000.0,19-09-1999
+Toftevej 15,Tisvildeleje,3220,3,74,1949,280000.0,09-09-1999
+Xylografensvej 5,Tisvildeleje,3220,3,154,2008,390000.0,29-08-1999
+Pilevej 1B,Tisvildeleje,3220,4,114,1978,1023999.0,25-08-1999
+Ellevej 7,Tisvildeleje,3220,4,80,2000,672799.0,25-08-1999
+Toftevej 8,Tisvildeleje,3220,4,71,1971,804272.0,18-08-1999
+Kædemosevej 23,Tisvildeleje,3220,4,83,1965,550000.0,16-08-1999
+Melbys Vænge 1,Tisvildeleje,3220,3,65,1960,792169.0,15-08-1999
+Bækkebrovej 1,Tisvildeleje,3220,4,102,1941,1100000.0,27-07-1999
+Rugmarken 5,Tisvildeleje,3220,5,94,1962,415000.0,20-07-1999
+Hotelbakken 9,Tisvildeleje,3220,3,43,2014,1385000.0,19-07-1999
+Lundebjergvej 52,Tisvildeleje,3220,3,56,1965,642372.0,16-07-1999
+Hyrdebakken 6B,Tisvildeleje,3220,4,125,1969,2700001.0,16-07-1999
+Hotelbakken 11,Tisvildeleje,3220,5,98,1956,2826342.0,14-07-1999
+Øvrevænget 8,Tisvildeleje,3220,4,92,1958,2700000.0,13-07-1999
+Havreengen 3,Tisvildeleje,3220,2,43,1965,435868.0,12-07-1999
+Julsgårdsvej 27,Tisvildeleje,3220,5,153,1929,2800000.0,29-06-1999
+Iglekærvej 17,Tisvildeleje,3220,4,89,1970,605000.0,15-06-1999
+Oldenvej 6,Tisvildeleje,3220,3,55,1964,597942.0,04-06-1999
+Kædemosevej 24,Tisvildeleje,3220,3,105,2006,255000.0,02-06-1999
+Bækkebrovej 6A,Tisvildeleje,3220,4,103,1962,1224549.0,28-05-1999
+Kædemosevej 20,Tisvildeleje,3220,4,155,1977,1857016.0,24-05-1999
+Svanekæret 6,Tisvildeleje,3220,4,135,1966,250000.0,06-05-1999
+Hovedgaden 7,Tisvildeleje,3220,4,123,1976,1746067.0,05-05-1999
+Helenekildevej 2,Tisvildeleje,3220,4,60,1957,210000.0,26-04-1999
+Indelukket 9,Tisvildeleje,3220,5,124,1968,1349452.0,25-04-1999
+Grünersvej 3,Tisvildeleje,3220,4,68,2000,600000.0,19-04-1999
+Tjørnebrovej 12,Tisvildeleje,3220,4,72,1980,965001.0,16-04-1999
+Arildsvej 2,Tisvildeleje,3220,3,59,1954,925309.0,15-04-1999
+Dyreholm 3,Tisvildeleje,3220,3,60,1973,913660.0,12-04-1999
+Kornvej 7,Tisvildeleje,3220,5,70,1961,489033.0,06-04-1999
+Hørmarken 6,Tisvildeleje,3220,4,56,1963,290000.0,06-04-1999
+Margot Nyholms Vej 19,Tisvildeleje,3220,4,42,1959,400000.0,18-03-1999
+Tibirke Kirkevej 4,Tisvildeleje,3220,5,90,1860,695000.0,17-03-1999
+Nordhusvej 31,Tisvildeleje,3220,4,65,,260000.0,10-03-1999
+Agernvej 5,Tisvildeleje,3220,5,115,2010,670612.0,09-03-1999
+Tisvildegårdsvej 13,Tisvildeleje,3220,3,43,1973,385594.0,02-03-1999
+Agerleddet 7,Tisvildeleje,3220,4,72,1970,728800.0,02-03-1999
+Sogneskellet 4,Tisvildeleje,3220,4,50,1977,90000.0,01-02-1999
+Vedbendvej 1,Tisvildeleje,3220,3,52,1966,345000.0,17-12-1998
+Hegnsvej 9,Tisvildeleje,3220,5,70,1951,459000.0,16-12-1998
+Holløselund Strandvej 11,Tisvildeleje,3220,5,135,2009,255000.0,14-12-1998
+Margot Nyholms Vej 4,Tisvildeleje,3220,4,71,1947,365000.0,03-12-1998
+Olskærvej 12,Tisvildeleje,3220,4,70,1942,395250.0,03-12-1998
+Bækkebrovej 39A,Tisvildeleje,3220,6,169,1880,915705.0,20-11-1998
+Vedbendvej 2,Tisvildeleje,3220,3,60,1978,585000.0,19-11-1998
+Gadekærbakken 2,Tisvildeleje,3220,4,72,1942,190000.0,22-10-1998
+Wadstedsvej 28,Tisvildeleje,3220,6,82,1950,451000.0,21-10-1998
+Kornvej 10,Tisvildeleje,3220,4,55,1962,491540.0,18-10-1998
+Stuebjerggårdsvej 5,Tisvildeleje,3220,6,208,1959,1469723.0,01-10-1998
+Rivedalen 29,Tisvildeleje,3220,5,108,1972,930000.0,02-09-1998
+Nordhusvej 25A,Tisvildeleje,3220,4,50,1954,790000.0,23-08-1998
+Doktorstien 9,Tisvildeleje,3220,5,178,1925,2496550.0,23-08-1998
+Wadstedsvej 3,Tisvildeleje,3220,4,81,1944,420151.0,19-08-1998
+Haarlands Alle 15,Tisvildeleje,3220,3,44,1963,357840.0,18-07-1998
+Nordre Strandvej 16,Tisvildeleje,3220,4,96,1962,1949105.0,15-07-1998
+Hovedgaden 25A,Tisvildeleje,3220,6,147,1994,2232943.0,30-06-1998
+Agerleddet 2,Tisvildeleje,3220,5,128,1998,175000.0,06-06-1998
+Bomskolevej 8,Tisvildeleje,3220,4,135,1972,928330.0,01-06-1998
+Vieholmgårdsvej 9,Tisvildeleje,3220,4,100,2013,200000.0,01-06-1998
+Stubvænget 3,Tisvildeleje,3220,4,68,2004,486954.0,31-05-1998
+Strandgårdshaven 2,Tisvildeleje,3220,2,38,1960,230475.0,31-05-1998
+Kædemosevej 18,Tisvildeleje,3220,3,115,1967,1242382.0,20-05-1998
+Stenbrobakken 5,Tisvildeleje,3220,7,180,1973,1126700.0,27-04-1998
+Iglekærvej 14,Tisvildeleje,3220,3,46,1974,389461.0,22-04-1998
+Bymosen 6B,Tisvildeleje,3220,2,63,1875,934000.0,19-04-1998
+Wadstedsvej 2B,Tisvildeleje,3220,8,183,1939,807000.0,14-04-1998
+Skovridervænget 6,Tisvildeleje,3220,3,108,1968,822600.0,24-03-1998
+Vesterprisvej 12,Tisvildeleje,3220,8,204,1909,2060861.0,16-03-1998
+Sjelleager 10,Tisvildeleje,3220,3,99,1991,940000.0,14-03-1998
+Agervej 6,Tisvildeleje,3220,4,73,1959,494925.0,05-03-1998
+Hyrdebakken 2,Tisvildeleje,3220,3,120,1945,895708.0,22-02-1998
+Nordre Strandvej 46,Tisvildeleje,3220,3,149,1952,1950000.0,17-02-1998
+Solvangsvej 22,Tisvildeleje,3220,4,106,1973,1675000.0,13-02-1998
+Tisvildegårdsvej 8,Tisvildeleje,3220,4,125,1972,686220.0,10-02-1998
+Solvej 5A,Tisvildeleje,3220,4,67,1942,713021.0,26-01-1998
+Hovedgaden 30,Tisvildeleje,3220,5,135,1940,1150000.0,25-01-1998
+Julsgårdsvej 10,Tisvildeleje,3220,3,81,1984,369636.0,23-01-1998
+Doktorstien 3,Tisvildeleje,3220,3,34,1960,883254.0,15-01-1998
+Væverlodden 9,Tisvildeleje,3220,5,180,1999,425000.0,12-01-1998
+Skovridervænget 2,Tisvildeleje,3220,4,78,1966,745000.0,12-01-1998
+Tisvilde Bygade 19,Tisvildeleje,3220,5,124,1965,995471.0,21-12-1997
+Iglekærvej 28,Tisvildeleje,3220,4,105,1972,650000.0,14-12-1997
+Torpen 2,Tisvildeleje,3220,4,69,1973,549000.0,03-11-1997
+Kløvervej 7,Tisvildeleje,3220,4,69,1993,176666.0,29-10-1997
+Iglekærvej 6,Tisvildeleje,3220,5,95,1969,559700.0,20-10-1997
+Kædemosevej 25,Tisvildeleje,3220,3,70,1964,366500.0,08-10-1997
+Agerleddet 1,Tisvildeleje,3220,3,37,1967,315741.0,08-10-1997
+Sogneskellet 2,Tisvildeleje,3220,3,54,1947,430000.0,03-10-1997
+Strandvejen 39,Tisvildeleje,3220,5,72,1907,550000.0,26-09-1997
+Nyvej 7B,Tisvildeleje,3220,4,114,1997,56845.0,22-09-1997
+Nyvej 7A,Tisvildeleje,3220,6,105,1929,56845.0,15-09-1997
+Bækkebrovej 9,Tisvildeleje,3220,3,67,1944,659120.0,12-09-1997
+Rørkæret 7,Tisvildeleje,3220,4,67,1971,575000.0,10-09-1997
+Lundebjergvej 38,Tisvildeleje,3220,5,100,1968,410000.0,27-08-1997
+Bavnebakke 8,Tisvildeleje,3220,5,105,1900,750000.0,26-08-1997
+Tisvilde Bygade 46B,Tisvildeleje,3220,7,158,1925,1107920.0,25-08-1997
+Kunertsvej 2,Tisvildeleje,3220,4,158,1900,1781192.0,25-08-1997
+Borshøjvænget 9,Tisvildeleje,3220,6,184,1998,275000.0,23-08-1997
+Hovedgaden 31,Tisvildeleje,3220,5,130,1968,1131130.0,17-08-1997
+"Hovedgaden 63A, ST. TH",Tisvildeleje,3220,2,67,1910,419000.0,10-08-1997
+Langetravs 2,Tisvildeleje,3220,7,235,1960,2507731.0,05-08-1997
+Strandvejen 6,Tisvildeleje,3220,5,134,2010,855000.0,25-07-1997
+Engtoften 8,Tisvildeleje,3220,4,68,1970,330000.0,19-07-1997
+N P Nielsens Vej 8,Tisvildeleje,3220,3,50,1964,415000.0,15-07-1997
+Bækkebrovej 12,Tisvildeleje,3220,7,170,1947,707321.0,30-06-1997
+Paradisvej 6,Tisvildeleje,3220,7,87,1942,525000.0,30-06-1997
+Hegnsvej 10,Tisvildeleje,3220,6,181,1937,1200000.0,14-06-1997
+Strandvejen 1C,Tisvildeleje,3220,3,31,1926,1400000.0,12-06-1997
+Egekærsvej 34,Tisvildeleje,3220,7,192,1978,126465.0,26-05-1997
+Stenbrobakken 4,Tisvildeleje,3220,5,151,1972,950000.0,21-05-1997
+Skolemarksvej 10,Tisvildeleje,3220,4,109,1961,440000.0,24-04-1997
+Vesterprisvej 21,Tisvildeleje,3220,4,113,1998,700000.0,18-04-1997
+Skolelodden 38,Tisvildeleje,3220,5,135,1955,586500.0,15-04-1997
+Tibirkebro 14,Tisvildeleje,3220,5,120,1936,914203.0,08-04-1997
+Havreengen 6,Tisvildeleje,3220,4,97,1966,414000.0,06-04-1997
+Solmarken 2,Tisvildeleje,3220,3,55,1985,502552.0,25-03-1997
+Bagerstræde 3,Tisvildeleje,3220,3,40,1937,675000.0,22-03-1997
+Solvej 20,Tisvildeleje,3220,4,81,1928,350000.0,20-03-1997
+Dyrekærgårdsvej 3,Tisvildeleje,3220,5,157,2005,90000.0,19-03-1997
+Arildsvej 6,Tisvildeleje,3220,3,47,1998,235000.0,10-03-1997
+Haarlands Alle 21,Tisvildeleje,3220,4,88,1963,351500.0,06-03-1997
+Gadekærbakken 9,Tisvildeleje,3220,4,69,1950,443375.0,16-02-1997
+Nordhusvej 28,Tisvildeleje,3220,5,122,1914,1599786.0,06-02-1997
+Egekærsvej 14,Tisvildeleje,3220,3,95,2003,87000.0,02-02-1997
+Krondyrvej 8,Tisvildeleje,3220,4,67,1972,370000.0,01-02-1997
+Sjellebjerg 3,Tisvildeleje,3220,2,38,1978,485000.0,24-01-1997
+Tisvilde Bygade 14A,Tisvildeleje,3220,6,151,1978,888575.0,12-01-1997
+Haredalen 4,Tisvildeleje,3220,8,214,2008,720000.0,11-01-1997
+Margot Nyholms Vej 15,Tisvildeleje,3220,2,33,1955,404918.0,11-01-1997
+Bakkefrydvej 27,Tisvildeleje,3220,4,106,2010,442795.0,10-01-1997
+Skolelodden 5,Tisvildeleje,3220,4,105,2015,219009.0,06-01-1997
+Granhaven 8,Tisvildeleje,3220,4,52,1938,287000.0,02-01-1997
+Toftevej 27,Tisvildeleje,3220,4,79,1974,604727.0,22-12-1996
+Vibevænget 10,Tisvildeleje,3220,3,64,1997,102750.0,19-12-1996
+Birkevej 7,Tisvildeleje,3220,4,79,1974,572000.0,10-12-1996
+Lundebjergvej 53,Tisvildeleje,3220,4,112,2007,490000.0,09-12-1996
+Wadstedsvej 23,Tisvildeleje,3220,4,85,1951,340846.0,09-12-1996
+Stuebjerg Alle 38,Tisvildeleje,3220,5,162,1964,712000.0,06-12-1996
+Victor Bendix Vej 3,Tisvildeleje,3220,6,149,1934,900000.0,06-12-1996
+Skolemarksvej 12,Tisvildeleje,3220,3,75,1959,629390.0,02-12-1996
+Iglekærvej 62,Tisvildeleje,3220,4,119,1975,582390.0,28-11-1996
+Nordhusvej 3A,Tisvildeleje,3220,4,92,1973,375000.0,19-11-1996
+Egekærsvej 6,Tisvildeleje,3220,3,70,2005,250000.0,07-11-1996
+Bomskolevej 4A,Tisvildeleje,3220,3,100,1981,679000.0,30-10-1996
+Vesterprisvej 23,Tisvildeleje,3220,5,121,1920,2199500.0,24-10-1996
+Bakkefrydvej 37,Tisvildeleje,3220,6,75,1999,125000.0,22-10-1996
+Holløselund Strandvej 13,Tisvildeleje,3220,3,88,1997,200000.0,14-10-1996
+N P Nielsens Vej 9,Tisvildeleje,3220,4,105,2014,358390.0,10-10-1996
+Kunertsvej 1,Tisvildeleje,3220,4,70,1956,560000.0,08-10-1996
+Helenekildevej 10,Tisvildeleje,3220,3,45,1932,578574.0,02-10-1996
+Lundebjergvej 54,Tisvildeleje,3220,5,80,1966,350000.0,30-09-1996
+Tisvilde Bygade 46A,Tisvildeleje,3220,5,159,1920,645000.0,28-09-1996
+Bækkebrovej 27D,Tisvildeleje,3220,2,54,1939,240000.0,25-09-1996
+Bækkebrovej 37,Tisvildeleje,3220,4,74,1827,550000.0,24-09-1996
+Vibevænget 8,Tisvildeleje,3220,4,96,1999,220000.0,18-09-1996
+Stokkevej 4,Tisvildeleje,3220,4,74,1957,547000.0,15-09-1996
+Ved Kirken 4,Tisvildeleje,3220,4,106,1951,572000.0,11-09-1996
+Helenekildevej 20,Tisvildeleje,3220,5,94,1917,606000.0,02-09-1996
+Bagerstræde 1,Tisvildeleje,3220,3,55,1940,592000.0,30-08-1996
+Wadstedsvej 11,Tisvildeleje,3220,3,51,1955,358775.0,24-08-1996
+Haagen-Müllersvej 11,Tisvildeleje,3220,3,40,1955,250000.0,22-08-1996
+Doktorstien 6,Tisvildeleje,3220,3,84,1988,1195000.0,21-08-1996
+Tibirkebro 6B,Tisvildeleje,3220,6,135,1986,632487.0,27-07-1996
+Langetravs 4,Tisvildeleje,3220,6,140,1938,2300000.0,26-07-1996
+Rørkæret 5,Tisvildeleje,3220,4,91,1972,887000.0,17-07-1996
+Slugtvej 2C,Tisvildeleje,3220,5,160,1970,263500.0,16-07-1996
+Vængevej 1,Tisvildeleje,3220,5,168,1953,347500.0,13-07-1996
+Nordre Strandvej 2,Tisvildeleje,3220,4,90,1957,229500.0,10-07-1996
+Hovedgaden 58F,Tisvildeleje,3220,1,23,1958,170000.0,26-06-1996
+Victor Bendix Vej 4,Tisvildeleje,3220,4,87,1956,595000.0,16-06-1996
+Wadstedsvej 7,Tisvildeleje,3220,3,46,1962,346000.0,14-06-1996
+Vængevej 41,Tisvildeleje,3220,3,52,1961,101900.0,13-06-1996
+Klammerhøj 8,Tisvildeleje,3220,5,116,1917,830000.0,03-06-1996
+Strandgårdshaven 8,Tisvildeleje,3220,2,38,1960,89250.0,01-06-1996
+Tibirkebro 4,Tisvildeleje,3220,5,112,1962,763000.0,31-05-1996
+Vieholmgårdsvej 34,Tisvildeleje,3220,4,73,1997,135000.0,16-05-1996
+Dyremose 5,Tisvildeleje,3220,7,128,1996,155000.0,13-05-1996
+Tværledet 12,Tisvildeleje,3220,3,57,1974,356444.0,10-05-1996
+Margot Nyholms Vej 11,Tisvildeleje,3220,4,95,1985,560000.0,01-05-1996
+Pilevej 6A,Tisvildeleje,3220,7,140,1984,1267000.0,29-04-1996
+Hovedgaden 61,Tisvildeleje,3220,2,95,1940,414390.0,25-04-1996
+Rivedalen 9,Tisvildeleje,3220,4,71,1972,575000.0,02-04-1996
+Sørøjlsvænget 2,Tisvildeleje,3220,5,106,1978,710000.0,01-04-1996
+Kunertsvej 5,Tisvildeleje,3220,4,128,1800,713450.0,29-03-1996
+Oldenvej 2,Tisvildeleje,3220,4,68,1966,467359.0,27-03-1996
+Hørmarken 1,Tisvildeleje,3220,4,47,1964,143000.0,22-03-1996
+Tisvildegårdsvej 29,Tisvildeleje,3220,5,72,1975,420000.0,07-03-1996
+Ved Kirken 6,Tisvildeleje,3220,4,70,1962,100000.0,22-02-1996
+Solmarken 9,Tisvildeleje,3220,4,79,1971,509000.0,19-02-1996
+Strandvejen 22,Tisvildeleje,3220,7,135,1936,1335000.0,12-02-1996
+Egekærsvej 8,Tisvildeleje,3220,3,111,1997,155000.0,07-02-1996
+Ved Gærdet 5,Tisvildeleje,3220,4,90,1925,125000.0,22-01-1996
+Margot Nyholms Vej 22,Tisvildeleje,3220,4,73,1951,368000.0,19-01-1996
+Hovedgaden 83,Tisvildeleje,3220,6,126,1912,646000.0,15-01-1996
+Tibirkebro 17,Tisvildeleje,3220,4,196,2000,1616200.0,28-12-1995
+Vieholmgårdsvej 18,Tisvildeleje,3220,7,122,1996,125000.0,21-12-1995
+N P Nielsens Vej 5,Tisvildeleje,3220,4,70,1970,341000.0,20-12-1995
+Haagen-Müllersvej 3,Tisvildeleje,3220,5,68,1966,365500.0,10-12-1995
+Hegnsvej 32,Tisvildeleje,3220,7,116,1927,1424569.0,01-12-1995
+Paradisvej 8,Tisvildeleje,3220,4,60,1965,300000.0,20-11-1995
+Rugvænget 3,Tisvildeleje,3220,4,62,1969,260000.0,13-11-1995
+N P Nielsens Vej 15,Tisvildeleje,3220,4,54,1961,148093.0,08-11-1995
+Strandbakkevej 17,Tisvildeleje,3220,4,83,1935,289000.0,13-10-1995
+Strandgårdshaven 13,Tisvildeleje,3220,2,51,1960,210000.0,07-10-1995
+Sankt Helene Vej 7,Tisvildeleje,3220,3,93,1980,695000.0,25-09-1995
+Ellevej 8,Tisvildeleje,3220,3,57,1949,150000.0,22-09-1995
+Grünersvej 11,Tisvildeleje,3220,4,70,1936,700000.0,20-09-1995
+Sørøjlsvænget 6,Tisvildeleje,3220,4,121,1973,642630.0,08-09-1995
+Øllekollevej 7,Tisvildeleje,3220,3,71,2008,135000.0,03-09-1995
+Fogedgårdsvej 10,Tisvildeleje,3220,5,155,1974,862744.0,30-08-1995
+Stuebjergsvinget 17,Tisvildeleje,3220,4,79,1961,433641.0,30-08-1995
+Tisvilde Lundevej 17,Tisvildeleje,3220,6,110,1875,552284.0,28-08-1995
+Mindevej 2,Tisvildeleje,3220,4,94,2005,220000.0,27-08-1995
+Hovedgaden 25B,Tisvildeleje,3220,4,132,1943,523600.0,16-08-1995
+Helenekildevej 17,Tisvildeleje,3220,4,63,1977,707834.0,11-08-1995
+Skovridervænget 34,Tisvildeleje,3220,5,162,1980,897769.0,06-08-1995
+Væverlodden 4,Tisvildeleje,3220,5,121,1996,205275.0,26-07-1995
+Sørøjlsvænget 33,Tisvildeleje,3220,4,61,1970,246500.0,18-07-1995
+Helenevangen 16,Tisvildeleje,3220,4,79,1972,500000.0,29-06-1995
+Lyngvej 1,Tisvildeleje,3220,4,82,1954,700000.0,28-06-1995
+Godhavnsvej 18,Tisvildeleje,3220,3,51,1934,268280.0,23-06-1995
+Egekærsvej 5,Tisvildeleje,3220,4,98,1964,505400.0,20-06-1995
+Kildeskåret 2,Tisvildeleje,3220,3,43,2001,127415.0,19-06-1995
+Strandbakkevej 19,Tisvildeleje,3220,5,118,2007,237638.0,12-06-1995
+Rydevej 4,Tisvildeleje,3220,5,72,1971,354000.0,10-06-1995
+Kildegårdsvej 6,Tisvildeleje,3220,3,73,1968,500000.0,09-06-1995
+Engvej 4,Tisvildeleje,3220,3,54,1961,358000.0,04-06-1995
+Tjørnebrovej 5,Tisvildeleje,3220,3,45,1972,319000.0,22-05-1995
+Hovedgaden 76,Tisvildeleje,3220,6,121,1922,699800.0,11-05-1995
+Strandgårdshaven 15,Tisvildeleje,3220,2,38,1960,180000.0,02-05-1995
+Dyremose 2,Tisvildeleje,3220,5,73,1973,378000.0,26-04-1995
+Hovedgaden 81,Tisvildeleje,3220,5,95,1903,1088155.0,26-04-1995
+Degnemarken 4,Tisvildeleje,3220,5,102,1978,680000.0,23-04-1995
+Haarlandsbakken 2,Tisvildeleje,3220,3,49,1967,297000.0,08-04-1995
+Strandvejen 40,Tisvildeleje,3220,4,89,1995,270000.0,21-03-1995
+Tisvilde Bygade 9A,Tisvildeleje,3220,3,126,1850,395000.0,16-03-1995
+Tibirkevej 15,Tisvildeleje,3220,5,154,1973,546631.0,06-02-1995
+Nordre Strandvej 36B,Tisvildeleje,3220,3,70,1939,620500.0,25-01-1995
+Pyramidestien 8,Tisvildeleje,3220,4,128,2002,350000.0,24-01-1995
+Vængevej 14,Tisvildeleje,3220,5,93,1907,350000.0,30-12-1994
+Vieholmgårdsvej 20,Tisvildeleje,3220,4,78,1973,360000.0,30-12-1994
+Svanekæret 10,Tisvildeleje,3220,4,101,1999,130000.0,29-12-1994
+Ved Stranden 7,Tisvildeleje,3220,3,70,1775,654500.0,12-12-1994
+Sortebakken 1,Tisvildeleje,3220,6,84,1931,575000.0,29-11-1994
+Haarlandsbakken 4,Tisvildeleje,3220,3,50,1961,120000.0,23-11-1994
+Ved Stranden 1C,Tisvildeleje,3220,6,142,1896,762000.0,16-11-1994
+Solmarken 4,Tisvildeleje,3220,5,111,1980,358640.0,31-10-1994
+Nordre Strandvej 7,Tisvildeleje,3220,4,107,1997,175000.0,26-10-1994
+Bækkebrovej 36,Tisvildeleje,3220,7,188,1775,600000.0,04-10-1994
+Lønborgsvej 6,Tisvildeleje,3220,7,161,1966,252751.0,04-10-1994
+Borshøjvænget 5,Tisvildeleje,3220,5,95,1958,575299.0,01-10-1994
+Ved Stranden 5,Tisvildeleje,3220,8,210,1927,1250000.0,14-09-1994
+Rigmor Stampes Vej 6,Tisvildeleje,3220,5,118,1923,561000.0,14-09-1994
+Krondyrvej 14,Tisvildeleje,3220,3,56,1985,505000.0,31-08-1994
+Tisvilde Lundevej 10,Tisvildeleje,3220,6,150,1939,1450000.0,26-08-1994
+Julsgårdsvej 35A,Tisvildeleje,3220,4,60,1981,650000.0,26-08-1994
+Hans Olriks Vej 15,Tisvildeleje,3220,4,104,1929,300000.0,14-08-1994
+Vieholmgårdsvej 11,Tisvildeleje,3220,3,65,1994,106000.0,04-08-1994
+Sankt Helene Vej 4,Tisvildeleje,3220,5,130,1960,659219.0,21-07-1994
+Sjelleager 5,Tisvildeleje,3220,3,72,1974,542000.0,07-07-1994
+Vibevænget 17,Tisvildeleje,3220,3,49,1960,167000.0,06-07-1994
+Toftevej 29,Tisvildeleje,3220,5,78,1972,454587.0,10-06-1994
+Bækkebrovej 50,Tisvildeleje,3220,7,340,1904,1625000.0,08-06-1994
+Hyrdeleddet 7,Tisvildeleje,3220,4,66,1982,420000.0,07-06-1994
+Øvrevænget 13B,Tisvildeleje,3220,5,101,1952,1075000.0,30-05-1994
+Chr. Hansens Vej 1,Tisvildeleje,3220,5,100,1948,457000.0,26-05-1994
+Sørøjlsvænget 19,Tisvildeleje,3220,4,54,1986,340000.0,26-05-1994
+Tisvilde Bygade 21O,Tisvildeleje,3220,3,80,1904,300000.0,09-05-1994
+Haarlands Alle 23,Tisvildeleje,3220,3,64,1970,625000.0,05-05-1994
+Sørøjlsvænget 3,Tisvildeleje,3220,5,103,1970,300000.0,28-04-1994
+Kløvervej 6,Tisvildeleje,3220,4,45,1964,294000.0,22-04-1994
+Vieholmgårdsvej 26,Tisvildeleje,3220,4,73,1970,260300.0,20-04-1994
+Ved Stranden 1B,Tisvildeleje,3220,4,114,1896,782688.0,12-04-1994
+Øvrevænget 10,Tisvildeleje,3220,4,55,1950,700000.0,22-03-1994
+Hovedgaden 63B,Tisvildeleje,3220,3,133,1910,615500.0,19-03-1994
+Svanekæret 5,Tisvildeleje,3220,7,143,1953,45000.0,04-02-1994
+Møllevej 12,Tisvildeleje,3220,6,131,1941,910000.0,30-01-1994
+Hovedgaden 26,Tisvildeleje,3220,3,66,1964,581400.0,18-01-1994
+Sankt Helene Vej 13,Tisvildeleje,3220,3,93,1980,550000.0,03-01-1994
+Stuebjergsvinget 11,Tisvildeleje,3220,4,64,1960,72850.0,31-12-1993
+Melbys Vænge 8,Tisvildeleje,3220,7,101,1963,610000.0,27-12-1993
+Ved Stranden 3,Tisvildeleje,3220,8,145,1895,3120000.0,16-12-1993
+Haarlands Alle 12,Tisvildeleje,3220,6,175,1800,1700000.0,15-12-1993
+Tibirkebro 2A,Tisvildeleje,3220,4,112,1970,459000.0,11-12-1993
+Parallelvej 4,Tisvildeleje,3220,6,91,1955,380000.0,06-12-1993
+Nyvej 17,Tisvildeleje,3220,4,137,1995,135000.0,22-11-1993
+Sjellebjerg 6,Tisvildeleje,3220,4,96,1973,606310.0,09-11-1993
+Bomskolevej 15,Tisvildeleje,3220,3,84,1986,490000.0,08-11-1993
+Nyvej 16,Tisvildeleje,3220,6,162,1987,750000.0,31-10-1993
+Borshøjvænget 1,Tisvildeleje,3220,6,140,1931,363000.0,21-10-1993
+Kornvej 9,Tisvildeleje,3220,3,60,1961,323000.0,18-10-1993
+Bakkefrydvej 7,Tisvildeleje,3220,5,134,1961,395000.0,25-09-1993
+Gadekærbakken 7,Tisvildeleje,3220,3,56,1966,460600.0,24-09-1993
+Bymosen 9,Tisvildeleje,3220,6,155,1949,575000.0,21-09-1993
+Væverlodden 15,Tisvildeleje,3220,3,109,1994,125000.0,20-09-1993
+Hovedgaden 89,Tisvildeleje,3220,6,75,1925,480000.0,23-08-1993
+Tibirkebro 3,Tisvildeleje,3220,3,97,1890,580000.0,22-08-1993
+Møllevej 3,Tisvildeleje,3220,5,92,1973,664431.0,11-08-1993
+Skovridervænget 27,Tisvildeleje,3220,6,162,1967,680000.0,02-08-1993
+Godhavnsvej 4,Tisvildeleje,3220,12,320,1920,650000.0,02-08-1993
+Margot Nyholms Vej 9A,Tisvildeleje,3220,3,64,1953,515000.0,28-07-1993
+Ullersvej 3,Tisvildeleje,3220,4,45,1960,210000.0,26-07-1993
+Vedbendvej 3,Tisvildeleje,3220,3,50,1964,246500.0,18-07-1993
+Hegnsvej 17,Tisvildeleje,3220,7,218,1912,372400.0,09-07-1993
+Solvej 9,Tisvildeleje,3220,4,78,1968,500000.0,05-07-1993
+Melbys Vænge 14,Tisvildeleje,3220,5,107,1969,90000.0,15-06-1993
+Haagen-Müllersvej 16,Tisvildeleje,3220,3,68,1974,677920.0,05-06-1993
+Tibirkevej 8,Tisvildeleje,3220,5,96,1775,415000.0,04-06-1993
+Egekærsvej 23,Tisvildeleje,3220,6,243,1853,600000.0,28-03-1993
+Nyvej 14,Tisvildeleje,3220,5,73,1938,82128.0,02-03-1993
+"Nyvej 18, 1",Tisvildeleje,3220,3,90,1964,600000.0,26-02-1993
+Dyrekærstien 12,Tisvildeleje,3220,5,112,1950,455000.0,10-02-1993
+Skovgærdet 6,Tisvildeleje,3220,8,187,1852,615000.0,06-02-1993
+Markvej 13,Tisvildeleje,3220,3,93,1957,314085.0,06-02-1993
+Kildeskåret 6,Tisvildeleje,3220,3,58,1951,625000.0,13-01-1993
+Sjellebjerg 7,Tisvildeleje,3220,4,76,1971,500000.0,28-12-1992
+Sogneskellet 1,Tisvildeleje,3220,2,161,1975,385000.0,11-12-1992
+Vesterprisvej 4,Tisvildeleje,3220,5,165,1914,775000.0,24-11-1992
+Sjellebjerg 5,Tisvildeleje,3220,3,67,2005,130000.0,20-11-1992
+Skovridervænget 33,Tisvildeleje,3220,7,139,1968,322365.0,18-11-1992
+Strandvejen 18,Tisvildeleje,3220,5,131,1923,720000.0,14-11-1992
+Gyvelbakken 6,Tisvildeleje,3220,4,108,1920,400000.0,14-11-1992
+Engvej 3,Tisvildeleje,3220,4,47,1949,270000.0,11-11-1992
+Margot Nyholms Vej 2,Tisvildeleje,3220,4,70,1947,473650.0,09-10-1992
+Rivedalen 23,Tisvildeleje,3220,4,77,1973,465000.0,01-10-1992
+Nordre Strandvej 49,Tisvildeleje,3220,6,95,1949,250000.0,30-09-1992
+Nordre Strandvej 37,Tisvildeleje,3220,3,96,2001,375000.0,18-08-1992
+Brentingevej 8,Tisvildeleje,3220,5,148,1970,535000.0,14-08-1992
+Tibirkebro 2B,Tisvildeleje,3220,4,140,1995,300000.0,28-07-1992
+Dyrevang 3,Tisvildeleje,3220,4,60,1975,524000.0,28-07-1992
+Strandvejen 28,Tisvildeleje,3220,5,112,2005,270000.0,25-07-1992
+Nordhusvej 20,Tisvildeleje,3220,4,100,1917,484500.0,21-07-1992
+Skovridervænget 13,Tisvildeleje,3220,4,116,1965,500000.0,16-07-1992
+Julsgårdsvej 37,Tisvildeleje,3220,10,160,1916,816000.0,07-07-1992
+Ved Stranden 1D,Tisvildeleje,3220,3,73,1896,480000.0,06-07-1992
+Kildegårdsvej 2,Tisvildeleje,3220,3,57,1938,125000.0,23-06-1992
+Slugtvej 6,Tisvildeleje,3220,5,143,1934,700000.0,03-06-1992
+Nordre Strandvej 56,Tisvildeleje,3220,7,183,1920,1413893.0,03-06-1992
+Strandvejen 4,Tisvildeleje,3220,3,53,1941,485000.0,30-05-1992
+Stuebjerg Alle 32,Tisvildeleje,3220,5,142,1969,710000.0,27-05-1992
+Tisvilde Bygade 5,Tisvildeleje,3220,6,104,1992,725000.0,22-05-1992
+Ved Kirken 3,Tisvildeleje,3220,6,79,1971,410000.0,14-05-1992
+Bakkedalen 10,Tisvildeleje,3220,5,145,1961,1850000.0,07-05-1992
+Langs Diget 13,Tisvildeleje,3220,5,147,1993,625000.0,24-04-1992
+Henriksensvej 4,Tisvildeleje,3220,5,102,1971,695000.0,22-04-1992
+Bækkebrovej 24,Tisvildeleje,3220,5,120,1720,530000.0,16-04-1992
+Hegnsvej 30,Tisvildeleje,3220,7,105,1957,547000.0,31-03-1992
+Stenbrobakken 7,Tisvildeleje,3220,6,130,1972,500000.0,04-02-1992
+Slugtvej 3,Tisvildeleje,3220,4,119,1920,1006765.0,30-01-1992
+Tisvilde Lundevej 13,Tisvildeleje,3220,4,87,1880,484500.0,20-01-1992
+Bomskolevej 3,Tisvildeleje,3220,5,170,1973,615000.0,12-01-1992

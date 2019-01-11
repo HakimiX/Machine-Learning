@@ -1,0 +1,351 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Nr Hebovej 5,Janderup Vestj,6851,7,297,1882,1648000.0,20-12-2016
+Hallumvadvej 73,Janderup Vestj,6851,6,204,1984,1315000.0,16-12-2016
+Grønnevej 10,Janderup Vestj,6851,5,175,1948,1840000.0,30-11-2016
+Oksbølvej 13,Janderup Vestj,6851,6,190,1979,2390000.0,24-10-2016
+Åkirkevej 6,Janderup Vestj,6851,3,98,1964,560000.0,19-10-2016
+Hjørnegårdvej 35,Janderup Vestj,6851,4,202,1935,27700000.0,13-10-2016
+Bymarken 10,Janderup Vestj,6851,5,177,2011,2000000.0,21-09-2016
+Vr Janderupvej 16,Janderup Vestj,6851,3,155,1937,1075000.0,01-09-2016
+Nybrovej 134,Janderup Vestj,6851,4,178,2013,900000.0,18-08-2016
+Nybrovej 72,Janderup Vestj,6851,4,162,1875,700000.0,20-07-2016
+Nybrovej 88,Janderup Vestj,6851,7,135,1948,700000.0,01-07-2016
+Vesterled 13,Janderup Vestj,6851,2,65,1955,212040.0,01-07-2016
+Søviggårdvej 37,Janderup Vestj,6851,4,133,1932,15600000.0,04-05-2016
+Hyllerslev Skolevej 6,Janderup Vestj,6851,10,250,1904,897051.0,21-04-2016
+Åkirkevej 10,Janderup Vestj,6851,4,95,1933,500000.0,09-04-2016
+Vr Kærupvej 28,Janderup Vestj,6851,6,142,1897,5725000.0,09-03-2016
+Fasanvej 16,Janderup Vestj,6851,5,154,1973,1050000.0,07-03-2016
+Spættevej 12,Janderup Vestj,6851,5,150,1967,765000.0,23-01-2016
+Ternevej 12,Janderup Vestj,6851,4,139,1979,800000.0,17-12-2015
+Vesterled 25,Janderup Vestj,6851,6,117,1943,770000.0,08-12-2015
+Engtoften 8,Janderup Vestj,6851,4,114,1978,850000.0,28-10-2015
+Oksbølvej 63,Janderup Vestj,6851,4,100,1942,370000.0,12-10-2015
+Degnevangen 3,Janderup Vestj,6851,5,134,1976,825000.0,23-09-2015
+Vr Kærupvej 33,Janderup Vestj,6851,5,176,1952,103600.0,12-09-2015
+Solsortevej 1,Janderup Vestj,6851,5,149,1972,986000.0,27-07-2015
+Fasanvej 6,Janderup Vestj,6851,4,115,1969,830000.0,18-07-2015
+Nybrovej 132,Janderup Vestj,6851,4,135,1930,185000.0,07-07-2015
+Åkirkevej 5,Janderup Vestj,6851,4,152,1920,520000.0,06-07-2015
+Bymarken 3,Janderup Vestj,6851,4,109,2009,1060000.0,03-07-2015
+Spættevej 3,Janderup Vestj,6851,3,136,1966,1380000.0,17-06-2015
+Hebovej 63,Janderup Vestj,6851,6,194,1941,1387500.0,08-06-2015
+Grønnevej 25,Janderup Vestj,6851,7,245,1950,1648000.0,04-06-2015
+Solsortevej 3,Janderup Vestj,6851,5,134,1972,710000.0,19-05-2015
+Vesterled 38,Janderup Vestj,6851,4,62,1910,649000.0,30-03-2015
+Nybrovej 19,Janderup Vestj,6851,3,132,1951,1700000.0,10-03-2015
+Vesterled 54,Janderup Vestj,6851,5,180,1926,1100000.0,26-01-2015
+Hallumvadvej 25,Janderup Vestj,6851,3,110,1880,88000.0,22-12-2014
+Rønnealle 7,Janderup Vestj,6851,4,123,1966,545500.0,17-12-2014
+Spurvevej 5,Janderup Vestj,6851,7,229,1972,750000.0,15-12-2014
+Åkirkevej 19,Janderup Vestj,6851,6,156,1956,820000.0,06-11-2014
+Oksbølvej 28,Janderup Vestj,6851,3,85,1954,1250000.0,15-08-2014
+Ternevej 21,Janderup Vestj,6851,4,125,1978,1260000.0,15-08-2014
+Hjørnegårdvej 18,Janderup Vestj,6851,8,270,1910,1100000.0,01-08-2014
+Sneppevej 27,Janderup Vestj,6851,5,185,1999,1825000.0,16-07-2014
+Oksbølvej 40,Janderup Vestj,6851,7,226,1950,1811788.0,19-06-2014
+Spurvevej 20,Janderup Vestj,6851,5,183,1974,1410000.0,15-06-2014
+"Vesterled 2A, ST",Janderup Vestj,6851,3,122,1983,735000.0,25-05-2014
+Sr Hebovej 19,Janderup Vestj,6851,4,212,1835,795000.0,18-05-2014
+Bymarken 5,Janderup Vestj,6851,4,109,2009,1100000.0,20-12-2013
+Nybrovej 139,Janderup Vestj,6851,2,52,1975,275000.0,22-10-2013
+Strudvadvej 14,Janderup Vestj,6851,5,182,2014,1430000.0,11-10-2013
+Oksbølvej 56,Janderup Vestj,6851,4,124,1919,225000.0,10-10-2013
+Sr Hebovej 24,Janderup Vestj,6851,8,153,1835,100000.0,05-08-2013
+Bymarken 9,Janderup Vestj,6851,4,109,2009,1120000.0,15-06-2013
+Hyllerslev Skolevej 1,Janderup Vestj,6851,4,187,1964,1625000.0,01-05-2013
+Ør Kærupvej 23,Janderup Vestj,6851,8,200,1885,850000.0,12-04-2013
+Vr Kærupvej 34,Janderup Vestj,6851,6,184,2003,1250000.0,12-04-2013
+Vr Janderupvej 25,Janderup Vestj,6851,8,299,2015,3610000.0,21-02-2013
+Lønstien 2,Janderup Vestj,6851,5,180,1928,314902.0,18-01-2013
+Degnevangen 2,Janderup Vestj,6851,5,138,1976,1100000.0,15-01-2013
+Bymarken 18,Janderup Vestj,6851,5,179,2015,283000.0,11-01-2013
+Mågevej 1,Janderup Vestj,6851,5,159,1974,1210000.0,06-12-2012
+Bymarken 26,Janderup Vestj,6851,5,180,2013,315000.0,12-11-2012
+Grønnevej 16,Janderup Vestj,6851,7,191,1870,2750000.0,17-09-2012
+Vesterled 2B,Janderup Vestj,6851,4,106,1958,770000.0,14-09-2012
+Solsortevej 9,Janderup Vestj,6851,4,151,1973,1260000.0,03-09-2012
+Engtoften 17,Janderup Vestj,6851,5,155,1981,1295000.0,06-08-2012
+Vr Janderupvej 17,Janderup Vestj,6851,5,203,1898,875000.0,21-07-2012
+Mågevej 11,Janderup Vestj,6851,7,220,1974,850000.0,19-04-2012
+Nybrovej 16,Janderup Vestj,6851,6,138,1972,725000.0,27-02-2012
+Lønborggårdvej 11,Janderup Vestj,6851,8,235,1870,1960000.0,14-02-2012
+Nymindegabvej 83,Janderup Vestj,6851,4,144,1916,2250000.0,07-02-2012
+Åkirkevej 40,Janderup Vestj,6851,5,120,1793,800000.0,24-01-2012
+Solsortevej 4,Janderup Vestj,6851,5,164,1972,1360000.0,12-12-2011
+Ternevej 24,Janderup Vestj,6851,5,150,1984,701608.0,05-12-2011
+Kirkestien 7,Janderup Vestj,6851,9,200,1976,650000.0,13-11-2011
+Nybrovej 13,Janderup Vestj,6851,2,100,1953,900000.0,07-10-2011
+Hebovej 85,Janderup Vestj,6851,6,210,1936,1900000.0,27-09-2011
+Ternevej 23,Janderup Vestj,6851,6,223,1979,1635000.0,09-09-2011
+Sneppevej 29,Janderup Vestj,6851,4,128,2008,1580000.0,07-09-2011
+Nybrovej 109,Janderup Vestj,6851,5,122,1932,575000.0,27-07-2011
+Hebovej 9,Janderup Vestj,6851,4,113,1968,1100000.0,15-07-2011
+Hannevangvej 109,Janderup Vestj,6851,5,113,1917,500000.0,24-06-2011
+Åkirkevej 36,Janderup Vestj,6851,4,155,1890,850000.0,21-06-2011
+Engtoften 4,Janderup Vestj,6851,4,99,1978,675000.0,05-05-2011
+Søvigmarkvej 24,Janderup Vestj,6851,10,350,1920,1400000.0,30-04-2011
+Nybrovej 7,Janderup Vestj,6851,6,146,1928,1275000.0,20-04-2011
+Degnevangen 10,Janderup Vestj,6851,3,157,1975,725000.0,13-01-2011
+Nybrovej 125,Janderup Vestj,6851,6,176,1894,1325000.0,11-01-2011
+Baunsalle 3,Janderup Vestj,6851,4,151,1929,1100000.0,06-01-2011
+Bavnehøjvej 28,Janderup Vestj,6851,4,98,1830,400000.0,16-12-2010
+Nybrovej 137,Janderup Vestj,6851,5,144,1942,830000.0,08-12-2010
+Præstegårdvej 15,Janderup Vestj,6851,5,168,1905,1547462.0,01-12-2010
+Bymarken 22,Janderup Vestj,6851,5,151,2012,308000.0,01-12-2010
+Nybrovej 12,Janderup Vestj,6851,3,120,1962,480000.0,22-11-2010
+Fasanvej 20,Janderup Vestj,6851,5,140,1973,760000.0,02-11-2010
+Rønnealle 4,Janderup Vestj,6851,5,197,1939,870000.0,29-10-2010
+Sneppevej 7,Janderup Vestj,6851,4,199,2005,2798000.0,02-10-2010
+Bymarken 20,Janderup Vestj,6851,5,153,2013,283000.0,24-09-2010
+Vesterled 24,Janderup Vestj,6851,4,72,1930,650000.0,22-09-2010
+Adelengvej 5,Janderup Vestj,6851,4,232,1929,160000.0,21-09-2010
+Vr Janderupvej 29,Janderup Vestj,6851,4,206,1870,1350000.0,09-09-2010
+Vesterled 9,Janderup Vestj,6851,3,78,1950,725000.0,31-08-2010
+Baunsalle 8,Janderup Vestj,6851,8,215,1938,930000.0,30-08-2010
+Fasanvej 18,Janderup Vestj,6851,4,118,1973,885000.0,23-08-2010
+Solsortevej 8,Janderup Vestj,6851,4,128,1971,755000.0,04-06-2010
+Ternevej 1,Janderup Vestj,6851,5,169,1978,1450000.0,14-05-2010
+Solsortevej 5,Janderup Vestj,6851,4,134,1971,1035000.0,04-05-2010
+Bymarken 12,Janderup Vestj,6851,6,184,2012,308000.0,25-03-2010
+Lønborggårdvej 8,Janderup Vestj,6851,5,165,1898,3020000.0,10-03-2010
+Bymarken 14,Janderup Vestj,6851,5,145,2010,308000.0,01-03-2010
+Vesterled 14,Janderup Vestj,6851,5,120,1935,720000.0,06-02-2010
+Åkirkevej 12,Janderup Vestj,6851,4,176,1925,700000.0,04-02-2010
+Nybrovej 71,Janderup Vestj,6851,5,148,1960,1900000.0,08-01-2010
+Nybrovej 94,Janderup Vestj,6851,11,169,1943,600000.0,14-12-2009
+Nybrovej 61,Janderup Vestj,6851,6,201,1895,800000.0,11-12-2009
+Ternevej 30,Janderup Vestj,6851,5,175,1980,771304.0,29-10-2009
+Hebovej 3,Janderup Vestj,6851,4,126,1963,920000.0,29-10-2009
+Sneppevej 37,Janderup Vestj,6851,5,156,2001,1645000.0,29-08-2009
+Nymindegabvej 109,Janderup Vestj,6851,4,159,1937,910000.0,12-07-2009
+Mågevej 6,Janderup Vestj,6851,6,169,1974,1000000.0,15-05-2009
+Vesterled 12,Janderup Vestj,6851,3,90,1958,755000.0,29-04-2009
+Vr Janderupvej 9,Janderup Vestj,6851,6,208,1984,2050000.0,08-04-2009
+Nymindegabvej 100,Janderup Vestj,6851,5,170,1942,1625000.0,27-03-2009
+Engtoften 14,Janderup Vestj,6851,6,192,1978,698000.0,23-03-2009
+Nybrovej 70,Janderup Vestj,6851,7,278,1914,1560000.0,18-01-2009
+Grønnevej 20,Janderup Vestj,6851,6,354,2015,6400000.0,06-01-2009
+Nybrovej 14,Janderup Vestj,6851,7,192,1924,515000.0,27-11-2008
+Hannevangvej 94,Janderup Vestj,6851,5,145,1899,900000.0,11-11-2008
+Bymarken 1,Janderup Vestj,6851,4,109,2009,1495000.0,07-11-2008
+Bymarken 7,Janderup Vestj,6851,4,109,2009,1495000.0,27-10-2008
+Nymindegabvej 92,Janderup Vestj,6851,5,186,1954,21000000.0,15-10-2008
+Spættevej 10,Janderup Vestj,6851,4,103,1967,750000.0,11-07-2008
+Sneppevej 33,Janderup Vestj,6851,5,173,2008,1250000.0,23-06-2008
+Spurvevej 9,Janderup Vestj,6851,4,132,1972,391000.0,17-06-2008
+Åkirkevej 25,Janderup Vestj,6851,5,247,2015,125000.0,09-06-2008
+Præstegårdvej 29A,Janderup Vestj,6851,7,121,1875,225000.0,09-06-2008
+Mågevej 8,Janderup Vestj,6851,5,129,1976,486786.0,03-06-2008
+Nr Hebovej 12,Janderup Vestj,6851,6,255,1920,750000.0,07-05-2008
+Spurvevej 4,Janderup Vestj,6851,6,177,1975,1405000.0,30-04-2008
+Strudvadvej 3,Janderup Vestj,6851,5,178,1880,4932850.0,22-03-2008
+St Hebovej 17,Janderup Vestj,6851,11,376,1798,13988750.0,22-03-2008
+Oksbølvej 14,Janderup Vestj,6851,4,88,1955,485000.0,05-02-2008
+Ternevej 28,Janderup Vestj,6851,6,172,1979,1675000.0,17-01-2008
+Nybrovej 22,Janderup Vestj,6851,4,119,1956,975000.0,05-10-2007
+Degnevangen 5,Janderup Vestj,6851,5,159,1974,850000.0,31-08-2007
+Spættevej 18,Janderup Vestj,6851,3,127,1974,1325000.0,14-08-2007
+Sr Hebovej 6,Janderup Vestj,6851,5,199,1878,2782226.0,13-08-2007
+Hannevangvej 95,Janderup Vestj,6851,6,304,1900,2250000.0,01-08-2007
+Sneppevej 19,Janderup Vestj,6851,5,128,1987,1225000.0,11-07-2007
+Sneppevej 35,Janderup Vestj,6851,5,156,2007,169732.0,18-06-2007
+Oksbølvej 25,Janderup Vestj,6851,6,220,1934,1325000.0,15-06-2007
+Oksbølvej 45,Janderup Vestj,6851,6,175,1984,997000.0,12-02-2007
+Vesterled 53,Janderup Vestj,6851,4,147,1935,1251000.0,27-01-2007
+Bymarken 11,Janderup Vestj,6851,4,109,2009,1345575.0,22-12-2006
+Spurvevej 13,Janderup Vestj,6851,9,230,1973,1450000.0,21-12-2006
+Vr Janderupvej 42,Janderup Vestj,6851,4,168,1924,1387500.0,22-11-2006
+Hannevangvej 96,Janderup Vestj,6851,3,111,1928,695000.0,06-11-2006
+Nybrovej 11,Janderup Vestj,6851,3,96,1956,600000.0,05-11-2006
+Åkirkevej 3,Janderup Vestj,6851,9,240,1930,1475000.0,14-10-2006
+Åkirkevej 47,Janderup Vestj,6851,7,180,1800,1383725.0,13-10-2006
+Hebovej 97,Janderup Vestj,6851,5,100,1873,2050000.0,13-09-2006
+Bymarken 15,Janderup Vestj,6851,5,188,2009,278000.0,19-07-2006
+Bymarken 27,Janderup Vestj,6851,5,160,2007,278000.0,05-07-2006
+Højen 6,Janderup Vestj,6851,7,175,1974,1170000.0,31-03-2006
+Nymindegabvej 31,Janderup Vestj,6851,5,254,1939,1645000.0,27-03-2006
+Adelengvej 33,Janderup Vestj,6851,8,170,1720,3818000.0,06-01-2006
+Vesterled 36B,Janderup Vestj,6851,3,115,1896,450000.0,05-01-2006
+Nybrovej 102B,Janderup Vestj,6851,4,128,1979,747000.0,03-01-2006
+Vesterled 124,Janderup Vestj,6851,6,190,1975,6685000.0,03-01-2006
+Nybrovej 153,Janderup Vestj,6851,5,132,1895,1245000.0,23-11-2005
+Nybrovej 17,Janderup Vestj,6851,3,95,1966,750000.0,14-11-2005
+Kirkestien 3,Janderup Vestj,6851,5,172,1990,2000000.0,09-11-2005
+St Hebovej 9,Janderup Vestj,6851,5,160,1907,1260000.0,28-10-2005
+Fasanvej 3,Janderup Vestj,6851,6,112,1967,1349000.0,07-10-2005
+Banevangen 12,Janderup Vestj,6851,4,100,2005,1190000.0,26-09-2005
+Nymindegabvej 108,Janderup Vestj,6851,4,132,1934,436000.0,15-09-2005
+Engtoften 24,Janderup Vestj,6851,7,169,1985,1398000.0,26-08-2005
+Nybrovej 64,Janderup Vestj,6851,7,188,1911,1335000.0,16-08-2005
+Engtoften 15,Janderup Vestj,6851,4,130,1976,1150000.0,10-08-2005
+Søviggårdvej 60,Janderup Vestj,6851,8,273,1928,1400000.0,24-07-2005
+Engtoften 11,Janderup Vestj,6851,5,123,1977,988000.0,18-07-2005
+St Hebovej 13,Janderup Vestj,6851,3,110,1960,772500.0,16-07-2005
+Nybrovej 51,Janderup Vestj,6851,11,183,1915,1091000.0,14-07-2005
+Engtoften 6,Janderup Vestj,6851,4,99,1978,835562.0,12-07-2005
+Ternevej 7,Janderup Vestj,6851,5,215,1978,1570000.0,27-06-2005
+Ør Kærupvej 13,Janderup Vestj,6851,6,193,1922,5082757.0,18-04-2005
+Sneppevej 31,Janderup Vestj,6851,5,168,2005,163175.0,08-04-2005
+Vesterled 33,Janderup Vestj,6851,11,223,1934,1598000.0,05-04-2005
+Åkirkevej 22,Janderup Vestj,6851,5,231,1825,850000.0,04-04-2005
+Spurvevej 3,Janderup Vestj,6851,4,102,1973,610000.0,22-03-2005
+Åkirkevej 8,Janderup Vestj,6851,4,161,1915,1295000.0,11-03-2005
+Sneppevej 39,Janderup Vestj,6851,5,159,2005,163690.0,09-03-2005
+Vesterled 64,Janderup Vestj,6851,6,148,1929,777222.0,08-03-2005
+Engtoften 23,Janderup Vestj,6851,6,156,1994,575000.0,07-03-2005
+Nybrovej 24,Janderup Vestj,6851,4,124,1973,760000.0,04-03-2005
+Spættevej 21,Janderup Vestj,6851,4,102,1971,675000.0,03-02-2005
+Degnevangen 6,Janderup Vestj,6851,4,160,1975,955000.0,01-02-2005
+Skråvejen 7,Janderup Vestj,6851,6,185,1931,540000.0,21-12-2004
+Vesterled 44G,Janderup Vestj,6851,2,73,2005,240000.0,09-12-2004
+Nr Hebovej 10,Janderup Vestj,6851,4,86,1959,525000.0,19-11-2004
+Sneppevej 23,Janderup Vestj,6851,5,110,2005,163925.0,11-11-2004
+Mågevej 5,Janderup Vestj,6851,4,160,1975,960000.0,28-10-2004
+Ternevej 20,Janderup Vestj,6851,4,142,1979,970000.0,16-09-2004
+Hebovej 12,Janderup Vestj,6851,4,143,2005,205380.0,03-08-2004
+Mågevej 3,Janderup Vestj,6851,5,161,1974,770000.0,01-08-2004
+Skråvejen 9,Janderup Vestj,6851,5,183,2005,175000.0,05-05-2004
+Sneppevej 41,Janderup Vestj,6851,5,165,2005,174925.0,22-04-2004
+Nr Hebovej 18,Janderup Vestj,6851,8,224,1877,1210000.0,13-04-2004
+Nymindegabvej 9,Janderup Vestj,6851,6,284,2012,1150000.0,27-03-2004
+Skråvejen 16,Janderup Vestj,6851,7,165,1985,1285000.0,15-02-2004
+Oksbølvej 87,Janderup Vestj,6851,5,175,1870,1200000.0,09-02-2004
+Åkirkevej 14,Janderup Vestj,6851,5,185,1912,800000.0,05-02-2004
+Baunsalle 5,Janderup Vestj,6851,5,140,1931,1198000.0,21-12-2003
+Adelengvej 36,Janderup Vestj,6851,6,222,1880,1235000.0,17-12-2003
+Hannevangvej 105,Janderup Vestj,6851,4,114,1937,150000.0,12-12-2003
+Hyllerslev Stationsv 8,Janderup Vestj,6851,10,270,1880,2350000.0,28-10-2003
+Vr Janderupvej 21,Janderup Vestj,6851,6,150,1766,1350000.0,21-10-2003
+Nybrovej 133,Janderup Vestj,6851,4,148,1964,580000.0,13-10-2003
+Nybrovej 10,Janderup Vestj,6851,10,187,1922,1060000.0,08-09-2003
+Hebovej 39,Janderup Vestj,6851,10,245,1893,640000.0,11-08-2003
+Ternevej 11,Janderup Vestj,6851,5,150,1978,825000.0,17-06-2003
+Bavnehøjvej 19,Janderup Vestj,6851,3,149,1892,2100000.0,26-05-2003
+Spurvevej 1,Janderup Vestj,6851,6,155,1970,925000.0,31-03-2003
+Åkirkevej 13,Janderup Vestj,6851,5,176,1925,560000.0,26-03-2003
+Solsortevej 6,Janderup Vestj,6851,4,146,1972,773000.0,13-11-2002
+Ternevej 25,Janderup Vestj,6851,6,205,1979,835000.0,20-10-2002
+Fasanvej 5,Janderup Vestj,6851,8,282,1974,1025000.0,17-10-2002
+Grønnevej 65,Janderup Vestj,6851,7,232,1962,3710000.0,26-09-2002
+Oksbølvej 20,Janderup Vestj,6851,3,97,1943,500000.0,04-09-2002
+Skråvejen 20,Janderup Vestj,6851,5,170,1977,1118088.0,15-08-2002
+Hallumvadvej 6,Janderup Vestj,6851,6,214,1928,999999.0,07-06-2002
+Hallumvadvej 39,Janderup Vestj,6851,5,186,1877,1799999.0,07-06-2002
+Ternevej 27,Janderup Vestj,6851,8,213,1979,1495000.0,26-03-2002
+Vesterled 23,Janderup Vestj,6851,3,95,1948,435000.0,05-12-2001
+Bakkegårdvej 33,Janderup Vestj,6851,5,103,1910,4168500.0,18-07-2001
+Nybrovej 119,Janderup Vestj,6851,9,250,1819,840000.0,13-07-2001
+Søviggårdvej 17,Janderup Vestj,6851,7,263,1928,777470.0,23-05-2001
+Spættevej 19,Janderup Vestj,6851,3,159,1972,830000.0,17-05-2001
+Oksbølvej 74,Janderup Vestj,6851,7,203,1918,1069000.0,01-05-2001
+Spættevej 13,Janderup Vestj,6851,3,124,1971,295157.0,02-02-2001
+Kirkestien 11,Janderup Vestj,6851,4,98,1868,570490.0,04-12-2000
+Præstegårdvej 31,Janderup Vestj,6851,6,240,1891,2650000.0,28-10-2000
+Vesterled 19,Janderup Vestj,6851,4,131,1974,795000.0,03-08-2000
+Hyllerslev Skolevej 2,Janderup Vestj,6851,4,110,1898,600000.0,15-05-2000
+Spættevej 16,Janderup Vestj,6851,7,194,1973,1080000.0,03-05-2000
+Skråvejen 1,Janderup Vestj,6851,4,142,1965,840000.0,26-04-2000
+Ternevej 22,Janderup Vestj,6851,4,108,1983,894050.0,19-01-2000
+Nymindegabvej 80,Janderup Vestj,6851,8,242,1930,375000.0,18-01-2000
+Sneppevej 25,Janderup Vestj,6851,5,149,1998,1300000.0,18-01-2000
+Vesterled 26A,Janderup Vestj,6851,3,113,2000,153000.0,23-11-1999
+Vesterled 26C,Janderup Vestj,6851,3,107,2000,153000.0,23-11-1999
+Sundsigvej 11,Janderup Vestj,6851,5,150,1905,1280816.0,03-11-1999
+Oksbølvej 15,Janderup Vestj,6851,4,116,1981,800640.0,14-10-1999
+Hallumvadvej 29,Janderup Vestj,6851,5,120,1904,2745000.0,19-07-1999
+Spurvevej 18,Janderup Vestj,6851,6,147,1974,382500.0,06-07-1999
+Åkirkevej 17,Janderup Vestj,6851,6,181,1930,500000.0,31-05-1999
+Ør Kærupvej 7,Janderup Vestj,6851,8,200,1874,850000.0,23-04-1999
+Sneppevej 13,Janderup Vestj,6851,5,197,1999,175370.0,15-03-1999
+Vesterled 22,Janderup Vestj,6851,4,122,1922,550000.0,10-03-1999
+Solsortevej 10,Janderup Vestj,6851,5,160,1973,780000.0,05-03-1999
+Vr Kærupvej 37,Janderup Vestj,6851,5,146,1873,490000.0,10-02-1999
+Vr Janderupvej 53,Janderup Vestj,6851,4,92,1939,200000.0,15-12-1998
+Sundsigvej 17,Janderup Vestj,6851,7,193,1930,420000.0,10-12-1998
+Nybrovej 86,Janderup Vestj,6851,5,126,1931,476980.0,11-11-1998
+Banevangen 5,Janderup Vestj,6851,3,100,1969,549181.0,09-09-1998
+Grønnevej 1,Janderup Vestj,6851,7,150,1870,450000.0,07-09-1998
+Søviggårdvej 52,Janderup Vestj,6851,8,262,1996,1550000.0,12-08-1998
+Hebovej 11,Janderup Vestj,6851,5,142,1972,902500.0,10-08-1998
+Spættevej 14,Janderup Vestj,6851,6,156,1970,660000.0,07-08-1998
+Hebovej 71,Janderup Vestj,6851,8,273,1905,11550000.0,05-08-1998
+Vesterled 3,Janderup Vestj,6851,4,118,1961,460000.0,29-07-1998
+Nybrovej 21,Janderup Vestj,6851,5,240,1915,1033450.0,29-06-1998
+Hallumvadvej 8,Janderup Vestj,6851,7,174,1885,247000.0,28-05-1998
+Kirkestien 15,Janderup Vestj,6851,6,225,1957,1033143.0,20-04-1998
+Vesterled 1,Janderup Vestj,6851,7,149,1964,457000.0,06-03-1998
+Nybrovej 81,Janderup Vestj,6851,7,170,1929,903975.0,21-11-1997
+Nybrovej 3,Janderup Vestj,6851,2,93,1910,900000.0,27-10-1997
+Vesterled 174,Janderup Vestj,6851,7,238,1887,907537.0,15-08-1997
+Vesterled 49,Janderup Vestj,6851,8,168,1929,585000.0,06-07-1997
+Bavnehøjvej 15,Janderup Vestj,6851,9,262,1928,3404900.0,27-06-1997
+Møllestien 9,Janderup Vestj,6851,7,254,1980,1280225.0,25-06-1997
+Hallumvadvej 4,Janderup Vestj,6851,7,220,1920,732000.0,02-06-1997
+Sr Hebovej 14,Janderup Vestj,6851,4,180,1907,20000.0,16-05-1997
+Åkirkevej 20,Janderup Vestj,6851,5,170,1848,437260.0,26-04-1997
+Ternevej 2,Janderup Vestj,6851,5,171,1978,908579.0,18-04-1997
+Ternevej 18,Janderup Vestj,6851,5,140,1984,977995.0,12-04-1997
+Nybrovej 107,Janderup Vestj,6851,6,158,1938,610300.0,17-03-1997
+Ternevej 8,Janderup Vestj,6851,7,278,1980,1245000.0,17-03-1997
+Vr Janderupvej 13,Janderup Vestj,6851,8,232,1823,50000.0,11-02-1997
+Vesterled 5,Janderup Vestj,6851,7,173,1960,731491.0,04-02-1997
+Vr Janderupvej 35,Janderup Vestj,6851,7,228,1898,700000.0,15-01-1997
+Sneppevej 11,Janderup Vestj,6851,4,123,1997,118476.0,31-12-1996
+Åkirkevej 30,Janderup Vestj,6851,2,60,1802,212500.0,04-11-1996
+Adelengvej 17,Janderup Vestj,6851,7,227,1912,800000.0,30-10-1996
+Sneppevej 15,Janderup Vestj,6851,4,150,1997,132621.0,23-09-1996
+Adelengvej 29,Janderup Vestj,6851,6,247,1827,1408196.0,18-09-1996
+Nybrovej 104,Janderup Vestj,6851,3,120,1961,375000.0,12-09-1996
+Sundsigvej 14,Janderup Vestj,6851,6,178,1969,279316.0,28-08-1996
+Hebovej 94,Janderup Vestj,6851,5,200,1940,2085000.0,28-08-1996
+Bakkegårdvej 23,Janderup Vestj,6851,4,120,1997,65000.0,24-08-1996
+Oksbølvej 68,Janderup Vestj,6851,5,165,1922,1233410.0,13-08-1996
+Engtoften 13,Janderup Vestj,6851,4,114,1976,455679.0,13-08-1996
+Nybrovej 26,Janderup Vestj,6851,4,126,1965,560000.0,21-06-1996
+Ternevej 19,Janderup Vestj,6851,5,150,1978,825000.0,20-06-1996
+Sneppevej 45,Janderup Vestj,6851,4,120,1996,107884.0,10-06-1996
+Solsortevej 7,Janderup Vestj,6851,4,134,1971,710680.0,18-04-1996
+Hannevangvej 100,Janderup Vestj,6851,6,127,1943,315000.0,01-04-1996
+Nybrovej 136,Janderup Vestj,6851,5,209,1978,750000.0,14-02-1996
+Nymindegabvej 16,Janderup Vestj,6851,6,148,1939,475000.0,13-02-1996
+Spættevej 2,Janderup Vestj,6851,5,136,1964,500000.0,30-01-1996
+Nymindegabvej 22,Janderup Vestj,6851,4,257,1978,1450000.0,22-01-1996
+Højen 2,Janderup Vestj,6851,6,190,1975,815000.0,12-12-1995
+Degnevangen 7,Janderup Vestj,6851,4,152,1976,705000.0,11-12-1995
+Nybrovej 82,Janderup Vestj,6851,6,227,1920,92500.0,12-11-1995
+Ør Kærupvej 15,Janderup Vestj,6851,7,129,1923,535000.0,07-11-1995
+Møllestien 7,Janderup Vestj,6851,5,180,1901,304645.0,06-10-1995
+Oksbølvej 54,Janderup Vestj,6851,3,106,1900,270000.0,15-09-1995
+Præstevangen 3,Janderup Vestj,6851,4,130,1928,450000.0,12-09-1995
+Nybrovej 102A,Janderup Vestj,6851,8,136,1888,225000.0,14-08-1995
+Sneppevej 12,Janderup Vestj,6851,5,143,1988,951500.0,20-06-1995
+Fasanvej 8,Janderup Vestj,6851,4,138,1971,530000.0,18-05-1995
+Præstegårdvej 25,Janderup Vestj,6851,7,206,1922,567200.0,16-03-1995
+Ternevej 6,Janderup Vestj,6851,5,147,1978,675000.0,14-03-1995
+Skråvejen 2,Janderup Vestj,6851,5,143,1969,450000.0,14-03-1995
+Åkirkevej 7,Janderup Vestj,6851,7,210,1930,324737.0,08-03-1995
+Banevangen 3,Janderup Vestj,6851,5,145,1972,621580.0,06-02-1995
+Vr Janderupvej 31,Janderup Vestj,6851,6,174,1901,1240000.0,26-01-1995
+Engtoften 19,Janderup Vestj,6851,4,108,1989,671000.0,26-10-1994
+Hebovej 100,Janderup Vestj,6851,7,195,1889,450000.0,06-09-1994
+Sneppevej 10,Janderup Vestj,6851,6,205,1995,130700.0,15-08-1994
+Sneppevej 8,Janderup Vestj,6851,5,142,1994,130700.0,04-07-1994
+Bakkegårdvej 41,Janderup Vestj,6851,4,105,1859,341000.0,06-06-1994
+Fasanvej 1,Janderup Vestj,6851,4,114,1970,545000.0,20-04-1994
+Hebovej 90,Janderup Vestj,6851,6,109,1795,429470.0,04-01-1994
+Spurvevej 14,Janderup Vestj,6851,4,168,1973,675000.0,29-10-1993
+Ternevej 26,Janderup Vestj,6851,4,128,1980,750000.0,01-08-1993
+Vesterled 134,Janderup Vestj,6851,7,217,1883,675000.0,12-07-1993
+Sneppevej 43,Janderup Vestj,6851,5,160,1994,117989.0,30-06-1993
+Vr Kærupvej 40,Janderup Vestj,6851,4,250,1952,315360.0,04-01-1993
+Vesterled 27,Janderup Vestj,6851,4,96,1923,276800.0,30-10-1992
+Hallumvadvej 50,Janderup Vestj,6851,6,196,1870,850000.0,04-09-1992
+Spættevej 6,Janderup Vestj,6851,4,125,1967,465000.0,17-08-1992
+Nybrovej 123,Janderup Vestj,6851,3,126,1900,240700.0,29-06-1992
+Bakkegårdvej 27,Janderup Vestj,6851,4,136,1892,900000.0,29-06-1992
+Tinksmedevej 1,Janderup Vestj,6851,6,191,1977,1250000.0,18-06-1992
+Spurvevej 10,Janderup Vestj,6851,4,136,1973,585000.0,15-06-1992
+Vesterled 62,Janderup Vestj,6851,5,161,1964,575000.0,30-04-1992
+Nybrovej 5,Janderup Vestj,6851,6,150,1934,491320.0,12-04-1992
+Bavnehøjvej 1,Janderup Vestj,6851,5,277,1865,990000.0,25-01-1992

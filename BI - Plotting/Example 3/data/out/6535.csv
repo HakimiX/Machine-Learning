@@ -1,0 +1,188 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Branderup Bygade 24,Branderup J,6535,3,105,1877,345000.0,26-04-2017
+Friskjærvej 10,Branderup J,6535,7,243,1875,660052.0,03-04-2017
+Branderup Bygade 7,Branderup J,6535,8,291,1908,384236.0,15-02-2017
+Bovlund Bjergvej 24,Branderup J,6535,3,106,1961,400000.0,26-01-2017
+Roostvej 11,Branderup J,6535,7,218,1677,8837000.0,08-12-2016
+Bovlund Bygade 14,Branderup J,6535,4,148,1870,265000.0,20-11-2016
+Granvænget 12,Branderup J,6535,5,140,1980,286500.0,20-09-2016
+Bovlund Bjergvej 7,Branderup J,6535,5,208,1875,40000.0,17-09-2016
+Branderup Kådner 5,Branderup J,6535,3,127,1897,60000.0,05-09-2016
+Branderup Kådner 3,Branderup J,6535,5,159,1876,60000.0,05-09-2016
+Roostvej 17,Branderup J,6535,7,156,1936,1300000.0,15-07-2016
+Roostvej 21,Branderup J,6535,5,161,1935,4632500.0,10-07-2016
+Branderup Kådner 12,Branderup J,6535,3,89,1740,280000.0,05-07-2016
+Branderup Kådner 10,Branderup J,6535,7,212,1877,900000.0,27-05-2016
+Tohedevej 8,Branderup J,6535,9,325,1906,16600000.0,01-04-2016
+Tingvej 4,Branderup J,6535,3,89,1900,110000.0,08-02-2016
+Løgumklostervej 4,Branderup J,6535,7,169,1924,795000.0,02-02-2016
+Tingvej 29,Branderup J,6535,5,166,1850,5737500.0,27-01-2016
+Fyrvænget 5,Branderup J,6535,4,123,1968,560000.0,20-12-2015
+Tingvej 2,Branderup J,6535,7,234,1884,1199000.0,18-11-2015
+Bålstedvej 2,Branderup J,6535,4,128,1800,44955000.0,09-11-2015
+Bovlund Bjergvej 27,Branderup J,6535,6,217,1877,44955000.0,09-11-2015
+Sandbjergvej 28,Branderup J,6535,4,153,1966,590000.0,18-09-2015
+Tingvej 6,Branderup J,6535,3,119,1935,100000.0,10-09-2015
+Branderup Bygade 20,Branderup J,6535,5,169,1923,80000.0,28-08-2015
+Friskjærvej 9,Branderup J,6535,4,122,1943,380000.0,04-08-2015
+Branderup Kirkevej 2A,Branderup J,6535,5,120,1908,379500.0,01-04-2015
+Branderup Mark 13,Branderup J,6535,5,119,1900,1402500.0,16-01-2015
+Tingvej 33,Branderup J,6535,3,120,1877,570000.0,02-12-2014
+Tohedevej 1,Branderup J,6535,12,380,1929,24620000.0,29-09-2014
+Løgumklostervej 3,Branderup J,6535,5,131,1950,525000.0,23-07-2014
+Løgumklostervej 7,Branderup J,6535,4,124,1931,197000.0,16-06-2014
+Bovlund Bjergvej 12,Branderup J,6535,3,144,1878,80000.0,07-04-2014
+Sandbjergvej 19,Branderup J,6535,5,156,1884,2195000.0,12-03-2014
+Smedegade 26A,Branderup J,6535,3,110,1986,802500.0,30-12-2013
+Tingvej 10,Branderup J,6535,5,160,1925,230000.0,20-12-2013
+Rundbjergvej 7,Branderup J,6535,4,145,1936,574325.0,11-12-2013
+Bovlund Bjergvej 33,Branderup J,6535,7,200,1867,300780.0,18-11-2013
+Smedegade 31,Branderup J,6535,3,135,1930,450000.0,16-05-2013
+Fyrvænget 1,Branderup J,6535,4,154,1967,120000.0,04-04-2013
+Sandbjergvej 10,Branderup J,6535,4,106,1937,510000.0,29-03-2013
+Bålsted Mosevej 9,Branderup J,6535,5,170,1960,3743250.0,05-03-2013
+Rundbjergvej 2,Branderup J,6535,11,330,1977,9175000.0,25-10-2012
+Smedegade 23,Branderup J,6535,5,127,1860,400000.0,21-08-2012
+Branderupvej 55,Branderup J,6535,4,136,1937,300000.0,10-07-2012
+Sandbjergvej 21,Branderup J,6535,3,149,1935,995000.0,17-03-2012
+Smedegade 26,Branderup J,6535,5,130,1937,662500.0,21-12-2011
+Løgumklostervej 17,Branderup J,6535,5,122,1942,1075000.0,30-06-2011
+Fyrvænget 3,Branderup J,6535,4,120,1967,440000.0,27-05-2011
+Roostvej 3A,Branderup J,6535,5,156,1977,300000.0,06-05-2011
+Branderupvej 43,Branderup J,6535,9,253,1911,950000.0,21-07-2010
+Branderup Kådner 8,Branderup J,6535,5,167,2012,50000.0,05-07-2010
+Sletvej 5,Branderup J,6535,5,118,1660,351373.0,15-06-2010
+Branderup Mark 4,Branderup J,6535,6,127,1856,490000.0,09-04-2010
+Bovlund Bjergvej 8,Branderup J,6535,12,386,1891,500000.0,18-03-2010
+Sandbjergvej 7,Branderup J,6535,5,184,1892,1300000.0,27-01-2010
+Branderup Bygade 40,Branderup J,6535,6,211,2012,1740000.0,22-12-2009
+Hykjærvej 5,Branderup J,6535,4,132,1985,1100000.0,11-12-2009
+Branderup Bygade 6,Branderup J,6535,7,155,1952,625000.0,23-10-2009
+Roostvej 3,Branderup J,6535,3,158,1835,931500.0,15-10-2009
+Bovlund Bjergvej 3,Branderup J,6535,4,145,1914,760000.0,20-07-2009
+Smedegade 15,Branderup J,6535,6,202,1943,750000.0,18-02-2009
+Hykjærvej 2,Branderup J,6535,6,274,1938,500000.0,30-12-2008
+Bålsted Mosevej 1,Branderup J,6535,5,188,1852,720000.0,07-09-2008
+Branderup Kirkevej 1,Branderup J,6535,3,121,1877,770000.0,20-08-2008
+Bovlund Bjergvej 38,Branderup J,6535,9,210,1972,4500000.0,06-08-2008
+Sandbjergvej 1C,Branderup J,6535,3,119,1965,125000.0,16-07-2008
+Bovlund Bygade 1,Branderup J,6535,6,164,1922,75000.0,27-05-2008
+Branderup Kådner 2,Branderup J,6535,3,96,1890,730000.0,10-02-2008
+Smedegade 19,Branderup J,6535,6,178,1850,940000.0,03-02-2008
+Bovlund Bjergvej 30,Branderup J,6535,8,209,1850,650000.0,18-01-2008
+Bovlund Bjergvej 1B,Branderup J,6535,12,445,1848,4590000.0,17-12-2007
+Bovlund Bjergvej 28,Branderup J,6535,4,110,1891,300000.0,14-12-2007
+Branderup Bygade 5,Branderup J,6535,8,228,1910,460000.0,27-11-2007
+Bovlund Bjergvej 10,Branderup J,6535,11,367,1912,10050000.0,25-07-2007
+Granvænget 6,Branderup J,6535,3,105,1979,700000.0,19-07-2007
+Bovlund Bjergvej 34,Branderup J,6535,5,107,1930,885000.0,04-07-2007
+Bovlund Bjergvej 14,Branderup J,6535,2,100,1955,150000.0,29-06-2007
+Bovlund Bjergvej 30A,Branderup J,6535,7,160,1921,425000.0,16-06-2007
+Rundbjergvej 4,Branderup J,6535,7,284,1936,108000.0,31-05-2007
+Bålstedvej 15,Branderup J,6535,6,171,1933,4700000.0,14-05-2007
+Branderup Bygade 18,Branderup J,6535,6,238,1906,790000.0,22-03-2007
+Hofmansvej 3,Branderup J,6535,10,385,1790,8500000.0,05-02-2007
+Bovlund Bygade 4,Branderup J,6535,6,230,1975,7410000.0,02-02-2007
+Friskjærvej 7,Branderup J,6535,6,160,1905,1147500.0,30-01-2007
+Bovlund Bjergvej 36,Branderup J,6535,6,263,1847,1475000.0,24-01-2007
+Branderup Bygade 14A,Branderup J,6535,3,115,1902,355000.0,14-12-2006
+Branderup Kirkevej 4,Branderup J,6535,12,448,1896,40000.0,10-11-2006
+Sandbjergvej 17,Branderup J,6535,4,152,1937,565000.0,06-11-2006
+Sandbjergvej 50,Branderup J,6535,5,200,1809,1052000.0,31-10-2006
+Løgumklostervej 1,Branderup J,6535,5,120,1959,675000.0,17-10-2006
+Tingvej 7,Branderup J,6535,8,232,1827,1025000.0,21-06-2006
+Tingvej 14,Branderup J,6535,6,175,1877,691445.0,03-05-2006
+Roostvej 7,Branderup J,6535,5,134,1944,510000.0,24-04-2006
+Branderup Bygade 32,Branderup J,6535,7,160,1922,310000.0,07-04-2006
+Branderup Bygade 14B,Branderup J,6535,4,114,1902,391000.0,23-03-2006
+Sandbjergvej 40,Branderup J,6535,6,191,1964,324372.0,13-03-2006
+Bovlund Bjergvej 2,Branderup J,6535,4,175,1943,745000.0,18-01-2006
+Branderup Bygade 44,Branderup J,6535,4,112,1877,44000.0,03-01-2006
+Smedegade 12,Branderup J,6535,4,123,1966,400000.0,19-12-2005
+Sandbjergvej 30,Branderup J,6535,3,105,1955,300038.0,02-11-2005
+Tingvej 13,Branderup J,6535,6,156,1777,490000.0,27-09-2005
+Branderup Bygade 30,Branderup J,6535,5,150,1877,280000.0,16-09-2005
+Roostvej 6,Branderup J,6535,7,260,1860,1200000.0,08-09-2005
+Bovlund Bjergvej 18,Branderup J,6535,3,67,1877,80000.0,05-09-2005
+Bålsted Mosevej 5,Branderup J,6535,5,200,1937,950000.0,15-08-2005
+Bålstedvej 16,Branderup J,6535,4,132,1964,1219414.0,08-08-2005
+Hykjærvej 1,Branderup J,6535,5,132,1937,690000.0,17-06-2005
+Sandbjergvej 24,Branderup J,6535,4,108,1968,475000.0,03-04-2005
+Bålsted Mosevej 7,Branderup J,6535,4,119,1938,560000.0,27-02-2005
+Smedegade 22,Branderup J,6535,5,170,1930,560000.0,22-02-2005
+Bålsted Mosevej 2,Branderup J,6535,5,169,1770,1025000.0,16-12-2004
+Smedegade 25,Branderup J,6535,5,159,1930,700000.0,23-10-2004
+Roostvej 15,Branderup J,6535,8,242,1935,2075000.0,13-09-2004
+Branderup Bygade 26,Branderup J,6535,8,221,1886,1055664.0,25-05-2004
+Bålsted Mosevej 4,Branderup J,6535,5,190,1937,1300000.0,28-04-2004
+Revslundvej 6,Branderup J,6535,7,250,1891,10914800.0,03-03-2004
+Branderup Bygade 10,Branderup J,6535,6,172,1946,495000.0,15-10-2003
+Granvænget 10,Branderup J,6535,4,126,1980,646000.0,29-08-2003
+Smedegade 15A,Branderup J,6535,4,95,1982,400000.0,09-07-2003
+Tingvej 18,Branderup J,6535,6,184,1875,10050000.0,21-05-2003
+Fyrvænget 8,Branderup J,6535,4,112,1971,310000.0,03-04-2003
+Revslundvej 1,Branderup J,6535,4,65,1930,95000.0,11-03-2003
+Løgumklostervej 11,Branderup J,6535,5,104,1948,250000.0,29-10-2002
+Bedstedvej 7,Branderup J,6535,5,147,1920,700000.0,29-09-2002
+Løgumklostervej 15,Branderup J,6535,5,154,1890,825000.0,11-07-2002
+Smedegade 13,Branderup J,6535,5,112,1969,525000.0,01-07-2002
+Sletvej 4,Branderup J,6535,6,260,1935,290000.0,02-04-2002
+Sandbjergvej 9,Branderup J,6535,5,179,1947,538880.0,03-03-2002
+Branderup Bygade 8,Branderup J,6535,4,111,1946,340000.0,28-11-2001
+Tingvej 5,Branderup J,6535,4,115,1964,650000.0,09-08-2001
+Bålstedvej 11,Branderup J,6535,4,136,1956,636000.0,20-06-2001
+Sletvej 6,Branderup J,6535,7,183,1941,470000.0,30-05-2001
+Branderup Bygade 1,Branderup J,6535,6,130,1913,445000.0,27-04-2001
+Bovlund Bjergvej 16,Branderup J,6535,10,268,1922,210000.0,17-04-2001
+Smedegade 27,Branderup J,6535,8,281,1930,420000.0,11-12-2000
+Smedegade 2,Branderup J,6535,4,145,1932,347644.0,31-08-2000
+Løgumklostervej 9,Branderup J,6535,7,178,1946,458500.0,06-07-2000
+Bovlund Bjergvej 29,Branderup J,6535,11,316,1874,2454881.0,31-05-2000
+Branderupvej 47,Branderup J,6535,6,145,1914,226672.0,03-04-2000
+Degnebakken 1,Branderup J,6535,6,172,2001,55000.0,31-03-2000
+Bålstedvej 9,Branderup J,6535,3,87,1939,2319600.0,28-12-1999
+Løgumklostervej 10,Branderup J,6535,5,140,1969,460000.0,20-09-1999
+Bålstedvej 8,Branderup J,6535,5,178,1974,757000.0,19-08-1999
+Branderup Kirkevej 2,Branderup J,6535,6,250,1807,325000.0,30-12-1998
+Sandbjergvej 32,Branderup J,6535,6,204,1906,1218000.0,19-10-1998
+Friskjærvej 3,Branderup J,6535,3,115,1953,250000.0,18-10-1998
+Bovlund Bjergvej 32,Branderup J,6535,11,264,1847,2500000.0,29-05-1998
+Bålstedvej 3,Branderup J,6535,4,120,1937,240000.0,27-05-1998
+Bålstedvej 10,Branderup J,6535,3,88,1850,365000.0,24-05-1998
+Tingvej 11,Branderup J,6535,4,143,1968,510000.0,15-04-1998
+Smedegade 20,Branderup J,6535,5,230,1973,2318000.0,03-04-1998
+Bovlund Bygade 2A,Branderup J,6535,12,370,1983,3900000.0,02-03-1998
+Friskjærvej 5,Branderup J,6535,4,98,1940,207000.0,26-02-1998
+Bovlund Bjergvej 35,Branderup J,6535,5,150,1924,130000.0,24-02-1998
+Smedegade 4,Branderup J,6535,3,118,1939,295000.0,26-01-1998
+Granvænget 18,Branderup J,6535,5,151,2002,50000.0,24-10-1997
+Tingvej 16,Branderup J,6535,8,246,1925,265000.0,08-07-1997
+Granvænget 4,Branderup J,6535,4,120,1980,455000.0,02-05-1997
+Tingvej 9,Branderup J,6535,4,130,1967,392411.0,02-05-1997
+Rundbjergvej 5,Branderup J,6535,6,175,1906,150000.0,25-03-1997
+Sandbjergvej 23,Branderup J,6535,9,180,1873,260000.0,12-03-1997
+Bovlund Bjergvej 22B,Branderup J,6535,6,156,1951,153000.0,29-01-1997
+Fyrvænget 4,Branderup J,6535,5,108,1967,220000.0,11-12-1996
+Branderup Bygade 9,Branderup J,6535,5,104,1936,65000.0,21-09-1996
+Fyrvænget 2,Branderup J,6535,5,160,1972,400000.0,27-08-1996
+Tingvej 15,Branderup J,6535,5,166,1700,348000.0,21-08-1996
+Bålstedvej 1,Branderup J,6535,7,205,1905,1200000.0,21-06-1996
+Rundbjergvej 6,Branderup J,6535,5,123,1936,470000.0,07-06-1996
+Sandbjergvej 11,Branderup J,6535,5,140,1963,228540.0,06-05-1996
+Branderup Bygade 38,Branderup J,6535,3,150,1941,47000.0,13-12-1995
+Bovlund Bygade 6,Branderup J,6535,7,249,1925,550000.0,27-11-1995
+Bålsted Mosevej 3,Branderup J,6535,8,252,1777,470000.0,17-08-1995
+Smedegade 18,Branderup J,6535,5,160,1930,410000.0,17-03-1995
+Bovlund Bjergvej 4,Branderup J,6535,5,146,1959,330000.0,14-03-1995
+Branderupvej 45,Branderup J,6535,7,136,1777,166666.0,21-02-1995
+Tingvej 31,Branderup J,6535,4,138,1827,143000.0,27-09-1994
+Roostvej 1,Branderup J,6535,8,273,1885,1026560.0,09-09-1994
+Branderup Bygade 3,Branderup J,6535,6,146,1928,145000.0,02-09-1994
+Sandbjergvej 3,Branderup J,6535,3,109,1917,138000.0,03-08-1994
+Friskjærvej 2,Branderup J,6535,5,117,1942,285527.0,30-03-1994
+Smedegade 16,Branderup J,6535,4,139,1965,407000.0,18-03-1994
+Roostvej 19,Branderup J,6535,4,119,1935,225000.0,15-07-1993
+Granvænget 16,Branderup J,6535,4,99,1981,135725.0,01-07-1993
+Løgumklostervej 5,Branderup J,6535,5,109,1937,205000.0,10-03-1993
+Branderup Bygade 36A,Branderup J,6535,2,69,1890,150000.0,26-02-1993
+Roostvej 9,Branderup J,6535,6,148,1955,145000.0,22-07-1992

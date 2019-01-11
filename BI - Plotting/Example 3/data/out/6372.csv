@@ -1,0 +1,939 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Sottrupvej 26,Bylderup-Bov,6372,5,88,1956,2300000.0,26-04-2017
+Ravsted Hovedgade 51,Bylderup-Bov,6372,14,309,1907,2200000.0,11-04-2017
+Egebjergvej 28,Bylderup-Bov,6372,4,128,1978,446838.0,17-03-2017
+Surreroj 19,Bylderup-Bov,6372,4,158,1986,732000.0,15-03-2017
+Slogsherredsvej 45,Bylderup-Bov,6372,4,141,1970,660689.0,12-03-2017
+Højvangvej 5,Bylderup-Bov,6372,6,150,1944,530000.0,02-03-2017
+Løgumklostervej 45,Bylderup-Bov,6372,4,118,1952,320000.0,07-02-2017
+Burkal Kirkevej 1,Bylderup-Bov,6372,5,95,1906,2529100.0,25-01-2017
+Burkal Kirkevej 7,Bylderup-Bov,6372,4,123,1974,410000.0,25-01-2017
+Noldevej 1,Bylderup-Bov,6372,4,110,1965,230000.0,10-01-2017
+Gravløkke 101,Bylderup-Bov,6372,5,107,1997,675000.0,28-11-2016
+Rens Nørredam 3,Bylderup-Bov,6372,4,90,1810,175000.0,25-11-2016
+Åløkke 21,Bylderup-Bov,6372,7,259,1977,662500.0,23-11-2016
+Hyndingdamvej 8,Bylderup-Bov,6372,7,205,1944,6650000.0,17-11-2016
+Stenskær 2,Bylderup-Bov,6372,4,122,1978,520000.0,15-11-2016
+Stemmildvej 25,Bylderup-Bov,6372,3,183,1938,2400000.0,10-11-2016
+Lundvej 9,Bylderup-Bov,6372,3,96,1911,50000.0,04-11-2016
+Sottrup By 4,Bylderup-Bov,6372,5,148,1778,59901.0,03-11-2016
+Åløkke 30,Bylderup-Bov,6372,5,120,1980,450000.0,26-10-2016
+Åglimt 15,Bylderup-Bov,6372,5,125,1968,425000.0,04-10-2016
+Åglimt 24,Bylderup-Bov,6372,5,144,1969,780000.0,04-10-2016
+Nystadvej 1F,Bylderup-Bov,6372,3,83,1986,365000.0,23-09-2016
+Gammel Sottrupvej 26,Bylderup-Bov,6372,3,95,1956,650000.0,19-09-2016
+Lundvej 16,Bylderup-Bov,6372,5,305,2010,1050000.0,08-09-2016
+Åglimt 20,Bylderup-Bov,6372,4,98,1968,615000.0,07-09-2016
+Hyndingvej 13,Bylderup-Bov,6372,9,277,1970,17546963.0,30-08-2016
+Ravsted Hovedgade 6,Bylderup-Bov,6372,6,180,1910,345981.0,28-07-2016
+Rens Bygade 34,Bylderup-Bov,6372,5,146,1973,400000.0,26-07-2016
+Fogderupvej 9,Bylderup-Bov,6372,5,175,1867,476284.0,15-07-2016
+Slogsgaden 29,Bylderup-Bov,6372,8,187,1937,700000.0,14-07-2016
+Åløkke 38,Bylderup-Bov,6372,5,171,1977,870000.0,08-07-2016
+Rens Bygade 26,Bylderup-Bov,6372,4,120,1850,26670.0,27-06-2016
+Hovmosevej 7,Bylderup-Bov,6372,5,178,1926,1240000.0,22-06-2016
+"Engvej 8, 2",Bylderup-Bov,6372,2,72,1952,300000.0,13-06-2016
+Nørregårdvej 5,Bylderup-Bov,6372,6,190,1987,22300000.0,12-06-2016
+Hyndingvej 12,Bylderup-Bov,6372,3,96,1963,414000.0,03-06-2016
+Lille Knivsigvej 6,Bylderup-Bov,6372,5,167,2006,1100000.0,11-04-2016
+Margretetoft 5,Bylderup-Bov,6372,3,142,1987,380000.0,21-03-2016
+Lendemark 84,Bylderup-Bov,6372,6,204,1975,700000.0,16-03-2016
+Grænsevejen 130,Bylderup-Bov,6372,6,134,1969,1070000.0,08-03-2016
+Noldevej 11,Bylderup-Bov,6372,8,300,1925,6970000.0,03-03-2016
+"Ravsted Hovedgade 11, ST",Bylderup-Bov,6372,2,89,1950,295000.0,16-02-2016
+Nystadvej 15,Bylderup-Bov,6372,13,386,1979,1650000.0,13-02-2016
+Fogderup Engvej 2,Bylderup-Bov,6372,6,136,1930,2328200.0,12-02-2016
+Fogderupvej 19,Bylderup-Bov,6372,8,307,2001,2476500.0,12-02-2016
+Burkal Kirkevej 41,Bylderup-Bov,6372,6,237,1900,140000.0,04-02-2016
+Engvej 28,Bylderup-Bov,6372,5,125,1958,25000.0,14-01-2016
+Ravsted Hovedgade 18,Bylderup-Bov,6372,4,87,1955,250000.0,12-01-2016
+Havstedvej 4,Bylderup-Bov,6372,3,98,1964,250000.0,09-01-2016
+Bredevadvej 23,Bylderup-Bov,6372,7,210,1850,99500.0,07-01-2016
+Bylderup-Bov Bygade 24,Bylderup-Bov,6372,9,276,1928,775000.0,04-01-2016
+Lendemark 68A,Bylderup-Bov,6372,5,162,1984,425000.0,15-12-2015
+Hejselvej 5,Bylderup-Bov,6372,11,265,1927,1500000.0,14-12-2015
+Slogsherredsvej 57,Bylderup-Bov,6372,3,84,1953,210000.0,03-12-2015
+Rens Bygade 17,Bylderup-Bov,6372,5,151,1827,151549.0,30-11-2015
+Ravsted Ågade 3,Bylderup-Bov,6372,4,121,1921,260000.0,12-11-2015
+Surreroj 6,Bylderup-Bov,6372,5,151,1966,450000.0,09-11-2015
+Bovvej 29,Bylderup-Bov,6372,6,175,1926,450000.0,30-10-2015
+Ravsted Hovedgade 84,Bylderup-Bov,6372,4,134,1976,410000.0,10-10-2015
+Stenskær 7,Bylderup-Bov,6372,4,126,1969,400000.0,07-10-2015
+Burkal Kirkevej 45,Bylderup-Bov,6372,5,254,1887,510000.0,05-10-2015
+Løgumklostervej 82,Bylderup-Bov,6372,7,168,1947,5495000.0,15-09-2015
+Åglimt 6,Bylderup-Bov,6372,6,193,1965,515000.0,03-09-2015
+Hovmosevej 11,Bylderup-Bov,6372,7,234,1942,22074000.0,24-08-2015
+Fogderup Mellemvej 4,Bylderup-Bov,6372,4,81,1955,399000.0,20-08-2015
+Gravløkke 69,Bylderup-Bov,6372,6,172,1980,655000.0,14-08-2015
+Ravsted Hovedgade 22,Bylderup-Bov,6372,7,127,1951,455000.0,12-08-2015
+Rens Voldgade 4,Bylderup-Bov,6372,4,100,1850,70000.0,09-08-2015
+Ravsted Skolegade 39,Bylderup-Bov,6372,7,171,1976,527000.0,23-07-2015
+Sottrupvej 6,Bylderup-Bov,6372,7,225,1995,1000000.0,23-07-2015
+Åløkke 62,Bylderup-Bov,6372,5,157,1981,490000.0,08-07-2015
+Bylderup-Bov Bygade 36,Bylderup-Bov,6372,3,86,1965,400000.0,03-07-2015
+Burkal Kirkevej 20,Bylderup-Bov,6372,4,106,1953,472000.0,01-07-2015
+Lendemark 65,Bylderup-Bov,6372,7,203,1802,111820.0,05-06-2015
+Fogderup Bygade 14,Bylderup-Bov,6372,5,175,1897,695000.0,13-05-2015
+Korupmarkvej 5,Bylderup-Bov,6372,5,240,1884,2000000.0,12-05-2015
+Åbovej 23,Bylderup-Bov,6372,3,87,1964,150000.0,07-05-2015
+Skovhusvej 7,Bylderup-Bov,6372,8,251,1901,19910000.0,07-04-2015
+Burkal Kirkevej 26,Bylderup-Bov,6372,6,222,1925,725000.0,31-03-2015
+Lendemark 74B,Bylderup-Bov,6372,3,107,1988,530000.0,20-03-2015
+Ravsted Hovedgade 99,Bylderup-Bov,6372,7,154,1959,304500.0,19-03-2015
+Margretetoft 34,Bylderup-Bov,6372,7,187,2015,100000.0,16-03-2015
+Mørkær 8,Bylderup-Bov,6372,4,143,1973,413000.0,09-03-2015
+Smedegade 7,Bylderup-Bov,6372,3,85,1875,106417.0,06-03-2015
+Korupmarkvej 15,Bylderup-Bov,6372,4,178,2000,1195000.0,04-02-2015
+Moseløkke 4A,Bylderup-Bov,6372,2,74,1980,330000.0,30-01-2015
+Rens Nørredam 6,Bylderup-Bov,6372,6,162,1955,230000.0,29-01-2015
+Korupmarkvej 6,Bylderup-Bov,6372,6,362,1860,1165000.0,25-11-2014
+Moseløkke 14,Bylderup-Bov,6372,5,159,1978,565000.0,21-11-2014
+Slogsherredsvej 33,Bylderup-Bov,6372,3,140,1951,602500.0,03-11-2014
+Sottrup By 20,Bylderup-Bov,6372,2,107,1928,250000.0,10-10-2014
+Fogderup Bygade 19,Bylderup-Bov,6372,6,180,1864,148331.0,07-10-2014
+Ravsted Hovedgade 33,Bylderup-Bov,6372,4,104,1955,200000.0,06-10-2014
+Stemmildvej 44,Bylderup-Bov,6372,5,165,1945,250000.0,14-09-2014
+Ravsted Hovedgade 74,Bylderup-Bov,6372,9,180,1936,50000.0,03-09-2014
+Korupmarkvej 12,Bylderup-Bov,6372,5,185,1830,1150000.0,12-08-2014
+Stenskær 1,Bylderup-Bov,6372,5,223,1974,825000.0,11-08-2014
+Åløkke 2B,Bylderup-Bov,6372,3,74,1978,350000.0,21-07-2014
+Rens Bygade 23,Bylderup-Bov,6372,7,196,1858,675000.0,12-07-2014
+Stemmildvej 12,Bylderup-Bov,6372,7,238,1926,551500.0,10-07-2014
+Nystadvej 46,Bylderup-Bov,6372,6,183,2015,200000.0,10-07-2014
+Gravløkke 95,Bylderup-Bov,6372,7,230,1979,460000.0,09-07-2014
+Lendemark 19,Bylderup-Bov,6372,7,164,1930,469360.0,03-07-2014
+Rens Bygade 3,Bylderup-Bov,6372,5,138,1974,258000.0,26-06-2014
+Broløkkevej 5,Bylderup-Bov,6372,5,156,2002,900000.0,09-06-2014
+Lendemark 59,Bylderup-Bov,6372,4,110,1959,331500.0,04-06-2014
+Gravløkke 87,Bylderup-Bov,6372,5,146,1980,675000.0,04-06-2014
+Rens Kronfenne 10,Bylderup-Bov,6372,4,167,1980,730500.0,12-05-2014
+Burkal Kirkevej 36,Bylderup-Bov,6372,3,112,1951,180000.0,22-04-2014
+Surreroj 65A,Bylderup-Bov,6372,5,161,1987,900000.0,22-04-2014
+Søvangvej 6,Bylderup-Bov,6372,4,108,1922,4300000.0,15-04-2014
+Bredevadvej 18,Bylderup-Bov,6372,7,243,1982,16657000.0,15-04-2014
+Hvidhøjvej 8,Bylderup-Bov,6372,14,460,1950,400000.0,07-04-2014
+Kristianshåbvej 4,Bylderup-Bov,6372,5,163,1983,417452.0,01-04-2014
+Teglovnsvej 11,Bylderup-Bov,6372,4,99,1875,276000.0,01-04-2014
+Kobro 4,Bylderup-Bov,6372,4,142,1920,794716.0,23-03-2014
+Ravsted Hovedgade 37,Bylderup-Bov,6372,3,90,1960,400000.0,21-03-2014
+Nystadvej 35,Bylderup-Bov,6372,5,236,2002,9296000.0,29-01-2014
+Ravsted Hovedgade 53,Bylderup-Bov,6372,7,207,1910,225000.0,08-01-2014
+Ravsted Hovedgade 1,Bylderup-Bov,6372,7,219,1900,398071.0,06-01-2014
+Havstedvej 57,Bylderup-Bov,6372,4,157,1978,323000.0,19-12-2013
+Bylderup-Bov Bygade 34B,Bylderup-Bov,6372,5,184,1954,186221.0,10-12-2013
+Ravsted Mellemgade 4,Bylderup-Bov,6372,4,104,1951,110000.0,29-11-2013
+Lendemark 57,Bylderup-Bov,6372,5,147,1959,165000.0,22-11-2013
+Åløkke 23B,Bylderup-Bov,6372,3,72,1988,275000.0,25-10-2013
+Ravsted Storegade 22,Bylderup-Bov,6372,3,110,1970,429000.0,23-10-2013
+Rens Voldgade 2,Bylderup-Bov,6372,3,106,1900,232828.0,09-10-2013
+Saksborgvej 90,Bylderup-Bov,6372,3,116,1953,235000.0,04-10-2013
+Rens Skolevej 11,Bylderup-Bov,6372,7,108,1959,225000.0,26-09-2013
+Ravsted Hovedgade 38,Bylderup-Bov,6372,3,96,1973,325000.0,24-09-2013
+Egebjergvej 12,Bylderup-Bov,6372,6,193,1907,137000.0,23-09-2013
+Åglimt 5,Bylderup-Bov,6372,4,125,1969,28941.0,23-09-2013
+Sottrup By 18,Bylderup-Bov,6372,5,163,1997,1750000.0,23-09-2013
+Ravsted Storegade 43,Bylderup-Bov,6372,4,94,1952,295000.0,20-09-2013
+Noldevej 40,Bylderup-Bov,6372,5,163,1953,297500.0,19-09-2013
+Noldevej 16,Bylderup-Bov,6372,6,159,1932,560000.0,10-09-2013
+Højvangvej 3,Bylderup-Bov,6372,6,168,1934,680000.0,01-09-2013
+Sottrupholmvej 10,Bylderup-Bov,6372,3,84,1805,59500.0,22-08-2013
+Åglimt 32,Bylderup-Bov,6372,8,167,1967,1100000.0,31-07-2013
+Lendemark 89,Bylderup-Bov,6372,4,76,1954,100000.0,12-07-2013
+Stormsgårdevej 38,Bylderup-Bov,6372,6,211,1978,2095000.0,10-07-2013
+Nystadvej 22,Bylderup-Bov,6372,5,122,1860,400000.0,03-07-2013
+Lendemark 46,Bylderup-Bov,6372,6,176,1965,685000.0,02-07-2013
+Lundvej 23,Bylderup-Bov,6372,3,88,1958,130000.0,02-07-2013
+Slogsherredsvej 8,Bylderup-Bov,6372,4,154,1965,425000.0,01-07-2013
+Åbovej 18,Bylderup-Bov,6372,5,136,1965,678000.0,01-07-2013
+Rens Bygade 12,Bylderup-Bov,6372,5,135,1920,80000.0,01-07-2013
+Ravsted Storegade 8,Bylderup-Bov,6372,3,88,1877,60000.0,17-06-2013
+Åløkke 44B,Bylderup-Bov,6372,3,80,1974,105500.0,03-06-2013
+Pebersmarkvej 34,Bylderup-Bov,6372,5,133,1964,320000.0,29-04-2013
+Fogderup Mellemvej 6,Bylderup-Bov,6372,4,102,1932,250000.0,25-04-2013
+Åglimt 26,Bylderup-Bov,6372,6,256,1971,975000.0,23-04-2013
+Mørkær 4,Bylderup-Bov,6372,6,164,1977,385000.0,17-04-2013
+Tvedvej 1,Bylderup-Bov,6372,6,169,1929,50000.0,15-04-2013
+Flensborgvej 4,Bylderup-Bov,6372,3,110,1964,310000.0,22-03-2013
+Rens Nørredam 5,Bylderup-Bov,6372,3,70,1850,530000.0,11-03-2013
+Stemmildvej 29,Bylderup-Bov,6372,8,238,1963,650000.0,07-03-2013
+Rens Sønderåvej 1,Bylderup-Bov,6372,5,141,1902,380000.0,17-01-2013
+Gammel Sottrupvej 11,Bylderup-Bov,6372,4,157,1981,1000000.0,03-01-2013
+Ravsted Hovedgade 42,Bylderup-Bov,6372,7,188,1915,210415.0,14-12-2012
+Ravsted Mølletoft 10,Bylderup-Bov,6372,4,134,1979,480000.0,04-12-2012
+Flensborgvej 2,Bylderup-Bov,6372,7,134,1870,2200000.0,28-11-2012
+Lundmarkvej 3,Bylderup-Bov,6372,8,180,1921,846500.0,22-10-2012
+Rens Sønderåvej 16,Bylderup-Bov,6372,6,199,1860,837500.0,17-10-2012
+Gensgårdvej 2,Bylderup-Bov,6372,8,151,1818,650000.0,15-10-2012
+Slogsherredsvej 46,Bylderup-Bov,6372,3,75,1864,170000.0,10-10-2012
+Stemmildvej 4,Bylderup-Bov,6372,5,116,1951,273265.0,24-09-2012
+Ravsted Nørregade 21,Bylderup-Bov,6372,5,148,1962,263058.0,22-09-2012
+Ravsted Hovedgade 62,Bylderup-Bov,6372,5,224,1965,725000.0,18-09-2012
+Engløkke 3,Bylderup-Bov,6372,7,157,1972,620000.0,17-09-2012
+Ravsted Storegade 31,Bylderup-Bov,6372,3,110,1913,225000.0,17-09-2012
+Løgumklostervej 103,Bylderup-Bov,6372,6,194,1929,2259000.0,10-09-2012
+Slogsgaden 16,Bylderup-Bov,6372,8,204,1950,400000.0,03-09-2012
+Noldevej 19,Bylderup-Bov,6372,6,209,1898,500000.0,01-09-2012
+Bylderup-Bov Bygade 28,Bylderup-Bov,6372,4,184,1936,341271.0,20-08-2012
+Ravsted Hovedgade 89,Bylderup-Bov,6372,3,100,1948,99859.0,02-08-2012
+Rens Bygade 46,Bylderup-Bov,6372,4,115,1902,471500.0,31-07-2012
+Slogsgaden 15,Bylderup-Bov,6372,5,118,1924,449974.0,12-07-2012
+Bovvej 11,Bylderup-Bov,6372,5,140,1972,325000.0,26-06-2012
+Åløkke 1C,Bylderup-Bov,6372,7,204,1972,1000000.0,21-06-2012
+Grænsevejen 102,Bylderup-Bov,6372,7,152,1965,1054962.0,20-06-2012
+Fogderup Østermark 15,Bylderup-Bov,6372,4,112,1942,150000.0,30-05-2012
+Burkal Kirkevej 28,Bylderup-Bov,6372,5,164,1969,900000.0,02-05-2012
+Moseløkke 16,Bylderup-Bov,6372,4,130,1977,535000.0,23-04-2012
+Stemmildvej 26,Bylderup-Bov,6372,4,113,1870,3580000.0,28-03-2012
+Lille Knivsigvej 22,Bylderup-Bov,6372,3,127,1943,1080000.0,13-03-2012
+Stormsgårdevej 42,Bylderup-Bov,6372,5,223,1852,1350000.0,29-02-2012
+Kværnholtvej 20,Bylderup-Bov,6372,4,96,1922,2300000.0,23-02-2012
+Ravsted Skolegade 7,Bylderup-Bov,6372,10,100,1850,239509.0,20-02-2012
+Fogderup Nørremark 2,Bylderup-Bov,6372,2,102,1967,445000.0,15-02-2012
+Banevej 7,Bylderup-Bov,6372,4,130,1964,840000.0,10-02-2012
+Ravsted Storegade 33,Bylderup-Bov,6372,9,299,1934,833000.0,08-02-2012
+Slogsherredsvej 24,Bylderup-Bov,6372,4,124,1953,500000.0,23-01-2012
+Åløkke 4B,Bylderup-Bov,6372,3,74,1978,206410.0,05-01-2012
+Løgumklostervej 73,Bylderup-Bov,6372,3,140,1868,230000.0,02-12-2011
+Bovvej 10,Bylderup-Bov,6372,4,124,1820,461000.0,01-12-2011
+Ravsted Mellemgade 2,Bylderup-Bov,6372,4,108,1958,175000.0,25-11-2011
+Moseløkke 4D,Bylderup-Bov,6372,2,74,1980,390000.0,04-11-2011
+Ravsted Storegade 9,Bylderup-Bov,6372,6,185,1929,101000.0,24-10-2011
+Grænsevejen 110,Bylderup-Bov,6372,5,156,1970,1425000.0,14-10-2011
+Rens Skolevej 7A,Bylderup-Bov,6372,3,100,1827,27000.0,11-10-2011
+Bredevadvej 26,Bylderup-Bov,6372,3,93,1964,116000.0,10-10-2011
+Havstedvej 38,Bylderup-Bov,6372,5,120,1949,875000.0,16-09-2011
+Åløkke 18,Bylderup-Bov,6372,4,138,1973,590000.0,11-09-2011
+Gravløkke 75,Bylderup-Bov,6372,5,128,1991,725000.0,09-09-2011
+Højvangvej 14,Bylderup-Bov,6372,6,178,2013,40000.0,08-09-2011
+Tingdigevej 1,Bylderup-Bov,6372,6,174,1931,1400000.0,02-09-2011
+Biblioteksstrædet 4,Bylderup-Bov,6372,3,92,1962,475000.0,10-06-2011
+Bylderup-Bov Bygade 10,Bylderup-Bov,6372,5,154,1905,225000.0,09-06-2011
+Åbovej 8,Bylderup-Bov,6372,3,117,1965,865000.0,19-05-2011
+Rens Skolevej 9,Bylderup-Bov,6372,6,150,1953,675000.0,12-05-2011
+Nystadvej 34,Bylderup-Bov,6372,3,105,1924,685000.0,04-05-2011
+Teglovnsvej 9,Bylderup-Bov,6372,4,137,1945,1735000.0,05-04-2011
+Ravsted Ågade 1C,Bylderup-Bov,6372,2,47,1906,300000.0,02-04-2011
+Lendemark 48,Bylderup-Bov,6372,4,110,1962,1045000.0,27-03-2011
+Noldevej 22,Bylderup-Bov,6372,7,225,1936,339009.0,25-03-2011
+Surreroj 83,Bylderup-Bov,6372,4,127,1976,750000.0,23-03-2011
+Stemmildvej 3,Bylderup-Bov,6372,4,151,1921,250000.0,11-03-2011
+Lendemark 41,Bylderup-Bov,6372,5,90,1909,400000.0,03-03-2011
+Hyndingholmvej 5,Bylderup-Bov,6372,6,175,1966,1070000.0,03-03-2011
+Surreroj 5,Bylderup-Bov,6372,3,112,1966,400000.0,25-02-2011
+Ravsted Skolegade 31,Bylderup-Bov,6372,3,110,1977,350000.0,10-02-2011
+Korupmarkvej 16,Bylderup-Bov,6372,5,176,1899,5200000.0,27-01-2011
+Rens Bygade 31,Bylderup-Bov,6372,4,121,1827,100000.0,13-12-2010
+Hejselvej 25,Bylderup-Bov,6372,5,124,1973,3175000.0,19-11-2010
+Bylderup-Bov Bygade 36A,Bylderup-Bov,6372,7,247,1973,900000.0,18-11-2010
+Burkal Kirkevej 38,Bylderup-Bov,6372,6,154,1952,200000.0,29-10-2010
+Åløkke 72,Bylderup-Bov,6372,4,119,1980,413313.0,27-10-2010
+Åbovej 1,Bylderup-Bov,6372,4,135,1957,1050000.0,21-10-2010
+Hejselvej 17,Bylderup-Bov,6372,5,186,2011,2500000.0,15-10-2010
+Åbovej 25,Bylderup-Bov,6372,3,100,1965,550000.0,14-10-2010
+Stenagervej 1,Bylderup-Bov,6372,8,161,1940,912000.0,14-10-2010
+Åbovej 29,Bylderup-Bov,6372,6,110,1954,780000.0,08-10-2010
+Sottrupholmvej 7,Bylderup-Bov,6372,11,279,1947,1525000.0,04-10-2010
+Korupvej 7,Bylderup-Bov,6372,4,154,1974,1470000.0,27-09-2010
+Lendemark 70,Bylderup-Bov,6372,11,345,1878,1995000.0,24-09-2010
+Slogsgaden 21,Bylderup-Bov,6372,4,114,1959,575000.0,23-09-2010
+Ravsted Storegade 26,Bylderup-Bov,6372,5,159,1897,520000.0,26-08-2010
+Høgsholtvej 5,Bylderup-Bov,6372,4,100,1960,985000.0,20-08-2010
+Dyreparkvej 9,Bylderup-Bov,6372,7,237,2012,220000.0,16-08-2010
+Lendemark 31,Bylderup-Bov,6372,4,77,1934,250000.0,15-08-2010
+Fogderup Bygade 13,Bylderup-Bov,6372,3,108,1880,150000.0,11-08-2010
+Rens Bygade 15A,Bylderup-Bov,6372,6,186,1980,845000.0,08-08-2010
+Noldevej 23,Bylderup-Bov,6372,5,162,1800,462500.0,06-08-2010
+Bredevadvej 24,Bylderup-Bov,6372,5,118,1877,250000.0,22-07-2010
+Hyndingvej 5,Bylderup-Bov,6372,5,201,1944,675000.0,20-07-2010
+Rens Nørredam 10,Bylderup-Bov,6372,4,85,1920,300000.0,13-07-2010
+Høgsholtvej 8,Bylderup-Bov,6372,7,262,1845,500000.0,05-07-2010
+Tvedvej 2,Bylderup-Bov,6372,7,163,1927,525000.0,29-06-2010
+Ravsted Tværgade 1,Bylderup-Bov,6372,5,165,1852,365000.0,18-06-2010
+Moseløkke 20,Bylderup-Bov,6372,4,125,1977,710000.0,03-06-2010
+Nystadvej 1C,Bylderup-Bov,6372,3,83,1986,440000.0,03-06-2010
+Noldevej 15,Bylderup-Bov,6372,5,156,1977,725000.0,12-03-2010
+Bredevad Byvej 11,Bylderup-Bov,6372,4,149,1989,1345000.0,25-02-2010
+Rens Bygade 36,Bylderup-Bov,6372,8,115,1775,175000.0,07-02-2010
+Ravsted Hovedgade 23,Bylderup-Bov,6372,4,151,1976,400000.0,04-02-2010
+Tranekærvej 3,Bylderup-Bov,6372,5,256,1907,925000.0,29-01-2010
+Surreroj 57,Bylderup-Bov,6372,5,144,2010,50000.0,22-01-2010
+Bovvej 19,Bylderup-Bov,6372,5,150,1825,595000.0,15-01-2010
+Ravsted Nørregade 5,Bylderup-Bov,6372,6,170,1904,310000.0,15-01-2010
+Lille Knivsigvej 28,Bylderup-Bov,6372,7,204,1928,4080000.0,11-01-2010
+Surreroj 2,Bylderup-Bov,6372,5,53,1966,640000.0,10-01-2010
+Moseløkke 4B,Bylderup-Bov,6372,2,74,1980,381000.0,04-01-2010
+Gammel Sottrupvej 4,Bylderup-Bov,6372,6,154,1931,737500.0,22-12-2009
+Fogderupvej 17,Bylderup-Bov,6372,6,157,1939,8234107.0,18-12-2009
+Spaniensvej 21,Bylderup-Bov,6372,5,164,1900,4560000.0,18-12-2009
+Garverland 6,Bylderup-Bov,6372,8,221,1977,1400000.0,08-12-2009
+Slogsgaden 4,Bylderup-Bov,6372,5,180,1875,350000.0,26-11-2009
+Banevej 2,Bylderup-Bov,6372,4,119,1924,500000.0,23-11-2009
+Spaniensvej 30,Bylderup-Bov,6372,5,130,1936,1525000.0,28-10-2009
+Kværnholtvej 25,Bylderup-Bov,6372,4,140,1827,200000.0,14-10-2009
+Lendemark 7,Bylderup-Bov,6372,4,110,1951,420000.0,07-10-2009
+Hyndingvej 9,Bylderup-Bov,6372,5,155,1870,525765.0,28-09-2009
+Surreroj 55,Bylderup-Bov,6372,4,124,1981,680000.0,23-09-2009
+Hejsel Vestvej 2,Bylderup-Bov,6372,4,171,1926,750000.0,22-09-2009
+Gammel Sottrupvej 17,Bylderup-Bov,6372,5,156,2002,1325000.0,16-09-2009
+Knivsigvej 1,Bylderup-Bov,6372,4,156,1911,4600000.0,04-09-2009
+Rens Sønderåvej 8,Bylderup-Bov,6372,4,129,1923,550000.0,04-08-2009
+Saksborgvej 71,Bylderup-Bov,6372,5,192,1890,1390000.0,29-07-2009
+Rugtoft 1,Bylderup-Bov,6372,4,141,1980,665000.0,24-07-2009
+Havstedvej 25,Bylderup-Bov,6372,3,113,1949,1100000.0,21-07-2009
+Nørrekurv 2,Bylderup-Bov,6372,6,160,1975,765000.0,13-07-2009
+Nystadvej 14,Bylderup-Bov,6372,4,123,1962,390000.0,18-06-2009
+Lendemark 78,Bylderup-Bov,6372,5,187,1881,850000.0,27-05-2009
+Sottrup By 13,Bylderup-Bov,6372,7,219,1827,1700000.0,26-05-2009
+Ravsted Storegade 39,Bylderup-Bov,6372,4,125,1900,1000000.0,01-05-2009
+Åløkke 31,Bylderup-Bov,6372,3,158,1979,750000.0,17-04-2009
+Noldevej 24,Bylderup-Bov,6372,4,168,1928,5000000.0,14-04-2009
+Slogsgaden 18,Bylderup-Bov,6372,5,100,1935,267750.0,07-04-2009
+Mørkær 7,Bylderup-Bov,6372,4,135,1973,940000.0,06-04-2009
+Kristianshåbvej 5,Bylderup-Bov,6372,5,137,1762,667516.0,23-03-2009
+Højvangvej 16,Bylderup-Bov,6372,3,86,1949,225000.0,25-02-2009
+Surreroj 7,Bylderup-Bov,6372,5,140,1976,675000.0,19-02-2009
+Ravsted Skolegade 20,Bylderup-Bov,6372,5,116,1956,660000.0,05-02-2009
+Burkal Kirkevej 47,Bylderup-Bov,6372,6,371,1894,8872000.0,04-02-2009
+Åbovej 20,Bylderup-Bov,6372,3,100,1966,500000.0,02-02-2009
+Lundmarkvej 5,Bylderup-Bov,6372,6,195,1975,19000000.0,02-02-2009
+Rens Bygade 28,Bylderup-Bov,6372,4,70,1820,50000.0,26-01-2009
+Pebersmarkvej 48,Bylderup-Bov,6372,6,197,1921,950000.0,25-01-2009
+Åbovej 22,Bylderup-Bov,6372,4,141,1967,580000.0,19-01-2009
+Rens Kronfenne 1,Bylderup-Bov,6372,7,140,1900,280000.0,23-12-2008
+Margretetoft 2B,Bylderup-Bov,6372,3,88,1987,420000.0,01-12-2008
+Stemmildvej 2,Bylderup-Bov,6372,7,300,1903,2197716.0,28-11-2008
+Nystadvej 1B,Bylderup-Bov,6372,3,83,1986,375000.0,13-11-2008
+Pebersmarkvej 26,Bylderup-Bov,6372,3,82,1951,300000.0,11-11-2008
+Burkal Skolevej 8,Bylderup-Bov,6372,3,72,1962,400000.0,14-10-2008
+Bredevadvej 5,Bylderup-Bov,6372,10,357,1932,80000.0,13-10-2008
+Burkal Skolevej 22,Bylderup-Bov,6372,11,235,1912,612500.0,07-10-2008
+Hejselvej 22,Bylderup-Bov,6372,5,195,1959,950000.0,30-09-2008
+Fogderupvej 28,Bylderup-Bov,6372,4,150,1877,800000.0,25-09-2008
+Ravsted Hovedgade 79B,Bylderup-Bov,6372,4,130,1979,900000.0,01-09-2008
+Saksborgvej 44,Bylderup-Bov,6372,5,168,1934,775000.0,28-08-2008
+Surreroj 29,Bylderup-Bov,6372,4,113,1977,493505.0,22-08-2008
+Åbovej 2,Bylderup-Bov,6372,2,86,1959,650000.0,18-08-2008
+Ravsted Storegade 15,Bylderup-Bov,6372,3,126,1973,610000.0,15-08-2008
+Slogsgaden 23,Bylderup-Bov,6372,5,127,1951,400000.0,07-08-2008
+Rens Bygade 32,Bylderup-Bov,6372,6,153,1937,575000.0,17-07-2008
+Korupvej 10,Bylderup-Bov,6372,7,201,1930,300260.0,16-07-2008
+Ravsted Hovedgade 29,Bylderup-Bov,6372,5,160,1948,595000.0,02-07-2008
+Lille Knivsigvej 25,Bylderup-Bov,6372,7,212,1925,1300000.0,26-06-2008
+Åløkke 3,Bylderup-Bov,6372,6,170,1974,945000.0,26-06-2008
+Ravsted Storegade 1,Bylderup-Bov,6372,10,203,1950,900000.0,10-06-2008
+Fogderupvej 8,Bylderup-Bov,6372,6,151,1956,2800000.0,04-06-2008
+Lendemark 17,Bylderup-Bov,6372,6,148,1963,569500.0,02-06-2008
+Højvangvej 9,Bylderup-Bov,6372,3,174,1984,695000.0,02-06-2008
+Pebersmarkvej 36,Bylderup-Bov,6372,4,105,1965,575000.0,02-06-2008
+Burkal Kirkevej 46,Bylderup-Bov,6372,5,73,1940,450000.0,29-05-2008
+Ravsted Hovedgade 75,Bylderup-Bov,6372,9,297,1931,625000.0,06-05-2008
+Åglimt 22,Bylderup-Bov,6372,4,124,1969,600000.0,06-05-2008
+Rens Kronfenne 2,Bylderup-Bov,6372,5,171,1914,716148.0,30-04-2008
+Bylderup-Bov Bygade 22,Bylderup-Bov,6372,8,222,1928,418161.0,25-04-2008
+Åløkke 12,Bylderup-Bov,6372,6,177,1974,975000.0,16-04-2008
+Rens Nørredam 13,Bylderup-Bov,6372,2,75,1820,200000.0,11-04-2008
+Slogsherredsvej 94,Bylderup-Bov,6372,8,255,1920,1663000.0,08-04-2008
+Bovvej 2,Bylderup-Bov,6372,8,198,1928,2250000.0,08-04-2008
+Rens Sønderåvej 7,Bylderup-Bov,6372,4,129,1979,675000.0,04-04-2008
+Højvangvej 15,Bylderup-Bov,6372,7,206,1921,1200000.0,31-03-2008
+Åløkke 4A,Bylderup-Bov,6372,3,74,1978,440000.0,28-03-2008
+Garverland 8,Bylderup-Bov,6372,7,174,1976,1500000.0,25-03-2008
+Korupmarkvej 1,Bylderup-Bov,6372,2,94,1860,400000.0,25-03-2008
+Rugtoft 5,Bylderup-Bov,6372,5,124,1985,700000.0,14-03-2008
+Fogderup Vestermark 3,Bylderup-Bov,6372,4,110,1827,1990000.0,11-03-2008
+Burkal Kirkevej 40,Bylderup-Bov,6372,5,143,1968,537500.0,10-03-2008
+Lundvej 20,Bylderup-Bov,6372,3,134,1915,750000.0,09-03-2008
+Nystadvej 12,Bylderup-Bov,6372,4,96,1930,280500.0,07-03-2008
+Rens Øvej 2,Bylderup-Bov,6372,3,92,1952,450000.0,24-02-2008
+Ravsted Skolegade 41,Bylderup-Bov,6372,3,92,1992,612000.0,30-01-2008
+Ravsted Hovedgade 25,Bylderup-Bov,6372,4,143,1974,650000.0,24-01-2008
+Slogsgaden 19,Bylderup-Bov,6372,4,101,1927,895000.0,23-01-2008
+Åløkke 32,Bylderup-Bov,6372,4,122,1976,550000.0,09-01-2008
+Skovhusvej 10,Bylderup-Bov,6372,6,220,1958,1475000.0,04-01-2008
+Burkal Kirkevej 4,Bylderup-Bov,6372,7,154,1966,77300.0,21-12-2007
+Nystadvej 3,Bylderup-Bov,6372,7,198,1989,1355000.0,16-12-2007
+Engvej 32,Bylderup-Bov,6372,7,190,1933,950000.0,06-12-2007
+Dravvej 22,Bylderup-Bov,6372,8,226,1928,666000.0,06-12-2007
+Burkal Skolevej 1A,Bylderup-Bov,6372,5,142,2008,52173.0,03-12-2007
+Korupmarkvej 10,Bylderup-Bov,6372,6,229,2007,1211000.0,28-11-2007
+Gammel Sottrupvej 14,Bylderup-Bov,6372,3,72,1960,485000.0,24-11-2007
+Fogderup Mellemvej 2,Bylderup-Bov,6372,3,93,1960,755000.0,20-11-2007
+Ravsted Hovedgade 65,Bylderup-Bov,6372,4,100,1880,400000.0,05-11-2007
+Nystadvej 18,Bylderup-Bov,6372,3,150,1985,895000.0,01-11-2007
+Burkal Skolevej 1B,Bylderup-Bov,6372,7,227,1922,1250000.0,23-10-2007
+Spaniensvej 35,Bylderup-Bov,6372,4,123,1850,660000.0,23-10-2007
+Ravsted Skolegade 57,Bylderup-Bov,6372,6,161,2009,63000.0,15-10-2007
+Burkal Skolevej 28,Bylderup-Bov,6372,4,105,1955,400000.0,02-10-2007
+Ravsted Hovedgade 63,Bylderup-Bov,6372,3,111,1950,380000.0,27-09-2007
+Surreroj 8,Bylderup-Bov,6372,5,140,1975,625000.0,27-09-2007
+Bredevadvej 15,Bylderup-Bov,6372,6,177,1920,995000.0,19-09-2007
+Spaniensvej 39,Bylderup-Bov,6372,4,123,1881,695000.0,17-09-2007
+Havstedvej 29,Bylderup-Bov,6372,7,241,1930,17000000.0,14-09-2007
+Åløkke 17,Bylderup-Bov,6372,4,140,1975,850000.0,01-09-2007
+Lundvej 8,Bylderup-Bov,6372,4,135,1978,475000.0,23-08-2007
+Bylderup Kirkevej 2,Bylderup-Bov,6372,4,133,1900,1800000.0,22-08-2007
+Surreroj 67,Bylderup-Bov,6372,4,117,1977,760000.0,14-08-2007
+Burkal Kirkevej 60,Bylderup-Bov,6372,4,160,1910,995000.0,08-08-2007
+Åløkke 2A,Bylderup-Bov,6372,3,74,1978,400000.0,07-08-2007
+Vidjevej 4,Bylderup-Bov,6372,4,210,1872,650000.0,25-07-2007
+Flensborgvej 12,Bylderup-Bov,6372,4,120,1985,700000.0,18-07-2007
+Rens Bygade 15B,Bylderup-Bov,6372,5,141,1962,500000.0,12-07-2007
+Kulkærvej 8,Bylderup-Bov,6372,5,169,1875,6000000.0,11-07-2007
+Rens Nørredam 8,Bylderup-Bov,6372,3,98,1867,380000.0,05-07-2007
+Korupmarkvej 8,Bylderup-Bov,6372,7,171,1977,755000.0,25-06-2007
+Hyndingholmvej 12,Bylderup-Bov,6372,3,100,1953,550000.0,24-06-2007
+Flensborgvej 5,Bylderup-Bov,6372,4,130,1952,575000.0,14-06-2007
+Biblioteksstrædet 3,Bylderup-Bov,6372,4,112,1963,950000.0,08-06-2007
+Bov Tværvej 21,Bylderup-Bov,6372,7,242,1870,835000.0,07-06-2007
+Ravsted Nørregade 14,Bylderup-Bov,6372,3,94,1965,525000.0,04-06-2007
+Åløkke 92,Bylderup-Bov,6372,6,168,2008,61863.0,29-05-2007
+Noldevej 36,Bylderup-Bov,6372,10,310,1951,1200000.0,25-05-2007
+Åløkke 7,Bylderup-Bov,6372,6,178,1973,900000.0,14-05-2007
+Burkal Skolevej 7,Bylderup-Bov,6372,4,130,1952,515000.0,26-04-2007
+Fogderup Østermark 19,Bylderup-Bov,6372,5,124,1922,825000.0,26-04-2007
+Lendemark 27,Bylderup-Bov,6372,4,126,1960,450000.0,25-04-2007
+Bredevad Byvej 13,Bylderup-Bov,6372,3,161,1920,325000.0,23-04-2007
+Pebersmarkvej 56,Bylderup-Bov,6372,3,75,1966,375000.0,17-04-2007
+Åbovej 21,Bylderup-Bov,6372,4,108,1962,700000.0,30-03-2007
+Ravsted Hovedgade 79A,Bylderup-Bov,6372,5,145,1963,520000.0,22-03-2007
+Rens Voldgade 8,Bylderup-Bov,6372,4,110,1979,407466.0,22-03-2007
+Gravløkke 63,Bylderup-Bov,6372,5,172,1980,760000.0,21-03-2007
+Åløkke 96,Bylderup-Bov,6372,6,197,2007,55182.0,13-03-2007
+Åglimt 7,Bylderup-Bov,6372,4,124,1973,700000.0,08-03-2007
+Åløkke 98,Bylderup-Bov,6372,5,178,2005,1620000.0,02-03-2007
+Ravsted Skolegade 19,Bylderup-Bov,6372,5,130,1976,775000.0,19-02-2007
+Korupmarkvej 20,Bylderup-Bov,6372,5,218,1935,450000.0,19-02-2007
+Ravsted Skolegade 49,Bylderup-Bov,6372,3,93,1980,350000.0,14-02-2007
+Åbølvej 10,Bylderup-Bov,6372,4,183,1896,7470000.0,12-02-2007
+Åglimt 3,Bylderup-Bov,6372,5,110,1963,620000.0,09-02-2007
+Kværnholtvej 15,Bylderup-Bov,6372,8,201,1975,5488000.0,03-02-2007
+Lendemark 13,Bylderup-Bov,6372,4,110,1952,515000.0,19-01-2007
+Surreroj 93,Bylderup-Bov,6372,5,170,1976,1150000.0,20-12-2006
+Lendemark 72,Bylderup-Bov,6372,5,183,2008,150000.0,19-12-2006
+Stenskær 10,Bylderup-Bov,6372,3,160,1970,735000.0,11-12-2006
+Havstedvej 53,Bylderup-Bov,6372,7,178,1890,450000.0,15-11-2006
+Slogsgaden 10,Bylderup-Bov,6372,7,319,1910,550000.0,09-11-2006
+Pebersmarkvej 3,Bylderup-Bov,6372,5,105,1920,875000.0,31-10-2006
+Slogsgaden 26,Bylderup-Bov,6372,3,132,1974,520000.0,17-10-2006
+Smedeland 3,Bylderup-Bov,6372,8,296,2000,2750000.0,12-10-2006
+Nystadvej 1A,Bylderup-Bov,6372,3,83,1986,375000.0,12-10-2006
+Bylderup-Bov Bygade 11,Bylderup-Bov,6372,5,147,1931,175000.0,10-10-2006
+Slogsherredsvej 16,Bylderup-Bov,6372,6,202,1910,825000.0,01-10-2006
+Stenskær 5,Bylderup-Bov,6372,4,149,1969,750000.0,27-09-2006
+Grænsevejen 131,Bylderup-Bov,6372,5,137,1975,10552600.0,22-09-2006
+Kulkærvej 10,Bylderup-Bov,6372,4,105,1775,1343526.0,15-09-2006
+Åløkke 16,Bylderup-Bov,6372,6,173,1973,800000.0,15-09-2006
+Bov Tværvej 27,Bylderup-Bov,6372,4,96,1827,465000.0,12-09-2006
+Broløkkevej 1,Bylderup-Bov,6372,6,219,1872,995000.0,03-09-2006
+Ravsted Skolegade 9,Bylderup-Bov,6372,2,84,1954,285000.0,31-08-2006
+Havstedvej 58,Bylderup-Bov,6372,4,120,1930,350000.0,29-08-2006
+Åløkke 11,Bylderup-Bov,6372,7,211,1982,985000.0,28-08-2006
+Ravsted Skolegade 8,Bylderup-Bov,6372,10,275,1820,1450000.0,27-08-2006
+Slogsgaden 22A,Bylderup-Bov,6372,4,165,1967,625000.0,24-08-2006
+Ravsted Nørregade 1,Bylderup-Bov,6372,5,84,1938,380000.0,17-08-2006
+Åbovej 16,Bylderup-Bov,6372,3,99,1964,530000.0,17-08-2006
+Åløkke 29,Bylderup-Bov,6372,3,147,1976,665000.0,13-08-2006
+Bakkehøjvej 5,Bylderup-Bov,6372,4,128,1959,511633.0,10-08-2006
+Havstedvej 55,Bylderup-Bov,6372,4,104,1900,295000.0,08-08-2006
+Noldevej 37,Bylderup-Bov,6372,5,242,1957,1300000.0,01-08-2006
+Fogderup Nørremark 4,Bylderup-Bov,6372,5,128,1929,340000.0,31-07-2006
+Ravsted Storegade 47,Bylderup-Bov,6372,7,248,1924,875000.0,28-07-2006
+Bylderup-Bov Bygade 12,Bylderup-Bov,6372,6,162,1907,675000.0,14-07-2006
+Havstedvej 4A,Bylderup-Bov,6372,5,154,1977,625000.0,28-06-2006
+Åløkke 56,Bylderup-Bov,6372,4,149,1986,825000.0,07-06-2006
+Lundvej 7,Bylderup-Bov,6372,7,198,1911,250000.0,02-06-2006
+Bov Tværvej 9,Bylderup-Bov,6372,4,103,1958,455000.0,02-06-2006
+Bov Tværvej 17,Bylderup-Bov,6372,5,117,2001,350000.0,02-06-2006
+Åbovej 9,Bylderup-Bov,6372,3,92,1963,650000.0,26-05-2006
+Slogsherredsvej 90,Bylderup-Bov,6372,3,89,1926,525000.0,26-05-2006
+Egebjergvej 22,Bylderup-Bov,6372,3,203,1887,600000.0,23-05-2006
+Åglimt 12,Bylderup-Bov,6372,3,110,1966,735000.0,11-05-2006
+Slogsherredsvej 62,Bylderup-Bov,6372,4,128,1983,700000.0,08-05-2006
+Smedegade 4,Bylderup-Bov,6372,7,201,1875,745000.0,01-05-2006
+Gravløkke 53,Bylderup-Bov,6372,7,202,1978,810000.0,29-04-2006
+Slogsherredsvej 55,Bylderup-Bov,6372,8,204,1949,900000.0,25-04-2006
+Nørrekurv 5,Bylderup-Bov,6372,2,70,1897,105000.0,05-04-2006
+Hejselvej 4,Bylderup-Bov,6372,4,146,1925,550000.0,29-03-2006
+Hejselvej 11,Bylderup-Bov,6372,5,142,1925,795000.0,28-03-2006
+Havstedvej 12,Bylderup-Bov,6372,4,100,1905,385000.0,27-03-2006
+Bylderup-Bov Bygade 27,Bylderup-Bov,6372,4,96,1950,320000.0,13-03-2006
+Ravsted Hovedgade 27,Bylderup-Bov,6372,3,80,1890,125000.0,10-03-2006
+Bylderup-Bov Bygade 35A,Bylderup-Bov,6372,6,168,1987,1065000.0,07-03-2006
+Bredevad Byvej 1,Bylderup-Bov,6372,4,122,1885,335000.0,06-03-2006
+Ravsted Nørregade 27,Bylderup-Bov,6372,4,145,1973,325000.0,21-02-2006
+Tranekærvej 4E,Bylderup-Bov,6372,3,77,1981,300000.0,06-02-2006
+Tranekærvej 4D,Bylderup-Bov,6372,3,79,1981,300000.0,06-02-2006
+Engvej 30,Bylderup-Bov,6372,3,80,1940,705000.0,20-01-2006
+Åløkke 46,Bylderup-Bov,6372,5,165,1974,595000.0,18-01-2006
+Åbølvej 9,Bylderup-Bov,6372,3,171,1955,145130.0,15-01-2006
+Pebersmarkvej 16,Bylderup-Bov,6372,3,100,1932,295000.0,14-01-2006
+Hyndingdamvej 12,Bylderup-Bov,6372,4,244,1855,7052500.0,06-01-2006
+Sottrup By 17,Bylderup-Bov,6372,8,241,1930,3357500.0,06-01-2006
+Lendemark 21,Bylderup-Bov,6372,5,140,1912,505000.0,05-01-2006
+Stenskær 11,Bylderup-Bov,6372,7,246,1973,895000.0,02-01-2006
+Burkal Kirkevej 3,Bylderup-Bov,6372,5,94,1945,360000.0,30-12-2005
+Bylderup-Bov Bygade 26,Bylderup-Bov,6372,5,169,1935,390000.0,28-12-2005
+Fogderup Bygade 17,Bylderup-Bov,6372,8,231,1962,956131.0,16-12-2005
+Engvej 24,Bylderup-Bov,6372,4,171,1937,430000.0,13-12-2005
+Hejselvej 24,Bylderup-Bov,6372,9,271,1908,775000.0,10-12-2005
+Åglimt 16,Bylderup-Bov,6372,6,200,1971,1025000.0,30-11-2005
+Ravsted Storegade 11,Bylderup-Bov,6372,6,155,1942,485000.0,20-11-2005
+Bylderup-Bov Bygade 38,Bylderup-Bov,6372,3,56,1963,550000.0,18-11-2005
+Ravsted Hovedgade 50,Bylderup-Bov,6372,5,161,1914,975000.0,11-11-2005
+Saksborgvej 47,Bylderup-Bov,6372,4,151,1890,300000.0,19-10-2005
+Hejsel Vestvej 1,Bylderup-Bov,6372,7,140,1926,655000.0,16-10-2005
+Åbølvej 15,Bylderup-Bov,6372,5,156,1940,750000.0,11-10-2005
+Åbølvej 6,Bylderup-Bov,6372,6,287,1896,490000.0,19-09-2005
+Burkal Kirkevej 42,Bylderup-Bov,6372,6,143,1924,310000.0,14-09-2005
+Pebersmarkvej 46,Bylderup-Bov,6372,5,160,1923,471813.0,10-09-2005
+Lendemark 94,Bylderup-Bov,6372,7,223,2007,100000.0,24-08-2005
+Noldevej 18,Bylderup-Bov,6372,6,163,1900,560000.0,24-08-2005
+Sottrupvej 25,Bylderup-Bov,6372,5,160,1957,825000.0,23-08-2005
+Bylderup-Bov Bygade 19,Bylderup-Bov,6372,7,191,1932,810000.0,17-08-2005
+Ravsted Hovedgade 2,Bylderup-Bov,6372,6,188,1880,6439000.0,15-08-2005
+Ravsted Hovedgade 35,Bylderup-Bov,6372,3,92,1955,450000.0,05-08-2005
+Gravløkke 85,Bylderup-Bov,6372,4,125,2006,35001.0,01-08-2005
+Slogsåvej 8,Bylderup-Bov,6372,4,219,1982,670000.0,26-07-2005
+Åglimt 10,Bylderup-Bov,6372,4,110,1966,500000.0,06-07-2005
+Bredevadvej 13,Bylderup-Bov,6372,6,147,1925,430000.0,01-07-2005
+Slogsherredsvej 6,Bylderup-Bov,6372,4,157,1965,600000.0,17-05-2005
+Korupvej 3,Bylderup-Bov,6372,9,254,1866,850000.0,11-05-2005
+Rens Bygade 43,Bylderup-Bov,6372,5,149,1997,1195000.0,09-04-2005
+Fogderupvej 12,Bylderup-Bov,6372,6,157,1951,1080000.0,29-03-2005
+Bylderup-Bov Bygade 31,Bylderup-Bov,6372,6,212,1938,620000.0,11-03-2005
+Kværnholtvej 9,Bylderup-Bov,6372,6,190,1880,1425000.0,04-03-2005
+Gravløkke 57,Bylderup-Bov,6372,4,193,2005,35500.0,01-03-2005
+Egebjergvej 14,Bylderup-Bov,6372,7,245,1900,1325000.0,31-01-2005
+Korupvej 15,Bylderup-Bov,6372,4,146,1861,100000.0,28-01-2005
+Margretetoft 7,Bylderup-Bov,6372,4,138,1998,830000.0,27-01-2005
+Burkal Skolevej 40,Bylderup-Bov,6372,4,96,1953,520000.0,21-01-2005
+Stemmildvej 34,Bylderup-Bov,6372,3,84,1928,245000.0,10-01-2005
+Hejselvej 20,Bylderup-Bov,6372,7,180,1959,1100000.0,05-01-2005
+Surreroj 69,Bylderup-Bov,6372,7,190,1975,875000.0,02-01-2005
+Bylderup-Bov Bygade 14,Bylderup-Bov,6372,6,133,1912,260000.0,22-12-2004
+Ravsted Nørregade 25,Bylderup-Bov,6372,3,105,1965,350000.0,13-12-2004
+Fogderup Bygade 22,Bylderup-Bov,6372,5,173,1900,545000.0,13-12-2004
+Egebjergvej 40,Bylderup-Bov,6372,4,149,1900,220000.0,24-11-2004
+Fogderupvej 4,Bylderup-Bov,6372,7,189,1955,1041042.0,16-11-2004
+Slogsherredsvej 37,Bylderup-Bov,6372,7,151,1955,500000.0,04-11-2004
+Stemmildvej 11,Bylderup-Bov,6372,8,204,1890,668452.0,21-10-2004
+Nørrekurv 7A,Bylderup-Bov,6372,3,95,1900,195000.0,19-10-2004
+Lille Knivsigvej 12,Bylderup-Bov,6372,7,156,1880,450000.0,14-10-2004
+Bylderup Kirkevej 14,Bylderup-Bov,6372,6,148,1907,500000.0,01-10-2004
+Slogsgaden 3,Bylderup-Bov,6372,8,216,1923,140000.0,30-09-2004
+Tranekærvej 5,Bylderup-Bov,6372,5,139,1953,460000.0,17-08-2004
+Ravsted Hovedgade 85,Bylderup-Bov,6372,5,171,1957,440000.0,12-08-2004
+Burkal Kirkevej 80,Bylderup-Bov,6372,4,141,1973,1000000.0,11-08-2004
+Ravsted Tværgade 6,Bylderup-Bov,6372,6,291,1775,630000.0,09-07-2004
+Gravløkke 91,Bylderup-Bov,6372,4,249,1979,828000.0,03-07-2004
+Slogsgaden 6,Bylderup-Bov,6372,7,128,1920,369000.0,30-06-2004
+Slogsherredsvej 23,Bylderup-Bov,6372,4,109,1967,495000.0,22-06-2004
+Bylderup-Bov Bygade 13,Bylderup-Bov,6372,5,120,1932,400000.0,22-06-2004
+Hejselvej 13,Bylderup-Bov,6372,6,129,1925,437628.0,08-06-2004
+Stemmildvej 16,Bylderup-Bov,6372,13,230,1912,7537073.0,08-05-2004
+Burkal Kirkevej 9,Bylderup-Bov,6372,3,116,1972,400000.0,26-04-2004
+Bredevadvej 34,Bylderup-Bov,6372,3,86,1966,270000.0,15-04-2004
+Stenskær 8,Bylderup-Bov,6372,4,146,1973,600000.0,06-04-2004
+Ravsted Hovedgade 87,Bylderup-Bov,6372,6,168,1954,500000.0,05-04-2004
+Surreroj 17,Bylderup-Bov,6372,5,163,1978,855000.0,04-04-2004
+Burkal Skolevej 32,Bylderup-Bov,6372,7,292,1961,1100000.0,24-03-2004
+Stenskær 4,Bylderup-Bov,6372,4,123,1974,635000.0,23-03-2004
+Ravsted Hovedgade 16,Bylderup-Bov,6372,4,196,1969,520000.0,05-03-2004
+Surreroj 25,Bylderup-Bov,6372,6,149,1977,790000.0,03-03-2004
+Rens Bygade 18,Bylderup-Bov,6372,6,196,1947,494000.0,28-02-2004
+Åløkke 82,Bylderup-Bov,6372,4,132,1975,510000.0,27-02-2004
+Rens Nørredam 2,Bylderup-Bov,6372,4,130,1775,345322.0,17-02-2004
+Åløkke 80,Bylderup-Bov,6372,5,144,1977,575000.0,16-02-2004
+Bredevadvej 32,Bylderup-Bov,6372,9,321,1898,3050000.0,06-02-2004
+Åbølvej 5,Bylderup-Bov,6372,3,84,1877,360000.0,03-02-2004
+Lundvej 25,Bylderup-Bov,6372,5,144,1922,320000.0,01-02-2004
+Bov Tværvej 3,Bylderup-Bov,6372,4,131,1927,585000.0,09-01-2004
+Engvej 16,Bylderup-Bov,6372,3,90,1958,360000.0,31-12-2003
+Ravsted Hovedgade 55,Bylderup-Bov,6372,6,139,1958,1450000.0,22-12-2003
+Flydsholmvej 3,Bylderup-Bov,6372,10,341,1933,625125.0,12-12-2003
+Nystadvej 33,Bylderup-Bov,6372,8,223,1858,1309601.0,05-12-2003
+Ravsted Storegade 37,Bylderup-Bov,6372,7,286,1902,415000.0,14-11-2003
+Hyndingholmvej 11,Bylderup-Bov,6372,6,128,1878,522000.0,12-11-2003
+Ravsted Hovedgade 81,Bylderup-Bov,6372,6,157,1964,567626.0,04-11-2003
+Slogsherredsvej 22,Bylderup-Bov,6372,6,200,1955,550000.0,29-10-2003
+Hyndingvej 7,Bylderup-Bov,6372,4,131,1750,462000.0,24-10-2003
+Ravsted Storegade 45,Bylderup-Bov,6372,4,78,1943,426842.0,24-10-2003
+Bredevadvej 37,Bylderup-Bov,6372,6,160,1928,1040000.0,30-09-2003
+Ravsted Skolegade 12,Bylderup-Bov,6372,8,156,1948,265000.0,30-09-2003
+Engvej 18,Bylderup-Bov,6372,4,100,1958,231744.0,29-09-2003
+Rens Voldgade 5,Bylderup-Bov,6372,5,188,1980,815000.0,16-09-2003
+Rugtoft 3,Bylderup-Bov,6372,5,142,1980,570000.0,03-09-2003
+Ravsted Hovedgade 36,Bylderup-Bov,6372,4,108,1974,475000.0,19-08-2003
+Hyndingholmvej 14,Bylderup-Bov,6372,5,127,1930,844000.0,19-08-2003
+Burkal Kirkevej 64,Bylderup-Bov,6372,6,249,1932,1600000.0,13-08-2003
+Nystadvej 23,Bylderup-Bov,6372,12,293,1827,895000.0,12-08-2003
+Grænsevejen 115,Bylderup-Bov,6372,3,93,1968,375000.0,23-07-2003
+Slogsgaden 27,Bylderup-Bov,6372,6,124,1928,555000.0,27-06-2003
+Korupvej 23,Bylderup-Bov,6372,3,80,1966,260000.0,04-06-2003
+Bovvej 3,Bylderup-Bov,6372,2,70,1922,188041.0,04-06-2003
+Mørkær 2,Bylderup-Bov,6372,4,120,1973,400000.0,15-04-2003
+Rens Bygade 1,Bylderup-Bov,6372,5,156,1977,975000.0,14-04-2003
+Rens Sønderåvej 18,Bylderup-Bov,6372,4,119,1976,500000.0,07-04-2003
+Rens Nørredam 9,Bylderup-Bov,6372,8,157,1860,300000.0,03-04-2003
+Sottrupvej 4,Bylderup-Bov,6372,4,121,1963,697175.0,19-03-2003
+Bylderup-Bov Bygade 21A,Bylderup-Bov,6372,7,130,1935,450000.0,10-03-2003
+Højvangvej 7,Bylderup-Bov,6372,4,186,1942,499000.0,06-03-2003
+Surreroj 79,Bylderup-Bov,6372,6,167,1978,885000.0,24-02-2003
+Ravsted Hovedgade 12,Bylderup-Bov,6372,4,131,1935,97750.0,23-02-2003
+Rens Sønderåvej 10,Bylderup-Bov,6372,8,218,1936,425000.0,11-02-2003
+Rens Sønderåvej 14,Bylderup-Bov,6372,12,174,1910,40000.0,05-02-2003
+Rens Sønderåvej 12,Bylderup-Bov,6372,7,110,1875,40000.0,05-02-2003
+Lendemark 50,Bylderup-Bov,6372,5,147,1870,250000.0,16-01-2003
+Åløkke 28C,Bylderup-Bov,6372,3,80,1974,324324.0,13-12-2002
+Åløkke 23A,Bylderup-Bov,6372,3,72,1988,499770.0,13-12-2002
+Åløkke 36C,Bylderup-Bov,6372,3,80,1974,333333.0,13-12-2002
+Åløkke 44A,Bylderup-Bov,6372,3,80,1974,297297.0,13-12-2002
+Ravsted Skolegade 25,Bylderup-Bov,6372,4,165,1978,620000.0,05-12-2002
+Stenskær 14,Bylderup-Bov,6372,4,177,1971,805000.0,29-11-2002
+Sottrupvej 1,Bylderup-Bov,6372,4,109,1960,260000.0,12-11-2002
+Bov Tværvej 15,Bylderup-Bov,6372,4,110,1827,600000.0,08-11-2002
+Slogsåvej 15,Bylderup-Bov,6372,4,170,1767,480000.0,23-10-2002
+Åløkke 1A,Bylderup-Bov,6372,3,97,1989,565000.0,21-10-2002
+Surreroj 14,Bylderup-Bov,6372,5,154,1975,628152.0,27-09-2002
+Surreroj 61,Bylderup-Bov,6372,4,128,1977,676836.0,27-09-2002
+Lendemark 63,Bylderup-Bov,6372,8,243,1880,125000.0,30-08-2002
+Slogsherredsvej 85,Bylderup-Bov,6372,4,164,1972,620000.0,09-08-2002
+Ravsted Svinget 5,Bylderup-Bov,6372,3,112,1807,270000.0,06-08-2002
+Bov Tværvej 35,Bylderup-Bov,6372,9,318,1981,2500000.0,03-07-2002
+Flensborgvej 10,Bylderup-Bov,6372,3,160,1950,350000.0,19-06-2002
+Ravsted Mølletoft 9D,Bylderup-Bov,6372,3,68,1980,305000.0,19-06-2002
+Slogsherredsvej 17,Bylderup-Bov,6372,3,100,1880,285000.0,14-06-2002
+Korupmarkvej 4,Bylderup-Bov,6372,2,95,1900,270000.0,13-06-2002
+Nystadvej 17,Bylderup-Bov,6372,4,122,1907,250000.0,04-06-2002
+Pebersmarkvej 38,Bylderup-Bov,6372,4,142,1967,500000.0,13-05-2002
+Gravløkke 89,Bylderup-Bov,6372,6,185,1988,933000.0,06-05-2002
+Ravsted Storegade 21,Bylderup-Bov,6372,7,243,1875,207169.0,01-05-2002
+Åløkke 48,Bylderup-Bov,6372,6,174,1996,1265000.0,01-05-2002
+Korupmarkvej 25,Bylderup-Bov,6372,6,131,1999,1060000.0,24-04-2002
+Bovvej 15,Bylderup-Bov,6372,3,98,1955,380416.0,20-04-2002
+Dortheagårdsvej 3,Bylderup-Bov,6372,4,110,1935,8350000.0,27-03-2002
+Korupvej 30,Bylderup-Bov,6372,7,336,1780,745000.0,19-03-2002
+Kværnholtvej 18,Bylderup-Bov,6372,5,168,1922,715000.0,15-03-2002
+Kværnholtvej 24,Bylderup-Bov,6372,7,222,2014,750000.0,14-03-2002
+Bylderup Kirkevej 9,Bylderup-Bov,6372,5,118,1800,245000.0,15-02-2002
+Ravsted Hovedgade 47,Bylderup-Bov,6372,6,171,1983,2093000.0,25-01-2002
+Engvej 1,Bylderup-Bov,6372,5,110,1951,330000.0,24-01-2002
+Sottrup By 14,Bylderup-Bov,6372,6,162,1880,408478.0,24-01-2002
+Saksborgvej 57,Bylderup-Bov,6372,5,120,1989,700000.0,08-01-2002
+Åløkke 27,Bylderup-Bov,6372,5,128,1977,151000.0,31-12-2001
+Bylderup Kirkevej 3,Bylderup-Bov,6372,4,165,1982,800000.0,06-12-2001
+Banevej 5,Bylderup-Bov,6372,6,153,1970,260000.0,05-12-2001
+Stemmildvej 33,Bylderup-Bov,6372,4,130,1959,580000.0,24-11-2001
+Surreroj 87,Bylderup-Bov,6372,4,130,1977,710000.0,20-11-2001
+Pebersmarkvej 20,Bylderup-Bov,6372,4,134,1929,381429.0,11-10-2001
+Saksborgvej 43,Bylderup-Bov,6372,4,112,1961,883696.0,10-10-2001
+Pebersmarkvej 14,Bylderup-Bov,6372,5,161,1978,800000.0,08-10-2001
+Bylderup Kirkevej 15,Bylderup-Bov,6372,4,94,1962,400000.0,03-10-2001
+Surreroj 11,Bylderup-Bov,6372,5,151,1977,312500.0,28-09-2001
+Stenagervej 4,Bylderup-Bov,6372,3,118,1868,177593.0,24-09-2001
+Slogsherredsvej 14,Bylderup-Bov,6372,10,163,1890,310000.0,21-09-2001
+Lundvej 30,Bylderup-Bov,6372,4,150,1930,550000.0,13-09-2001
+Lendemark 34,Bylderup-Bov,6372,8,130,1850,345000.0,06-09-2001
+Pebersmarkvej 54,Bylderup-Bov,6372,4,121,1924,476025.0,04-09-2001
+Ravsted Hovedgade 82,Bylderup-Bov,6372,3,174,1977,700000.0,01-09-2001
+Lendemark 83,Bylderup-Bov,6372,6,157,1929,348000.0,31-08-2001
+Ravsted Hovedgade 97,Bylderup-Bov,6372,4,98,1963,380000.0,23-08-2001
+Lendemark 44A,Bylderup-Bov,6372,6,162,1906,675000.0,20-08-2001
+Egebjergvej 25,Bylderup-Bov,6372,5,218,1875,700000.0,08-08-2001
+Kobro 3,Bylderup-Bov,6372,6,229,1930,210921.0,04-07-2001
+Hvidhøjvej 2,Bylderup-Bov,6372,5,124,1960,325000.0,23-06-2001
+Bredevadvej 46,Bylderup-Bov,6372,5,116,1977,775000.0,14-06-2001
+Sottrupvej 2,Bylderup-Bov,6372,3,112,1958,391000.0,14-06-2001
+Ravsted Skolegade 23,Bylderup-Bov,6372,4,126,1976,709000.0,26-05-2001
+Lundvej 5,Bylderup-Bov,6372,4,120,1870,131000.0,14-05-2001
+Ny Boskovvej 5,Bylderup-Bov,6372,6,182,1978,845000.0,26-04-2001
+Hovmosevej 3,Bylderup-Bov,6372,7,177,1994,3350000.0,23-04-2001
+Bov Tværvej 25,Bylderup-Bov,6372,3,75,1880,297000.0,20-02-2001
+Åbovej 4,Bylderup-Bov,6372,2,82,1965,480000.0,16-02-2001
+Fogderup Østermark 1,Bylderup-Bov,6372,5,264,1903,250000.0,02-01-2001
+Egebjergvej 29,Bylderup-Bov,6372,5,109,1969,250000.0,21-12-2000
+Rens Bygade 24,Bylderup-Bov,6372,4,102,1800,190000.0,10-12-2000
+Ravsted Ågade 7,Bylderup-Bov,6372,5,130,1870,977500.0,05-12-2000
+Burkal Skolevej 10,Bylderup-Bov,6372,4,120,1974,495000.0,01-12-2000
+Havstedvej 6,Bylderup-Bov,6372,3,126,1975,293250.0,06-11-2000
+Havstedvej 64,Bylderup-Bov,6372,8,253,1889,4063987.0,06-11-2000
+Slogsherredsvej 2,Bylderup-Bov,6372,7,171,1953,515000.0,30-10-2000
+Ravsted Hovedgade 31,Bylderup-Bov,6372,4,94,1954,355000.0,27-10-2000
+Ravsted Hovedgade 49,Bylderup-Bov,6372,6,220,1907,1430000.0,17-10-2000
+Ravsted Nørregade 12,Bylderup-Bov,6372,4,141,1986,720000.0,06-10-2000
+Tranekærvej 4F,Bylderup-Bov,6372,3,79,1981,296011.0,03-10-2000
+Nystadvej 1E,Bylderup-Bov,6372,3,83,1986,440000.0,02-10-2000
+Skovhusvej 5,Bylderup-Bov,6372,4,130,2000,645000.0,27-09-2000
+Rens Bygade 20,Bylderup-Bov,6372,3,200,1837,828000.0,22-08-2000
+Lendemark 5,Bylderup-Bov,6372,4,171,2001,700000.0,20-08-2000
+Gammel Sottrupvej 22,Bylderup-Bov,6372,3,100,1960,519169.0,18-08-2000
+Lundvej 1,Bylderup-Bov,6372,7,174,1799,157500.0,26-07-2000
+Lendemark 24,Bylderup-Bov,6372,4,124,1964,535000.0,25-07-2000
+Ravsted Hovedgade 54,Bylderup-Bov,6372,5,76,1942,255000.0,21-07-2000
+Nystadvej 6,Bylderup-Bov,6372,3,118,1880,140000.0,21-07-2000
+Banevej 3,Bylderup-Bov,6372,3,85,1930,70000.0,17-07-2000
+Ravsted Hovedgade 7,Bylderup-Bov,6372,5,215,1939,290000.0,02-07-2000
+Lendemark 47,Bylderup-Bov,6372,5,111,1950,410000.0,29-06-2000
+Saksborgvej 82,Bylderup-Bov,6372,6,131,1956,1060000.0,24-06-2000
+Sottrupvej 40,Bylderup-Bov,6372,6,123,1956,630445.0,22-06-2000
+Ravsted Storegade 3,Bylderup-Bov,6372,6,167,1947,545000.0,07-06-2000
+Højvangvej 11,Bylderup-Bov,6372,9,229,1913,545000.0,06-06-2000
+Åløkke 94,Bylderup-Bov,6372,4,143,2000,61659.0,15-05-2000
+Stormsgårdevej 61,Bylderup-Bov,6372,5,122,1827,550000.0,08-05-2000
+Korupvej 14,Bylderup-Bov,6372,8,223,2015,467640.0,02-05-2000
+Egebjergvej 31,Bylderup-Bov,6372,5,234,1780,175000.0,27-04-2000
+Rens Mellemgang 1,Bylderup-Bov,6372,4,107,1948,388239.0,25-04-2000
+Havstedvej 14,Bylderup-Bov,6372,4,165,1977,600000.0,01-04-2000
+Flensborgvej 1,Bylderup-Bov,6372,5,119,1947,297500.0,31-03-2000
+Surreroj 3,Bylderup-Bov,6372,3,92,1965,370000.0,01-03-2000
+Fogderup Bygade 18,Bylderup-Bov,6372,6,210,1870,340000.0,23-02-2000
+Korupvej 4,Bylderup-Bov,6372,7,264,1939,1084086.0,31-01-2000
+Mørkær 1,Bylderup-Bov,6372,4,130,1986,760000.0,27-01-2000
+Ravsted Storegade 30,Bylderup-Bov,6372,4,112,1964,350000.0,27-01-2000
+Løgumklostervej 86,Bylderup-Bov,6372,8,216,1958,540000.0,24-01-2000
+Ravsted Hovedgade 20,Bylderup-Bov,6372,5,108,1954,385000.0,19-01-2000
+Ravsted Tværgade 5,Bylderup-Bov,6372,3,108,1910,95000.0,10-01-2000
+Ravsted Mølletoft 9B,Bylderup-Bov,6372,3,68,1980,321667.0,06-01-2000
+Ravsted Mølletoft 9A,Bylderup-Bov,6372,3,68,1980,321666.0,06-01-2000
+Ravsted Mølletoft 9C,Bylderup-Bov,6372,3,68,1980,321667.0,06-01-2000
+Grænsevejen 120,Bylderup-Bov,6372,4,233,1937,590762.0,13-12-1999
+Rens Bygade 40,Bylderup-Bov,6372,7,207,1928,510000.0,24-11-1999
+Åbovej 27,Bylderup-Bov,6372,4,131,1964,470000.0,09-11-1999
+Ravsted Skolegade 17A,Bylderup-Bov,6372,3,88,1979,250000.0,25-10-1999
+Tranekærvej 6,Bylderup-Bov,6372,5,129,1950,50000.0,04-10-1999
+Nørrekurv 9,Bylderup-Bov,6372,3,93,1875,603000.0,11-09-1999
+Surreroj 4,Bylderup-Bov,6372,4,117,1967,560000.0,09-09-1999
+Ravsted Tværgade 3,Bylderup-Bov,6372,3,110,1883,250000.0,01-09-1999
+Løgumklostervej 107,Bylderup-Bov,6372,8,250,1929,700000.0,30-08-1999
+Slogsgaden 20,Bylderup-Bov,6372,4,112,1951,240000.0,23-08-1999
+Bredevadvej 38,Bylderup-Bov,6372,11,167,1928,769555.0,13-08-1999
+Ravsted Storegade 24,Bylderup-Bov,6372,7,208,1880,250000.0,13-08-1999
+Grænsevejen 118,Bylderup-Bov,6372,3,80,1954,257665.0,03-08-1999
+Åløkke 68,Bylderup-Bov,6372,6,161,1976,640000.0,29-07-1999
+Løgumklostervej 106,Bylderup-Bov,6372,7,191,1907,2200000.0,29-07-1999
+Bylderup Kirkevej 6,Bylderup-Bov,6372,12,280,1726,575000.0,14-07-1999
+Saksborgvej 58,Bylderup-Bov,6372,9,265,1913,7216381.0,12-07-1999
+Teglovnsvej 10,Bylderup-Bov,6372,3,100,1960,310000.0,28-06-1999
+Burkal Kirkevej 5,Bylderup-Bov,6372,3,116,1969,345000.0,01-06-1999
+Moseløkke 8,Bylderup-Bov,6372,6,190,1974,1021651.0,28-05-1999
+Ravsted Storegade 53,Bylderup-Bov,6372,7,170,1959,262000.0,18-05-1999
+Surreroj 85,Bylderup-Bov,6372,4,150,1973,774000.0,11-05-1999
+Lendemark 69,Bylderup-Bov,6372,5,146,1930,1933520.0,04-05-1999
+Korupmarkvej 2,Bylderup-Bov,6372,4,187,1979,498408.0,03-05-1999
+Burkal Kirkevej 44,Bylderup-Bov,6372,4,157,1775,325000.0,29-04-1999
+Grænsevejen 108,Bylderup-Bov,6372,4,148,1870,350000.0,23-04-1999
+Gammel Sottrupvej 24,Bylderup-Bov,6372,4,112,1957,350000.0,23-04-1999
+Ravsted Storegade 18,Bylderup-Bov,6372,5,248,1897,365513.0,13-04-1999
+Bovvej 14,Bylderup-Bov,6372,4,112,1880,219000.0,05-04-1999
+Ravsted Lillegade 1,Bylderup-Bov,6372,5,160,1958,229500.0,27-03-1999
+Rens Bygade 29,Bylderup-Bov,6372,5,130,1973,430000.0,19-03-1999
+Åglimt 11,Bylderup-Bov,6372,4,130,1969,560000.0,19-03-1999
+Åløkke 90,Bylderup-Bov,6372,6,173,1999,45000.0,12-03-1999
+Surreroj 43,Bylderup-Bov,6372,4,136,1976,560000.0,11-02-1999
+Pebersmarkvej 6,Bylderup-Bov,6372,5,150,1827,40000.0,07-02-1999
+Slogsherredsvej 95,Bylderup-Bov,6372,4,142,1927,500000.0,03-02-1999
+Ravsted Hovedgade 9,Bylderup-Bov,6372,9,252,1974,610000.0,15-01-1999
+Galgebrostene 5,Bylderup-Bov,6372,4,110,1850,133415.0,13-01-1999
+Bylderup Kirkevej 8,Bylderup-Bov,6372,4,114,1790,250000.0,23-12-1998
+Åglimt 9,Bylderup-Bov,6372,4,126,1971,515000.0,25-11-1998
+Nørregårdvej 1,Bylderup-Bov,6372,12,301,1800,300000.0,20-11-1998
+Grænsevejen 125,Bylderup-Bov,6372,4,139,1959,450000.0,12-11-1998
+Burkal Kirkevej 49,Bylderup-Bov,6372,6,222,1929,525000.0,10-11-1998
+Ravsted Storegade 7,Bylderup-Bov,6372,6,194,1937,306000.0,04-11-1998
+Løgumklostervej 59,Bylderup-Bov,6372,4,106,1966,258043.0,02-11-1998
+Lille Knivsigvej 11,Bylderup-Bov,6372,4,160,1890,1565000.0,22-10-1998
+Fogderupvej 15,Bylderup-Bov,6372,6,219,1931,924332.0,13-10-1998
+Grænsevejen 114,Bylderup-Bov,6372,3,68,1938,62000.0,12-10-1998
+Rens Bygade 27,Bylderup-Bov,6372,4,120,1984,251622.0,17-09-1998
+Korupvej 16,Bylderup-Bov,6372,4,175,1907,75000.0,09-09-1998
+Lendemark 26,Bylderup-Bov,6372,4,108,1965,510000.0,30-06-1998
+Bredevadvej 45,Bylderup-Bov,6372,4,120,1966,825000.0,29-06-1998
+Surreroj 33,Bylderup-Bov,6372,7,217,1988,1100000.0,19-06-1998
+Lendemark 49,Bylderup-Bov,6372,10,286,1877,30000.0,12-06-1998
+Burkal Skolevej 6,Bylderup-Bov,6372,8,250,1901,603000.0,10-06-1998
+Bredevad Byvej 9,Bylderup-Bov,6372,4,147,1780,68000.0,06-05-1998
+Flydsholmvej 7,Bylderup-Bov,6372,3,111,1942,572190.0,06-05-1998
+Lendemark 52,Bylderup-Bov,6372,3,127,1982,500000.0,14-04-1998
+Sottrup By 11,Bylderup-Bov,6372,2,70,1857,105000.0,03-04-1998
+Ravsted Lillegade 3,Bylderup-Bov,6372,3,114,1817,260000.0,31-03-1998
+Bylderup-Bov Bygade 32,Bylderup-Bov,6372,5,140,1936,555000.0,26-03-1998
+Margretetoft 10,Bylderup-Bov,6372,6,153,1998,35001.0,25-03-1998
+Spaniensvej 23,Bylderup-Bov,6372,4,127,1912,560000.0,19-03-1998
+Ravsted Mølletoft 3,Bylderup-Bov,6372,4,122,1998,65000.0,13-03-1998
+Lendemark 61,Bylderup-Bov,6372,4,95,1952,399000.0,23-02-1998
+Ravsted Storegade 19,Bylderup-Bov,6372,4,140,1998,100000.0,17-02-1998
+Ravsted Hovedgade 93,Bylderup-Bov,6372,4,144,1952,565000.0,05-02-1998
+Dortheagårdsvej 4,Bylderup-Bov,6372,4,140,1850,1894884.0,05-01-1998
+Sottrup By 8,Bylderup-Bov,6372,4,147,1951,343940.0,15-12-1997
+Banevej 1,Bylderup-Bov,6372,4,100,1965,218000.0,11-12-1997
+Hyndingdamvej 16,Bylderup-Bov,6372,3,104,1825,225000.0,08-12-1997
+Åbovej 32,Bylderup-Bov,6372,4,120,1972,473000.0,20-11-1997
+Saksborgvej 53,Bylderup-Bov,6372,5,147,1900,290000.0,10-11-1997
+Saksborgvej 89,Bylderup-Bov,6372,5,132,1977,530000.0,29-10-1997
+Dravvej 12,Bylderup-Bov,6372,3,105,1949,100000.0,13-10-1997
+Noldevej 6,Bylderup-Bov,6372,8,216,1936,606000.0,13-10-1997
+Sottrupvej 45,Bylderup-Bov,6372,7,199,1938,85000.0,13-10-1997
+Åglimt 18,Bylderup-Bov,6372,4,115,1967,475000.0,03-10-1997
+Saksborgvej 88,Bylderup-Bov,6372,6,118,1955,237500.0,29-09-1997
+Egebjergvej 23,Bylderup-Bov,6372,4,133,1962,671000.0,23-09-1997
+Burkal Skolevej 3,Bylderup-Bov,6372,5,196,1991,850000.0,27-08-1997
+Ravsted Hovedgade 95,Bylderup-Bov,6372,3,84,1929,425000.0,08-08-1997
+Spaniensvej 40,Bylderup-Bov,6372,6,132,1897,295000.0,04-08-1997
+Surreroj 73,Bylderup-Bov,6372,5,144,1978,420000.0,24-07-1997
+Lille Knivsigvej 16,Bylderup-Bov,6372,5,141,1938,1000000.0,22-07-1997
+Pebersmarkvej 27,Bylderup-Bov,6372,6,208,1912,2706904.0,22-07-1997
+Galgebrostene 2,Bylderup-Bov,6372,6,153,1923,2425000.0,22-07-1997
+Ravsted Skolegade 14,Bylderup-Bov,6372,4,110,1970,260000.0,04-07-1997
+Åløkke 35,Bylderup-Bov,6372,4,175,1977,785000.0,23-06-1997
+Åløkke 1B,Bylderup-Bov,6372,4,127,1967,575000.0,09-06-1997
+Ravsted Skolegade 17B,Bylderup-Bov,6372,3,76,1979,200000.0,02-06-1997
+Åbovej 7,Bylderup-Bov,6372,3,88,1961,341000.0,05-05-1997
+Bylderup Kirkevej 7,Bylderup-Bov,6372,6,203,1922,545000.0,05-05-1997
+Hovmosevej 9,Bylderup-Bov,6372,4,113,1965,500000.0,18-04-1997
+Rens Bygade 21B,Bylderup-Bov,6372,3,107,1982,337000.0,14-04-1997
+Ravsted Skolegade 6,Bylderup-Bov,6372,9,295,1690,431000.0,17-03-1997
+Grænsevejen 126,Bylderup-Bov,6372,4,149,1960,917295.0,13-02-1997
+Lendemark 28,Bylderup-Bov,6372,6,154,1933,227300.0,01-02-1997
+Løgumklostervej 57,Bylderup-Bov,6372,4,239,1930,1667300.0,17-01-1997
+Ravsted Nørregade 16,Bylderup-Bov,6372,7,209,1965,195000.0,13-01-1997
+Burkal Skolevej 2,Bylderup-Bov,6372,8,148,1926,306000.0,12-12-1996
+Surreroj 1,Bylderup-Bov,6372,6,180,1966,683000.0,11-12-1996
+Burkal Skolevej 26,Bylderup-Bov,6372,7,187,1930,1234456.0,09-12-1996
+Bylderup-Bov Bygade 9,Bylderup-Bov,6372,9,165,1938,380000.0,24-11-1996
+Korupmarkvej 24,Bylderup-Bov,6372,6,257,1927,564200.0,06-11-1996
+Rens Bygade 14,Bylderup-Bov,6372,6,140,1870,350000.0,21-10-1996
+Burkal Skolevej 46A,Bylderup-Bov,6372,7,216,1943,625000.0,14-10-1996
+Bylderup-Bov Bygade 6,Bylderup-Bov,6372,8,206,1899,440000.0,23-09-1996
+Egebjergvej 10,Bylderup-Bov,6372,8,187,1960,2250000.0,21-08-1996
+Slogsgaden 31,Bylderup-Bov,6372,5,140,1935,188000.0,12-08-1996
+Slogsherredsvej 35,Bylderup-Bov,6372,5,120,1952,322636.0,12-08-1996
+Nystadvej 25,Bylderup-Bov,6372,11,360,1786,1199400.0,09-08-1996
+Ravsted Hovedgade 70,Bylderup-Bov,6372,5,159,1933,390000.0,04-08-1996
+Hvidhøjvej 4,Bylderup-Bov,6372,7,226,1901,750000.0,30-07-1996
+Ravsted Skolegade 71,Bylderup-Bov,6372,6,151,1980,635000.0,30-07-1996
+Smedegade 5,Bylderup-Bov,6372,3,96,1880,182500.0,25-07-1996
+Nystadvej 9,Bylderup-Bov,6372,7,191,1880,365000.0,12-07-1996
+Smedegade 1,Bylderup-Bov,6372,4,153,1811,354618.0,21-06-1996
+Saksborgvej 62,Bylderup-Bov,6372,11,239,1928,1125000.0,14-06-1996
+Ravsted Tværgade 4,Bylderup-Bov,6372,3,117,1969,400000.0,13-06-1996
+Surreroj 75,Bylderup-Bov,6372,4,117,1976,501000.0,13-06-1996
+Hyndingvej 11,Bylderup-Bov,6372,6,195,1956,1300000.0,22-05-1996
+Åløkke 52,Bylderup-Bov,6372,6,153,1996,36000.0,20-05-1996
+Margretetoft 12,Bylderup-Bov,6372,5,163,1996,35001.0,05-05-1996
+Åbovej 31,Bylderup-Bov,6372,3,95,1957,535000.0,26-04-1996
+Gravløkke 73,Bylderup-Bov,6372,5,164,1981,580000.0,25-04-1996
+Højvangvej 10,Bylderup-Bov,6372,6,172,1810,144115.0,19-04-1996
+Burkal Skolevej 4,Bylderup-Bov,6372,6,224,1905,327000.0,29-03-1996
+Bovvej 9,Bylderup-Bov,6372,3,120,1980,462000.0,29-03-1996
+Stenskær 13,Bylderup-Bov,6372,7,141,1969,380500.0,18-03-1996
+Saksborgvej 52,Bylderup-Bov,6372,12,237,1900,660000.0,17-03-1996
+Havstedvej 37,Bylderup-Bov,6372,7,190,1929,3650000.0,06-03-1996
+Fogderup Bygade 8,Bylderup-Bov,6372,4,180,1857,98000.0,04-03-1996
+Ravsted Hovedgade 26,Bylderup-Bov,6372,2,95,1913,230000.0,16-02-1996
+Lendemark 62,Bylderup-Bov,6372,3,90,1956,150000.0,22-12-1995
+Åbovej 3,Bylderup-Bov,6372,4,93,1957,265000.0,17-11-1995
+Åbovej 28,Bylderup-Bov,6372,3,49,1966,207504.0,13-11-1995
+Rens Bygade 9,Bylderup-Bov,6372,4,117,1925,216000.0,04-11-1995
+Pebersmarkvej 9,Bylderup-Bov,6372,6,159,1921,255000.0,30-10-1995
+Åglimt 30,Bylderup-Bov,6372,5,155,1966,450000.0,04-10-1995
+Lendemark 44B,Bylderup-Bov,6372,5,168,1988,900000.0,26-09-1995
+Sottrup By 10,Bylderup-Bov,6372,6,153,1719,387954.0,11-09-1995
+Vrågårdvej 10,Bylderup-Bov,6372,15,300,1890,7848303.0,29-08-1995
+Åløkke 66,Bylderup-Bov,6372,4,127,1976,217481.0,18-08-1995
+Åglimt 13,Bylderup-Bov,6372,3,117,1969,410000.0,04-08-1995
+Broløkkevej 11,Bylderup-Bov,6372,5,291,1961,1045000.0,21-07-1995
+Rens Øvej 7,Bylderup-Bov,6372,8,216,1885,268000.0,11-07-1995
+Højvangvej 2,Bylderup-Bov,6372,5,152,1940,425000.0,06-06-1995
+Surreroj 49,Bylderup-Bov,6372,4,158,1977,625000.0,02-06-1995
+Bylderup-Bov Bygade 15,Bylderup-Bov,6372,6,164,1920,152000.0,31-05-1995
+Åbovej 35,Bylderup-Bov,6372,3,103,1964,442110.0,29-05-1995
+Kulkærvej 4,Bylderup-Bov,6372,9,206,1993,4300000.0,20-05-1995
+Slogsherredsvej 4,Bylderup-Bov,6372,15,291,1962,425000.0,11-05-1995
+Sottrup By 22,Bylderup-Bov,6372,3,122,1870,1474585.0,02-05-1995
+Høgsholtvej 6,Bylderup-Bov,6372,7,200,1870,1052314.0,01-05-1995
+Pebersmarkvej 33,Bylderup-Bov,6372,5,104,1922,333888.0,27-04-1995
+Lendemark 30,Bylderup-Bov,6372,5,153,1927,200000.0,28-03-1995
+Tvedvej 4,Bylderup-Bov,6372,4,85,1910,130000.0,07-02-1995
+Lendemark 64,Bylderup-Bov,6372,4,113,1942,439000.0,12-12-1994
+Fogderup Bygade 20,Bylderup-Bov,6372,6,189,1827,172295.0,06-12-1994
+Lendemark 43,Bylderup-Bov,6372,6,149,1942,785000.0,30-11-1994
+Ravsted Ågade 5,Bylderup-Bov,6372,7,178,1927,187000.0,22-11-1994
+Ravsted Storegade 13,Bylderup-Bov,6372,4,110,1968,350000.0,07-11-1994
+Hyndingholmvej 16,Bylderup-Bov,6372,5,131,1900,1100000.0,05-10-1994
+Hyndingdamvej 6,Bylderup-Bov,6372,4,115,1995,930000.0,19-09-1994
+Nystadvej 28,Bylderup-Bov,6372,6,205,1907,290000.0,17-09-1994
+Fogderup Bygade 11,Bylderup-Bov,6372,3,122,1920,189000.0,23-08-1994
+Stemmildvej 32,Bylderup-Bov,6372,7,183,1928,1000000.0,17-08-1994
+Østergårdsvej 12,Bylderup-Bov,6372,4,146,1923,335000.0,03-08-1994
+Rens Bygade 8,Bylderup-Bov,6372,8,235,1770,975000.0,08-07-1994
+Ravsted Tværgade 2,Bylderup-Bov,6372,3,116,1970,350000.0,06-07-1994
+Rens Sønderåvej 3,Bylderup-Bov,6372,4,133,1977,385000.0,04-07-1994
+Ravsted Hovedgade 24,Bylderup-Bov,6372,4,170,1912,300000.0,01-07-1994
+Åbovej 19,Bylderup-Bov,6372,3,134,1964,430000.0,29-06-1994
+Noldevej 10,Bylderup-Bov,6372,7,204,1950,1620432.0,24-06-1994
+Surreroj 41,Bylderup-Bov,6372,4,108,1995,35035.0,23-06-1994
+Dravvej 24,Bylderup-Bov,6372,6,243,1930,2750000.0,15-06-1994
+Nystadvej 19,Bylderup-Bov,6372,3,81,1900,120000.0,22-04-1994
+Bredevadvej 41,Bylderup-Bov,6372,5,161,1976,1550000.0,12-04-1994
+Åløkke 76,Bylderup-Bov,6372,4,129,1977,480000.0,08-04-1994
+Stormsgårdevej 56,Bylderup-Bov,6372,9,292,1932,1565554.0,08-04-1994
+Nystadvej 20,Bylderup-Bov,6372,3,96,1947,17500.0,07-04-1994
+Slogsåvej 10,Bylderup-Bov,6372,5,121,1936,1238505.0,25-03-1994
+Surreroj 31,Bylderup-Bov,6372,7,165,1977,500000.0,14-03-1994
+Korupmarkvej 27,Bylderup-Bov,6372,5,172,1899,387377.0,14-03-1994
+Hejselvej 15,Bylderup-Bov,6372,9,273,1929,510000.0,05-03-1994
+Ravsted Storegade 25,Bylderup-Bov,6372,5,148,1914,310000.0,04-03-1994
+Moseløkke 12,Bylderup-Bov,6372,3,123,1983,340000.0,02-03-1994
+Vrågårdvej 4,Bylderup-Bov,6372,5,162,1959,646029.0,25-02-1994
+Flensborgvej 17,Bylderup-Bov,6372,5,204,1935,1561751.0,11-02-1994
+Ravsted Nørregade 3,Bylderup-Bov,6372,4,177,1975,610000.0,07-02-1994
+Kværnholtvej 11,Bylderup-Bov,6372,4,112,1926,500000.0,18-01-1994
+Hovmosevej 1,Bylderup-Bov,6372,6,191,1926,546000.0,27-10-1993
+Kværnholtvej 19,Bylderup-Bov,6372,6,175,1975,450000.0,16-10-1993
+Åløkke 10,Bylderup-Bov,6372,4,123,1972,410000.0,15-10-1993
+Åglimt 1,Bylderup-Bov,6372,3,104,1965,310000.0,14-10-1993
+Åbovej 38,Bylderup-Bov,6372,5,140,1980,275000.0,05-10-1993
+Noldevej 29,Bylderup-Bov,6372,10,447,2007,1531092.0,22-09-1993
+Lendemark 82,Bylderup-Bov,6372,4,141,1955,284000.0,17-09-1993
+Bylderup-Bov Bygade 18,Bylderup-Bov,6372,7,183,1924,220000.0,14-09-1993
+Smedegade 9,Bylderup-Bov,6372,6,120,1937,327000.0,07-09-1993
+Lendemark 3,Bylderup-Bov,6372,5,153,1852,2763000.0,30-08-1993
+Sottrupholmvej 11,Bylderup-Bov,6372,2,115,1922,1052100.0,30-08-1993
+Ravsted Hovedgade 43,Bylderup-Bov,6372,5,182,1924,500000.0,04-08-1993
+Åglimt 28,Bylderup-Bov,6372,4,128,1968,370000.0,01-06-1993
+Pebersmarkvej 17,Bylderup-Bov,6372,5,110,1928,245000.0,13-05-1993
+Åbovej 11,Bylderup-Bov,6372,2,85,1960,178500.0,30-03-1993
+Åløkke 33,Bylderup-Bov,6372,4,145,1980,725000.0,25-02-1993
+Broløkkevej 9,Bylderup-Bov,6372,4,108,1964,310000.0,24-02-1993
+Surreroj 59,Bylderup-Bov,6372,4,103,1975,385000.0,11-02-1993
+Fogderup Bygade 5,Bylderup-Bov,6372,8,232,1860,195000.0,10-02-1993
+Kulkærvej 6,Bylderup-Bov,6372,3,83,1850,175000.0,29-01-1993
+Ravsted Hovedgade 19,Bylderup-Bov,6372,2,64,1939,150000.0,26-01-1993
+Saksborgvej 81,Bylderup-Bov,6372,10,219,1976,1448400.0,25-01-1993
+Slogsgaden 2,Bylderup-Bov,6372,5,120,1888,90000.0,18-01-1993
+Havstedvej 33,Bylderup-Bov,6372,5,143,1929,650000.0,11-01-1993
+Lille Knivsigvej 27,Bylderup-Bov,6372,4,106,1925,190000.0,10-01-1993
+Lendemark 36,Bylderup-Bov,6372,4,136,1880,12000.0,28-12-1992
+Bredevadvej 14,Bylderup-Bov,6372,4,112,1880,220000.0,22-12-1992
+Pebersmarkvej 32,Bylderup-Bov,6372,4,80,1959,180000.0,22-12-1992
+Stemmildvej 39,Bylderup-Bov,6372,5,182,1938,1175000.0,18-12-1992
+Hyndingdamvej 3,Bylderup-Bov,6372,5,137,1930,520000.0,27-11-1992
+Burkal Kirkevej 51,Bylderup-Bov,6372,7,256,1883,215000.0,26-11-1992
+Åbovej 14,Bylderup-Bov,6372,4,117,1963,332876.0,23-11-1992
+Sottrup By 3,Bylderup-Bov,6372,5,141,1797,643607.0,02-11-1992
+Gammel Sottrupvej 20,Bylderup-Bov,6372,5,131,1962,348000.0,21-10-1992
+Ravsted Skolegade 35,Bylderup-Bov,6372,3,148,1977,465000.0,30-09-1992
+Åbovej 37,Bylderup-Bov,6372,3,90,1955,252000.0,21-09-1992
+Kværnholtvej 7,Bylderup-Bov,6372,4,144,1936,500000.0,10-09-1992
+Ravsted Hovedgade 83,Bylderup-Bov,6372,4,130,1950,238000.0,26-08-1992
+Rens Bygade 39,Bylderup-Bov,6372,4,116,1986,600000.0,09-07-1992
+Lendemark 67,Bylderup-Bov,6372,3,72,1780,340000.0,01-07-1992
+Lundvej 2,Bylderup-Bov,6372,4,173,1920,165000.0,23-06-1992
+Rens Bygade 21E,Bylderup-Bov,6372,4,144,1984,500000.0,25-05-1992
+Stemmildvej 13,Bylderup-Bov,6372,7,191,1900,370000.0,14-04-1992
+Lundvej 3,Bylderup-Bov,6372,5,157,1971,68173.0,16-03-1992
+Ravsted Mølletoft 4,Bylderup-Bov,6372,5,146,1980,390952.0,13-03-1992
+Noldevej 42,Bylderup-Bov,6372,5,161,1942,920000.0,26-02-1992
+Lendemark 55,Bylderup-Bov,6372,4,138,1970,380000.0,19-02-1992
+Saksborgvej 78,Bylderup-Bov,6372,7,225,1955,336000.0,18-02-1992
+Stenagervej 5,Bylderup-Bov,6372,5,155,1922,410000.0,31-01-1992

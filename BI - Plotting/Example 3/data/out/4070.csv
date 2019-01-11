@@ -1,0 +1,2953 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Spurvevænget 12,Kirke Hyllinge,4070,3,50,1971,183953.0,04-05-2017
+Anders Rasmussensvej 14,Kirke Hyllinge,4070,5,136,1980,1550000.0,04-05-2017
+Claus Henrisvej 3,Kirke Hyllinge,4070,4,133,1969,1815000.0,28-04-2017
+Åvangen 15,Kirke Hyllinge,4070,4,80,1977,590000.0,28-04-2017
+Brusagervej 11,Kirke Hyllinge,4070,3,87,1981,650000.0,27-04-2017
+Ebbevænget 7,Kirke Hyllinge,4070,5,162,2005,1350000.0,26-04-2017
+Claus Henrisvej 5,Kirke Hyllinge,4070,4,120,1967,1950000.0,21-04-2017
+Harekærgårdsvej 51,Kirke Hyllinge,4070,3,53,2001,395000.0,11-04-2017
+Stendyssen 30,Kirke Hyllinge,4070,3,61,1965,750000.0,07-04-2017
+Strandagervænge 23,Kirke Hyllinge,4070,3,50,1965,1500000.0,02-04-2017
+Blommevej 14,Kirke Hyllinge,4070,4,185,2004,3300000.0,01-04-2017
+Harekærgårdsvej 20,Kirke Hyllinge,4070,4,92,1986,965000.0,31-03-2017
+Clematisvej 13,Kirke Hyllinge,4070,4,88,1983,286354.0,30-03-2017
+Harekærgårdsvej 14,Kirke Hyllinge,4070,3,120,1993,1460000.0,27-03-2017
+Harekærgårdsvej 38,Kirke Hyllinge,4070,1,23,1980,395000.0,27-03-2017
+Egebregnen 16,Kirke Hyllinge,4070,3,49,1970,450000.0,22-03-2017
+Lindegårdsvej 4,Kirke Hyllinge,4070,5,225,1920,562113.0,20-03-2017
+Sæbyparken 14,Kirke Hyllinge,4070,4,120,1973,1075000.0,17-03-2017
+Gershøjvej 71,Kirke Hyllinge,4070,5,100,1725,1995000.0,16-03-2017
+Ligustervej 31,Kirke Hyllinge,4070,4,80,1965,630000.0,14-03-2017
+Bovelgårdsvej 32,Kirke Hyllinge,4070,4,149,1978,1375000.0,08-03-2017
+Troldhøj 6,Kirke Hyllinge,4070,6,108,1961,722500.0,07-03-2017
+Kærvej 13,Kirke Hyllinge,4070,3,53,1966,300000.0,01-03-2017
+Ejbybrovej 18,Kirke Hyllinge,4070,3,39,1969,475000.0,01-03-2017
+Åhusene 22,Kirke Hyllinge,4070,5,69,1961,645000.0,28-02-2017
+Holtensmindevej 75,Kirke Hyllinge,4070,4,176,1820,1000000.0,28-02-2017
+Hindebregnen 2,Kirke Hyllinge,4070,3,48,1967,425000.0,27-02-2017
+Lyndby Gade 31,Kirke Hyllinge,4070,5,123,1918,844000.0,27-02-2017
+Pilevang 16,Kirke Hyllinge,4070,4,66,1973,360000.0,24-02-2017
+Lærkevej 16,Kirke Hyllinge,4070,3,60,1973,450500.0,21-02-2017
+Harekærgårdsvej 27,Kirke Hyllinge,4070,3,47,2004,660000.0,19-02-2017
+Møllevej 7,Kirke Hyllinge,4070,3,87,1964,1195000.0,16-02-2017
+Ingridsvej 12,Kirke Hyllinge,4070,4,178,1973,2105000.0,15-02-2017
+Bovelgårdsvej 41,Kirke Hyllinge,4070,5,185,1976,1400000.0,15-02-2017
+Kirkevej 15,Kirke Hyllinge,4070,4,156,1974,1650000.0,14-02-2017
+Strandbakken 32,Kirke Hyllinge,4070,4,59,1965,100986.0,14-02-2017
+Bakkesvinget 68,Kirke Hyllinge,4070,3,79,2009,800000.0,13-02-2017
+Harekærgårdsvej 76,Kirke Hyllinge,4070,4,88,1980,475000.0,07-02-2017
+Hyllingeparken 65,Kirke Hyllinge,4070,5,149,1977,1995000.0,06-02-2017
+Åskrænten 13,Kirke Hyllinge,4070,3,60,1985,505000.0,01-02-2017
+Bigårdsvej 13,Kirke Hyllinge,4070,4,123,1973,1550000.0,27-01-2017
+Troldager 7,Kirke Hyllinge,4070,4,82,1974,750000.0,27-01-2017
+Hyllingeparken 18,Kirke Hyllinge,4070,6,161,1977,1600000.0,26-01-2017
+Elverdamsvej 338,Kirke Hyllinge,4070,4,78,1877,1305000.0,25-01-2017
+Frederiksdalvej 2,Kirke Hyllinge,4070,3,80,1954,1800000.0,23-01-2017
+Hyllingeparken 14,Kirke Hyllinge,4070,4,206,1977,2200000.0,20-01-2017
+Stendyssen 3,Kirke Hyllinge,4070,2,30,1963,375000.0,18-01-2017
+Østervang 1,Kirke Hyllinge,4070,4,78,1907,1100000.0,18-01-2017
+Kyndeløsevej 16,Kirke Hyllinge,4070,4,110,1924,1550000.0,17-01-2017
+Møllevej 21,Kirke Hyllinge,4070,4,132,1965,1475000.0,16-01-2017
+Bigårdsvej 43,Kirke Hyllinge,4070,4,115,1977,1550000.0,16-01-2017
+Niels Hansensvej 6,Kirke Hyllinge,4070,4,52,1967,595000.0,09-01-2017
+Troldsti 3,Kirke Hyllinge,4070,4,100,1981,1550000.0,04-01-2017
+Harekærgårdsvej 57,Kirke Hyllinge,4070,4,84,1978,573000.0,01-01-2017
+Karlebyvej 64,Kirke Hyllinge,4070,4,188,1827,2185000.0,30-12-2016
+Valdemarsvej 10,Kirke Hyllinge,4070,4,148,1983,1675000.0,27-12-2016
+Cedervej 7,Kirke Hyllinge,4070,4,82,1979,945000.0,23-12-2016
+Hornsherredvej 417,Kirke Hyllinge,4070,6,230,1864,4050000.0,16-12-2016
+Sæbyvej 28,Kirke Hyllinge,4070,9,284,1914,4980905.0,16-12-2016
+Harekærgårdsvej 40,Kirke Hyllinge,4070,4,102,1975,629000.0,14-12-2016
+Hjortevænget 5,Kirke Hyllinge,4070,3,58,1968,400000.0,14-12-2016
+Åsen 5,Kirke Hyllinge,4070,3,50,1980,395000.0,27-11-2016
+Gershøj Havnevej 10,Kirke Hyllinge,4070,6,146,1870,2695000.0,23-11-2016
+Strandbakken 6,Kirke Hyllinge,4070,2,76,2007,900000.0,23-11-2016
+Brombærhaven 8,Kirke Hyllinge,4070,3,92,2007,1595000.0,21-11-2016
+Spurvevænget 13,Kirke Hyllinge,4070,2,48,1967,499000.0,16-11-2016
+Tømmergården 4,Kirke Hyllinge,4070,3,76,1983,860000.0,16-11-2016
+Ejbybrovej 2,Kirke Hyllinge,4070,5,129,1895,2100000.0,16-11-2016
+Grimshøjvej 6,Kirke Hyllinge,4070,9,137,1947,1225000.0,13-11-2016
+Stationsvej 7,Kirke Hyllinge,4070,4,159,1930,2520000.0,13-11-2016
+Bybrønden 5,Kirke Hyllinge,4070,3,118,1930,1465000.0,11-11-2016
+Broagervej 1,Kirke Hyllinge,4070,6,132,1906,2500000.0,09-11-2016
+Taaftegaards Vænge 1,Kirke Hyllinge,4070,4,136,2007,2525000.0,07-11-2016
+Kornbakken 16,Kirke Hyllinge,4070,4,145,1969,1475000.0,07-11-2016
+Ingridsvej 8,Kirke Hyllinge,4070,4,114,1973,1450000.0,03-11-2016
+Harekærgårdsvej 65,Kirke Hyllinge,4070,3,82,2002,1150000.0,31-10-2016
+Egevej 2,Kirke Hyllinge,4070,4,122,1962,1350000.0,28-10-2016
+Bigårdsvej 63,Kirke Hyllinge,4070,4,162,1993,1955000.0,24-10-2016
+Spurvevænget 9,Kirke Hyllinge,4070,4,82,1979,775000.0,17-10-2016
+Stationsvej 4,Kirke Hyllinge,4070,4,156,1967,1895000.0,14-10-2016
+Elverdamsvej 229,Kirke Hyllinge,4070,4,135,1827,1325000.0,14-10-2016
+Åsen 15,Kirke Hyllinge,4070,3,95,2003,950000.0,13-10-2016
+Brusagervej 4,Kirke Hyllinge,4070,4,96,2003,1160000.0,10-10-2016
+Hjortevænget 10,Kirke Hyllinge,4070,3,75,1980,316000.0,10-10-2016
+Gershøj Havnevej 5,Kirke Hyllinge,4070,3,102,1939,1400000.0,05-10-2016
+Ejby Strandvej 35,Kirke Hyllinge,4070,6,168,1850,2275000.0,04-10-2016
+Strandbakken 31,Kirke Hyllinge,4070,5,86,1965,560000.0,04-10-2016
+Margrethevej 53,Kirke Hyllinge,4070,5,156,2014,2895000.0,27-09-2016
+Åsen 14,Kirke Hyllinge,4070,4,65,1985,517500.0,26-09-2016
+Lorentzensvej 27,Kirke Hyllinge,4070,5,150,2011,2495000.0,23-09-2016
+Bakkesvinget 11,Kirke Hyllinge,4070,3,86,1969,1065000.0,20-09-2016
+Åhusene 32,Kirke Hyllinge,4070,3,80,1961,800000.0,19-09-2016
+Stendyssen 24,Kirke Hyllinge,4070,4,119,1975,400000.0,13-09-2016
+Lyndby Gade 8,Kirke Hyllinge,4070,3,123,1961,1975000.0,13-09-2016
+Strandvangen 16,Kirke Hyllinge,4070,2,49,1973,800000.0,13-09-2016
+Lyndby Gade 9,Kirke Hyllinge,4070,5,118,1910,2395000.0,13-09-2016
+Lyndbyparken 33,Kirke Hyllinge,4070,4,117,1986,1415000.0,12-09-2016
+Hellesvej 6,Kirke Hyllinge,4070,4,60,1967,395000.0,08-09-2016
+Æblerosevej 10,Kirke Hyllinge,4070,3,46,1980,395000.0,08-09-2016
+Hjørnegårdsvej 20,Kirke Hyllinge,4070,5,112,1890,148063.0,07-09-2016
+Ahornvej 21,Kirke Hyllinge,4070,3,105,2007,980000.0,06-09-2016
+Åhusene 28,Kirke Hyllinge,4070,4,65,1960,295000.0,31-08-2016
+Egevej 14,Kirke Hyllinge,4070,4,112,1966,523500.0,31-08-2016
+Kambregnen 15,Kirke Hyllinge,4070,5,79,1973,305000.0,30-08-2016
+Hornsherredvej 302,Kirke Hyllinge,4070,5,178,1998,5625000.0,30-08-2016
+Bigårdsvej 6,Kirke Hyllinge,4070,7,196,1973,2635000.0,25-08-2016
+Brusagervej 15,Kirke Hyllinge,4070,4,59,1961,2095000.0,25-08-2016
+Rønnevej 2,Kirke Hyllinge,4070,4,110,1969,1284000.0,25-08-2016
+Ejbyvej 46,Kirke Hyllinge,4070,2,85,1963,1095000.0,24-08-2016
+Tranemosevej 20,Kirke Hyllinge,4070,7,163,1989,1860000.0,21-08-2016
+Stendyssen 18,Kirke Hyllinge,4070,3,54,1967,850000.0,21-08-2016
+Åbakken 92,Kirke Hyllinge,4070,5,78,1977,725000.0,17-08-2016
+Egernvænget 3,Kirke Hyllinge,4070,3,69,1974,675000.0,17-08-2016
+Hornsherredvej 281,Kirke Hyllinge,4070,5,194,2006,4300000.0,16-08-2016
+Bakkesvinget 62,Kirke Hyllinge,4070,1,26,1966,190000.0,15-08-2016
+Vibevænget 6,Kirke Hyllinge,4070,3,42,1969,355000.0,13-08-2016
+Strandtoften 17,Kirke Hyllinge,4070,4,85,1978,825000.0,06-08-2016
+Cedervej 5,Kirke Hyllinge,4070,3,40,1967,380000.0,25-07-2016
+Christian Hansensvej 4,Kirke Hyllinge,4070,2,45,1939,1500000.0,25-07-2016
+Strandagervænge 61,Kirke Hyllinge,4070,5,85,1969,2500000.0,19-07-2016
+Lorentzensvej 1,Kirke Hyllinge,4070,5,120,1968,1650000.0,19-07-2016
+Krabbesholmvej 5,Kirke Hyllinge,4070,5,159,1974,1500000.0,19-07-2016
+Bigårdsvej 64,Kirke Hyllinge,4070,5,158,1973,2575000.0,18-07-2016
+Hvidemosevej 9,Kirke Hyllinge,4070,4,167,1905,1625000.0,13-07-2016
+Svenningsvej 4,Kirke Hyllinge,4070,4,111,1975,1550000.0,12-07-2016
+Jenslev Gade 12,Kirke Hyllinge,4070,5,210,2008,2845000.0,11-07-2016
+Agervang 6,Kirke Hyllinge,4070,3,81,1964,895000.0,11-07-2016
+Bygaden 41,Kirke Hyllinge,4070,5,108,1930,692000.0,08-07-2016
+Strandvangen 12,Kirke Hyllinge,4070,3,82,1970,750000.0,08-07-2016
+Bigårdsvej 54,Kirke Hyllinge,4070,6,165,1972,1575000.0,06-07-2016
+Valnøddevej 4,Kirke Hyllinge,4070,5,143,2006,2560000.0,04-07-2016
+Anders Rasmussensvej 28A,Kirke Hyllinge,4070,6,170,1978,1850000.0,03-07-2016
+Kornblomstvej 19,Kirke Hyllinge,4070,5,174,1998,2295000.0,03-07-2016
+Hyllebjerget 3,Kirke Hyllinge,4070,4,110,1963,1425000.0,01-07-2016
+Bovelgårdsvej 10,Kirke Hyllinge,4070,6,162,1970,1395000.0,30-06-2016
+Smedegårdsvej 4E,Kirke Hyllinge,4070,5,109,2005,2450000.0,29-06-2016
+Ved Fjorden 12,Kirke Hyllinge,4070,4,168,2003,3275000.0,29-06-2016
+Bakkesvinget 72,Kirke Hyllinge,4070,3,55,1975,425000.0,28-06-2016
+Løvkjærgaardsvej 32,Kirke Hyllinge,4070,6,129,1971,1170000.0,27-06-2016
+Gudrun Børresensvej 11,Kirke Hyllinge,4070,7,181,1983,2905000.0,23-06-2016
+Gudrun Børresensvej 5,Kirke Hyllinge,4070,6,93,1964,714000.0,21-06-2016
+Hornsherredvej 270,Kirke Hyllinge,4070,3,78,1927,2400000.0,21-06-2016
+Syrenvej 17,Kirke Hyllinge,4070,2,72,1968,585000.0,16-06-2016
+Åbakken 31,Kirke Hyllinge,4070,3,52,1980,500000.0,15-06-2016
+Bigårdsvej 42,Kirke Hyllinge,4070,5,114,1974,695000.0,15-06-2016
+Løvkjærgaardsvej 7,Kirke Hyllinge,4070,5,137,1972,1515000.0,15-06-2016
+Karlebyvej 17,Kirke Hyllinge,4070,3,96,1947,565000.0,15-06-2016
+Syrenvej 18,Kirke Hyllinge,4070,2,56,1981,785000.0,13-06-2016
+Hyllingeparken 49,Kirke Hyllinge,4070,5,140,1976,1400000.0,09-06-2016
+Højagervej 4,Kirke Hyllinge,4070,5,137,1985,1600000.0,07-06-2016
+Harekærgårdsvej 45,Kirke Hyllinge,4070,4,85,2007,1125000.0,03-06-2016
+Fjerbregnen 4,Kirke Hyllinge,4070,3,32,1967,456000.0,02-06-2016
+Bybrønden 6,Kirke Hyllinge,4070,4,93,1827,1475000.0,02-06-2016
+Lorentzensvej 10,Kirke Hyllinge,4070,4,133,1976,900000.0,01-06-2016
+Åbakken 106,Kirke Hyllinge,4070,3,70,1977,311381.0,31-05-2016
+Mosevej 15,Kirke Hyllinge,4070,7,149,1964,2410000.0,26-05-2016
+Bybrønden 8,Kirke Hyllinge,4070,8,222,1877,1475000.0,25-05-2016
+Åsen 24,Kirke Hyllinge,4070,3,51,1980,410000.0,25-05-2016
+Rødtjørnevej 37,Kirke Hyllinge,4070,4,93,2004,1760000.0,24-05-2016
+Ejby Havnevej 40,Kirke Hyllinge,4070,4,140,1935,2150000.0,20-05-2016
+Strandagervænge 32,Kirke Hyllinge,4070,4,70,1974,1015000.0,19-05-2016
+Hornsherredvej 242,Kirke Hyllinge,4070,7,126,1937,3395000.0,19-05-2016
+Lykkesvej 25,Kirke Hyllinge,4070,6,198,2014,3150000.0,18-05-2016
+Bøgevej 10,Kirke Hyllinge,4070,3,117,1999,1850000.0,15-05-2016
+Henriksvej 3,Kirke Hyllinge,4070,5,153,1973,1295000.0,12-05-2016
+Troldkær 11,Kirke Hyllinge,4070,7,118,1986,285000.0,10-05-2016
+Åvangen 16,Kirke Hyllinge,4070,3,36,1987,450000.0,09-05-2016
+Ørnebregnen 2,Kirke Hyllinge,4070,3,62,1969,550000.0,09-05-2016
+Fjerbregnen 12,Kirke Hyllinge,4070,4,73,1969,433500.0,08-05-2016
+Strandtoften 15,Kirke Hyllinge,4070,2,51,1999,570000.0,08-05-2016
+Niels Hansensvej 12,Kirke Hyllinge,4070,8,298,1904,4650000.0,06-05-2016
+Thorsvej 5,Kirke Hyllinge,4070,3,66,1968,750000.0,04-05-2016
+Nagels Rende 18,Kirke Hyllinge,4070,3,38,1965,735000.0,02-05-2016
+Jenslevvej 51,Kirke Hyllinge,4070,4,101,1962,1075000.0,28-04-2016
+Mellemvang 1,Kirke Hyllinge,4070,3,48,1975,580000.0,27-04-2016
+Vådager 7,Kirke Hyllinge,4070,6,175,2014,2082500.0,27-04-2016
+Buen 8,Kirke Hyllinge,4070,7,188,1777,2250000.0,26-04-2016
+Jenslevvej 50A,Kirke Hyllinge,4070,3,150,1997,2150000.0,26-04-2016
+Bakkesvinget 18,Kirke Hyllinge,4070,3,52,1969,460000.0,24-04-2016
+Lyndbyparken 16,Kirke Hyllinge,4070,4,133,1985,1850000.0,21-04-2016
+Knudsvej 15,Kirke Hyllinge,4070,8,178,1976,2420000.0,21-04-2016
+Taaftegaards Vænge 5,Kirke Hyllinge,4070,5,147,2003,2725000.0,13-04-2016
+Hedegårdsvej 10,Kirke Hyllinge,4070,3,79,1916,3895000.0,11-04-2016
+Syrenvej 11,Kirke Hyllinge,4070,4,90,1976,500000.0,11-04-2016
+Fuglehavevej 15,Kirke Hyllinge,4070,1,52,1967,450500.0,06-04-2016
+Ligustervej 18,Kirke Hyllinge,4070,2,56,1966,550000.0,05-04-2016
+Holtensmindevej 51,Kirke Hyllinge,4070,4,165,1830,1300000.0,04-04-2016
+Strandagervænge 34A,Kirke Hyllinge,4070,4,79,1967,950000.0,03-04-2016
+Kongebregnen 4,Kirke Hyllinge,4070,3,44,1967,200000.0,01-04-2016
+Duevænget 8,Kirke Hyllinge,4070,3,38,1971,395000.0,29-03-2016
+Gudrun Børresensvej 10,Kirke Hyllinge,4070,6,172,1974,1600000.0,22-03-2016
+Vintappervej 54,Kirke Hyllinge,4070,7,295,2008,3495000.0,22-03-2016
+Holtensmindevej 2,Kirke Hyllinge,4070,3,125,1974,1395000.0,22-03-2016
+Harevænget 1,Kirke Hyllinge,4070,4,80,1973,495000.0,22-03-2016
+Egebregnen 3,Kirke Hyllinge,4070,2,28,1968,230000.0,21-03-2016
+Lyndbyparken 9,Kirke Hyllinge,4070,5,182,1985,2470000.0,18-03-2016
+Hyllingeparken 78,Kirke Hyllinge,4070,4,133,1978,1300000.0,17-03-2016
+Nagels Rende 17,Kirke Hyllinge,4070,4,42,1947,1490000.0,15-03-2016
+Kornbakken 3,Kirke Hyllinge,4070,3,100,1968,1085000.0,15-03-2016
+Karlebyvej 202,Kirke Hyllinge,4070,4,83,1956,1160000.0,12-03-2016
+Hornsherredvej 198,Kirke Hyllinge,4070,4,175,2005,5150000.0,10-03-2016
+Buen 6,Kirke Hyllinge,4070,7,160,1852,1890000.0,07-03-2016
+Gårdager 4,Kirke Hyllinge,4070,6,145,2014,2295000.0,06-03-2016
+Mirabellevej 5,Kirke Hyllinge,4070,4,145,2005,2480000.0,29-02-2016
+Gårdager 1,Kirke Hyllinge,4070,4,135,2017,395000.0,29-02-2016
+Kongebregnen 14,Kirke Hyllinge,4070,4,68,1971,550000.0,27-02-2016
+Egebregnen 15,Kirke Hyllinge,4070,3,54,1996,500000.0,23-02-2016
+Ejby Strandvej 2A,Kirke Hyllinge,4070,2,90,1959,1175000.0,22-02-2016
+Ejbybrovej 38,Kirke Hyllinge,4070,3,59,1972,400000.0,17-02-2016
+Lorentzensvej 17,Kirke Hyllinge,4070,4,122,1974,600000.0,16-02-2016
+Karlebyvej 103,Kirke Hyllinge,4070,3,100,1952,1267000.0,16-02-2016
+Fasanvej 15,Kirke Hyllinge,4070,5,130,1966,975000.0,11-02-2016
+Hasselvej 16,Kirke Hyllinge,4070,4,69,1971,715000.0,11-02-2016
+Stendyssen 14,Kirke Hyllinge,4070,3,101,2003,1150000.0,10-02-2016
+Stendyssen 28,Kirke Hyllinge,4070,3,71,1968,940000.0,05-02-2016
+Åbakken 64,Kirke Hyllinge,4070,3,76,1983,523500.0,02-02-2016
+Lorentzensvej 11,Kirke Hyllinge,4070,6,133,1972,803500.0,02-02-2016
+Kyndeløse Strandvej 20,Kirke Hyllinge,4070,3,62,2000,3337500.0,01-02-2016
+Ingridsvej 90,Kirke Hyllinge,4070,4,120,1975,1150000.0,22-01-2016
+Ørnebregnen 13,Kirke Hyllinge,4070,4,82,1967,320000.0,19-01-2016
+Terosevej 1,Kirke Hyllinge,4070,5,90,1971,800000.0,13-01-2016
+Claus Henrisvej 4,Kirke Hyllinge,4070,4,133,1969,1260000.0,06-01-2016
+Egebregnen 5,Kirke Hyllinge,4070,5,93,1974,775000.0,30-12-2015
+Smedevej 12,Kirke Hyllinge,4070,6,173,1870,1650000.0,30-12-2015
+Lærkevænget 4,Kirke Hyllinge,4070,2,47,1969,360000.0,25-12-2015
+Gammel Skolevej 9A,Kirke Hyllinge,4070,3,74,1935,1120000.0,22-12-2015
+Hyllingeparken 46,Kirke Hyllinge,4070,4,120,1975,1195000.0,17-12-2015
+Bittensvej 4,Kirke Hyllinge,4070,4,126,1974,1795000.0,16-12-2015
+Smedegårdsvej 1H,Kirke Hyllinge,4070,2,46,1999,300000.0,16-12-2015
+Mirabellevej 9,Kirke Hyllinge,4070,7,186,2004,2375000.0,16-12-2015
+Bigårdsvej 52,Kirke Hyllinge,4070,4,111,1984,500000.0,15-12-2015
+Bybrønden 11A,Kirke Hyllinge,4070,5,109,1985,1165000.0,10-12-2015
+Hornsherredvej 448,Kirke Hyllinge,4070,5,185,1921,1700000.0,07-12-2015
+Holtensmindevej 57,Kirke Hyllinge,4070,5,236,1840,1122000.0,03-12-2015
+Åsvinget 14,Kirke Hyllinge,4070,5,88,1977,775000.0,02-12-2015
+Brusagervej 1,Kirke Hyllinge,4070,4,180,1857,1500000.0,30-11-2015
+Ingridsvej 4,Kirke Hyllinge,4070,4,114,1973,1330000.0,30-11-2015
+Egholmvej 4,Kirke Hyllinge,4070,6,189,1971,467500.0,30-11-2015
+Kambregnen 11,Kirke Hyllinge,4070,4,42,1976,350000.0,26-11-2015
+Bigårdsvej 3,Kirke Hyllinge,4070,4,122,1973,1325000.0,24-11-2015
+Edvard Olsensvej 16,Kirke Hyllinge,4070,8,257,1901,5200000.0,15-11-2015
+Strandtoften 11,Kirke Hyllinge,4070,4,115,2003,1430000.0,13-11-2015
+Højdevej 10,Kirke Hyllinge,4070,5,153,1970,1300000.0,11-11-2015
+Mellemvang 4,Kirke Hyllinge,4070,5,121,1975,640000.0,10-11-2015
+Lyndby Havnevej 18C,Kirke Hyllinge,4070,3,196,1993,5950000.0,07-11-2015
+Kjøbmagergade 13B,Kirke Hyllinge,4070,4,146,2017,180000.0,07-11-2015
+Elmevang 5,Kirke Hyllinge,4070,3,65,1967,40000.0,06-11-2015
+Hornsherredvej 261,Kirke Hyllinge,4070,3,180,2000,1100000.0,03-11-2015
+Strandhøj 4,Kirke Hyllinge,4070,4,73,2006,1300000.0,02-11-2015
+Ilsøevej 7,Kirke Hyllinge,4070,4,70,1978,1450000.0,01-11-2015
+Spurvevænget 14,Kirke Hyllinge,4070,2,89,1968,375000.0,30-10-2015
+Troldbyvej 16,Kirke Hyllinge,4070,5,142,1962,1535000.0,30-10-2015
+Gårdager 9,Kirke Hyllinge,4070,3,170,2016,395000.0,30-10-2015
+Lillemosevej 18,Kirke Hyllinge,4070,3,62,1877,1350000.0,29-10-2015
+Sæbyparken 25,Kirke Hyllinge,4070,5,154,1973,1625000.0,24-10-2015
+Strandvangen 4,Kirke Hyllinge,4070,4,133,1972,1175000.0,22-10-2015
+Elverdamsvej 381,Kirke Hyllinge,4070,3,120,1963,1125000.0,19-10-2015
+Åvangen 1,Kirke Hyllinge,4070,4,66,1980,350000.0,16-10-2015
+Biltris Gade 10,Kirke Hyllinge,4070,5,186,1905,1870000.0,15-10-2015
+Kornblomstvej 21,Kirke Hyllinge,4070,5,148,1999,1187151.0,13-10-2015
+Hornsherredvej 420,Kirke Hyllinge,4070,6,195,1982,1823000.0,13-10-2015
+Skjoldbregnen 4,Kirke Hyllinge,4070,6,74,1966,765000.0,08-10-2015
+Gershøjgårdsvej 8,Kirke Hyllinge,4070,4,146,1974,1350000.0,02-10-2015
+Thorsvej 3,Kirke Hyllinge,4070,1,58,1967,735000.0,30-09-2015
+Åvangen 9,Kirke Hyllinge,4070,4,78,1980,595000.0,29-09-2015
+Fasanvej 7,Kirke Hyllinge,4070,3,120,1963,825000.0,29-09-2015
+Bjergfyrvej 26,Kirke Hyllinge,4070,3,53,1986,740000.0,28-09-2015
+Smedegårdsvej 2G,Kirke Hyllinge,4070,4,76,1976,1050000.0,22-09-2015
+Kongebregnen 16,Kirke Hyllinge,4070,2,70,2001,675000.0,20-09-2015
+Margrethevej 37,Kirke Hyllinge,4070,4,103,1968,1395000.0,16-09-2015
+Rødtjørnevej 24,Kirke Hyllinge,4070,4,77,1997,1040000.0,15-09-2015
+Egevej 34,Kirke Hyllinge,4070,6,154,1972,700000.0,15-09-2015
+Mosevej 9,Kirke Hyllinge,4070,3,76,1963,845000.0,14-09-2015
+Brombærhaven 2,Kirke Hyllinge,4070,5,156,2007,2150000.0,08-09-2015
+Lyndbyparken 32,Kirke Hyllinge,4070,4,126,1985,1985000.0,07-09-2015
+Hvidemosevej 22,Kirke Hyllinge,4070,13,316,1928,5185000.0,05-09-2015
+Kongebregnen 11,Kirke Hyllinge,4070,3,36,1971,425000.0,01-09-2015
+Gershøjvej 108H,Kirke Hyllinge,4070,5,179,2008,3195000.0,01-09-2015
+Ingridsvej 58,Kirke Hyllinge,4070,6,146,1974,1440000.0,31-08-2015
+Hindebregnen 15,Kirke Hyllinge,4070,3,42,1967,348500.0,27-08-2015
+Øreholmvej 15,Kirke Hyllinge,4070,6,158,1965,2461572.0,27-08-2015
+Hornsherredvej 445,Kirke Hyllinge,4070,4,51,1868,850000.0,26-08-2015
+Olaf Kristiansensvej 27,Kirke Hyllinge,4070,3,55,1951,350000.0,21-08-2015
+Lindevej 5,Kirke Hyllinge,4070,5,147,1977,1950000.0,20-08-2015
+Niels Klarskovsvej 16,Kirke Hyllinge,4070,3,112,1947,1020000.0,14-08-2015
+Drosselvænget 13,Kirke Hyllinge,4070,3,82,1967,240000.0,11-08-2015
+Hornsherredvej 292,Kirke Hyllinge,4070,2,65,1955,1200000.0,07-08-2015
+Kærvej 4,Kirke Hyllinge,4070,3,84,1986,820000.0,06-08-2015
+Jenslev Gade 7,Kirke Hyllinge,4070,5,102,1900,1100000.0,06-08-2015
+Vibevej 4,Kirke Hyllinge,4070,4,128,1967,900000.0,04-08-2015
+Bjergfyrvej 18,Kirke Hyllinge,4070,3,64,1972,140000.0,04-08-2015
+Hornsherredvej 426,Kirke Hyllinge,4070,4,87,1777,1095000.0,03-08-2015
+Egevej 6,Kirke Hyllinge,4070,5,156,1962,1500000.0,02-08-2015
+Harekærgårdsvej 25,Kirke Hyllinge,4070,4,66,1979,255000.0,27-07-2015
+Pilevej 2,Kirke Hyllinge,4070,10,214,1969,1795000.0,25-07-2015
+Åhusene 25,Kirke Hyllinge,4070,2,56,1961,475000.0,24-07-2015
+Lyndbyparken 34,Kirke Hyllinge,4070,4,128,1984,1995000.0,23-07-2015
+Grimshøjvej 9,Kirke Hyllinge,4070,2,71,1956,765000.0,22-07-2015
+Gershøj Havnevej 4,Kirke Hyllinge,4070,4,122,1825,1645000.0,16-07-2015
+Bakkesvinget 1,Kirke Hyllinge,4070,2,33,1965,265000.0,15-07-2015
+Sæbyparken 8A,Kirke Hyllinge,4070,3,117,1972,1315000.0,10-07-2015
+Sydager 5,Kirke Hyllinge,4070,6,169,2012,2399000.0,06-07-2015
+Ejby Strandvej 12,Kirke Hyllinge,4070,5,127,2017,635000.0,05-07-2015
+Spurvevej 3,Kirke Hyllinge,4070,3,79,2003,873000.0,03-07-2015
+Hyllingeparken 57,Kirke Hyllinge,4070,5,140,1977,1375000.0,02-07-2015
+Lyndbyparken 20,Kirke Hyllinge,4070,8,207,1984,350000.0,01-07-2015
+Elverdamsvej 216,Kirke Hyllinge,4070,6,170,1967,1525000.0,01-07-2015
+Duevænget 3,Kirke Hyllinge,4070,3,62,1968,157000.0,30-06-2015
+Hornsherredvej 103,Kirke Hyllinge,4070,4,110,1921,920000.0,30-06-2015
+Pilevang 9,Kirke Hyllinge,4070,3,64,1967,350000.0,29-06-2015
+Bjergfyrvej 10,Kirke Hyllinge,4070,3,50,1970,183630.0,26-06-2015
+Mågevænget 10,Kirke Hyllinge,4070,2,37,1970,215218.0,25-06-2015
+Hasselvej 24,Kirke Hyllinge,4070,3,74,1976,518500.0,25-06-2015
+Hindebregnen 7,Kirke Hyllinge,4070,4,76,1967,480000.0,24-06-2015
+Troldbyvej 13,Kirke Hyllinge,4070,6,205,1885,3600000.0,23-06-2015
+Drejerbakken 6,Kirke Hyllinge,4070,4,227,1877,3675000.0,22-06-2015
+Egholmmarken 8,Kirke Hyllinge,4070,4,116,1921,1150000.0,21-06-2015
+Brombærhaven 11,Kirke Hyllinge,4070,5,156,2006,1975000.0,10-06-2015
+Ingridsvej 70,Kirke Hyllinge,4070,4,133,1975,1550000.0,10-06-2015
+Olaf Kristiansensvej 37,Kirke Hyllinge,4070,3,47,1948,1300000.0,10-06-2015
+Fuglehavevej 18,Kirke Hyllinge,4070,3,37,1967,595000.0,09-06-2015
+Mellemvang 3,Kirke Hyllinge,4070,3,55,1973,270000.0,09-06-2015
+Lillegade 24,Kirke Hyllinge,4070,5,153,1873,422109.0,03-06-2015
+Cedervej 4,Kirke Hyllinge,4070,4,57,1969,475000.0,28-05-2015
+Birkevej 9,Kirke Hyllinge,4070,2,28,1965,200000.0,26-05-2015
+Stærevænget 5,Kirke Hyllinge,4070,3,80,2007,860000.0,26-05-2015
+Vestervang 4,Kirke Hyllinge,4070,2,34,2000,390000.0,23-05-2015
+Edvard Olsensvej 2,Kirke Hyllinge,4070,3,106,1967,1300000.0,21-05-2015
+Gårdager 2,Kirke Hyllinge,4070,6,200,2016,380000.0,21-05-2015
+Kambregnen 23,Kirke Hyllinge,4070,4,50,1972,460000.0,19-05-2015
+Boesvej 8,Kirke Hyllinge,4070,5,140,1997,1925000.0,19-05-2015
+Gammel Skolevej 8,Kirke Hyllinge,4070,6,169,1877,2100000.0,18-05-2015
+Syrenvej 30,Kirke Hyllinge,4070,4,101,1968,650000.0,15-05-2015
+Olaf Kristiansensvej 29,Kirke Hyllinge,4070,4,74,2016,1025000.0,13-05-2015
+Valdemarsvej 1,Kirke Hyllinge,4070,3,60,1956,660000.0,12-05-2015
+Olaf Kristiansensvej 9,Kirke Hyllinge,4070,4,71,1947,1000000.0,12-05-2015
+Askevej 2,Kirke Hyllinge,4070,4,151,1966,770000.0,07-05-2015
+Bøgevej 22,Kirke Hyllinge,4070,5,121,1960,975000.0,05-05-2015
+Kornbakken 22,Kirke Hyllinge,4070,4,117,1969,1010000.0,05-05-2015
+Harevænget 6,Kirke Hyllinge,4070,3,50,1972,400000.0,04-05-2015
+Drejerbakken 5,Kirke Hyllinge,4070,5,100,1827,2275000.0,30-04-2015
+Lyndbyparken 6,Kirke Hyllinge,4070,5,148,1984,1970000.0,29-04-2015
+Rønnevej 3,Kirke Hyllinge,4070,4,136,1970,1295000.0,28-04-2015
+Rønnebærvej 10,Kirke Hyllinge,4070,6,112,1974,895000.0,27-04-2015
+Margrethevej 27,Kirke Hyllinge,4070,5,105,1977,1270000.0,24-04-2015
+Stakhaven 12,Kirke Hyllinge,4070,8,208,1980,1795000.0,23-04-2015
+Hindebregnen 13,Kirke Hyllinge,4070,3,48,1967,175000.0,23-04-2015
+Vellerupvej 36,Kirke Hyllinge,4070,3,80,1920,1150000.0,23-04-2015
+Rønnebærvej 6,Kirke Hyllinge,4070,4,76,1971,560000.0,21-04-2015
+Vestervang 12,Kirke Hyllinge,4070,3,52,1995,660000.0,20-04-2015
+Niels Klarskovsvej 14,Kirke Hyllinge,4070,4,127,1969,940836.0,17-04-2015
+Østergade 6,Kirke Hyllinge,4070,10,204,1870,2100000.0,16-04-2015
+Bittensvej 6,Kirke Hyllinge,4070,4,133,1968,1295000.0,14-04-2015
+Birkevej 8,Kirke Hyllinge,4070,3,40,1966,200000.0,11-04-2015
+Rytterlodden 12,Kirke Hyllinge,4070,3,60,1960,304000.0,08-04-2015
+Frederiksdalvej 14,Kirke Hyllinge,4070,5,89,1936,408000.0,07-04-2015
+Åhusene 7,Kirke Hyllinge,4070,3,76,1962,354250.0,07-04-2015
+Åhusene 27,Kirke Hyllinge,4070,3,94,1962,870000.0,07-04-2015
+Lyndbyparken 28,Kirke Hyllinge,4070,5,166,1985,1600000.0,27-03-2015
+Bovelgårdsvej 12,Kirke Hyllinge,4070,4,101,1971,975000.0,25-03-2015
+Gammel Havnevej 8,Kirke Hyllinge,4070,5,135,1923,1100000.0,24-03-2015
+Hornsherredvej 274,Kirke Hyllinge,4070,4,112,1989,1075000.0,19-03-2015
+Pærevej 19,Kirke Hyllinge,4070,6,212,2010,2515000.0,17-03-2015
+Hornsherredvej 300,Kirke Hyllinge,4070,4,221,2016,1950000.0,16-03-2015
+Nørre Hyllingevej 23,Kirke Hyllinge,4070,4,127,1931,3225000.0,15-03-2015
+Æblerosevej 5,Kirke Hyllinge,4070,4,114,1977,745000.0,05-03-2015
+Kjøbmagergade 16,Kirke Hyllinge,4070,3,102,1962,736000.0,04-03-2015
+Bøgevang 4,Kirke Hyllinge,4070,4,80,1974,450000.0,04-03-2015
+Sæbyparken 21,Kirke Hyllinge,4070,6,173,1971,741500.0,28-02-2015
+Hornsherredvej 467,Kirke Hyllinge,4070,6,194,1952,18100000.0,26-02-2015
+Lillegade 14,Kirke Hyllinge,4070,5,142,1850,1505000.0,24-02-2015
+Skjoldbregnen 16,Kirke Hyllinge,4070,4,87,1993,843945.0,23-02-2015
+Østermarken 3,Kirke Hyllinge,4070,6,205,1982,1250000.0,23-02-2015
+Harekærgårdsvej 35,Kirke Hyllinge,4070,4,98,2006,850000.0,17-02-2015
+Hornsherredvej 320,Kirke Hyllinge,4070,3,109,1948,1400000.0,17-02-2015
+Elverdamsvej 220,Kirke Hyllinge,4070,5,102,1951,1200000.0,16-02-2015
+Bovelgårdsvej 18,Kirke Hyllinge,4070,4,135,1972,1295000.0,11-02-2015
+Åsen 50,Kirke Hyllinge,4070,4,86,1990,181250.0,09-02-2015
+Dyssemosen 27,Kirke Hyllinge,4070,5,200,1973,765000.0,06-02-2015
+Olaf Kristiansensvej 26,Kirke Hyllinge,4070,2,23,1940,1300000.0,06-02-2015
+Syrenvej 6,Kirke Hyllinge,4070,4,77,1976,565000.0,04-02-2015
+Karlebyvej 143,Kirke Hyllinge,4070,4,162,1775,500000.0,03-02-2015
+Spurvevænget 15,Kirke Hyllinge,4070,4,55,1968,325000.0,30-01-2015
+Åbakken 58,Kirke Hyllinge,4070,3,50,1995,540000.0,28-01-2015
+Hasselvej 23,Kirke Hyllinge,4070,4,54,1981,440000.0,21-01-2015
+Hyllingeparken 8,Kirke Hyllinge,4070,6,156,1978,1625000.0,20-01-2015
+Ejby Strandvej 15,Kirke Hyllinge,4070,5,105,1939,849000.0,16-01-2015
+Irisvej 4,Kirke Hyllinge,4070,5,146,1998,2000000.0,14-01-2015
+Lindegårdsvej 5,Kirke Hyllinge,4070,8,287,1922,3747460.0,14-01-2015
+Grønagergårdsvej 9,Kirke Hyllinge,4070,5,200,1883,19450000.0,09-01-2015
+Cedervej 17,Kirke Hyllinge,4070,2,54,1969,450000.0,08-01-2015
+Hyllingeparken 37,Kirke Hyllinge,4070,4,125,1976,1225000.0,07-01-2015
+Kirkevej 11,Kirke Hyllinge,4070,3,180,1975,900000.0,31-12-2014
+Kornbakken 5,Kirke Hyllinge,4070,4,118,1969,1250000.0,23-12-2014
+Strandbakken 11,Kirke Hyllinge,4070,2,58,1985,620000.0,19-12-2014
+Stærevænget 6,Kirke Hyllinge,4070,1,6,1994,52000.0,15-12-2014
+Skovbrynet 35,Kirke Hyllinge,4070,5,120,1969,1250000.0,10-12-2014
+Møllehøjvej 1B,Kirke Hyllinge,4070,8,204,1967,780000.0,10-12-2014
+Brusagervej 27,Kirke Hyllinge,4070,4,68,1963,1915000.0,08-12-2014
+Svalevænget 16,Kirke Hyllinge,4070,4,83,1971,290000.0,08-12-2014
+Højdevej 5,Kirke Hyllinge,4070,5,149,1969,1550000.0,20-11-2014
+Biltris Gade 22,Kirke Hyllinge,4070,4,130,1969,1399000.0,19-11-2014
+Duevænget 5,Kirke Hyllinge,4070,3,68,1971,450000.0,18-11-2014
+Karlebyvej 121,Kirke Hyllinge,4070,2,56,1900,500000.0,18-11-2014
+Æblerosevej 18,Kirke Hyllinge,4070,4,58,1982,595000.0,12-11-2014
+Gershøjgårdsvej 18,Kirke Hyllinge,4070,4,130,1972,611500.0,11-11-2014
+Tranevej 9,Kirke Hyllinge,4070,4,174,1966,1480000.0,06-11-2014
+Gammel Skolevej 5,Kirke Hyllinge,4070,8,64,1900,4600000.0,05-11-2014
+Elverdamsvej 311,Kirke Hyllinge,4070,4,110,1958,885000.0,03-11-2014
+Ligustervej 27,Kirke Hyllinge,4070,4,56,1969,191250.0,31-10-2014
+Tinghøjvej 5,Kirke Hyllinge,4070,7,135,1910,998750.0,31-10-2014
+Askevej 3,Kirke Hyllinge,4070,5,173,2001,1695000.0,28-10-2014
+Troldhøj 3,Kirke Hyllinge,4070,3,45,1962,325000.0,22-10-2014
+Strandtoften 3,Kirke Hyllinge,4070,3,80,2004,1170000.0,22-10-2014
+Krabbesholmvej 1,Kirke Hyllinge,4070,6,133,1910,1100000.0,20-10-2014
+Ligustervej 30,Kirke Hyllinge,4070,3,70,1971,325000.0,18-10-2014
+Hindebregnen 1,Kirke Hyllinge,4070,3,40,1967,375000.0,13-10-2014
+Karlebyvej 39,Kirke Hyllinge,4070,8,225,1912,2450000.0,13-10-2014
+Vibevej 6,Kirke Hyllinge,4070,4,98,1971,665000.0,12-10-2014
+Æblerosevej 9,Kirke Hyllinge,4070,4,92,1975,500000.0,12-10-2014
+"Jenslevvej 62, ST",Kirke Hyllinge,4070,7,232,2016,400000.0,10-10-2014
+Stendyssen 25,Kirke Hyllinge,4070,2,50,1966,661000.0,08-10-2014
+Bøgevang 21,Kirke Hyllinge,4070,2,27,1969,250000.0,03-10-2014
+Mågevej 14,Kirke Hyllinge,4070,5,110,1827,595000.0,01-10-2014
+Kjøbmagergade 20,Kirke Hyllinge,4070,3,105,1961,750352.0,29-09-2014
+Kongebregnen 1,Kirke Hyllinge,4070,4,69,1972,390000.0,23-09-2014
+Kornbakken 17,Kirke Hyllinge,4070,4,146,1969,1350000.0,22-09-2014
+Skovbrynet 33,Kirke Hyllinge,4070,2,77,1969,600000.0,19-09-2014
+Bøgevang 11,Kirke Hyllinge,4070,2,33,1964,500000.0,17-09-2014
+Hvidemosevej 21,Kirke Hyllinge,4070,11,315,1866,3237500.0,15-09-2014
+Thorsvej 7,Kirke Hyllinge,4070,4,102,1975,880000.0,15-09-2014
+Hornsherredvej 280,Kirke Hyllinge,4070,4,141,2004,3500000.0,11-09-2014
+Harevænget 12,Kirke Hyllinge,4070,3,43,1969,435000.0,07-09-2014
+Åbakken 16,Kirke Hyllinge,4070,3,77,1978,695000.0,02-09-2014
+Mirabellevej 10,Kirke Hyllinge,4070,5,153,2003,2260000.0,02-09-2014
+Lyndby Gade 2,Kirke Hyllinge,4070,4,139,1926,1625000.0,01-09-2014
+Stejlebjerg 2,Kirke Hyllinge,4070,1,127,1822,1500000.0,01-09-2014
+Kongebregnen 9,Kirke Hyllinge,4070,3,40,1972,300000.0,01-09-2014
+Harekærgårdsvej 30,Kirke Hyllinge,4070,4,59,1981,420000.0,31-08-2014
+Sæbyparken 15,Kirke Hyllinge,4070,4,112,1971,775000.0,27-08-2014
+Strædet 20,Kirke Hyllinge,4070,3,84,1957,1050000.0,25-08-2014
+Ligustervej 33,Kirke Hyllinge,4070,3,78,1966,515000.0,23-08-2014
+Kildevænget 6,Kirke Hyllinge,4070,4,111,1987,1475000.0,22-08-2014
+Strandagervænge 35,Kirke Hyllinge,4070,4,71,1970,1020000.0,21-08-2014
+Åhusene 45,Kirke Hyllinge,4070,4,62,1961,495000.0,20-08-2014
+Åsen 20,Kirke Hyllinge,4070,5,83,1977,36600.0,20-08-2014
+Tværvej 53,Kirke Hyllinge,4070,3,127,1900,675000.0,18-08-2014
+Kornbakken 23,Kirke Hyllinge,4070,7,204,1969,1200000.0,14-08-2014
+Kongebregnen 8,Kirke Hyllinge,4070,3,60,1972,480000.0,13-08-2014
+Vestervang 2,Kirke Hyllinge,4070,3,81,2015,140000.0,12-08-2014
+Vestervang 8,Kirke Hyllinge,4070,3,80,2003,872500.0,10-08-2014
+Tværvej 47,Kirke Hyllinge,4070,5,150,1962,1600000.0,08-08-2014
+Strandbakken 10,Kirke Hyllinge,4070,3,42,1965,350000.0,06-08-2014
+Humlevænget 20,Kirke Hyllinge,4070,4,53,1983,540000.0,01-08-2014
+Gudrun Børresensvej 20A,Kirke Hyllinge,4070,5,74,1968,1100000.0,29-07-2014
+Hyllingeparken 74,Kirke Hyllinge,4070,4,155,1977,1400000.0,29-07-2014
+Spurvevej 1,Kirke Hyllinge,4070,4,70,1962,850000.0,24-07-2014
+Bigårdsvej 46,Kirke Hyllinge,4070,5,149,1974,1330000.0,22-07-2014
+Hornsherredvej 104,Kirke Hyllinge,4070,4,234,1972,1624000.0,22-07-2014
+Sydmarksvej 35,Kirke Hyllinge,4070,8,164,1926,2150000.0,14-07-2014
+Troldkær 10,Kirke Hyllinge,4070,3,72,1963,995000.0,14-07-2014
+Grimshøjvej 11,Kirke Hyllinge,4070,4,102,1959,949000.0,04-07-2014
+Lykkesvej 33,Kirke Hyllinge,4070,2,43,1966,250000.0,04-07-2014
+Nørre Hyllingevej 25,Kirke Hyllinge,4070,9,143,1930,2125000.0,02-07-2014
+Åbakken 41,Kirke Hyllinge,4070,3,80,1996,905000.0,01-07-2014
+Hornsherredvej 190,Kirke Hyllinge,4070,4,96,1928,850000.0,26-06-2014
+Tømmergården 10,Kirke Hyllinge,4070,3,76,1983,750000.0,24-06-2014
+Valnøddevej 7,Kirke Hyllinge,4070,6,184,2005,2640000.0,18-06-2014
+Margrethevej 19,Kirke Hyllinge,4070,5,134,2009,1500000.0,17-06-2014
+Mågevænget 6,Kirke Hyllinge,4070,3,56,1975,370000.0,11-06-2014
+Margrethevej 2,Kirke Hyllinge,4070,6,148,2016,450000.0,10-06-2014
+Nagels Rende 16,Kirke Hyllinge,4070,3,50,1964,925000.0,09-06-2014
+Åhusene 38,Kirke Hyllinge,4070,5,75,1961,625000.0,06-06-2014
+Syrenvej 26,Kirke Hyllinge,4070,3,52,1984,555000.0,29-05-2014
+Anders Rasmussensvej 22,Kirke Hyllinge,4070,4,133,1976,1100000.0,29-05-2014
+Løvkjærgaardsvej 26,Kirke Hyllinge,4070,6,198,1971,2040000.0,29-05-2014
+Bigårdsvej 37,Kirke Hyllinge,4070,3,145,1973,1720000.0,27-05-2014
+Knudsvej 6,Kirke Hyllinge,4070,9,209,2000,2204000.0,26-05-2014
+Bakkesvinget 2,Kirke Hyllinge,4070,4,109,1972,945000.0,23-05-2014
+Hornsherredvej 439,Kirke Hyllinge,4070,3,95,1917,580000.0,21-05-2014
+Smedegårdsvej 3C,Kirke Hyllinge,4070,4,92,1968,402000.0,20-05-2014
+Syrenvej 34,Kirke Hyllinge,4070,3,57,1978,649000.0,13-05-2014
+Skjoldbregnen 3,Kirke Hyllinge,4070,3,40,1977,275000.0,13-05-2014
+Ligustervej 43,Kirke Hyllinge,4070,2,73,1969,300000.0,09-05-2014
+Smedevej 21B,Kirke Hyllinge,4070,4,130,1990,1340000.0,08-05-2014
+Bygaden 45,Kirke Hyllinge,4070,8,180,1938,1800000.0,07-05-2014
+Nørre Hyllingevej 29,Kirke Hyllinge,4070,4,160,1917,2950000.0,07-05-2014
+Biltris Gade 30,Kirke Hyllinge,4070,4,147,1971,1120000.0,06-05-2014
+Valnøddevej 3,Kirke Hyllinge,4070,6,184,2006,2600000.0,06-05-2014
+Smedevej 21A,Kirke Hyllinge,4070,3,94,1990,1215000.0,04-05-2014
+Bakkesvinget 7,Kirke Hyllinge,4070,2,40,1974,325000.0,01-05-2014
+Ilsøevej 12,Kirke Hyllinge,4070,4,63,1920,1925000.0,30-04-2014
+Stendyssen 17,Kirke Hyllinge,4070,5,125,2007,1600000.0,29-04-2014
+Ebbevænget 4,Kirke Hyllinge,4070,6,269,2007,2437000.0,29-04-2014
+Strandhøj 5,Kirke Hyllinge,4070,6,121,1976,790000.0,27-04-2014
+Hornsherredvej 433C,Kirke Hyllinge,4070,5,102,1988,990000.0,17-04-2014
+Poppelvej 7,Kirke Hyllinge,4070,4,124,1964,1465000.0,15-04-2014
+Bøgevang 12,Kirke Hyllinge,4070,2,33,1966,255000.0,13-04-2014
+Ebbevænget 5,Kirke Hyllinge,4070,4,162,2005,1950000.0,10-04-2014
+Pilevang 11,Kirke Hyllinge,4070,3,63,1967,395000.0,09-04-2014
+Åbakken 42,Kirke Hyllinge,4070,3,70,1980,517500.0,09-04-2014
+Smedevej 41,Kirke Hyllinge,4070,6,145,1922,3986000.0,08-04-2014
+Niels Hansensvej 1,Kirke Hyllinge,4070,5,101,1965,790000.0,07-04-2014
+Harevænget 9,Kirke Hyllinge,4070,3,42,1966,107500.0,04-04-2014
+Højdevej 9,Kirke Hyllinge,4070,5,175,1969,1525000.0,04-04-2014
+Gudrun Børresensvej 14,Kirke Hyllinge,4070,2,118,2007,1465000.0,02-04-2014
+Hornsherredvej 236,Kirke Hyllinge,4070,2,73,1900,680000.0,21-03-2014
+Biltris Gade 14,Kirke Hyllinge,4070,4,170,1876,1900000.0,18-03-2014
+Søstersvej 5,Kirke Hyllinge,4070,7,193,1968,1105000.0,14-03-2014
+Lyndby Gade 12,Kirke Hyllinge,4070,4,125,1965,1660000.0,09-03-2014
+Troldhøj 13,Kirke Hyllinge,4070,4,86,1971,337500.0,08-03-2014
+Østergade 14,Kirke Hyllinge,4070,5,151,1920,1680000.0,06-03-2014
+Grimshøjvej 1,Kirke Hyllinge,4070,4,100,1900,225000.0,03-03-2014
+Ligustervej 41,Kirke Hyllinge,4070,4,56,1965,200000.0,26-02-2014
+Rolighedsvej 5,Kirke Hyllinge,4070,4,138,1976,1375000.0,24-02-2014
+Hornsherredvej 252,Kirke Hyllinge,4070,4,130,1999,3800000.0,24-02-2014
+Gyvelvej 5,Kirke Hyllinge,4070,4,92,1985,1060000.0,22-02-2014
+Bigårdsvej 15,Kirke Hyllinge,4070,3,143,1973,1600000.0,20-02-2014
+Højdevej 11,Kirke Hyllinge,4070,6,165,1968,1915000.0,13-02-2014
+Broagervej 4,Kirke Hyllinge,4070,7,175,1911,2765000.0,11-02-2014
+Østergade 24,Kirke Hyllinge,4070,8,357,1931,3350000.0,11-02-2014
+Åbakken 38,Kirke Hyllinge,4070,3,81,1982,421000.0,10-02-2014
+Rønnebærvej 11,Kirke Hyllinge,4070,3,56,1967,500000.0,10-02-2014
+Drosselvænget 7,Kirke Hyllinge,4070,4,61,1972,450000.0,31-01-2014
+Bakkesvinget 70,Kirke Hyllinge,4070,2,49,1980,295000.0,27-01-2014
+Kærvej 6,Kirke Hyllinge,4070,1,12,1966,150000.0,26-01-2014
+Åbakken 20,Kirke Hyllinge,4070,4,62,1980,595000.0,20-01-2014
+Ligustervej 8,Kirke Hyllinge,4070,3,44,1971,225000.0,20-01-2014
+Bøgevej 4,Kirke Hyllinge,4070,3,119,1966,1200000.0,16-01-2014
+Brunskærvej 5,Kirke Hyllinge,4070,3,55,1971,330000.0,14-01-2014
+Hjortevænget 16,Kirke Hyllinge,4070,4,90,1974,805000.0,13-01-2014
+Olaf Kristiansensvej 21,Kirke Hyllinge,4070,3,34,1961,1050000.0,10-01-2014
+Svenningsvej 2,Kirke Hyllinge,4070,3,125,1977,1293900.0,07-01-2014
+Søndervang 4,Kirke Hyllinge,4070,3,59,1976,265000.0,07-01-2014
+Hyllingeparken 76,Kirke Hyllinge,4070,4,127,1979,1395000.0,07-01-2014
+Kyndeløse Strandvej 2,Kirke Hyllinge,4070,4,83,1969,130000.0,29-12-2013
+Vintappervej 70,Kirke Hyllinge,4070,9,223,1936,1950000.0,19-12-2013
+Kærvej 3,Kirke Hyllinge,4070,1,19,1977,325000.0,16-12-2013
+Hornsherredvej 254,Kirke Hyllinge,4070,3,118,1997,3100000.0,14-12-2013
+Gershøjgårdsvej 25,Kirke Hyllinge,4070,5,185,1975,1695000.0,12-12-2013
+Fasanvej 8,Kirke Hyllinge,4070,4,124,1969,650000.0,08-12-2013
+Margrethevej 33,Kirke Hyllinge,4070,4,150,2016,280000.0,07-12-2013
+Smedegårdsvej 4G,Kirke Hyllinge,4070,3,48,1967,209000.0,04-12-2013
+Margrethevej 49,Kirke Hyllinge,4070,2,42,1972,355000.0,03-12-2013
+Blågranvej 4,Kirke Hyllinge,4070,3,54,1969,372000.0,03-12-2013
+"Ved Fjorden 3A, ST",Kirke Hyllinge,4070,4,206,2016,1600000.0,02-12-2013
+Pærevej 15,Kirke Hyllinge,4070,7,210,2006,1610000.0,28-11-2013
+Lyndby Havnevej 8,Kirke Hyllinge,4070,4,158,1969,935656.0,15-11-2013
+Valdemarsvej 3,Kirke Hyllinge,4070,4,114,1947,1800000.0,08-11-2013
+Troldbyvej 32,Kirke Hyllinge,4070,6,128,1870,3500000.0,05-11-2013
+Niels Hansensvej 13,Kirke Hyllinge,4070,4,70,2000,1600000.0,28-10-2013
+Troldkær 17,Kirke Hyllinge,4070,3,91,1967,350000.0,23-10-2013
+Tranevej 1,Kirke Hyllinge,4070,5,170,1967,1350000.0,10-10-2013
+Åhusene 16,Kirke Hyllinge,4070,3,77,1961,330000.0,03-10-2013
+Bægerbregnen 6,Kirke Hyllinge,4070,4,70,1979,388000.0,01-10-2013
+Rolighedsvej 13,Kirke Hyllinge,4070,4,119,1971,1200000.0,30-09-2013
+Øreholmvej 16,Kirke Hyllinge,4070,3,167,1962,826000.0,26-09-2013
+Åbakken 8,Kirke Hyllinge,4070,3,95,1980,460000.0,25-09-2013
+Anders Rasmussensvej 36,Kirke Hyllinge,4070,4,125,1976,1075000.0,18-09-2013
+Bægerbregnen 5,Kirke Hyllinge,4070,3,66,1978,550000.0,18-09-2013
+Åhusene 15,Kirke Hyllinge,4070,3,107,1961,178500.0,17-09-2013
+Hornsherredvej 139,Kirke Hyllinge,4070,4,175,1962,1450000.0,17-09-2013
+Harekærgårdsvej 68,Kirke Hyllinge,4070,3,82,1981,456062.0,15-09-2013
+Ejbyvej 51,Kirke Hyllinge,4070,4,93,1970,779000.0,11-09-2013
+Nyvej 8,Kirke Hyllinge,4070,4,130,1978,1200000.0,10-09-2013
+Buen 1,Kirke Hyllinge,4070,5,136,1900,450000.0,09-09-2013
+Skjoldbregnen 2,Kirke Hyllinge,4070,4,69,1969,575000.0,09-09-2013
+Troldsti 4,Kirke Hyllinge,4070,2,60,1985,1625000.0,07-09-2013
+Strandtoften 10,Kirke Hyllinge,4070,4,79,1978,995000.0,07-09-2013
+Jenslevvej 66,Kirke Hyllinge,4070,5,255,1928,3200000.0,04-09-2013
+Birkevej 7,Kirke Hyllinge,4070,3,46,1968,200000.0,02-09-2013
+Birkevej 4,Kirke Hyllinge,4070,3,64,1967,375000.0,30-08-2013
+Anders Rasmussensvej 31,Kirke Hyllinge,4070,5,128,1968,1325000.0,29-08-2013
+Skjoldbregnen 6,Kirke Hyllinge,4070,3,53,1971,400000.0,27-08-2013
+Kirkevej 20,Kirke Hyllinge,4070,5,116,1947,1095000.0,26-08-2013
+Ligustervej 28,Kirke Hyllinge,4070,3,51,1965,350000.0,26-08-2013
+Højdevang 7,Kirke Hyllinge,4070,3,53,1968,480000.0,22-08-2013
+Højdevej 6,Kirke Hyllinge,4070,5,136,1969,1400000.0,22-08-2013
+Sæbyparken 23,Kirke Hyllinge,4070,3,114,1971,900000.0,21-08-2013
+Åvangen 23,Kirke Hyllinge,4070,2,40,1988,410000.0,20-08-2013
+Kornblomstvej 15,Kirke Hyllinge,4070,5,168,1999,1667100.0,20-08-2013
+Ebbevænget 6,Kirke Hyllinge,4070,6,163,2005,2520000.0,11-08-2013
+Gudrun Børresensvej 9,Kirke Hyllinge,4070,4,185,1982,1162500.0,11-08-2013
+Gershøj Havnevej 7,Kirke Hyllinge,4070,6,229,1793,2489000.0,08-08-2013
+Skolestien 4,Kirke Hyllinge,4070,7,186,1927,2910000.0,07-08-2013
+Gershøjvænge 8,Kirke Hyllinge,4070,3,88,1989,930000.0,02-08-2013
+Rønnebærvej 13,Kirke Hyllinge,4070,4,65,1980,550000.0,02-08-2013
+Øreholmvej 14,Kirke Hyllinge,4070,3,48,1965,850000.0,01-08-2013
+Rønnevej 4,Kirke Hyllinge,4070,4,123,1966,825000.0,26-07-2013
+Hornsherredvej 406,Kirke Hyllinge,4070,4,188,1936,950000.0,26-07-2013
+Hellesvej 10,Kirke Hyllinge,4070,2,84,1968,225500.0,16-07-2013
+Bakkesvinget 26,Kirke Hyllinge,4070,4,67,1968,680000.0,03-07-2013
+Mirabellevej 6,Kirke Hyllinge,4070,3,107,2005,1720000.0,03-07-2013
+Gershøjvej 108G,Kirke Hyllinge,4070,4,114,2008,2195000.0,01-07-2013
+Hasselvej 20,Kirke Hyllinge,4070,3,50,1965,400000.0,30-06-2013
+Mosevej 3,Kirke Hyllinge,4070,5,145,1964,1750000.0,30-06-2013
+Ejby Havnevej 110,Kirke Hyllinge,4070,6,240,1877,3735000.0,30-06-2013
+Spurvevænget 10,Kirke Hyllinge,4070,3,63,1970,180000.0,25-06-2013
+Tranevej 4,Kirke Hyllinge,4070,4,139,1967,1200000.0,25-06-2013
+Nakkedamsvej 82,Kirke Hyllinge,4070,6,156,1920,1700000.0,25-06-2013
+Åhusene 9,Kirke Hyllinge,4070,5,65,1961,600000.0,23-06-2013
+Pærevej 13,Kirke Hyllinge,4070,5,135,2006,2345000.0,20-06-2013
+Hellesvej 9,Kirke Hyllinge,4070,4,81,1969,450000.0,13-06-2013
+Hyllingeparken 55,Kirke Hyllinge,4070,5,150,1978,1545000.0,12-06-2013
+Agervang 28,Kirke Hyllinge,4070,3,103,1971,1590000.0,06-06-2013
+Kyndeløse Strandvej 16,Kirke Hyllinge,4070,4,67,1972,480000.0,04-06-2013
+Kirkevej 7,Kirke Hyllinge,4070,4,162,1920,2000000.0,04-06-2013
+Præstemarksvej 11,Kirke Hyllinge,4070,5,120,1964,850000.0,04-06-2013
+Stendyssen 20,Kirke Hyllinge,4070,3,61,2004,1075000.0,04-06-2013
+Rødtjørnevej 8,Kirke Hyllinge,4070,2,40,1979,380000.0,04-06-2013
+Niels Christensensvej 6,Kirke Hyllinge,4070,6,85,1949,1054000.0,03-06-2013
+Ingridsvej 80,Kirke Hyllinge,4070,4,124,1978,1325000.0,31-05-2013
+Kambregnen 24,Kirke Hyllinge,4070,5,53,1968,495000.0,31-05-2013
+Stærevænget 3,Kirke Hyllinge,4070,3,40,1986,250000.0,31-05-2013
+Troldkær 12,Kirke Hyllinge,4070,4,133,2014,1300000.0,29-05-2013
+Rødtjørnevej 5,Kirke Hyllinge,4070,4,82,1990,1350000.0,28-05-2013
+Søstersvej 1,Kirke Hyllinge,4070,4,114,1972,265000.0,27-05-2013
+Duevænget 10,Kirke Hyllinge,4070,3,58,1974,600000.0,23-05-2013
+Strandbakken 19,Kirke Hyllinge,4070,3,61,1979,500000.0,21-05-2013
+Harekærgårdsvej 16,Kirke Hyllinge,4070,4,86,1982,890000.0,17-05-2013
+Sæbyvej 20,Kirke Hyllinge,4070,2,87,1836,400000.0,16-05-2013
+"Gårdager 10, ST",Kirke Hyllinge,4070,8,178,2015,400000.0,03-05-2013
+Niels Hansensvej 3,Kirke Hyllinge,4070,4,67,1960,350000.0,30-04-2013
+Rødtjørnevej 2,Kirke Hyllinge,4070,4,73,1977,260000.0,29-04-2013
+Bovelgårdsvej 40,Kirke Hyllinge,4070,5,170,1976,884851.0,29-04-2013
+Lyndbyparken 41,Kirke Hyllinge,4070,5,169,1983,1750000.0,20-04-2013
+Holtensmindevej 67,Kirke Hyllinge,4070,6,174,1934,950000.0,17-04-2013
+Rytterlodden 17,Kirke Hyllinge,4070,2,85,1998,2350000.0,12-04-2013
+Lærkevænget 11,Kirke Hyllinge,4070,3,46,1972,298000.0,04-04-2013
+Anders Rasmussensvej 17,Kirke Hyllinge,4070,4,146,1972,1300000.0,04-04-2013
+Ved Fjorden 15,Kirke Hyllinge,4070,6,202,1976,4250000.0,03-04-2013
+Holtensmindevej 79,Kirke Hyllinge,4070,7,127,1867,1000000.0,01-04-2013
+Stationsvej 11,Kirke Hyllinge,4070,3,104,1960,930000.0,26-03-2013
+Nørre Hyllingevej 6,Kirke Hyllinge,4070,4,96,1967,600000.0,26-03-2013
+Trekroner 1,Kirke Hyllinge,4070,6,200,1920,1600000.0,21-03-2013
+Østergade 4,Kirke Hyllinge,4070,6,176,2013,600000.0,19-03-2013
+Lyndby Havnevej 18A,Kirke Hyllinge,4070,4,124,1929,1900000.0,18-03-2013
+Mågevænget 9,Kirke Hyllinge,4070,2,37,1970,170000.0,12-03-2013
+Kærvej 18,Kirke Hyllinge,4070,3,62,1967,640000.0,08-03-2013
+Spurvevænget 17,Kirke Hyllinge,4070,4,66,2012,400000.0,01-03-2013
+Margrethevej 3,Kirke Hyllinge,4070,6,140,1971,1300000.0,01-03-2013
+Hyllingeparken 80,Kirke Hyllinge,4070,3,122,1977,1200000.0,21-02-2013
+Vellerupvej 11,Kirke Hyllinge,4070,4,110,1857,240000.0,19-02-2013
+Ejbyvej 65,Kirke Hyllinge,4070,4,121,1941,700000.0,18-02-2013
+Kirkevej 47,Kirke Hyllinge,4070,4,120,1920,1125000.0,16-02-2013
+Karlebyvej 15,Kirke Hyllinge,4070,6,108,1942,1275000.0,12-02-2013
+Søndervang 6,Kirke Hyllinge,4070,3,50,1969,190000.0,08-02-2013
+Ejby Strandvej 3,Kirke Hyllinge,4070,5,151,1937,3150000.0,05-02-2013
+Elmevang 13,Kirke Hyllinge,4070,1,62,1999,280000.0,05-02-2013
+Bigårdsvej 24,Kirke Hyllinge,4070,10,317,1905,3150000.0,05-02-2013
+Ejbybrovej 36,Kirke Hyllinge,4070,3,79,1970,498000.0,05-02-2013
+Bygaden 16,Kirke Hyllinge,4070,4,96,1954,915000.0,30-01-2013
+Vintappervej 46,Kirke Hyllinge,4070,2,110,1900,777500.0,18-01-2013
+Bygaden 21,Kirke Hyllinge,4070,5,102,1928,814000.0,10-01-2013
+Hindebregnen 8,Kirke Hyllinge,4070,3,55,1973,730000.0,10-01-2013
+Gershøjvej 108F,Kirke Hyllinge,4070,4,164,2008,2450000.0,10-01-2013
+Gyvelvej 10,Kirke Hyllinge,4070,3,93,1986,675000.0,07-01-2013
+Sydager 2,Kirke Hyllinge,4070,4,127,2016,295000.0,31-12-2012
+Stendyssen 19,Kirke Hyllinge,4070,2,50,1977,920000.0,27-12-2012
+Skovbrynet 26,Kirke Hyllinge,4070,3,60,1969,900000.0,24-12-2012
+Rytterlodden 1,Kirke Hyllinge,4070,3,44,1963,290600.0,20-12-2012
+Lyndby Gade 1A,Kirke Hyllinge,4070,3,128,1775,375000.0,19-12-2012
+Mirabellevej 7,Kirke Hyllinge,4070,5,137,2005,1955000.0,17-12-2012
+Olaf Kristiansensvej 39,Kirke Hyllinge,4070,1,33,1947,1040000.0,14-12-2012
+Skovbrynet 46,Kirke Hyllinge,4070,3,108,1998,2650000.0,13-12-2012
+Boesvej 5,Kirke Hyllinge,4070,9,206,1967,1600000.0,05-12-2012
+Bøgevang 5,Kirke Hyllinge,4070,1,40,1967,280000.0,03-12-2012
+Frejasvej 8,Kirke Hyllinge,4070,2,22,1966,300000.0,30-11-2012
+Harevænget 10,Kirke Hyllinge,4070,3,50,1973,200000.0,30-11-2012
+Margrethevej 35,Kirke Hyllinge,4070,3,49,1976,355000.0,29-11-2012
+Mejsevænget 3,Kirke Hyllinge,4070,3,45,1973,425000.0,26-11-2012
+Åhusene 29,Kirke Hyllinge,4070,3,50,1960,150000.0,18-11-2012
+Bovelgårdsvej 15,Kirke Hyllinge,4070,4,129,1978,1360000.0,15-11-2012
+Valnøddevej 16,Kirke Hyllinge,4070,5,162,2006,2595000.0,09-11-2012
+Bittensvej 7,Kirke Hyllinge,4070,5,150,1976,1100000.0,08-11-2012
+Drosselvænget 2,Kirke Hyllinge,4070,2,37,1971,180000.0,06-11-2012
+Bybrønden 11B,Kirke Hyllinge,4070,5,109,1985,1195000.0,25-10-2012
+Birkevej 6,Kirke Hyllinge,4070,3,59,1968,550000.0,25-10-2012
+Åbakken 13,Kirke Hyllinge,4070,3,102,2010,1100000.0,24-10-2012
+Åbakken 40,Kirke Hyllinge,4070,3,67,1980,550000.0,21-10-2012
+Strandagervænge 18,Kirke Hyllinge,4070,4,72,1970,600000.0,16-10-2012
+Gammel Skolevej 4,Kirke Hyllinge,4070,6,181,1777,950000.0,15-10-2012
+Sæbyparken 17,Kirke Hyllinge,4070,4,119,1972,1015000.0,13-10-2012
+Åhusene 24,Kirke Hyllinge,4070,4,70,1961,350000.0,13-10-2012
+Fuglehavevej 12,Kirke Hyllinge,4070,3,91,1970,1053750.0,12-10-2012
+Tranemosevej 9,Kirke Hyllinge,4070,5,176,1987,2400000.0,09-10-2012
+Troldkær 3,Kirke Hyllinge,4070,2,57,1970,625000.0,01-10-2012
+Ejby Strandvej 23,Kirke Hyllinge,4070,5,138,1960,1225000.0,29-09-2012
+Ingridsvej 114,Kirke Hyllinge,4070,4,115,1978,1035000.0,24-09-2012
+Vintappervej 45,Kirke Hyllinge,4070,7,329,1905,1084450.0,24-09-2012
+Åbakken 12,Kirke Hyllinge,4070,2,46,1989,350000.0,17-09-2012
+Stendyssen 9,Kirke Hyllinge,4070,3,50,1965,325000.0,11-09-2012
+Bakkesvinget 9,Kirke Hyllinge,4070,5,66,1969,445000.0,07-09-2012
+Harevænget 8,Kirke Hyllinge,4070,5,96,1985,100000.0,06-09-2012
+Kornbakken 4,Kirke Hyllinge,4070,4,101,1967,840000.0,06-09-2012
+Øreholmvej 12A,Kirke Hyllinge,4070,4,144,1982,1950000.0,05-09-2012
+Gærdet 3,Kirke Hyllinge,4070,4,138,1967,1170000.0,04-09-2012
+Skovbrynet 6,Kirke Hyllinge,4070,5,92,1981,480000.0,04-09-2012
+Strandagervænge 4,Kirke Hyllinge,4070,3,65,1972,544000.0,01-09-2012
+Valmuevej 8,Kirke Hyllinge,4070,5,145,1999,947500.0,31-08-2012
+Mågevej 12,Kirke Hyllinge,4070,6,131,2013,875000.0,27-08-2012
+Kambregnen 22,Kirke Hyllinge,4070,2,52,2009,950000.0,23-08-2012
+Karlebyvej 4,Kirke Hyllinge,4070,6,141,1950,1175000.0,23-08-2012
+Valdemarsvej 2,Kirke Hyllinge,4070,4,90,1953,800000.0,18-08-2012
+Møllevej 5,Kirke Hyllinge,4070,4,120,1966,1710000.0,17-08-2012
+Hjortevænget 6,Kirke Hyllinge,4070,3,50,1969,625000.0,16-08-2012
+Højdevang 3,Kirke Hyllinge,4070,3,51,1973,365000.0,14-08-2012
+Åhusene 46,Kirke Hyllinge,4070,3,58,1961,130000.0,07-08-2012
+Brombærhaven 5,Kirke Hyllinge,4070,5,156,2007,1000000.0,06-08-2012
+Gudrun Børresensvej 20,Kirke Hyllinge,4070,4,119,2000,2100000.0,06-08-2012
+Bakkesvinget 22,Kirke Hyllinge,4070,5,82,2005,1000000.0,02-08-2012
+Troldager 4,Kirke Hyllinge,4070,6,70,1964,395000.0,30-07-2012
+Hasselvej 25,Kirke Hyllinge,4070,3,71,1969,495000.0,20-07-2012
+Hornsherredvej 431,Kirke Hyllinge,4070,5,180,1906,80046.0,20-07-2012
+Elverdamsvej 301,Kirke Hyllinge,4070,6,139,1955,1150000.0,19-07-2012
+Taaftegaards Vænge 3,Kirke Hyllinge,4070,6,138,2005,2000000.0,19-07-2012
+Mågevej 4,Kirke Hyllinge,4070,3,49,1964,430000.0,10-07-2012
+Østermarken 5,Kirke Hyllinge,4070,3,176,1984,1995000.0,05-07-2012
+Hornsherredvej 449,Kirke Hyllinge,4070,11,190,1917,950000.0,04-07-2012
+Vibevej 12,Kirke Hyllinge,4070,3,80,1969,520000.0,04-07-2012
+Mågevænget 11,Kirke Hyllinge,4070,4,79,1973,475000.0,27-06-2012
+Kjøbmagergade 26,Kirke Hyllinge,4070,3,110,1973,675000.0,27-06-2012
+Tværvej 9,Kirke Hyllinge,4070,4,160,1917,1950000.0,27-06-2012
+Bovelgårdsvej 14,Kirke Hyllinge,4070,6,145,1972,1450000.0,27-06-2012
+Margrethevej 25,Kirke Hyllinge,4070,4,84,1965,1050000.0,15-06-2012
+Ejbyvej 48,Kirke Hyllinge,4070,3,159,1923,3090000.0,07-06-2012
+Åbakken 80,Kirke Hyllinge,4070,4,75,1997,800000.0,05-06-2012
+Brusagervej 20,Kirke Hyllinge,4070,3,118,2013,250000.0,03-06-2012
+Karlebyvej 68,Kirke Hyllinge,4070,6,149,1837,1550000.0,01-06-2012
+Svenningsvej 6,Kirke Hyllinge,4070,4,124,1975,1195000.0,24-05-2012
+Vellerupvej 6,Kirke Hyllinge,4070,3,112,1860,705874.0,24-05-2012
+Nordmarksvej 19,Kirke Hyllinge,4070,7,173,1901,2950000.0,23-05-2012
+Lærkevej 17,Kirke Hyllinge,4070,6,106,1967,695000.0,22-05-2012
+Hjørnegårdsvej 16,Kirke Hyllinge,4070,5,172,1915,1350000.0,22-05-2012
+Irisvej 11,Kirke Hyllinge,4070,4,128,1989,1625000.0,18-05-2012
+Askevej 11,Kirke Hyllinge,4070,5,154,1973,1275000.0,17-05-2012
+Grønagergårdsvej 6,Kirke Hyllinge,4070,4,136,1998,1750000.0,15-05-2012
+Ebbevænget 8,Kirke Hyllinge,4070,7,262,2006,2913000.0,11-05-2012
+Brusagervej 14,Kirke Hyllinge,4070,5,120,1999,1200000.0,30-04-2012
+Birkevej 15,Kirke Hyllinge,4070,2,48,1965,340000.0,30-04-2012
+Agervang 16,Kirke Hyllinge,4070,4,77,1968,1300000.0,30-04-2012
+Kornbakken 12,Kirke Hyllinge,4070,4,109,1970,1000000.0,27-04-2012
+Rødtjørnevej 35,Kirke Hyllinge,4070,4,150,1997,2350000.0,27-04-2012
+Egebregnen 1,Kirke Hyllinge,4070,3,59,1972,495000.0,26-04-2012
+Margrethevej 11,Kirke Hyllinge,4070,5,169,1968,1175000.0,24-04-2012
+Hasselvej 17,Kirke Hyllinge,4070,1,77,1973,400000.0,24-04-2012
+Åskrænten 11,Kirke Hyllinge,4070,3,50,1980,475000.0,24-04-2012
+Stærevænget 8,Kirke Hyllinge,4070,3,80,2004,260000.0,24-04-2012
+Kambregnen 7,Kirke Hyllinge,4070,4,62,1976,612500.0,23-04-2012
+Kambregnen 17,Kirke Hyllinge,4070,3,59,1969,450000.0,20-04-2012
+Boesvej 9,Kirke Hyllinge,4070,5,175,1965,1300000.0,19-04-2012
+Øreholmvej 22,Kirke Hyllinge,4070,7,184,1964,3900000.0,18-04-2012
+Præstholmvej 5,Kirke Hyllinge,4070,4,122,1975,1057905.0,17-04-2012
+Præstemarksvej 9,Kirke Hyllinge,4070,4,118,1966,995000.0,16-04-2012
+Ørnebregnen 15,Kirke Hyllinge,4070,2,35,1968,340000.0,05-04-2012
+Åbakken 78,Kirke Hyllinge,4070,4,82,1977,610000.0,03-04-2012
+Bakkesvinget 38,Kirke Hyllinge,4070,4,74,1970,350000.0,03-04-2012
+Harevænget 2,Kirke Hyllinge,4070,3,40,1975,250000.0,02-04-2012
+Lillegade 2,Kirke Hyllinge,4070,6,135,1890,1700000.0,29-03-2012
+Lyndby Havnevej 11,Kirke Hyllinge,4070,3,121,1929,1500000.0,23-03-2012
+Ingridsvej 36,Kirke Hyllinge,4070,4,144,1979,800000.0,18-03-2012
+Løvkjærgaardsvej 13,Kirke Hyllinge,4070,5,128,1994,1400000.0,15-03-2012
+Strandbakken 27,Kirke Hyllinge,4070,3,91,1965,850000.0,02-03-2012
+Østergade 8,Kirke Hyllinge,4070,3,56,1940,380000.0,26-02-2012
+Rødtjørnevej 6,Kirke Hyllinge,4070,5,108,2007,1200000.0,25-02-2012
+Hornsherredvej 234,Kirke Hyllinge,4070,3,65,1935,375000.0,21-02-2012
+Øreholmvej 1,Kirke Hyllinge,4070,3,116,1987,1750000.0,20-02-2012
+Egernvænget 4,Kirke Hyllinge,4070,4,62,1984,500000.0,16-02-2012
+Hornsherredvej 304,Kirke Hyllinge,4070,6,81,1929,1100000.0,14-02-2012
+Kildevænget 8,Kirke Hyllinge,4070,4,111,1989,900000.0,10-02-2012
+Hvidemosevej 11,Kirke Hyllinge,4070,3,75,1877,425000.0,10-02-2012
+Åbakken 82,Kirke Hyllinge,4070,6,90,1948,1150000.0,09-02-2012
+Bigårdsvej 55,Kirke Hyllinge,4070,7,187,1977,1100000.0,08-02-2012
+Svalevænget 5,Kirke Hyllinge,4070,5,64,1971,130000.0,07-02-2012
+Ejby Havnevej 104,Kirke Hyllinge,4070,3,182,1924,1400000.0,06-02-2012
+Tværvej 57,Kirke Hyllinge,4070,6,171,1725,3989000.0,04-02-2012
+Hornsherredvej 298,Kirke Hyllinge,4070,2,89,1963,1700000.0,02-02-2012
+Fjerbregnen 9,Kirke Hyllinge,4070,1,16,1969,175000.0,31-01-2012
+Vestager 6,Kirke Hyllinge,4070,7,155,2014,298000.0,31-01-2012
+Vestager 4,Kirke Hyllinge,4070,6,145,2014,295000.0,31-01-2012
+Vestager 7,Kirke Hyllinge,4070,5,180,2015,325000.0,31-01-2012
+Vestager 10,Kirke Hyllinge,4070,7,200,2013,295000.0,31-01-2012
+Sydager 11,Kirke Hyllinge,4070,5,150,2016,295000.0,31-01-2012
+Nordager 8,Kirke Hyllinge,4070,7,229,2014,295000.0,31-01-2012
+Vestager 9,Kirke Hyllinge,4070,7,195,2015,325000.0,31-01-2012
+Muldager 12,Kirke Hyllinge,4070,7,170,2016,295000.0,31-01-2012
+Nordager 1,Kirke Hyllinge,4070,6,155,2016,295000.0,31-01-2012
+"Muldager 8, ST",Kirke Hyllinge,4070,5,145,2015,295000.0,31-01-2012
+Sydager 6,Kirke Hyllinge,4070,7,167,2014,295000.0,31-01-2012
+"Muldager 2, ST",Kirke Hyllinge,4070,4,147,2016,295000.0,31-01-2012
+Sydager 8,Kirke Hyllinge,4070,4,219,2017,295000.0,31-01-2012
+Vådager 8,Kirke Hyllinge,4070,7,174,2014,300100.0,31-01-2012
+Sydager 1,Kirke Hyllinge,4070,5,165,2015,295000.0,31-01-2012
+Nordager 6,Kirke Hyllinge,4070,6,157,2014,295000.0,31-01-2012
+Vestager 2,Kirke Hyllinge,4070,4,153,2014,295000.0,31-01-2012
+"Muldager 4, ST",Kirke Hyllinge,4070,5,145,2015,295000.0,31-01-2012
+Vådager 2,Kirke Hyllinge,4070,6,145,2015,295000.0,31-01-2012
+Vådager 9,Kirke Hyllinge,4070,6,200,2016,295000.0,31-01-2012
+Sydager 12,Kirke Hyllinge,4070,5,166,2016,295000.0,31-01-2012
+"Sydager 9, ST",Kirke Hyllinge,4070,5,170,2016,295000.0,31-01-2012
+Muldager 3,Kirke Hyllinge,4070,7,155,2015,295000.0,31-01-2012
+Sydager 10,Kirke Hyllinge,4070,3,146,2015,295000.0,31-01-2012
+Vådager 1,Kirke Hyllinge,4070,6,145,2014,295000.0,31-01-2012
+Muldager 10,Kirke Hyllinge,4070,6,135,2016,295000.0,31-01-2012
+Nordager 2,Kirke Hyllinge,4070,7,159,2016,295000.0,31-01-2012
+Muldager 7,Kirke Hyllinge,4070,6,168,2016,295000.0,31-01-2012
+Muldager 11,Kirke Hyllinge,4070,6,200,2016,295000.0,31-01-2012
+Vådager 4,Kirke Hyllinge,4070,4,202,2017,295000.0,31-01-2012
+Nordmarksvej 29,Kirke Hyllinge,4070,6,235,1923,3495000.0,20-01-2012
+Karlebyvej 129,Kirke Hyllinge,4070,7,187,1913,965000.0,19-01-2012
+Vinkelvej 7,Kirke Hyllinge,4070,4,120,1973,1085000.0,13-01-2012
+Taaftegaards Vænge 6,Kirke Hyllinge,4070,4,135,2004,2350000.0,10-01-2012
+Rønnevej 9,Kirke Hyllinge,4070,3,126,1977,1330000.0,05-01-2012
+Anders Rasmussensvej 15,Kirke Hyllinge,4070,4,152,1971,1175000.0,03-01-2012
+Ved Fjorden 14,Kirke Hyllinge,4070,4,117,1979,1775000.0,03-01-2012
+Smedevej 13,Kirke Hyllinge,4070,7,154,1881,1926844.0,28-12-2011
+Mågevej 10,Kirke Hyllinge,4070,3,84,1990,1487500.0,20-12-2011
+Ørnebregnen 10,Kirke Hyllinge,4070,3,62,1968,484500.0,12-12-2011
+Mågevænget 7,Kirke Hyllinge,4070,3,41,1968,275000.0,07-12-2011
+Hornsherredvej 451,Kirke Hyllinge,4070,5,136,1969,1530000.0,07-12-2011
+Strandagervænge 38,Kirke Hyllinge,4070,5,82,1967,53469.0,30-11-2011
+Gyvelvej 12,Kirke Hyllinge,4070,3,94,1986,685000.0,29-11-2011
+Mellemvang 10,Kirke Hyllinge,4070,3,60,1972,545000.0,29-11-2011
+Bøgegårdsvej 4,Kirke Hyllinge,4070,9,266,1986,320000.0,27-11-2011
+Humlevænget 3,Kirke Hyllinge,4070,4,79,1981,460000.0,22-11-2011
+Brusagervej 31,Kirke Hyllinge,4070,3,52,1961,900000.0,19-11-2011
+Biltris Gade 15,Kirke Hyllinge,4070,5,150,2007,1595000.0,18-11-2011
+Clematisvej 6,Kirke Hyllinge,4070,4,80,1970,480000.0,15-11-2011
+Vinkelvej 11,Kirke Hyllinge,4070,4,156,1976,1625000.0,14-11-2011
+Svalevej 6,Kirke Hyllinge,4070,3,54,1968,450000.0,11-11-2011
+Skolestien 1,Kirke Hyllinge,4070,5,171,1880,5750000.0,03-11-2011
+Hyllingeparken 21,Kirke Hyllinge,4070,5,161,1976,2100000.0,26-10-2011
+Østergade 7,Kirke Hyllinge,4070,3,153,1847,1325000.0,25-10-2011
+Ejby Strandvej 14,Kirke Hyllinge,4070,5,174,1969,1100000.0,21-10-2011
+Syrenvej 14,Kirke Hyllinge,4070,3,50,1971,525000.0,20-10-2011
+Bigårdsvej 56,Kirke Hyllinge,4070,5,161,1999,2275000.0,13-10-2011
+Smedegårdsvej 5C,Kirke Hyllinge,4070,4,72,1974,1650000.0,13-10-2011
+Gershøjvej 115,Kirke Hyllinge,4070,5,162,1963,1325000.0,11-10-2011
+Syrenvej 8,Kirke Hyllinge,4070,3,41,1972,550000.0,03-10-2011
+Strædet 13C,Kirke Hyllinge,4070,4,111,1987,792000.0,01-10-2011
+Nordmarksvej 11,Kirke Hyllinge,4070,6,214,1974,4340000.0,30-09-2011
+Duevænget 12,Kirke Hyllinge,4070,2,53,1989,188600.0,28-09-2011
+Åhusene 26,Kirke Hyllinge,4070,5,82,1961,900000.0,21-09-2011
+Valmuevej 7,Kirke Hyllinge,4070,6,179,1998,2100000.0,21-09-2011
+Ejbyvej 52,Kirke Hyllinge,4070,8,175,1927,1337450.0,16-09-2011
+Gyvelvej 16,Kirke Hyllinge,4070,5,95,1986,900000.0,14-09-2011
+Hasselvej 8,Kirke Hyllinge,4070,3,81,1974,600000.0,08-09-2011
+Kornbakken 25,Kirke Hyllinge,4070,3,108,1969,1250000.0,04-09-2011
+Tjørnevangen 1,Kirke Hyllinge,4070,4,114,2004,1650000.0,31-08-2011
+Knudsvej 24,Kirke Hyllinge,4070,5,194,1971,1175000.0,30-08-2011
+Strædet 16,Kirke Hyllinge,4070,4,125,1961,995000.0,29-08-2011
+Gershøjgårdsvej 6,Kirke Hyllinge,4070,7,204,1972,950000.0,15-08-2011
+Pilevej 25,Kirke Hyllinge,4070,5,171,1969,800000.0,14-08-2011
+Sydmarksvej 28,Kirke Hyllinge,4070,3,102,1968,1195000.0,11-08-2011
+Kyndeløse Strandvej 12,Kirke Hyllinge,4070,4,77,1971,250000.0,10-08-2011
+Olaf Kristiansensvej 3,Kirke Hyllinge,4070,3,142,1939,1275000.0,08-08-2011
+Ilsøevej 1,Kirke Hyllinge,4070,3,53,1962,730000.0,04-08-2011
+Kambregnen 3,Kirke Hyllinge,4070,4,91,1971,600000.0,01-08-2011
+Rytterlodden 14,Kirke Hyllinge,4070,4,66,2000,810000.0,27-07-2011
+Vibevænget 5,Kirke Hyllinge,4070,3,52,1969,625000.0,21-07-2011
+Hyldebjerggårdsvej 2,Kirke Hyllinge,4070,6,184,2008,2650000.0,18-07-2011
+Odinsvej 3,Kirke Hyllinge,4070,3,37,1972,450000.0,14-07-2011
+Mosevej 1,Kirke Hyllinge,4070,4,132,1964,2200000.0,14-07-2011
+Troldager 12,Kirke Hyllinge,4070,2,44,1962,495000.0,06-07-2011
+Skjoldbregnen 1,Kirke Hyllinge,4070,4,80,2007,1075000.0,01-07-2011
+Kærvej 1,Kirke Hyllinge,4070,5,77,1966,950000.0,29-06-2011
+Mågevænget 15,Kirke Hyllinge,4070,2,68,1971,765000.0,27-06-2011
+Cedervej 10,Kirke Hyllinge,4070,4,62,1971,400000.0,23-06-2011
+Ligustervej 25,Kirke Hyllinge,4070,4,121,2013,90000.0,23-06-2011
+Kyndeløse Strandvej 18,Kirke Hyllinge,4070,4,90,1967,825000.0,22-06-2011
+Kongebregnen 15,Kirke Hyllinge,4070,3,85,1972,700000.0,22-06-2011
+Grønagergårdsvej 5,Kirke Hyllinge,4070,4,103,1912,1300000.0,17-06-2011
+Præstemarksvej 15,Kirke Hyllinge,4070,7,315,1966,1350000.0,16-06-2011
+Tjørnevangen 8,Kirke Hyllinge,4070,6,178,2005,1965000.0,16-06-2011
+Gyvelvej 9,Kirke Hyllinge,4070,5,95,1985,900000.0,06-06-2011
+Hasselvej 18,Kirke Hyllinge,4070,3,58,1971,475000.0,04-06-2011
+Troldkær 6,Kirke Hyllinge,4070,3,40,1966,685000.0,30-05-2011
+Rødtjørnevej 41,Kirke Hyllinge,4070,4,97,2012,310000.0,24-05-2011
+Egevej 4,Kirke Hyllinge,4070,5,124,1969,940000.0,23-05-2011
+Fjerbregnen 14,Kirke Hyllinge,4070,6,100,1985,500000.0,17-05-2011
+Claus Henrisvej 2,Kirke Hyllinge,4070,3,108,1971,895000.0,16-05-2011
+Syrenvej 10,Kirke Hyllinge,4070,5,94,1968,260000.0,06-05-2011
+Åsvinget 6,Kirke Hyllinge,4070,3,51,1976,560000.0,03-05-2011
+Boesvej 7,Kirke Hyllinge,4070,5,133,1967,480000.0,03-05-2011
+Stærevænget 7,Kirke Hyllinge,4070,3,53,2000,265000.0,03-05-2011
+Strandagervænge 41,Kirke Hyllinge,4070,3,45,1983,1595000.0,01-05-2011
+Knudsvej 1,Kirke Hyllinge,4070,4,118,1969,950000.0,01-05-2011
+Fuglehavevej 23,Kirke Hyllinge,4070,4,80,1969,1100000.0,26-04-2011
+Æblerosevej 22,Kirke Hyllinge,4070,3,64,1980,186915.0,20-04-2011
+Lyndby Gade 17,Kirke Hyllinge,4070,5,161,1920,1900000.0,18-04-2011
+Ingridsvej 20,Kirke Hyllinge,4070,4,123,1978,1115000.0,11-04-2011
+Ligustervej 39,Kirke Hyllinge,4070,3,71,1971,612000.0,06-04-2011
+Birkevej 10,Kirke Hyllinge,4070,3,40,1966,200479.0,05-04-2011
+Bramsnæsvigvej 1,Kirke Hyllinge,4070,3,58,1960,770000.0,04-04-2011
+Svalevænget 6,Kirke Hyllinge,4070,3,64,1970,346500.0,31-03-2011
+Harekærgårdsvej 7,Kirke Hyllinge,4070,3,183,1958,2400000.0,31-03-2011
+Hasselvej 19,Kirke Hyllinge,4070,3,94,1968,750000.0,31-03-2011
+Svalevænget 10,Kirke Hyllinge,4070,3,55,1966,545000.0,24-03-2011
+Sæbyvej 53,Kirke Hyllinge,4070,4,121,1938,750000.0,22-03-2011
+Bøgevang 15,Kirke Hyllinge,4070,3,99,1966,785000.0,21-03-2011
+Bøgevang 6,Kirke Hyllinge,4070,3,66,1970,410000.0,17-03-2011
+Spurvevænget 11,Kirke Hyllinge,4070,3,57,1969,520000.0,15-03-2011
+Strandagervænge 40,Kirke Hyllinge,4070,3,68,1971,1225000.0,11-03-2011
+Strandbakken 18,Kirke Hyllinge,4070,3,56,1966,218577.0,11-03-2011
+Fjerbregnen 10,Kirke Hyllinge,4070,5,72,1972,382500.0,04-03-2011
+Margrethevej 12,Kirke Hyllinge,4070,4,131,1966,1250000.0,03-03-2011
+Jenslevvej 69,Kirke Hyllinge,4070,7,290,1840,3300000.0,03-03-2011
+Strandagervænge 22,Kirke Hyllinge,4070,4,60,1969,400000.0,02-03-2011
+Kyndeløsevej 22,Kirke Hyllinge,4070,7,226,1872,2850000.0,01-03-2011
+Margrethevej 5,Kirke Hyllinge,4070,6,172,1974,950000.0,23-02-2011
+Troldhøj 5,Kirke Hyllinge,4070,2,35,1973,645000.0,20-02-2011
+Harekærgårdsvej 47,Kirke Hyllinge,4070,3,100,1979,935000.0,12-02-2011
+Bægerbregnen 2,Kirke Hyllinge,4070,3,55,1975,637500.0,08-02-2011
+Anders Rasmussensvej 32,Kirke Hyllinge,4070,6,168,1975,1600000.0,04-02-2011
+Pilevang 15,Kirke Hyllinge,4070,3,60,1967,220000.0,01-02-2011
+Præstholmvej 2B,Kirke Hyllinge,4070,3,126,1969,1150000.0,24-01-2011
+Harekærgårdsvej 28,Kirke Hyllinge,4070,3,50,1980,350000.0,20-01-2011
+Strandengen 7,Kirke Hyllinge,4070,3,48,1985,675000.0,11-01-2011
+Henriksvej 4,Kirke Hyllinge,4070,7,157,1974,2395000.0,10-01-2011
+Lærkevænget 15,Kirke Hyllinge,4070,2,39,1967,299686.0,01-01-2011
+Åsen 8,Kirke Hyllinge,4070,3,56,1982,325000.0,22-12-2010
+Østergade 3,Kirke Hyllinge,4070,5,134,1834,1500000.0,21-12-2010
+Æblerosevej 4,Kirke Hyllinge,4070,4,76,1972,350000.0,16-12-2010
+Nordmarksvej 47,Kirke Hyllinge,4070,3,93,1770,1000000.0,15-12-2010
+Åsen 6,Kirke Hyllinge,4070,4,98,1984,920000.0,10-12-2010
+Trehøjevej 26,Kirke Hyllinge,4070,5,200,1869,2300000.0,09-12-2010
+Lyndbyparken 22,Kirke Hyllinge,4070,4,128,1984,1830000.0,30-11-2010
+Åsen 11,Kirke Hyllinge,4070,3,58,2003,810000.0,25-11-2010
+Tværvej 11,Kirke Hyllinge,4070,4,105,1912,1994000.0,23-11-2010
+Henriksvej 17,Kirke Hyllinge,4070,4,131,1968,832622.0,19-11-2010
+Pærevej 11,Kirke Hyllinge,4070,5,133,2005,2280000.0,18-11-2010
+Hyllingeparken 15B,Kirke Hyllinge,4070,5,180,1980,1915000.0,17-11-2010
+Gershøjgårdsvej 10,Kirke Hyllinge,4070,5,171,1973,806050.0,14-11-2010
+Brombærhaven 18,Kirke Hyllinge,4070,3,92,2007,1575000.0,09-11-2010
+Margrethevej 15,Kirke Hyllinge,4070,3,95,1967,750000.0,09-11-2010
+Rolighedsvej 24,Kirke Hyllinge,4070,5,119,1986,1545000.0,06-11-2010
+Ingridsvej 32,Kirke Hyllinge,4070,4,110,1973,1700000.0,01-11-2010
+Præstholmvej 10,Kirke Hyllinge,4070,5,191,1973,894000.0,01-11-2010
+Spurvevej 8,Kirke Hyllinge,4070,3,65,1965,500000.0,29-10-2010
+Åsvinget 12,Kirke Hyllinge,4070,3,33,1991,385000.0,25-10-2010
+Humlevænget 30,Kirke Hyllinge,4070,4,105,2011,650000.0,25-10-2010
+Drosselvej 8,Kirke Hyllinge,4070,4,64,1965,710000.0,22-10-2010
+Elverdamsvej 218,Kirke Hyllinge,4070,5,156,1947,1450000.0,20-10-2010
+Granbakken 11,Kirke Hyllinge,4070,5,233,2001,7900000.0,20-10-2010
+Engvej 7,Kirke Hyllinge,4070,4,115,1969,1450000.0,17-10-2010
+Knudsvej 8,Kirke Hyllinge,4070,4,193,1974,995000.0,12-10-2010
+Hornsherredvej 433D,Kirke Hyllinge,4070,4,95,1988,1175000.0,29-09-2010
+Rødtjørnevej 13,Kirke Hyllinge,4070,4,81,1979,365000.0,23-09-2010
+Dyssemosen 33,Kirke Hyllinge,4070,4,179,1973,2190000.0,17-09-2010
+Gershøjvej 92,Kirke Hyllinge,4070,4,156,2003,1800000.0,17-09-2010
+Kambregnen 10,Kirke Hyllinge,4070,3,88,1996,975000.0,10-09-2010
+Karlebyvej 12,Kirke Hyllinge,4070,3,83,1961,900000.0,10-09-2010
+"Gershøjvej 108B, 1",Kirke Hyllinge,4070,5,183,2009,3556000.0,10-09-2010
+Vådager 5,Kirke Hyllinge,4070,5,154,2011,600000.0,10-09-2010
+Karlebyvej 73B,Kirke Hyllinge,4070,2,96,1904,650000.0,03-09-2010
+Gershøjvej 75,Kirke Hyllinge,4070,6,182,2011,800000.0,02-09-2010
+Bøgevang 19,Kirke Hyllinge,4070,4,62,1968,895000.0,29-08-2010
+Blommevej 1,Kirke Hyllinge,4070,5,179,2004,2475000.0,24-08-2010
+Troldkær 9,Kirke Hyllinge,4070,5,119,1973,1675000.0,20-08-2010
+Karlebyvej 73A,Kirke Hyllinge,4070,6,242,1904,1300000.0,20-08-2010
+Østergade 28,Kirke Hyllinge,4070,9,246,2012,6500000.0,20-08-2010
+Sæbyparken 22A,Kirke Hyllinge,4070,5,167,1971,1795000.0,15-08-2010
+Stendyssen 10,Kirke Hyllinge,4070,3,37,1967,610000.0,11-08-2010
+Ørnebregnen 9,Kirke Hyllinge,4070,3,46,1970,240000.0,10-08-2010
+Fuglehavevej 9,Kirke Hyllinge,4070,3,38,1965,459000.0,06-08-2010
+Kærvej 8,Kirke Hyllinge,4070,3,72,1978,695000.0,03-08-2010
+Ahornvej 10,Kirke Hyllinge,4070,2,59,1969,200000.0,30-07-2010
+Kambregnen 19,Kirke Hyllinge,4070,3,50,1970,625000.0,28-07-2010
+Præstholmvej 7,Kirke Hyllinge,4070,4,108,1973,1250000.0,22-07-2010
+Hornsherredvej 196B,Kirke Hyllinge,4070,8,191,1912,5750000.0,14-07-2010
+Valnøddevej 13,Kirke Hyllinge,4070,5,182,2009,2600000.0,14-07-2010
+Mejsevænget 16,Kirke Hyllinge,4070,3,65,1967,530000.0,13-07-2010
+Højdevej 22,Kirke Hyllinge,4070,5,127,1969,650000.0,05-07-2010
+Niels Christensensvej 7,Kirke Hyllinge,4070,4,86,1978,1133000.0,03-07-2010
+Åhusene 39,Kirke Hyllinge,4070,4,60,1961,250000.0,02-07-2010
+Lindegårdsvej 3,Kirke Hyllinge,4070,7,153,1919,2350000.0,01-07-2010
+Åbakken 9,Kirke Hyllinge,4070,3,52,1979,600000.0,28-06-2010
+Gershøjvej 89,Kirke Hyllinge,4070,3,107,1810,1658998.0,24-06-2010
+Knudsvej 16,Kirke Hyllinge,4070,4,133,1975,570000.0,23-06-2010
+Bjergfyrvej 20,Kirke Hyllinge,4070,4,85,1966,550000.0,22-06-2010
+Mirabellevej 11,Kirke Hyllinge,4070,5,154,2004,2100000.0,20-06-2010
+Højdevej 18,Kirke Hyllinge,4070,4,130,1968,1225000.0,18-06-2010
+Pilevang 10,Kirke Hyllinge,4070,4,66,1965,272900.0,11-06-2010
+Muldager 6,Kirke Hyllinge,4070,5,162,2011,580000.0,09-06-2010
+Hornsherredvej 232,Kirke Hyllinge,4070,5,164,1989,4550000.0,08-06-2010
+Svalevej 1,Kirke Hyllinge,4070,3,65,2013,525000.0,04-06-2010
+Niels Hansensvej 5,Kirke Hyllinge,4070,5,141,1996,1650000.0,01-06-2010
+Bogårdsvej 6,Kirke Hyllinge,4070,3,71,1946,227500.0,31-05-2010
+Præstemarksvej 21,Kirke Hyllinge,4070,5,123,1968,1325000.0,30-05-2010
+Bøgevej 24,Kirke Hyllinge,4070,5,104,1962,950000.0,28-05-2010
+Harevænget 15,Kirke Hyllinge,4070,5,79,1967,435000.0,27-05-2010
+Vellerupvej 10,Kirke Hyllinge,4070,7,190,1885,1900000.0,25-05-2010
+Kamillevej 6,Kirke Hyllinge,4070,4,162,2000,2590000.0,21-05-2010
+Åbakken 32,Kirke Hyllinge,4070,3,60,1986,975000.0,19-05-2010
+Hasselvej 21,Kirke Hyllinge,4070,3,52,1972,650000.0,10-05-2010
+Gershøjvej 64,Kirke Hyllinge,4070,4,130,1938,1700000.0,05-05-2010
+Nagels Rende 21,Kirke Hyllinge,4070,4,87,2001,2650000.0,04-05-2010
+Strandengen 8,Kirke Hyllinge,4070,3,61,1977,1100000.0,01-05-2010
+Gammel Havnevej 15,Kirke Hyllinge,4070,3,127,2009,2070000.0,29-04-2010
+Elverdamsvej 240,Kirke Hyllinge,4070,5,93,1950,1060000.0,28-04-2010
+Strædet 18A,Kirke Hyllinge,4070,6,130,1892,800000.0,23-04-2010
+Taaftegaards Vænge 2,Kirke Hyllinge,4070,5,185,2004,1645000.0,20-04-2010
+Vintappervej 56,Kirke Hyllinge,4070,9,152,1939,642567.0,19-04-2010
+Margrethevej 31,Kirke Hyllinge,4070,3,47,1976,815000.0,17-04-2010
+Hellesvej 5,Kirke Hyllinge,4070,3,78,1969,600000.0,16-04-2010
+Troldsti 5,Kirke Hyllinge,4070,4,71,1957,1465000.0,30-03-2010
+Østergade 2,Kirke Hyllinge,4070,5,206,1877,1450000.0,30-03-2010
+Ingridsvej 46,Kirke Hyllinge,4070,3,110,1974,1345000.0,17-03-2010
+Fuglehavevej 6,Kirke Hyllinge,4070,3,56,1979,950000.0,15-03-2010
+Spurvevænget 7,Kirke Hyllinge,4070,2,33,1969,395000.0,12-03-2010
+Bigårdsvej 34,Kirke Hyllinge,4070,4,121,1986,1485000.0,12-03-2010
+Ejby Strandvej 17,Kirke Hyllinge,4070,4,89,1937,1300000.0,11-03-2010
+Kambregnen 20,Kirke Hyllinge,4070,4,67,1972,635000.0,03-03-2010
+Brunskærvej 8,Kirke Hyllinge,4070,3,67,1973,840000.0,01-03-2010
+Gershøjgårdsvej 17,Kirke Hyllinge,4070,4,128,1973,1450000.0,01-03-2010
+Kirkevej 4,Kirke Hyllinge,4070,5,110,1911,950000.0,23-02-2010
+Højdevej 24,Kirke Hyllinge,4070,5,159,1969,1695000.0,23-02-2010
+Pilevej 1,Kirke Hyllinge,4070,4,137,1971,1795000.0,19-02-2010
+Ejby Havnevej 106,Kirke Hyllinge,4070,3,117,1903,2425000.0,18-02-2010
+Lærkevænget 14,Kirke Hyllinge,4070,4,80,1970,675000.0,16-02-2010
+Ørnebregnen 3,Kirke Hyllinge,4070,4,61,1968,730000.0,12-02-2010
+Skjoldbregnen 8,Kirke Hyllinge,4070,5,83,1970,1230000.0,29-01-2010
+Ejbyvej 30,Kirke Hyllinge,4070,4,145,1920,4750000.0,28-01-2010
+Ejbyvej 75,Kirke Hyllinge,4070,4,106,1966,1050000.0,28-01-2010
+Vådager 6,Kirke Hyllinge,4070,6,151,2013,585000.0,28-01-2010
+Troldbyvej 26,Kirke Hyllinge,4070,4,112,1984,1310000.0,07-01-2010
+Karlebyvej 16,Kirke Hyllinge,4070,5,197,2002,4000000.0,05-01-2010
+Løvkjærgaardsvej 8,Kirke Hyllinge,4070,4,116,1972,1625000.0,21-12-2009
+Sæbyparken 10B,Kirke Hyllinge,4070,4,112,1972,1400000.0,17-12-2009
+Lykkesvej 2,Kirke Hyllinge,4070,5,145,2011,475000.0,16-12-2009
+Kirkevej 3,Kirke Hyllinge,4070,7,142,1915,1400000.0,09-12-2009
+Bovelgårdsvej 22,Kirke Hyllinge,4070,5,173,1972,1250000.0,01-12-2009
+Karlebyvej 107,Kirke Hyllinge,4070,3,85,1955,925000.0,01-12-2009
+Tranemosevej 13,Kirke Hyllinge,4070,5,128,1996,2000000.0,06-11-2009
+Olaf Kristiansensvej 14,Kirke Hyllinge,4070,3,60,1952,820000.0,05-11-2009
+Frejasvej 1,Kirke Hyllinge,4070,4,105,1976,1025000.0,04-11-2009
+Dyssemosen 7,Kirke Hyllinge,4070,4,175,1972,1100000.0,28-10-2009
+Smedegårdsvej 5I,Kirke Hyllinge,4070,5,128,1962,2500000.0,26-10-2009
+Olaf Kristiansensvej 41,Kirke Hyllinge,4070,3,67,1925,2055000.0,26-10-2009
+Strædet 8,Kirke Hyllinge,4070,3,130,1885,840000.0,23-10-2009
+Lorentzensvej 23,Kirke Hyllinge,4070,6,150,2011,850000.0,18-10-2009
+Claus Henrisvej 9,Kirke Hyllinge,4070,5,120,1970,1725000.0,15-10-2009
+Birkevej 20,Kirke Hyllinge,4070,3,70,1997,871000.0,11-10-2009
+Hornsherredvej 433A,Kirke Hyllinge,4070,8,245,1906,2395000.0,09-10-2009
+Fuglehavevej 5,Kirke Hyllinge,4070,3,47,1966,800000.0,05-10-2009
+Gershøjvej 81,Kirke Hyllinge,4070,3,87,1949,550000.0,05-10-2009
+Ligustervej 9,Kirke Hyllinge,4070,4,58,1966,260000.0,18-09-2009
+Åskrænten 1,Kirke Hyllinge,4070,3,74,1977,600000.0,14-09-2009
+Pilevang 4,Kirke Hyllinge,4070,3,83,1974,900000.0,11-09-2009
+Klitrosevej 6,Kirke Hyllinge,4070,5,96,1972,785000.0,08-09-2009
+Brombærhaven 14,Kirke Hyllinge,4070,3,92,2006,1600000.0,31-08-2009
+Gyvelvej 11,Kirke Hyllinge,4070,5,95,1985,1200000.0,31-08-2009
+Lorentzensvej 16,Kirke Hyllinge,4070,4,111,1985,1020000.0,26-08-2009
+Kamillevej 8,Kirke Hyllinge,4070,4,134,2000,1650000.0,20-08-2009
+Rødtjørnevej 29,Kirke Hyllinge,4070,4,160,1998,2850000.0,19-08-2009
+Strandvangen 2,Kirke Hyllinge,4070,3,65,1966,995000.0,14-08-2009
+Hornsherredvej 200,Kirke Hyllinge,4070,5,176,1977,3100000.0,12-08-2009
+Kornbakken 2,Kirke Hyllinge,4070,4,114,1971,1140000.0,12-08-2009
+Hornsherredvej 253,Kirke Hyllinge,4070,2,25,1957,497500.0,12-08-2009
+Ejbybrovej 16,Kirke Hyllinge,4070,4,84,2005,1495000.0,12-08-2009
+Vibevænget 7,Kirke Hyllinge,4070,3,68,1969,775000.0,06-08-2009
+Anders Rasmussensvej 11,Kirke Hyllinge,4070,3,84,1972,750000.0,05-08-2009
+Ahornvej 31,Kirke Hyllinge,4070,3,51,1972,905000.0,03-08-2009
+Troldkær 5,Kirke Hyllinge,4070,8,137,1972,1150000.0,28-07-2009
+Harekærgårdsvej 34,Kirke Hyllinge,4070,3,121,2010,400000.0,28-07-2009
+Hornsherredvej 448B,Kirke Hyllinge,4070,5,151,1998,3050000.0,23-07-2009
+Strandbakken 12,Kirke Hyllinge,4070,5,128,1967,1140000.0,22-07-2009
+Løvkjærgaardsvej 4,Kirke Hyllinge,4070,4,149,1973,995000.0,20-07-2009
+Frejasvej 4,Kirke Hyllinge,4070,4,62,1970,675000.0,19-07-2009
+Knudsvej 10,Kirke Hyllinge,4070,3,101,1969,1250000.0,15-07-2009
+Anders Rasmussensvej 10B,Kirke Hyllinge,4070,5,165,1971,1051000.0,12-07-2009
+Nordager 4,Kirke Hyllinge,4070,5,150,2010,675000.0,10-07-2009
+Åhusene 12,Kirke Hyllinge,4070,4,41,1961,610000.0,03-07-2009
+Strandvangen 7,Kirke Hyllinge,4070,3,78,2012,250000.0,03-07-2009
+Karlebyvej 70A,Kirke Hyllinge,4070,4,121,1973,1100000.0,01-07-2009
+Åbakken 35,Kirke Hyllinge,4070,4,51,1979,600000.0,26-06-2009
+Bovelgårdsvej 7,Kirke Hyllinge,4070,4,136,1974,1650000.0,19-06-2009
+Hornsherredvej 248,Kirke Hyllinge,4070,4,202,1911,2400000.0,09-06-2009
+Bjergfyrvej 15,Kirke Hyllinge,4070,4,74,1976,430000.0,03-06-2009
+Lorentzensvej 20,Kirke Hyllinge,4070,5,135,2010,765000.0,24-05-2009
+Cedervej 11,Kirke Hyllinge,4070,4,78,1972,825000.0,20-05-2009
+Karlebyvej 53,Kirke Hyllinge,4070,5,124,1913,935000.0,20-05-2009
+Egebregnen 12,Kirke Hyllinge,4070,3,50,1973,510000.0,19-05-2009
+Ingridsvej 2,Kirke Hyllinge,4070,5,143,1973,1395000.0,14-05-2009
+Stendyssen 15,Kirke Hyllinge,4070,3,51,1965,750000.0,03-05-2009
+Elverdamsvej 365,Kirke Hyllinge,4070,4,144,1954,1175000.0,03-05-2009
+Poppelvej 8,Kirke Hyllinge,4070,3,97,1964,1450000.0,29-04-2009
+Strandagervænge 36,Kirke Hyllinge,4070,3,41,1969,1095000.0,29-04-2009
+Troldager 3,Kirke Hyllinge,4070,1,20,1962,520000.0,28-04-2009
+Karlebyvej 135,Kirke Hyllinge,4070,6,266,1865,8680000.0,25-04-2009
+Klitrosevej 12,Kirke Hyllinge,4070,5,92,1970,1050000.0,24-04-2009
+Pilevang 8,Kirke Hyllinge,4070,3,50,1976,450000.0,20-04-2009
+Nordager 5,Kirke Hyllinge,4070,5,159,2010,700000.0,08-04-2009
+Åbakken 53,Kirke Hyllinge,4070,4,90,1980,725000.0,01-04-2009
+Højdevej 16,Kirke Hyllinge,4070,6,152,1969,1350000.0,01-04-2009
+Lyndbyparken 36,Kirke Hyllinge,4070,5,130,1984,2060000.0,31-03-2009
+Smedegårdsvej 4A,Kirke Hyllinge,4070,3,98,2003,1275000.0,30-03-2009
+Åhusene 54,Kirke Hyllinge,4070,3,42,1961,440000.0,28-03-2009
+Harekærgårdsvej 70,Kirke Hyllinge,4070,3,42,1991,7500.0,27-03-2009
+Lyndbyparken 3,Kirke Hyllinge,4070,4,132,1985,2200000.0,24-03-2009
+Harekærgårdsvej 26,Kirke Hyllinge,4070,3,50,1980,700000.0,18-03-2009
+Bigårdsvej 48,Kirke Hyllinge,4070,5,119,1973,1300000.0,13-03-2009
+Ingridsvej 42,Kirke Hyllinge,4070,4,127,1975,205000.0,12-03-2009
+Hellesvej 3,Kirke Hyllinge,4070,3,67,1971,670000.0,10-03-2009
+Hyllingeparken 24,Kirke Hyllinge,4070,5,153,1976,881746.0,27-02-2009
+Tingstedet 10,Kirke Hyllinge,4070,3,75,1875,810000.0,26-02-2009
+Egernvænget 2,Kirke Hyllinge,4070,4,92,1972,1000000.0,19-02-2009
+Nagels Rende 20,Kirke Hyllinge,4070,5,124,1965,3025000.0,18-02-2009
+Bjergfyrvej 11,Kirke Hyllinge,4070,3,48,1981,550000.0,11-02-2009
+Brusagervej 16,Kirke Hyllinge,4070,4,60,1962,850000.0,04-02-2009
+Dyssemosen 21,Kirke Hyllinge,4070,3,128,1973,1850000.0,21-01-2009
+Drosselvænget 10,Kirke Hyllinge,4070,5,80,1968,750000.0,07-01-2009
+Nagels Rende 3,Kirke Hyllinge,4070,5,124,1953,1189982.0,06-01-2009
+Gershøjgårdsvej 19,Kirke Hyllinge,4070,4,126,1978,1545000.0,15-12-2008
+Blågranvej 5,Kirke Hyllinge,4070,2,22,1975,459000.0,15-12-2008
+Drosselvej 2,Kirke Hyllinge,4070,3,84,1965,1150000.0,12-12-2008
+Ejbybrovej 10,Kirke Hyllinge,4070,2,60,2003,1250000.0,02-12-2008
+"Gershøjvej 108B, ST",Kirke Hyllinge,4070,4,176,2009,3470000.0,26-11-2008
+Strandvangen 10,Kirke Hyllinge,4070,4,75,1964,885000.0,19-11-2008
+Kongebregnen 17,Kirke Hyllinge,4070,5,105,1969,1147500.0,16-11-2008
+Fjerbregnen 13,Kirke Hyllinge,4070,3,50,1975,630000.0,14-11-2008
+Åbakken 96,Kirke Hyllinge,4070,5,90,1983,1500000.0,07-11-2008
+Hellesvej 4,Kirke Hyllinge,4070,3,85,1969,800000.0,24-10-2008
+Boesvej 3,Kirke Hyllinge,4070,3,110,1966,1350000.0,23-10-2008
+Jenslevvej 4,Kirke Hyllinge,4070,5,157,1979,2125000.0,21-10-2008
+Biltris Gade 7,Kirke Hyllinge,4070,5,90,1938,2000000.0,12-10-2008
+Nagels Rende 14,Kirke Hyllinge,4070,5,145,2011,450000.0,07-10-2008
+Bogårdsvej 10,Kirke Hyllinge,4070,3,104,1954,1395000.0,05-10-2008
+Åsen 26,Kirke Hyllinge,4070,3,66,1985,800000.0,03-10-2008
+Ingridsvej 48,Kirke Hyllinge,4070,5,143,1973,2025000.0,22-09-2008
+Kyndeløsevej 14,Kirke Hyllinge,4070,4,94,1939,1295000.0,03-09-2008
+Fjordglimt 23,Kirke Hyllinge,4070,1,101,1954,1770000.0,18-08-2008
+Drejerbakken 3,Kirke Hyllinge,4070,3,187,1827,2400000.0,15-08-2008
+Blågranvej 6,Kirke Hyllinge,4070,4,77,1972,1080000.0,05-08-2008
+Gershøjvej 101,Kirke Hyllinge,4070,3,105,1934,1197745.0,31-07-2008
+Anders Rasmussensvej 4,Kirke Hyllinge,4070,4,61,1984,1295000.0,29-07-2008
+Pilevej 11,Kirke Hyllinge,4070,3,102,1971,1625000.0,28-07-2008
+Kornbakken 6,Kirke Hyllinge,4070,5,125,1967,1850000.0,27-07-2008
+Harekærgårdsvej 74,Kirke Hyllinge,4070,3,108,1981,925000.0,24-07-2008
+Niels Klarskovsvej 3,Kirke Hyllinge,4070,3,72,1959,1740000.0,12-07-2008
+Mågevænget 3,Kirke Hyllinge,4070,2,76,1974,840000.0,11-07-2008
+Harevænget 13,Kirke Hyllinge,4070,2,38,1967,467500.0,07-07-2008
+Egebregnen 4,Kirke Hyllinge,4070,4,47,1973,750000.0,07-07-2008
+Vintappervej 47,Kirke Hyllinge,4070,7,305,2012,3400000.0,06-07-2008
+Ejby Strandvej 27,Kirke Hyllinge,4070,5,98,1951,1600000.0,04-07-2008
+Hasselvej 6,Kirke Hyllinge,4070,4,104,1980,1220000.0,03-07-2008
+Smedegårdsvej 3F,Kirke Hyllinge,4070,4,109,2007,1800000.0,28-06-2008
+Rytterlodden 2,Kirke Hyllinge,4070,3,44,1961,815000.0,27-06-2008
+Søndervang 9,Kirke Hyllinge,4070,3,69,1986,1068000.0,19-06-2008
+Niels Klarskovsvej 2,Kirke Hyllinge,4070,2,63,1997,1395000.0,17-06-2008
+Kyndeløse Strandvej 4,Kirke Hyllinge,4070,4,111,1964,771000.0,12-06-2008
+Bovelgårdsvej 16,Kirke Hyllinge,4070,6,177,1973,2000000.0,11-06-2008
+Birkevej 16,Kirke Hyllinge,4070,3,75,1966,1050000.0,05-06-2008
+Clematisvej 7,Kirke Hyllinge,4070,3,66,1968,995000.0,02-06-2008
+Granbakken 2,Kirke Hyllinge,4070,6,121,1970,745579.0,30-05-2008
+Brombærhaven 12,Kirke Hyllinge,4070,5,156,2006,2650000.0,27-05-2008
+Gershøjvej 108E,Kirke Hyllinge,4070,4,171,2008,3600000.0,25-05-2008
+Bogårdsvej 9,Kirke Hyllinge,4070,2,108,1960,1625000.0,17-05-2008
+Holtensmindevej 64,Kirke Hyllinge,4070,4,155,1877,250000.0,16-05-2008
+Præstholmvej 15,Kirke Hyllinge,4070,4,154,1975,2350000.0,14-05-2008
+Ørnebregnen 1,Kirke Hyllinge,4070,4,73,1968,945000.0,14-05-2008
+Rønnevej 7,Kirke Hyllinge,4070,4,122,1972,1972000.0,14-05-2008
+Olaf Kristiansensvej 25,Kirke Hyllinge,4070,3,82,1976,1020000.0,13-05-2008
+Kirkevej 16,Kirke Hyllinge,4070,5,130,1925,2970000.0,08-05-2008
+Kamillevej 14,Kirke Hyllinge,4070,5,166,2000,2975000.0,07-05-2008
+Bøgevej 1,Kirke Hyllinge,4070,4,119,1967,1105000.0,26-04-2008
+Bjergfyrvej 2,Kirke Hyllinge,4070,3,71,1979,1050000.0,20-04-2008
+Øreholmvej 18,Kirke Hyllinge,4070,5,166,1969,3275000.0,20-04-2008
+Bogårdsvej 3,Kirke Hyllinge,4070,5,114,1960,1800000.0,17-04-2008
+Taaftegaards Vænge 4,Kirke Hyllinge,4070,5,140,2003,3200000.0,15-04-2008
+Ahornvej 25,Kirke Hyllinge,4070,3,50,1973,695000.0,14-04-2008
+Pærevej 9,Kirke Hyllinge,4070,6,148,2005,3200000.0,10-04-2008
+Bogårdsvej 7,Kirke Hyllinge,4070,3,95,1954,1500000.0,06-04-2008
+Gershøjvej 104B,Kirke Hyllinge,4070,5,234,1777,1250500.0,30-03-2008
+Hornsherredvej 143,Kirke Hyllinge,4070,5,145,2004,2320000.0,26-03-2008
+Kildevænget 1,Kirke Hyllinge,4070,4,111,1989,2245000.0,25-03-2008
+Ahornvej 1,Kirke Hyllinge,4070,4,66,1971,1150000.0,19-03-2008
+Åhusene 42,Kirke Hyllinge,4070,3,80,2002,1825000.0,16-03-2008
+Bakkesvinget 52,Kirke Hyllinge,4070,4,57,1970,725000.0,07-03-2008
+Askevej 7,Kirke Hyllinge,4070,7,201,1966,2275000.0,04-03-2008
+Kongebregnen 19,Kirke Hyllinge,4070,4,76,1968,920000.0,21-02-2008
+Syrenvej 4,Kirke Hyllinge,4070,4,72,1972,750000.0,19-02-2008
+Ejbybrovej 40,Kirke Hyllinge,4070,3,44,1973,650000.0,19-02-2008
+Kjøbmagergade 9,Kirke Hyllinge,4070,4,79,1890,1250000.0,17-02-2008
+Pærevej 3,Kirke Hyllinge,4070,7,178,2006,3700000.0,16-02-2008
+Lykkesvej 1B,Kirke Hyllinge,4070,4,179,1966,900000.0,14-02-2008
+Lykkesvej 1A,Kirke Hyllinge,4070,4,113,1989,700000.0,14-02-2008
+Lykkesvej 3,Kirke Hyllinge,4070,6,208,1979,1100000.0,14-02-2008
+Niels Hansensvej 2,Kirke Hyllinge,4070,3,50,1962,1225000.0,11-02-2008
+Fasanvej 2,Kirke Hyllinge,4070,5,75,1965,1700000.0,05-02-2008
+Ejbyvej 61,Kirke Hyllinge,4070,3,110,1963,1500000.0,04-02-2008
+Stendyssen 16,Kirke Hyllinge,4070,2,35,1963,493000.0,01-02-2008
+Elverdamsvej 241A,Kirke Hyllinge,4070,5,127,1924,1250000.0,01-02-2008
+Bøgevej 14,Kirke Hyllinge,4070,7,179,1986,1476935.0,30-01-2008
+Vestervang 6,Kirke Hyllinge,4070,3,92,2006,1512500.0,22-01-2008
+Karlebyvej 137,Kirke Hyllinge,4070,4,100,1901,1975000.0,21-01-2008
+Brombærhaven 1,Kirke Hyllinge,4070,5,156,2006,2600000.0,20-01-2008
+Troldager 10,Kirke Hyllinge,4070,7,124,1974,650488.0,15-01-2008
+Brusagervej 9,Kirke Hyllinge,4070,4,68,1959,3875000.0,15-01-2008
+Kærvej 28,Kirke Hyllinge,4070,3,60,1966,1000000.0,11-01-2008
+Askevej 14,Kirke Hyllinge,4070,3,60,1969,891000.0,27-12-2007
+Strædet 13A,Kirke Hyllinge,4070,4,111,1987,1401000.0,27-12-2007
+Duevænget 6,Kirke Hyllinge,4070,3,96,1973,1500000.0,18-12-2007
+Ligustervej 35,Kirke Hyllinge,4070,3,70,1964,612000.0,16-12-2007
+Knudsvej 21,Kirke Hyllinge,4070,5,180,1974,2810000.0,16-12-2007
+Åhusene 49,Kirke Hyllinge,4070,3,57,1961,745000.0,10-12-2007
+Lyndbyparken 39,Kirke Hyllinge,4070,3,198,1985,3100000.0,07-12-2007
+Olaf Kristiansensvej 16,Kirke Hyllinge,4070,3,61,1970,975000.0,05-12-2007
+Knudsvej 17,Kirke Hyllinge,4070,4,133,1976,245250.0,03-12-2007
+Krabbesholmvej 4,Kirke Hyllinge,4070,8,201,1777,5000000.0,03-12-2007
+Karlebyvej 145,Kirke Hyllinge,4070,6,186,1800,107010.0,28-11-2007
+Smedegade 7A,Kirke Hyllinge,4070,5,111,1978,2300000.0,26-11-2007
+Henriksvej 9,Kirke Hyllinge,4070,5,143,1979,2495000.0,21-11-2007
+Kjøbmagergade 2,Kirke Hyllinge,4070,9,146,1906,2375000.0,08-11-2007
+Fjerbregnen 18,Kirke Hyllinge,4070,3,87,1975,1125000.0,01-11-2007
+Agervang 14,Kirke Hyllinge,4070,4,112,1988,2750000.0,25-10-2007
+Lærkevej 10,Kirke Hyllinge,4070,4,77,2007,1700000.0,24-10-2007
+Åbakken 47,Kirke Hyllinge,4070,5,71,1980,940000.0,18-10-2007
+Ejby Strandvej 11,Kirke Hyllinge,4070,4,108,1934,2068900.0,12-10-2007
+Åvej 22,Kirke Hyllinge,4070,4,189,1863,2300000.0,06-10-2007
+Stendyssen 49,Kirke Hyllinge,4070,4,75,1970,1250000.0,03-10-2007
+Knudsvej 22,Kirke Hyllinge,4070,4,114,1972,1995000.0,02-10-2007
+Egevej 28,Kirke Hyllinge,4070,4,128,1977,2183000.0,28-09-2007
+Smedegårdsvej 2C,Kirke Hyllinge,4070,4,52,1965,775000.0,26-09-2007
+Karlebyvej 110,Kirke Hyllinge,4070,3,109,1870,1750000.0,25-09-2007
+Svalevænget 15,Kirke Hyllinge,4070,2,69,1972,646000.0,23-09-2007
+Karlebyvej 27,Kirke Hyllinge,4070,3,92,1920,1020000.0,21-09-2007
+Troldager 5,Kirke Hyllinge,4070,4,85,1962,1360000.0,20-09-2007
+Gudrun Børresensvej 22,Kirke Hyllinge,4070,5,70,1937,720000.0,17-09-2007
+Margrethevej 43,Kirke Hyllinge,4070,4,107,1960,1680000.0,16-09-2007
+Hyllingeparken 58B,Kirke Hyllinge,4070,3,113,1982,1995000.0,16-09-2007
+Højdevang 13,Kirke Hyllinge,4070,4,81,1972,500000.0,13-09-2007
+Egevej 22,Kirke Hyllinge,4070,4,129,1966,707932.0,06-09-2007
+Kornblomstvej 8,Kirke Hyllinge,4070,6,171,2000,1338500.0,06-09-2007
+Svalevænget 3,Kirke Hyllinge,4070,5,78,1982,640169.0,04-09-2007
+Hasselvej 9,Kirke Hyllinge,4070,3,59,1966,875000.0,04-09-2007
+Hyllingeparken 39,Kirke Hyllinge,4070,4,125,1976,2200000.0,03-09-2007
+Hornsherredvej 282,Kirke Hyllinge,4070,5,143,1997,1445000.0,03-09-2007
+Hellesvej 1,Kirke Hyllinge,4070,3,61,1965,995000.0,30-08-2007
+Stendyssen 34,Kirke Hyllinge,4070,4,68,1966,1300000.0,28-08-2007
+Gershøjvej 108I,Kirke Hyllinge,4070,8,216,1947,2550000.0,28-08-2007
+Åskrænten 10,Kirke Hyllinge,4070,4,95,2005,1645000.0,13-08-2007
+Strandagervænge 2,Kirke Hyllinge,4070,3,32,1963,442000.0,12-08-2007
+Vænget 6,Kirke Hyllinge,4070,5,170,1914,2600000.0,08-08-2007
+Niels Hansensvej 7,Kirke Hyllinge,4070,3,40,1959,500000.0,06-08-2007
+Strandagervænge 9,Kirke Hyllinge,4070,4,108,1966,4550000.0,25-07-2007
+Jenslevvej 54,Kirke Hyllinge,4070,4,96,1951,1852000.0,22-07-2007
+Gyvelvej 19,Kirke Hyllinge,4070,5,95,1986,1875000.0,18-07-2007
+Kærvej 7,Kirke Hyllinge,4070,4,62,1966,1150000.0,17-07-2007
+Åsvinget 4,Kirke Hyllinge,4070,3,59,1985,1000000.0,16-07-2007
+Hellesvej 19,Kirke Hyllinge,4070,3,71,1968,995000.0,12-07-2007
+Hornsherredvej 264,Kirke Hyllinge,4070,6,154,1952,3500000.0,12-07-2007
+Hornsherredvej 155,Kirke Hyllinge,4070,4,86,1945,1750000.0,05-07-2007
+Olaf Kristiansensvej 13,Kirke Hyllinge,4070,3,54,1961,1195000.0,04-07-2007
+Ejby Strandvej 5,Kirke Hyllinge,4070,3,135,1777,2100000.0,02-07-2007
+Elverdamsvej 383,Kirke Hyllinge,4070,5,150,1914,1975000.0,28-06-2007
+Ejbyvej 72,Kirke Hyllinge,4070,4,110,1900,1450000.0,27-06-2007
+Strandagervænge 37,Kirke Hyllinge,4070,4,115,1972,2150000.0,27-06-2007
+Ligustervej 15,Kirke Hyllinge,4070,3,38,1965,600000.0,26-06-2007
+Lyndby Gade 22,Kirke Hyllinge,4070,8,230,1891,5750000.0,26-06-2007
+Hjortevænget 14,Kirke Hyllinge,4070,4,93,1967,1050000.0,22-06-2007
+Brusagervej 12,Kirke Hyllinge,4070,2,42,1962,962000.0,14-06-2007
+Klitrosevej 2,Kirke Hyllinge,4070,4,85,1970,1300000.0,12-06-2007
+Egholmmarken 12,Kirke Hyllinge,4070,2,100,1923,1600000.0,06-06-2007
+Nordager 3,Kirke Hyllinge,4070,4,189,2010,1000000.0,04-06-2007
+Nordager 7,Kirke Hyllinge,4070,5,167,2010,1195000.0,04-06-2007
+Trehøjevej 25,Kirke Hyllinge,4070,3,74,1968,861250.0,29-05-2007
+Nagels Rende 24,Kirke Hyllinge,4070,5,136,1973,4400000.0,29-05-2007
+Strandagervænge 55,Kirke Hyllinge,4070,3,80,1967,871250.0,29-05-2007
+Ahornvej 14,Kirke Hyllinge,4070,3,30,1967,540000.0,22-05-2007
+Rønnevej 13,Kirke Hyllinge,4070,5,155,1975,1950000.0,22-05-2007
+Syrenvej 13,Kirke Hyllinge,4070,4,61,1969,1020000.0,20-05-2007
+Margrethevej 7,Kirke Hyllinge,4070,6,150,1967,2095000.0,18-05-2007
+Drosselvænget 5,Kirke Hyllinge,4070,5,83,2007,1595000.0,15-05-2007
+Gyvelvej 8,Kirke Hyllinge,4070,2,59,1986,1450000.0,15-05-2007
+Elverdamsvej 222,Kirke Hyllinge,4070,3,105,1955,2145000.0,15-05-2007
+Lorentzensvej 21,Kirke Hyllinge,4070,6,167,2008,1100000.0,11-05-2007
+Gammel Skolevej 3,Kirke Hyllinge,4070,4,122,1972,1900000.0,10-05-2007
+Strandhøj 2,Kirke Hyllinge,4070,3,73,1977,1150000.0,06-05-2007
+Syrenvej 12,Kirke Hyllinge,4070,3,50,1984,1458000.0,05-05-2007
+Gershøjgårdsvej 16,Kirke Hyllinge,4070,4,206,1972,2325000.0,29-04-2007
+Bøgevej 17,Kirke Hyllinge,4070,4,149,1969,2600000.0,24-04-2007
+Mellemvang 6,Kirke Hyllinge,4070,3,55,1968,1075000.0,24-04-2007
+Vintappervej 49,Kirke Hyllinge,4070,6,198,1926,2900000.0,20-04-2007
+Niels Klarskovsvej 4,Kirke Hyllinge,4070,3,40,1948,800000.0,19-04-2007
+Olaf Kristiansensvej 8,Kirke Hyllinge,4070,3,85,2010,765000.0,19-04-2007
+Løvkjærgaardsvej 14,Kirke Hyllinge,4070,5,133,1977,2285000.0,13-04-2007
+Hindebregnen 16,Kirke Hyllinge,4070,2,50,1968,935000.0,12-04-2007
+Møllevej 12,Kirke Hyllinge,4070,4,158,1965,2400000.0,06-04-2007
+Ahornvej 4,Kirke Hyllinge,4070,4,78,1970,1195000.0,03-04-2007
+Lyndbyparken 8,Kirke Hyllinge,4070,5,201,1984,3495000.0,01-04-2007
+Jenslev Gade 10,Kirke Hyllinge,4070,4,85,1939,1840000.0,25-03-2007
+Gårdager 6,Kirke Hyllinge,4070,9,258,1928,13158180.0,24-03-2007
+Åbakken 23,Kirke Hyllinge,4070,2,60,1984,850000.0,19-03-2007
+Strandbakken 30,Kirke Hyllinge,4070,3,78,1970,1000000.0,19-03-2007
+Ahornvej 2,Kirke Hyllinge,4070,5,83,1968,1245000.0,07-03-2007
+Skovbrynet 27,Kirke Hyllinge,4070,4,124,2005,1700000.0,06-03-2007
+Hyldebjerggårdsvej 1,Kirke Hyllinge,4070,7,218,2009,1200000.0,05-03-2007
+Bigårdsvej 39,Kirke Hyllinge,4070,4,130,1975,2170000.0,04-03-2007
+Strædet 10,Kirke Hyllinge,4070,5,162,1800,3250000.0,04-03-2007
+Bigårdsvej 18,Kirke Hyllinge,4070,6,174,1972,2200000.0,02-03-2007
+Kærvej 22,Kirke Hyllinge,4070,2,21,1967,880000.0,01-03-2007
+Frederiksdalvej 6,Kirke Hyllinge,4070,10,222,1888,2400400.0,27-02-2007
+Gershøjgårdsvej 30,Kirke Hyllinge,4070,4,136,1977,2650000.0,08-02-2007
+Engvej 3,Kirke Hyllinge,4070,4,129,1978,2900000.0,04-02-2007
+Gudrun Børresensvej 16,Kirke Hyllinge,4070,3,40,1942,289000.0,02-02-2007
+Nordmarksvej 1,Kirke Hyllinge,4070,3,86,1924,1650000.0,30-01-2007
+Lærkevænget 2,Kirke Hyllinge,4070,2,82,1967,950000.0,29-01-2007
+Brombærhaven 17,Kirke Hyllinge,4070,3,92,2007,2295000.0,25-01-2007
+Harekærgårdsvej 31,Kirke Hyllinge,4070,3,60,1981,975000.0,25-01-2007
+Edvard Olsensvej 14,Kirke Hyllinge,4070,3,77,1970,1675000.0,23-01-2007
+Hornsherredvej 450,Kirke Hyllinge,4070,7,211,1921,3750000.0,22-01-2007
+Grimshøjvej 7,Kirke Hyllinge,4070,3,91,1959,1785000.0,21-01-2007
+Drosselvej 5,Kirke Hyllinge,4070,4,111,1967,1645000.0,18-01-2007
+Krabbesholmvej 3,Kirke Hyllinge,4070,4,77,1930,2525000.0,18-01-2007
+Edvard Olsensvej 14A,Kirke Hyllinge,4070,3,40,1975,1220000.0,17-01-2007
+Øreholmvej 20B,Kirke Hyllinge,4070,5,153,1979,4750000.0,16-01-2007
+Nørre Hyllingevej 4,Kirke Hyllinge,4070,3,86,1947,1550000.0,11-01-2007
+Elmevang 8,Kirke Hyllinge,4070,5,59,1966,870000.0,05-01-2007
+Pilevej 3,Kirke Hyllinge,4070,4,150,1972,2400000.0,02-01-2007
+Bygaden 19,Kirke Hyllinge,4070,4,120,1928,1650000.0,29-12-2006
+Sæbyvej 8,Kirke Hyllinge,4070,3,111,1980,1960000.0,21-12-2006
+Hyllingeparken 30,Kirke Hyllinge,4070,4,125,1976,2400000.0,21-12-2006
+Østergade 13,Kirke Hyllinge,4070,4,121,1900,1900000.0,21-12-2006
+Strandagervænge 20A,Kirke Hyllinge,4070,5,99,1985,1425000.0,20-12-2006
+Bakkesvinget 10,Kirke Hyllinge,4070,4,63,1965,899000.0,19-12-2006
+Sæbyparken 5,Kirke Hyllinge,4070,3,104,1971,1665000.0,15-12-2006
+Harevænget 7,Kirke Hyllinge,4070,2,38,1968,480000.0,14-12-2006
+Drosselvej 1,Kirke Hyllinge,4070,3,60,1963,850000.0,13-12-2006
+Elverdamsvej 226,Kirke Hyllinge,4070,2,122,1929,2525000.0,07-12-2006
+Lykkesvej 16,Kirke Hyllinge,4070,4,100,1967,1320000.0,04-12-2006
+"Bygaden 24, 1",Kirke Hyllinge,4070,8,123,1920,1992000.0,01-12-2006
+Harevænget 14,Kirke Hyllinge,4070,5,81,1970,731000.0,29-11-2006
+Højdevej 14,Kirke Hyllinge,4070,6,130,1972,2000000.0,29-11-2006
+Åbakken 62,Kirke Hyllinge,4070,4,65,1979,1060000.0,22-11-2006
+Smedegårdsvej 4F,Kirke Hyllinge,4070,3,60,1967,1135000.0,19-11-2006
+Rytterlodden 9,Kirke Hyllinge,4070,3,40,1961,725000.0,15-11-2006
+Fjerbregnen 3,Kirke Hyllinge,4070,5,71,1975,1195000.0,13-11-2006
+Æblerosevej 7,Kirke Hyllinge,4070,5,112,1985,1200000.0,11-11-2006
+Vintappervej 80,Kirke Hyllinge,4070,6,225,1880,1500000.0,10-11-2006
+Duevænget 4,Kirke Hyllinge,4070,4,54,1971,765000.0,09-11-2006
+Karlebyvej 204,Kirke Hyllinge,4070,4,152,2006,3250000.0,09-11-2006
+Odinsvej 9,Kirke Hyllinge,4070,5,90,1966,965000.0,26-10-2006
+Brombærhaven 15,Kirke Hyllinge,4070,3,92,2007,2295000.0,25-10-2006
+Brombærhaven 16,Kirke Hyllinge,4070,3,92,2007,2295000.0,25-10-2006
+Præstemarksvej 5,Kirke Hyllinge,4070,5,155,1967,2440000.0,23-10-2006
+Ligustervej 3,Kirke Hyllinge,4070,4,101,1968,725000.0,20-10-2006
+Skjoldbregnen 12,Kirke Hyllinge,4070,3,50,1970,835000.0,20-10-2006
+Nagels Rende 23,Kirke Hyllinge,4070,3,80,1940,3000000.0,09-10-2006
+Jenslev Gade 4,Kirke Hyllinge,4070,7,222,1877,120000.0,09-10-2006
+Niels Christensensvej 9,Kirke Hyllinge,4070,2,31,1927,1375000.0,09-10-2006
+Strædet 6,Kirke Hyllinge,4070,4,116,1970,1995000.0,05-10-2006
+Agervang 8,Kirke Hyllinge,4070,5,172,2000,3400000.0,05-10-2006
+Karlebyvej 139,Kirke Hyllinge,4070,6,145,1800,3180000.0,05-10-2006
+Hyllingeparken 3,Kirke Hyllinge,4070,5,133,1976,2375000.0,04-10-2006
+Smedegårdsvej 1C,Kirke Hyllinge,4070,2,42,1972,421250.0,01-10-2006
+Gyvelvej 14,Kirke Hyllinge,4070,5,95,1986,1795000.0,29-09-2006
+Sæbyparken 12,Kirke Hyllinge,4070,5,136,1971,2500000.0,29-09-2006
+Gyvelvej 21,Kirke Hyllinge,4070,5,95,1986,1750000.0,27-09-2006
+Hyllingeparken 35,Kirke Hyllinge,4070,4,148,1978,2250000.0,26-09-2006
+Elverdamsvej 292,Kirke Hyllinge,4070,4,100,1920,2200000.0,15-09-2006
+Strandengen 9,Kirke Hyllinge,4070,4,66,1977,1375000.0,14-09-2006
+Kjøbmagergade 14,Kirke Hyllinge,4070,4,300,1928,2650000.0,12-09-2006
+Hvidemosevej 8,Kirke Hyllinge,4070,4,119,1929,2200000.0,12-09-2006
+Stationsvej 2A,Kirke Hyllinge,4070,5,151,1972,2125000.0,08-09-2006
+Vintappervej 41,Kirke Hyllinge,4070,4,150,1942,3870000.0,08-09-2006
+Stendyssen 21,Kirke Hyllinge,4070,2,32,1967,1152120.0,07-09-2006
+Kamillevej 13,Kirke Hyllinge,4070,5,128,2000,2945000.0,07-09-2006
+Birkevej 22,Kirke Hyllinge,4070,2,60,1971,815000.0,31-08-2006
+Karlebyvej 41,Kirke Hyllinge,4070,5,183,1913,6000000.0,28-08-2006
+Blommevej 5,Kirke Hyllinge,4070,5,147,2004,3295000.0,27-08-2006
+Bøgevang 17,Kirke Hyllinge,4070,4,82,1969,1325000.0,23-08-2006
+Valdemarsvej 8,Kirke Hyllinge,4070,4,100,1954,2475000.0,22-08-2006
+Hyllingeparken 26,Kirke Hyllinge,4070,4,177,1976,2795000.0,19-08-2006
+Fjerbregnen 16,Kirke Hyllinge,4070,3,50,1986,895000.0,17-08-2006
+Valnøddevej 15,Kirke Hyllinge,4070,7,225,2007,675000.0,14-08-2006
+Kongebregnen 23,Kirke Hyllinge,4070,4,53,1969,950000.0,11-08-2006
+Kambregnen 8,Kirke Hyllinge,4070,3,84,1969,1225000.0,10-08-2006
+Blågranvej 8,Kirke Hyllinge,4070,2,37,1972,625000.0,09-08-2006
+Karlebyvej 141,Kirke Hyllinge,4070,5,155,1877,2200000.0,09-08-2006
+Hjortevænget 8,Kirke Hyllinge,4070,5,77,1970,1050000.0,07-08-2006
+Gershøjvej 76,Kirke Hyllinge,4070,3,73,1954,1200000.0,07-08-2006
+Bakkesvinget 24,Kirke Hyllinge,4070,1,51,1967,850000.0,07-08-2006
+Åvangen 3,Kirke Hyllinge,4070,3,71,1989,1095000.0,01-08-2006
+Vellerupvej 9,Kirke Hyllinge,4070,4,77,1885,1320000.0,31-07-2006
+Tværvej 5,Kirke Hyllinge,4070,5,154,2008,1220000.0,25-07-2006
+Spurvevej 5,Kirke Hyllinge,4070,3,66,1969,975000.0,22-07-2006
+Ahornvej 9,Kirke Hyllinge,4070,3,50,1972,375000.0,21-07-2006
+Nordmarksvej 25,Kirke Hyllinge,4070,3,43,1967,695000.0,21-07-2006
+Kirkevej 5,Kirke Hyllinge,4070,6,134,1928,2435000.0,18-07-2006
+Gyvelvej 20,Kirke Hyllinge,4070,3,91,1986,902000.0,17-07-2006
+Ejbyvej 69,Kirke Hyllinge,4070,7,149,1870,2050000.0,10-07-2006
+Rytterlodden 3,Kirke Hyllinge,4070,4,43,1966,365500.0,10-07-2006
+Skomagerstræde 8,Kirke Hyllinge,4070,4,162,1987,2000000.0,10-07-2006
+Boesvej 4,Kirke Hyllinge,4070,4,122,1997,2595000.0,02-07-2006
+Kærvej 19,Kirke Hyllinge,4070,2,71,1962,960000.0,29-06-2006
+Karlebyvej 149,Kirke Hyllinge,4070,3,47,1865,1095000.0,27-06-2006
+Egebregnen 20,Kirke Hyllinge,4070,3,58,1975,569500.0,25-06-2006
+Rolighedsvej 15,Kirke Hyllinge,4070,5,187,1972,2450000.0,22-06-2006
+Egebregnen 17,Kirke Hyllinge,4070,3,60,1970,900000.0,21-06-2006
+Brombærhaven 13,Kirke Hyllinge,4070,3,92,2007,2345000.0,19-06-2006
+Vænget 4,Kirke Hyllinge,4070,2,60,1937,1625000.0,19-06-2006
+Grønagergårdsvej 1,Kirke Hyllinge,4070,5,153,1840,2500000.0,18-06-2006
+Troldhøj 12,Kirke Hyllinge,4070,5,119,1961,2150000.0,16-06-2006
+Ejbybrovej 14,Kirke Hyllinge,4070,4,63,1975,1050000.0,14-06-2006
+Troldhøj 8,Kirke Hyllinge,4070,4,93,1964,1020000.0,12-06-2006
+Vibevænget 12,Kirke Hyllinge,4070,1,18,1971,550000.0,12-06-2006
+Åhusene 33,Kirke Hyllinge,4070,5,68,1961,650000.0,12-06-2006
+Smedegårdsvej 2B,Kirke Hyllinge,4070,3,42,1967,995000.0,12-06-2006
+Højdevej 1,Kirke Hyllinge,4070,4,149,1967,1975000.0,12-06-2006
+Gammel Skolevej 11,Kirke Hyllinge,4070,4,153,1975,2650000.0,12-06-2006
+Brombærhaven 3,Kirke Hyllinge,4070,5,156,2007,2590000.0,11-06-2006
+Troldkær 7,Kirke Hyllinge,4070,4,96,1965,1660000.0,07-06-2006
+Gammel Skolevej 16,Kirke Hyllinge,4070,4,149,1969,950000.0,06-06-2006
+Svalevænget 8,Kirke Hyllinge,4070,3,83,1969,1250000.0,02-06-2006
+Bægerbregnen 1,Kirke Hyllinge,4070,3,74,1977,330000.0,02-06-2006
+Bigårdsvej 14,Kirke Hyllinge,4070,4,143,1973,833000.0,31-05-2006
+Blommevej 9,Kirke Hyllinge,4070,6,162,2004,3200000.0,31-05-2006
+Højdevang 4,Kirke Hyllinge,4070,3,50,1971,895000.0,31-05-2006
+Åsen 9,Kirke Hyllinge,4070,3,59,2004,1200000.0,30-05-2006
+Bakkesvinget 16,Kirke Hyllinge,4070,3,70,1967,725000.0,24-05-2006
+Åsen 32,Kirke Hyllinge,4070,3,56,1981,789559.0,22-05-2006
+Fuglehavevej 7,Kirke Hyllinge,4070,4,84,1964,2625000.0,16-05-2006
+Anders Rasmussensvej 38,Kirke Hyllinge,4070,3,110,1976,1975000.0,15-05-2006
+Kirkevej 36,Kirke Hyllinge,4070,6,177,1959,2850000.0,14-05-2006
+Harekærgårdsvej 78,Kirke Hyllinge,4070,3,52,1988,1200000.0,12-05-2006
+Tværvej 3,Kirke Hyllinge,4070,6,214,1917,1306036.0,06-05-2006
+Åsen 42,Kirke Hyllinge,4070,4,76,1976,1215000.0,06-05-2006
+Gammel Skolevej 9B,Kirke Hyllinge,4070,4,177,2009,795000.0,01-05-2006
+Mejsevænget 1,Kirke Hyllinge,4070,3,54,1978,937500.0,01-05-2006
+Hornsherredvej 226,Kirke Hyllinge,4070,5,171,1988,5700000.0,01-05-2006
+Hellesvej 12,Kirke Hyllinge,4070,2,42,1966,250000.0,27-04-2006
+Karlebyvej 71,Kirke Hyllinge,4070,5,127,1900,1425000.0,19-04-2006
+Åbakken 10,Kirke Hyllinge,4070,4,75,1995,1285000.0,18-04-2006
+Åbakken 68,Kirke Hyllinge,4070,2,49,1990,925000.0,13-04-2006
+Bovelgårdsvej 30,Kirke Hyllinge,4070,5,132,1973,2305000.0,13-04-2006
+Rytterlodden 4,Kirke Hyllinge,4070,4,80,1975,995000.0,07-04-2006
+Brombærhaven 4,Kirke Hyllinge,4070,5,156,2007,2590000.0,06-04-2006
+Hornsherredvej 401,Kirke Hyllinge,4070,3,98,1952,1650000.0,05-04-2006
+Sæbyparken 8C,Kirke Hyllinge,4070,4,124,1972,1875000.0,03-04-2006
+Højdevej 4,Kirke Hyllinge,4070,4,240,1969,2285000.0,01-04-2006
+Fjerbregnen 6,Kirke Hyllinge,4070,2,58,1970,655000.0,31-03-2006
+Ahornvej 15,Kirke Hyllinge,4070,4,86,1973,1200000.0,30-03-2006
+Troldkær 19,Kirke Hyllinge,4070,4,88,1990,2095000.0,24-03-2006
+Valnøddevej 1,Kirke Hyllinge,4070,5,152,2006,3395000.0,22-03-2006
+Fasanvej 9,Kirke Hyllinge,4070,4,100,1965,14950000.0,20-03-2006
+Bakkesvinget 28,Kirke Hyllinge,4070,1,12,1970,500000.0,18-03-2006
+Syrenvej 16,Kirke Hyllinge,4070,2,70,1973,950000.0,14-03-2006
+Vibevænget 4,Kirke Hyllinge,4070,3,47,1967,750000.0,14-03-2006
+Karlebyvej 115,Kirke Hyllinge,4070,7,197,1902,2650000.0,14-03-2006
+Henriksvej 15,Kirke Hyllinge,4070,4,140,1967,1725000.0,13-03-2006
+Harekærgårdsvej 41,Kirke Hyllinge,4070,4,112,2000,1875000.0,13-03-2006
+Karlebyvej 6,Kirke Hyllinge,4070,4,91,1950,465000.0,13-03-2006
+Lorentzensvej 15,Kirke Hyllinge,4070,4,111,1979,1995000.0,13-03-2006
+Hornsherredvej 266,Kirke Hyllinge,4070,4,212,2003,5076000.0,13-03-2006
+Lyndby Gade 27,Kirke Hyllinge,4070,3,101,1974,1620000.0,13-03-2006
+Gærdet 1,Kirke Hyllinge,4070,8,180,1972,2695000.0,09-03-2006
+Hyllingeparken 50,Kirke Hyllinge,4070,4,126,1977,1845000.0,08-03-2006
+Elverdamsvej 335,Kirke Hyllinge,4070,5,179,1900,1765000.0,06-03-2006
+Brombærhaven 6,Kirke Hyllinge,4070,5,156,2007,2665000.0,01-03-2006
+Mosevej 7,Kirke Hyllinge,4070,3,133,1963,2050000.0,27-02-2006
+Cedervej 2,Kirke Hyllinge,4070,3,65,1976,945000.0,21-02-2006
+Åhusene 43,Kirke Hyllinge,4070,5,74,1961,740000.0,16-02-2006
+Valdemarsvej 5,Kirke Hyllinge,4070,4,101,1981,3000000.0,14-02-2006
+Drosselvænget 3,Kirke Hyllinge,4070,2,97,1969,1035000.0,10-02-2006
+Lærkevænget 7,Kirke Hyllinge,4070,6,72,1967,775000.0,10-02-2006
+Vibevej 2A,Kirke Hyllinge,4070,4,178,1955,1438264.0,09-02-2006
+Strandbakken 14,Kirke Hyllinge,4070,2,55,1969,1062789.0,09-02-2006
+Åskrænten 7,Kirke Hyllinge,4070,3,67,1979,985000.0,05-02-2006
+Kongebregnen 12,Kirke Hyllinge,4070,4,77,1969,500000.0,02-02-2006
+Birkevej 19,Kirke Hyllinge,4070,2,30,1966,272000.0,23-01-2006
+Åsen 4,Kirke Hyllinge,4070,4,84,1980,1160000.0,23-01-2006
+Rønnevej 15,Kirke Hyllinge,4070,3,103,1968,1550000.0,18-01-2006
+Kyndeløse Strandvej 14,Kirke Hyllinge,4070,3,50,1975,875000.0,12-01-2006
+Rytterlodden 11,Kirke Hyllinge,4070,2,40,1965,925000.0,12-01-2006
+Humlevænget 1,Kirke Hyllinge,4070,4,107,2014,55000.0,30-12-2005
+Egevej 12,Kirke Hyllinge,4070,6,178,1969,1950000.0,29-12-2005
+Ved Fjorden 2,Kirke Hyllinge,4070,5,142,1973,925000.0,29-12-2005
+Kjøbmagergade 13,Kirke Hyllinge,4070,3,98,1966,1200000.0,27-12-2005
+Strandagervænge 28,Kirke Hyllinge,4070,3,85,1967,850000.0,24-12-2005
+Gershøjvej 121,Kirke Hyllinge,4070,4,107,1976,935000.0,21-12-2005
+Stendyssen 7,Kirke Hyllinge,4070,3,41,1964,845000.0,19-12-2005
+Løvkjærgaardsvej 10,Kirke Hyllinge,4070,4,132,1971,1800000.0,15-12-2005
+Bakkesvinget 12,Kirke Hyllinge,4070,3,77,1969,425000.0,15-12-2005
+Løvkjærgaardsvej 5,Kirke Hyllinge,4070,6,173,1972,2005000.0,12-12-2005
+Nakkedamsvej 83,Kirke Hyllinge,4070,3,150,1920,2135000.0,12-12-2005
+Hyllingeparken 33,Kirke Hyllinge,4070,3,124,1979,1645000.0,12-12-2005
+Smedegårdsvej 4C,Kirke Hyllinge,4070,4,70,2003,1500000.0,12-12-2005
+Valnøddevej 5,Kirke Hyllinge,4070,5,169,2006,3140000.0,12-12-2005
+Mågevej 7,Kirke Hyllinge,4070,4,111,2003,1785800.0,08-12-2005
+Tværvej 23,Kirke Hyllinge,4070,5,199,1912,3300000.0,02-12-2005
+Tranemosevej 16,Kirke Hyllinge,4070,5,133,1981,2350000.0,28-11-2005
+Skovbrynet 7,Kirke Hyllinge,4070,4,87,1974,1475000.0,28-11-2005
+Harekærgårdsvej 46,Kirke Hyllinge,4070,4,65,1980,1100000.0,28-11-2005
+Lyndby Gade 15,Kirke Hyllinge,4070,3,164,1987,2695000.0,25-11-2005
+Harekærgårdsvej 43,Kirke Hyllinge,4070,4,60,1977,442000.0,23-11-2005
+Løvkjærgaardsvej 24,Kirke Hyllinge,4070,4,117,1971,1650000.0,22-11-2005
+Harekærgårdsvej 29,Kirke Hyllinge,4070,5,123,2006,550000.0,21-11-2005
+Hyllingeparken 61,Kirke Hyllinge,4070,6,163,1977,1950000.0,17-11-2005
+Møllehøjvej 1D,Kirke Hyllinge,4070,4,75,2005,1225000.0,16-11-2005
+Strandbakken 22,Kirke Hyllinge,4070,2,50,1964,767607.0,14-11-2005
+Øreholmvej 21,Kirke Hyllinge,4070,5,173,1971,5502500.0,14-11-2005
+Biltris Gade 24,Kirke Hyllinge,4070,4,112,1966,1425000.0,10-11-2005
+Bygaden 50A,Kirke Hyllinge,4070,2,58,1900,1530000.0,08-11-2005
+Humlevænget 14,Kirke Hyllinge,4070,3,123,1980,1200000.0,06-11-2005
+Fjerbregnen 15,Kirke Hyllinge,4070,3,60,1972,850000.0,06-11-2005
+Bakkesvinget 34,Kirke Hyllinge,4070,4,69,1972,470000.0,04-11-2005
+Strandengen 10,Kirke Hyllinge,4070,3,88,2004,1250000.0,03-11-2005
+Bjergfyrvej 14,Kirke Hyllinge,4070,4,51,1969,895000.0,31-10-2005
+Lyndby Gade 1C,Kirke Hyllinge,4070,3,90,1986,1395000.0,30-10-2005
+Bakkesvinget 60,Kirke Hyllinge,4070,4,83,2007,510000.0,25-10-2005
+Cedervej 1,Kirke Hyllinge,4070,3,80,2006,515000.0,25-10-2005
+Strandagervænge 26,Kirke Hyllinge,4070,4,57,1968,1250000.0,24-10-2005
+Sæbyparken 10A,Kirke Hyllinge,4070,5,130,1972,1575000.0,19-10-2005
+Mejsevænget 17,Kirke Hyllinge,4070,2,48,1964,450000.0,18-10-2005
+Ligustervej 37,Kirke Hyllinge,4070,4,61,1971,1100000.0,17-10-2005
+Mirabellevej 8,Kirke Hyllinge,4070,5,140,2006,436475.0,17-10-2005
+Margrethevej 47,Kirke Hyllinge,4070,5,136,2006,1075000.0,13-10-2005
+Mågevænget 1,Kirke Hyllinge,4070,3,56,1971,630000.0,10-10-2005
+Kornblomstvej 2,Kirke Hyllinge,4070,5,157,2000,2450000.0,10-10-2005
+Mågevænget 8,Kirke Hyllinge,4070,4,87,1969,895000.0,06-10-2005
+Valnøddevej 8,Kirke Hyllinge,4070,6,201,2005,3150000.0,06-10-2005
+Spurvevænget 19,Kirke Hyllinge,4070,5,110,1977,875000.0,04-10-2005
+Hornsherredvej 459,Kirke Hyllinge,4070,6,151,1967,2010000.0,23-09-2005
+Sæbyvej 11,Kirke Hyllinge,4070,4,104,1934,750000.0,21-09-2005
+Hornsherredvej 416A,Kirke Hyllinge,4070,7,234,1910,2880000.0,20-09-2005
+Øreholmvej 6,Kirke Hyllinge,4070,5,160,1965,2500000.0,19-09-2005
+Harekærgårdsvej 32,Kirke Hyllinge,4070,5,79,1995,850000.0,13-09-2005
+Åhusene 4,Kirke Hyllinge,4070,4,59,1961,850000.0,09-09-2005
+Vibevænget 10,Kirke Hyllinge,4070,6,95,1973,1250000.0,07-09-2005
+Hyllebjerget 1A,Kirke Hyllinge,4070,5,110,1962,573358.0,07-09-2005
+Harekærgårdsvej 23,Kirke Hyllinge,4070,3,51,1998,1050000.0,05-09-2005
+Lorentzensvej 9,Kirke Hyllinge,4070,4,120,2005,1790000.0,05-09-2005
+Hjørnegårdsvej 33,Kirke Hyllinge,4070,6,140,1800,842350.0,04-09-2005
+Kærvej 26,Kirke Hyllinge,4070,3,79,1970,1175000.0,29-08-2005
+Harekærgårdsvej 56,Kirke Hyllinge,4070,3,37,1987,356000.0,28-08-2005
+Stakhaven 10,Kirke Hyllinge,4070,3,163,1979,2495000.0,26-08-2005
+Strandagervænge 14,Kirke Hyllinge,4070,5,154,1964,1195000.0,26-08-2005
+Møllehøjvej 1E,Kirke Hyllinge,4070,3,66,2005,1150000.0,26-08-2005
+Åbakken 34,Kirke Hyllinge,4070,3,52,1983,765000.0,22-08-2005
+Lærkevænget 12,Kirke Hyllinge,4070,3,50,1967,660000.0,21-08-2005
+Holtensmindevej 73,Kirke Hyllinge,4070,4,181,1822,760000.0,18-08-2005
+Møllehøjvej 1A,Kirke Hyllinge,4070,3,82,2005,1200000.0,17-08-2005
+Odinsvej 21,Kirke Hyllinge,4070,3,83,2007,677000.0,16-08-2005
+Terosevej 5,Kirke Hyllinge,4070,4,120,1973,541179.0,15-08-2005
+Biltris Gade 20,Kirke Hyllinge,4070,3,124,1962,1475000.0,11-08-2005
+Mosevej 19,Kirke Hyllinge,4070,4,138,1965,1975000.0,10-08-2005
+Skovbrynet 16,Kirke Hyllinge,4070,2,101,2001,2300000.0,08-08-2005
+Vintappervej 42,Kirke Hyllinge,4070,5,150,1877,2215000.0,08-08-2005
+Margrethevej 39,Kirke Hyllinge,4070,8,156,1997,1659742.0,08-08-2005
+Birkevej 11,Kirke Hyllinge,4070,3,49,1966,995000.0,05-08-2005
+Højdevang 5,Kirke Hyllinge,4070,4,53,1973,711873.0,02-08-2005
+Bygaden 1,Kirke Hyllinge,4070,5,130,2006,590000.0,24-07-2005
+Åbakken 44,Kirke Hyllinge,4070,4,88,2002,1400000.0,13-07-2005
+Tværvej 4,Kirke Hyllinge,4070,4,112,1993,1550000.0,13-07-2005
+Valnøddevej 2,Kirke Hyllinge,4070,6,164,2005,2550000.0,12-07-2005
+Mågevej 1,Kirke Hyllinge,4070,8,181,1968,1975000.0,08-07-2005
+Skjoldbregnen 7,Kirke Hyllinge,4070,4,69,1966,810000.0,08-07-2005
+Dyssemosen 15,Kirke Hyllinge,4070,4,132,1973,1900000.0,07-07-2005
+Mejsevænget 6,Kirke Hyllinge,4070,4,60,1972,725000.0,06-07-2005
+Hvidemosevej 14,Kirke Hyllinge,4070,8,230,1911,1995000.0,04-07-2005
+Elverdamsvej 254,Kirke Hyllinge,4070,4,150,1975,2970000.0,04-07-2005
+Ejbybrovej 12,Kirke Hyllinge,4070,4,84,1968,930000.0,04-07-2005
+Granbakken 4,Kirke Hyllinge,4070,3,55,1973,449067.0,04-07-2005
+Pilevang 18,Kirke Hyllinge,4070,4,51,1969,725000.0,30-06-2005
+Fjerbregnen 8,Kirke Hyllinge,4070,3,67,1971,925000.0,29-06-2005
+Troldager 2,Kirke Hyllinge,4070,4,36,1962,750000.0,29-06-2005
+Åhusene 23,Kirke Hyllinge,4070,4,78,1962,755000.0,29-06-2005
+Lærkevænget 8,Kirke Hyllinge,4070,2,58,1972,565000.0,28-06-2005
+Harevænget 5,Kirke Hyllinge,4070,4,64,1974,825000.0,24-06-2005
+Strandbakken 28,Kirke Hyllinge,4070,4,73,1999,1485000.0,23-06-2005
+Strandtoften 5,Kirke Hyllinge,4070,2,54,1981,650000.0,21-06-2005
+Spurvevænget 4,Kirke Hyllinge,4070,4,82,1969,725000.0,13-06-2005
+Kildevænget 4,Kirke Hyllinge,4070,4,111,1989,1595000.0,13-06-2005
+Tværvej 49,Kirke Hyllinge,4070,4,153,1792,1700000.0,13-06-2005
+Kambregnen 13,Kirke Hyllinge,4070,3,43,1975,420000.0,13-06-2005
+Møllehøjvej 1C,Kirke Hyllinge,4070,4,71,2005,1200000.0,10-06-2005
+Sydmarksvej 27,Kirke Hyllinge,4070,5,115,1931,2665000.0,09-06-2005
+Ryttergårdsvej 2,Kirke Hyllinge,4070,5,97,1900,1895000.0,08-06-2005
+Hjortevænget 7,Kirke Hyllinge,4070,3,67,1981,815000.0,02-06-2005
+Bøgevej 21,Kirke Hyllinge,4070,5,152,1978,1760000.0,02-06-2005
+Sæbyparken 4,Kirke Hyllinge,4070,4,129,1971,1725000.0,01-06-2005
+Bigårdsvej 26,Kirke Hyllinge,4070,4,114,1973,1595000.0,30-05-2005
+Karlebyvej 123,Kirke Hyllinge,4070,3,59,1908,950000.0,30-05-2005
+Hjortevænget 3,Kirke Hyllinge,4070,4,69,1971,740000.0,29-05-2005
+Elverdamsvej 235,Kirke Hyllinge,4070,4,196,1923,2750000.0,28-05-2005
+Humlevænget 12,Kirke Hyllinge,4070,3,75,1983,900000.0,25-05-2005
+Vibevej 1,Kirke Hyllinge,4070,4,118,1966,1275000.0,25-05-2005
+Strandbakken 24,Kirke Hyllinge,4070,3,46,1965,840000.0,25-05-2005
+Fjerbregnen 11,Kirke Hyllinge,4070,1,27,1970,550000.0,23-05-2005
+Nagels Rende 25,Kirke Hyllinge,4070,6,126,1952,790000.0,23-05-2005
+Troldkær 21,Kirke Hyllinge,4070,3,120,1947,1190000.0,23-05-2005
+Margrethevej 4,Kirke Hyllinge,4070,4,161,1970,708722.0,23-05-2005
+Smedegårdsvej 2A,Kirke Hyllinge,4070,3,50,1968,1150000.0,23-05-2005
+Hyllingeparken 20,Kirke Hyllinge,4070,4,180,1980,1775000.0,23-05-2005
+Pilevej 12,Kirke Hyllinge,4070,5,160,1973,1995000.0,23-05-2005
+Lykkesvej 13,Kirke Hyllinge,4070,5,183,2008,510000.0,23-05-2005
+Pærevej 5,Kirke Hyllinge,4070,3,115,2007,521500.0,23-05-2005
+Søndervang 7,Kirke Hyllinge,4070,6,102,1970,675000.0,20-05-2005
+Fjerbregnen 5,Kirke Hyllinge,4070,3,84,1975,1095000.0,18-05-2005
+Troldkær 4,Kirke Hyllinge,4070,5,60,1965,499777.0,18-05-2005
+Valmuevej 6,Kirke Hyllinge,4070,6,169,1998,2411000.0,18-05-2005
+Hasselvej 14,Kirke Hyllinge,4070,3,45,1970,660000.0,17-05-2005
+Ligustervej 26,Kirke Hyllinge,4070,3,50,1967,300000.0,14-05-2005
+Hornsherredvej 294,Kirke Hyllinge,4070,5,247,2008,2500000.0,13-05-2005
+Rytterlodden 10,Kirke Hyllinge,4070,3,50,1970,895000.0,04-05-2005
+Æblerosevej 12,Kirke Hyllinge,4070,2,108,2007,380000.0,02-05-2005
+Cedervej 8,Kirke Hyllinge,4070,4,73,1974,970000.0,02-05-2005
+Hornsherredvej 273,Kirke Hyllinge,4070,7,154,1957,1432700.0,02-05-2005
+Tjørnevangen 10,Kirke Hyllinge,4070,5,217,2009,528150.0,02-05-2005
+Kildevænget 3,Kirke Hyllinge,4070,4,111,1989,1595000.0,01-05-2005
+Lyndby Havnevej 20,Kirke Hyllinge,4070,4,116,1965,2400000.0,01-05-2005
+Ranunkelvej 4,Kirke Hyllinge,4070,5,137,2000,2175000.0,01-05-2005
+Hvidemosevej 49,Kirke Hyllinge,4070,8,221,1870,1495000.0,29-04-2005
+Nakkedamsvej 5,Kirke Hyllinge,4070,8,255,1938,1995000.0,28-04-2005
+Nørrevang 10,Kirke Hyllinge,4070,3,65,1974,785000.0,25-04-2005
+Kornblomstvej 13,Kirke Hyllinge,4070,5,150,2000,2352000.0,20-04-2005
+Kornbakken 1,Kirke Hyllinge,4070,5,140,1968,1695000.0,18-04-2005
+Bogårdsvej 4,Kirke Hyllinge,4070,5,63,1952,654100.0,18-04-2005
+Strandagervænge 45,Kirke Hyllinge,4070,6,144,1969,2400000.0,16-04-2005
+Troldager 9,Kirke Hyllinge,4070,4,47,1964,710000.0,15-04-2005
+Mellemvang 8,Kirke Hyllinge,4070,3,70,1972,1090000.0,13-04-2005
+Harekærgårdsvej 42,Kirke Hyllinge,4070,4,83,1979,1415000.0,06-04-2005
+Gammel Havnevej 11,Kirke Hyllinge,4070,3,103,1972,1495000.0,05-04-2005
+Pilevang 5,Kirke Hyllinge,4070,3,60,1970,584758.0,01-04-2005
+Ingridsvej 102,Kirke Hyllinge,4070,5,175,1999,2300000.0,31-03-2005
+Kirkevej 32,Kirke Hyllinge,4070,6,166,1961,1603466.0,30-03-2005
+Harekærgårdsvej 12,Kirke Hyllinge,4070,3,47,1984,705000.0,28-03-2005
+Åskrænten 6,Kirke Hyllinge,4070,3,56,1980,760000.0,28-03-2005
+Åsvinget 10,Kirke Hyllinge,4070,4,58,1977,650000.0,21-03-2005
+Stendyssen 26,Kirke Hyllinge,4070,3,65,1967,1100000.0,16-03-2005
+Holtensmindevej 58,Kirke Hyllinge,4070,8,232,1827,2885000.0,15-03-2005
+Smedegårdsvej 5A,Kirke Hyllinge,4070,2,55,1965,1035000.0,14-03-2005
+Ranunkelvej 12,Kirke Hyllinge,4070,5,215,2002,2495000.0,10-03-2005
+Ligustervej 14,Kirke Hyllinge,4070,3,59,1971,735000.0,07-03-2005
+Tømmergården 3,Kirke Hyllinge,4070,3,76,1983,1010000.0,07-03-2005
+Brusagervej 7,Kirke Hyllinge,4070,6,166,1965,1500000.0,07-03-2005
+Vibevej 10,Kirke Hyllinge,4070,3,79,1969,873648.0,06-03-2005
+Tømmergården 8,Kirke Hyllinge,4070,3,76,1983,995000.0,05-03-2005
+Smedegårdsvej 3G,Kirke Hyllinge,4070,4,106,1970,466724.0,05-03-2005
+Bakkesvinget 20,Kirke Hyllinge,4070,2,64,1969,695000.0,01-03-2005
+Ejby Strandvej 10,Kirke Hyllinge,4070,2,133,1933,1730000.0,28-02-2005
+Stationsvej 9,Kirke Hyllinge,4070,2,140,1929,531250.0,28-02-2005
+Elmevang 4,Kirke Hyllinge,4070,3,51,1973,200000.0,28-02-2005
+Bygaden 32,Kirke Hyllinge,4070,3,82,1912,1925000.0,28-02-2005
+Valnøddevej 6,Kirke Hyllinge,4070,5,143,2005,615500.0,28-02-2005
+Tværvej 24,Kirke Hyllinge,4070,8,261,1850,1375000.0,23-02-2005
+Løvkjærgaardsvej 12,Kirke Hyllinge,4070,4,101,1972,1400000.0,21-02-2005
+Øreholmvej 20A,Kirke Hyllinge,4070,6,244,1963,3500000.0,18-02-2005
+"Bygaden 18, 1",Kirke Hyllinge,4070,3,95,1931,1025000.0,17-02-2005
+Harekærgårdsvej 21,Kirke Hyllinge,4070,3,66,2002,1150000.0,17-02-2005
+Pærevej 1,Kirke Hyllinge,4070,4,129,2006,522500.0,16-02-2005
+Kærvej 20,Kirke Hyllinge,4070,3,70,1971,892390.0,13-02-2005
+Stendyssen 11,Kirke Hyllinge,4070,5,88,1962,675000.0,13-02-2005
+Tjørnevangen 9,Kirke Hyllinge,4070,5,290,2008,563850.0,13-02-2005
+Spurvevej 4,Kirke Hyllinge,4070,4,75,1978,750000.0,13-02-2005
+Bøgevang 9,Kirke Hyllinge,4070,2,48,1963,640000.0,11-02-2005
+Pærevej 17,Kirke Hyllinge,4070,5,173,2005,544500.0,09-02-2005
+Kærvej 17,Kirke Hyllinge,4070,5,113,1965,550000.0,07-02-2005
+Kirkevej 34,Kirke Hyllinge,4070,4,121,1963,1750000.0,07-02-2005
+Drosselvej 6,Kirke Hyllinge,4070,5,152,1968,816584.0,07-02-2005
+Rønnebærvej 5,Kirke Hyllinge,4070,4,76,1972,850000.0,07-02-2005
+Gammel Havnevej 13,Kirke Hyllinge,4070,3,85,1957,1137217.0,07-02-2005
+Biltris Gade 34,Kirke Hyllinge,4070,4,209,1971,1850000.0,01-02-2005
+Hornsherredvej 419B,Kirke Hyllinge,4070,4,152,1902,1630000.0,31-01-2005
+Smedegårdsvej 3D,Kirke Hyllinge,4070,3,83,2005,550000.0,29-01-2005
+Valmuevej 12,Kirke Hyllinge,4070,5,157,2002,2350000.0,24-01-2005
+Elverdamsvej 318,Kirke Hyllinge,4070,4,92,1960,1155000.0,20-01-2005
+Lyndby Gade 11,Kirke Hyllinge,4070,4,115,1920,1750000.0,20-01-2005
+Elverdamsvej 315,Kirke Hyllinge,4070,5,216,1930,3150000.0,19-01-2005
+Hasselvej 11,Kirke Hyllinge,4070,5,95,1966,750000.0,18-01-2005
+Anders Rasmussensvej 40,Kirke Hyllinge,4070,6,209,1973,2700000.0,17-01-2005
+Gershøjvej 87,Kirke Hyllinge,4070,5,107,1951,1100000.0,12-01-2005
+Åsvinget 8,Kirke Hyllinge,4070,6,112,1976,1074000.0,12-01-2005
+Åvangen 14,Kirke Hyllinge,4070,3,48,1987,750000.0,10-01-2005
+Pilevej 5,Kirke Hyllinge,4070,5,156,1967,1650000.0,06-01-2005
+Bjergfyrvej 9,Kirke Hyllinge,4070,4,80,1973,1102327.0,05-01-2005
+Valnøddevej 11,Kirke Hyllinge,4070,5,138,2005,540500.0,03-01-2005
+Strandvangen 8,Kirke Hyllinge,4070,2,68,1964,850000.0,03-01-2005
+Bjergfyrvej 7,Kirke Hyllinge,4070,5,76,1973,750000.0,30-12-2004
+Østergade 15,Kirke Hyllinge,4070,10,227,1880,2300000.0,28-12-2004
+Bigårdsvej 60,Kirke Hyllinge,4070,6,202,1979,2250000.0,27-12-2004
+Bøgevang 7,Kirke Hyllinge,4070,3,70,1965,530000.0,27-12-2004
+Stendyssen 54,Kirke Hyllinge,4070,3,87,1993,1326000.0,13-12-2004
+Ved Fjorden 5,Kirke Hyllinge,4070,8,200,1947,150000.0,12-12-2004
+Hornsherredvej 419A,Kirke Hyllinge,4070,4,171,1902,1465000.0,07-12-2004
+Harekærgårdsvej 17,Kirke Hyllinge,4070,3,51,1980,256500.0,06-12-2004
+Sæbyparken 16,Kirke Hyllinge,4070,3,135,1973,310000.0,06-12-2004
+Østermarken 7,Kirke Hyllinge,4070,5,161,1985,989000.0,06-12-2004
+Åbakken 25,Kirke Hyllinge,4070,3,45,1977,140000.0,01-12-2004
+Strandagervænge 16,Kirke Hyllinge,4070,3,60,1967,695000.0,01-12-2004
+Bigårdsvej 11,Kirke Hyllinge,4070,4,119,1973,1627000.0,29-11-2004
+Lærkevej 7,Kirke Hyllinge,4070,4,108,1970,765000.0,28-11-2004
+Bigårdsvej 7,Kirke Hyllinge,4070,4,134,1973,1695000.0,26-11-2004
+Bøgevej 7,Kirke Hyllinge,4070,8,233,1961,2050000.0,25-11-2004
+Valnøddevej 14,Kirke Hyllinge,4070,6,188,2005,563000.0,25-11-2004
+Bøgevej 25,Kirke Hyllinge,4070,3,75,1978,1600000.0,24-11-2004
+Ligustervej 6,Kirke Hyllinge,4070,2,48,1969,560000.0,22-11-2004
+Troldhøj 2,Kirke Hyllinge,4070,4,96,1961,2400000.0,15-11-2004
+Tjørnevangen 6,Kirke Hyllinge,4070,5,166,2005,565950.0,15-11-2004
+Rødtjørnevej 18,Kirke Hyllinge,4070,4,129,2000,1402500.0,15-11-2004
+Sæbyparken 1,Kirke Hyllinge,4070,4,136,1973,1595000.0,07-11-2004
+Birkevej 17,Kirke Hyllinge,4070,3,75,1964,675000.0,05-11-2004
+Rolighedsvej 4,Kirke Hyllinge,4070,4,112,1965,1644232.0,02-11-2004
+Holtensmindevej 77,Kirke Hyllinge,4070,3,62,1840,1000000.0,02-11-2004
+Tranemosevej 2B,Kirke Hyllinge,4070,3,128,1981,1405000.0,02-11-2004
+Tværvej 55,Kirke Hyllinge,4070,5,162,1900,1200000.0,01-11-2004
+Strandbakken 29,Kirke Hyllinge,4070,4,60,1982,860000.0,29-10-2004
+Olaf Kristiansensvej 2,Kirke Hyllinge,4070,5,207,1900,1675000.0,25-10-2004
+Bigårdsvej 12,Kirke Hyllinge,4070,5,174,1973,2025000.0,24-10-2004
+Rolighedsvej 11,Kirke Hyllinge,4070,5,149,1971,1600000.0,21-10-2004
+Østergade 11,Kirke Hyllinge,4070,3,98,1877,995000.0,20-10-2004
+Blommevej 7,Kirke Hyllinge,4070,3,133,2005,448800.0,11-10-2004
+Tjørnevangen 3,Kirke Hyllinge,4070,5,160,2005,527450.0,11-10-2004
+Strandagervænge 3,Kirke Hyllinge,4070,5,97,1969,1495000.0,07-10-2004
+Mejsevænget 4,Kirke Hyllinge,4070,3,108,2004,1375000.0,07-10-2004
+Åsen 22,Kirke Hyllinge,4070,3,70,2003,1250000.0,04-10-2004
+Frejasvej 3,Kirke Hyllinge,4070,4,56,1997,792249.0,27-09-2004
+Egebregnen 13,Kirke Hyllinge,4070,2,95,1987,1295000.0,27-09-2004
+Valnøddevej 9,Kirke Hyllinge,4070,6,228,2007,533500.0,21-09-2004
+Pærevej 7,Kirke Hyllinge,4070,4,139,2005,502500.0,20-09-2004
+Pærevej 21,Kirke Hyllinge,4070,5,148,2005,527500.0,20-09-2004
+Valnøddevej 12,Kirke Hyllinge,4070,6,220,2006,622000.0,20-09-2004
+Cedervej 14,Kirke Hyllinge,4070,2,41,1974,500000.0,13-09-2004
+Hellesvej 14,Kirke Hyllinge,4070,5,103,1965,1075000.0,10-09-2004
+Gudrun Børresensvej 12,Kirke Hyllinge,4070,4,68,1987,175000.0,31-08-2004
+Tranevej 10,Kirke Hyllinge,4070,5,112,1973,1200000.0,23-08-2004
+Åbakken 94,Kirke Hyllinge,4070,4,94,1997,623086.0,23-08-2004
+Gyvelvej 4,Kirke Hyllinge,4070,5,99,1985,1055000.0,16-08-2004
+Egebregnen 9,Kirke Hyllinge,4070,4,80,1968,945000.0,13-08-2004
+Harekærgårdsvej 64,Kirke Hyllinge,4070,4,64,1980,765000.0,12-08-2004
+Lykkesvej 35,Kirke Hyllinge,4070,6,146,2005,450000.0,12-08-2004
+Rønnebærvej 8,Kirke Hyllinge,4070,3,88,1967,975000.0,10-08-2004
+Ejbybrovej 32,Kirke Hyllinge,4070,3,56,1968,586963.0,09-08-2004
+Ligustervej 19,Kirke Hyllinge,4070,2,34,1965,397000.0,03-08-2004
+Hyllingeparken 72,Kirke Hyllinge,4070,3,267,1980,1262628.0,02-08-2004
+Karlebyvej 214,Kirke Hyllinge,4070,2,62,1937,1155000.0,01-08-2004
+Nørre Hyllingevej 20,Kirke Hyllinge,4070,4,110,1932,1475000.0,29-07-2004
+Dyssemosen 23,Kirke Hyllinge,4070,4,143,1974,620000.0,26-07-2004
+Åvangen 17,Kirke Hyllinge,4070,4,62,1979,770000.0,26-07-2004
+Biltris Gade 13,Kirke Hyllinge,4070,3,147,1826,1050000.0,25-07-2004
+Spurvevænget 6,Kirke Hyllinge,4070,4,67,1970,595000.0,13-07-2004
+Brunskærvej 4,Kirke Hyllinge,4070,3,85,2010,70000.0,09-07-2004
+Skovbrynet 19,Kirke Hyllinge,4070,3,66,1978,1050000.0,09-07-2004
+Mågevænget 12,Kirke Hyllinge,4070,2,37,1970,516921.0,02-07-2004
+Syrenvej 24,Kirke Hyllinge,4070,5,121,1989,1350000.0,01-07-2004
+Smedestræde 3,Kirke Hyllinge,4070,4,149,1752,1750000.0,01-07-2004
+Gammel Skolevej 14,Kirke Hyllinge,4070,5,180,1972,1792000.0,01-07-2004
+Mågevænget 13,Kirke Hyllinge,4070,3,56,1972,675000.0,29-06-2004
+Tjørnevangen 2,Kirke Hyllinge,4070,6,302,2007,541800.0,21-06-2004
+Ebbevænget 2,Kirke Hyllinge,4070,4,134,2005,735000.0,16-06-2004
+Harekærgårdsvej 11,Kirke Hyllinge,4070,3,101,1988,1075000.0,14-06-2004
+Hasselvej 15,Kirke Hyllinge,4070,2,39,1969,542547.0,09-06-2004
+Strandagervænge 7,Kirke Hyllinge,4070,6,244,1827,4500000.0,08-06-2004
+Brusagervej 21,Kirke Hyllinge,4070,3,58,1960,1595000.0,07-06-2004
+Stendyssen 6,Kirke Hyllinge,4070,3,59,1964,750000.0,07-06-2004
+Skovbrynet 3,Kirke Hyllinge,4070,3,75,1999,1050000.0,07-06-2004
+Hyllingeparken 12,Kirke Hyllinge,4070,2,178,2002,825000.0,07-06-2004
+Drosselvænget 4,Kirke Hyllinge,4070,3,43,1970,499000.0,06-06-2004
+Hyllingeparken 52,Kirke Hyllinge,4070,4,123,1977,1300000.0,06-06-2004
+Tjørnevangen 7,Kirke Hyllinge,4070,6,250,2005,535500.0,30-05-2004
+Ingridsvej 108,Kirke Hyllinge,4070,4,115,1977,800000.0,28-05-2004
+Hindebregnen 5,Kirke Hyllinge,4070,3,50,1972,390000.0,27-05-2004
+Birkevej 1,Kirke Hyllinge,4070,2,30,1967,260000.0,25-05-2004
+Jenslev Gade 2,Kirke Hyllinge,4070,7,195,1877,750000.0,24-05-2004
+Karlebyvej 66,Kirke Hyllinge,4070,4,182,2005,335000.0,24-05-2004
+Stendyssen 35,Kirke Hyllinge,4070,3,52,1965,340000.0,18-05-2004
+Fjerbregnen 20,Kirke Hyllinge,4070,3,71,1970,525000.0,11-05-2004
+Vibevænget 1,Kirke Hyllinge,4070,3,81,1971,450000.0,10-05-2004
+Nørre Hyllingevej 21,Kirke Hyllinge,4070,7,246,1931,70000.0,10-05-2004
+Hyllingeparken 81,Kirke Hyllinge,4070,4,115,1986,1550000.0,02-05-2004
+Duevænget 13,Kirke Hyllinge,4070,2,40,1976,638227.0,26-04-2004
+Stendyssen 52,Kirke Hyllinge,4070,4,50,1966,213000.0,26-04-2004
+Anders Rasmussensvej 1,Kirke Hyllinge,4070,3,110,2006,688500.0,24-04-2004
+Åsvinget 3,Kirke Hyllinge,4070,3,76,1977,520000.0,23-04-2004
+Lindevej 6,Kirke Hyllinge,4070,5,140,1977,1505000.0,23-04-2004
+Åbakken 27,Kirke Hyllinge,4070,3,40,1981,332000.0,19-04-2004
+Præstemarksvej 1,Kirke Hyllinge,4070,4,146,1978,1425000.0,13-04-2004
+Gershøj Havnevej 23,Kirke Hyllinge,4070,5,135,1910,1250000.0,12-04-2004
+Rødtjørnevej 12,Kirke Hyllinge,4070,5,78,1978,885000.0,08-04-2004
+Clematisvej 2,Kirke Hyllinge,4070,3,50,1969,625000.0,07-04-2004
+Bigårdsvej 23,Kirke Hyllinge,4070,4,133,1977,1818316.0,06-04-2004
+Strædet 13D,Kirke Hyllinge,4070,4,111,1987,1425000.0,06-04-2004
+Nagels Rende 6,Kirke Hyllinge,4070,3,50,1968,820000.0,05-04-2004
+Lindevej 9,Kirke Hyllinge,4070,5,136,1970,1417000.0,03-04-2004
+Cedervej 18,Kirke Hyllinge,4070,3,42,1973,550000.0,02-04-2004
+Stendyssen 45,Kirke Hyllinge,4070,3,70,1970,720000.0,02-04-2004
+Vinkelvej 18,Kirke Hyllinge,4070,4,149,1972,1250000.0,01-04-2004
+Højdevang 10,Kirke Hyllinge,4070,4,79,1970,873046.0,26-03-2004
+Mejsevænget 5,Kirke Hyllinge,4070,2,61,1969,650000.0,22-03-2004
+Tjørnevangen 5,Kirke Hyllinge,4070,1,84,2004,528150.0,22-03-2004
+Mirabellevej 3,Kirke Hyllinge,4070,6,212,2005,499375.0,21-03-2004
+Gammel Havnevej 10,Kirke Hyllinge,4070,5,150,1968,1595000.0,21-03-2004
+Strandagervænge 1,Kirke Hyllinge,4070,3,88,1964,386750.0,16-03-2004
+Niels Klarskovsvej 1,Kirke Hyllinge,4070,2,58,1969,451500.0,16-03-2004
+Åhusene 51,Kirke Hyllinge,4070,3,65,1962,464200.0,11-03-2004
+Kambregnen 4,Kirke Hyllinge,4070,3,68,1973,575000.0,11-03-2004
+Nagels Rende 10,Kirke Hyllinge,4070,6,175,1972,2135000.0,09-03-2004
+Præstholmvej 14,Kirke Hyllinge,4070,4,134,1975,1550000.0,07-03-2004
+Åhusene 19,Kirke Hyllinge,4070,3,44,1961,295000.0,03-03-2004
+Bogårdsvej 5,Kirke Hyllinge,4070,3,98,2005,400000.0,01-03-2004
+Rødtjørnevej 27,Kirke Hyllinge,4070,4,102,1996,2150000.0,26-02-2004
+Møllevej 3,Kirke Hyllinge,4070,7,148,1966,1100000.0,24-02-2004
+Ingridsvej 10,Kirke Hyllinge,4070,6,162,1973,1800000.0,23-02-2004
+Bodekær 10,Kirke Hyllinge,4070,5,160,1973,1700000.0,23-02-2004
+Karlebyvej 55,Kirke Hyllinge,4070,6,197,1893,1650000.0,17-02-2004
+Brusagervej 33,Kirke Hyllinge,4070,4,112,2005,800000.0,15-02-2004
+Åvangen 12,Kirke Hyllinge,4070,3,30,1979,325000.0,13-02-2004
+Vinkelvej 13,Kirke Hyllinge,4070,6,153,1972,1545000.0,09-02-2004
+Anders Rasmussensvej 30,Kirke Hyllinge,4070,4,115,1973,1375000.0,05-02-2004
+Ejbyvej 49,Kirke Hyllinge,4070,9,408,1909,1835001.0,28-01-2004
+Karlebyvej 50,Kirke Hyllinge,4070,2,120,1877,1145000.0,27-01-2004
+Vestervang 1,Kirke Hyllinge,4070,3,60,2003,782500.0,26-01-2004
+Ingridsvej 40,Kirke Hyllinge,4070,4,125,1979,1375000.0,22-01-2004
+Ejby Strandvej 21,Kirke Hyllinge,4070,4,131,1967,1550000.0,22-01-2004
+Åhusene 31,Kirke Hyllinge,4070,2,44,1961,300000.0,15-01-2004
+Bøgevej 20,Kirke Hyllinge,4070,3,104,1963,1225000.0,13-01-2004
+Hasselvej 10,Kirke Hyllinge,4070,3,72,1968,575000.0,09-01-2004
+Bøgevang 1,Kirke Hyllinge,4070,2,44,1965,250000.0,08-01-2004
+Skovbrynet 22,Kirke Hyllinge,4070,3,60,1969,620500.0,29-12-2003
+Højdevang 11,Kirke Hyllinge,4070,4,111,1969,450000.0,23-12-2003
+Lykkesvej 27,Kirke Hyllinge,4070,4,65,1972,800000.0,18-12-2003
+Mirabellevej 4,Kirke Hyllinge,4070,5,153,2004,450075.0,16-12-2003
+Agervang 9,Kirke Hyllinge,4070,8,204,1965,1750000.0,10-12-2003
+Brunskærvej 2,Kirke Hyllinge,4070,3,48,1983,356556.0,30-11-2003
+Biltris Gade 6,Kirke Hyllinge,4070,9,190,1920,1445000.0,14-11-2003
+Åhusene 53,Kirke Hyllinge,4070,4,69,1962,925000.0,07-11-2003
+Gershøjgårdsvej 9,Kirke Hyllinge,4070,6,183,1972,1348814.0,05-11-2003
+Margrethevej 8,Kirke Hyllinge,4070,5,146,1975,781107.0,31-10-2003
+Hornsherredvej 421A,Kirke Hyllinge,4070,8,305,1850,2600000.0,27-10-2003
+Vibevej 2B,Kirke Hyllinge,4070,3,108,1955,1125000.0,27-10-2003
+Brunskærvej 6,Kirke Hyllinge,4070,3,87,2002,885000.0,20-10-2003
+Hornsherredvej 255,Kirke Hyllinge,4070,5,131,1945,1600000.0,20-10-2003
+Lykkesvej 17,Kirke Hyllinge,4070,6,108,1989,1650000.0,20-10-2003
+Humlevænget 6,Kirke Hyllinge,4070,4,100,2007,150000.0,13-10-2003
+Valnøddevej 10,Kirke Hyllinge,4070,5,195,2006,547000.0,13-10-2003
+Lillegade 6A,Kirke Hyllinge,4070,5,193,1860,1420000.0,02-10-2003
+Humlevænget 8,Kirke Hyllinge,4070,5,150,2010,250000.0,29-09-2003
+Bygaden 13,Kirke Hyllinge,4070,7,196,1933,1800000.0,28-09-2003
+Rønnebærvej 4,Kirke Hyllinge,4070,3,80,1969,523646.0,22-09-2003
+Syrenvej 32,Kirke Hyllinge,4070,3,50,1970,795000.0,18-09-2003
+Ejbyvej 54,Kirke Hyllinge,4070,8,290,1927,295000.0,15-09-2003
+Nakkedamsvej 86,Kirke Hyllinge,4070,6,194,1920,1240000.0,02-09-2003
+Rønnebærvej 12,Kirke Hyllinge,4070,4,157,1970,1025500.0,01-09-2003
+Ørnebregnen 7,Kirke Hyllinge,4070,4,54,1967,450000.0,28-08-2003
+Birkevej 24,Kirke Hyllinge,4070,2,45,1969,311744.0,24-08-2003
+Nørrevang 7,Kirke Hyllinge,4070,4,50,1967,470000.0,24-08-2003
+Ejby Strandvej 9A,Kirke Hyllinge,4070,9,379,1887,5200000.0,20-08-2003
+Ejby Strandvej 13,Kirke Hyllinge,4070,5,97,1952,1400000.0,18-08-2003
+Præstemarksvej 13,Kirke Hyllinge,4070,4,110,1966,1375000.0,18-08-2003
+Højdevang 9,Kirke Hyllinge,4070,3,50,1968,538168.0,18-08-2003
+Åhusene 11,Kirke Hyllinge,4070,3,40,1961,395000.0,15-08-2003
+Vestervang 10,Kirke Hyllinge,4070,3,80,2005,140000.0,15-08-2003
+Ved Fjorden 17,Kirke Hyllinge,4070,3,130,1995,3200000.0,14-08-2003
+Bøgevej 8,Kirke Hyllinge,4070,9,228,1965,1775000.0,04-08-2003
+Rønnebærvej 7,Kirke Hyllinge,4070,4,61,1979,625000.0,04-08-2003
+Strædet 18B,Kirke Hyllinge,4070,6,176,2005,470000.0,31-07-2003
+Hasselvej 7,Kirke Hyllinge,4070,3,42,1965,490000.0,21-07-2003
+Hyllingeparken 28,Kirke Hyllinge,4070,5,153,1977,1495000.0,16-07-2003
+Rytterlodden 7,Kirke Hyllinge,4070,3,47,1960,435000.0,16-07-2003
+Hornsherredvej 421B,Kirke Hyllinge,4070,6,226,1850,287500.0,11-07-2003
+Åvangen 11,Kirke Hyllinge,4070,3,36,1984,357000.0,08-07-2003
+Kirkevej 10,Kirke Hyllinge,4070,9,284,1902,2850000.0,03-07-2003
+Nørre Hyllingevej 1,Kirke Hyllinge,4070,5,96,1957,1050000.0,03-07-2003
+Pilevang 13,Kirke Hyllinge,4070,3,54,1967,465000.0,02-07-2003
+Karlebyvej 1,Kirke Hyllinge,4070,6,104,1938,1795000.0,01-07-2003
+Bøgevang 8,Kirke Hyllinge,4070,3,77,1979,595000.0,30-06-2003
+Søndervang 10,Kirke Hyllinge,4070,4,70,1968,655000.0,29-06-2003
+Troldkær 15,Kirke Hyllinge,4070,3,46,1971,575000.0,27-06-2003
+Tranemosevej 19,Kirke Hyllinge,4070,4,101,1974,1195000.0,24-06-2003
+Olaf Kristiansensvej 10,Kirke Hyllinge,4070,4,57,1958,562499.0,20-06-2003
+Strandagervænge 5,Kirke Hyllinge,4070,2,50,1964,900000.0,18-06-2003
+Ejbybrovej 20,Kirke Hyllinge,4070,3,43,1968,515000.0,18-06-2003
+Troldkær 8,Kirke Hyllinge,4070,3,85,1996,975000.0,16-06-2003
+Henriksvej 7,Kirke Hyllinge,4070,5,170,1971,1840000.0,15-06-2003
+Nørrevang 9,Kirke Hyllinge,4070,3,81,1969,750000.0,15-06-2003
+Vellerupvej 1,Kirke Hyllinge,4070,2,147,1849,1650000.0,13-06-2003
+Lyndbyparken 26,Kirke Hyllinge,4070,5,141,1985,1800000.0,10-06-2003
+Strandagervænge 15,Kirke Hyllinge,4070,3,62,1965,1300000.0,10-06-2003
+Mirabellevej 1,Kirke Hyllinge,4070,4,138,2003,1860000.0,09-06-2003
+Klitrosevej 4,Kirke Hyllinge,4070,6,118,1983,937757.0,06-06-2003
+Præstemarksvej 19,Kirke Hyllinge,4070,6,212,1965,1575000.0,05-06-2003
+Kirkevej 51,Kirke Hyllinge,4070,6,253,1976,1645000.0,05-06-2003
+Bakkesvinget 35,Kirke Hyllinge,4070,2,24,1967,150000.0,04-06-2003
+Bovelgårdsvej 23,Kirke Hyllinge,4070,5,166,1978,1395000.0,03-06-2003
+Ejby Strandvej 1,Kirke Hyllinge,4070,5,146,1953,2900000.0,02-06-2003
+Sæbyparken 13,Kirke Hyllinge,4070,4,162,1972,1450000.0,31-05-2003
+Ejbybrovej 28,Kirke Hyllinge,4070,3,54,1968,565000.0,26-05-2003
+Lærkevænget 10,Kirke Hyllinge,4070,2,36,1968,350000.0,23-05-2003
+Kildevænget 10,Kirke Hyllinge,4070,4,111,1989,1385000.0,12-05-2003
+Ebbevænget 10,Kirke Hyllinge,4070,4,160,2004,790000.0,12-05-2003
+Skovbrynet 40,Kirke Hyllinge,4070,3,112,1970,1800000.0,11-05-2003
+Strandagervænge 53,Kirke Hyllinge,4070,3,62,1969,1575000.0,07-05-2003
+Dyssemosen 9,Kirke Hyllinge,4070,5,170,1973,1795000.0,05-05-2003
+Harekærgårdsvej 19,Kirke Hyllinge,4070,3,45,1986,600000.0,04-05-2003
+Kornbakken 7,Kirke Hyllinge,4070,6,179,1969,1450000.0,03-05-2003
+Niels Hansensvej 17,Kirke Hyllinge,4070,2,45,1927,1300000.0,30-04-2003
+Smedegade 1C,Kirke Hyllinge,4070,3,77,1984,1085000.0,30-04-2003
+Bigårdsvej 65,Kirke Hyllinge,4070,6,159,1974,1655000.0,29-04-2003
+Bygaden 9,Kirke Hyllinge,4070,3,265,1968,4000000.0,28-04-2003
+Smedevej 18,Kirke Hyllinge,4070,11,182,1909,600000.0,28-04-2003
+Blommevej 4,Kirke Hyllinge,4070,5,140,2003,427975.0,25-04-2003
+Hellesvej 8,Kirke Hyllinge,4070,3,78,2007,480000.0,15-04-2003
+Smedevej 7,Kirke Hyllinge,4070,3,128,1850,1395000.0,13-04-2003
+Fasanvej 4,Kirke Hyllinge,4070,5,119,1968,1450000.0,08-04-2003
+Skovbrynet 14,Kirke Hyllinge,4070,3,78,1969,671500.0,07-04-2003
+Gershøjvej 5,Kirke Hyllinge,4070,11,437,1920,2222000.0,07-04-2003
+Knudsvej 19,Kirke Hyllinge,4070,5,139,2004,425000.0,07-04-2003
+Smedevej 39,Kirke Hyllinge,4070,6,250,1810,2650000.0,07-04-2003
+Skovbrynet 16A,Kirke Hyllinge,4070,4,58,1931,493000.0,07-04-2003
+Skovbrynet 14A,Kirke Hyllinge,4070,2,51,1930,493000.0,07-04-2003
+Pilevang 3,Kirke Hyllinge,4070,3,53,1967,400000.0,05-04-2003
+Mejsevænget 10,Kirke Hyllinge,4070,3,69,1969,495000.0,03-04-2003
+Åbakken 17,Kirke Hyllinge,4070,3,63,2004,100000.0,02-04-2003
+Ejbyvej 47,Kirke Hyllinge,4070,4,160,2013,4200000.0,01-04-2003
+Strandvangen 3,Kirke Hyllinge,4070,5,89,2005,84334.0,01-04-2003
+Odinsvej 15,Kirke Hyllinge,4070,5,70,1988,375394.0,31-03-2003
+Drosselvænget 8,Kirke Hyllinge,4070,2,40,1969,410000.0,26-03-2003
+Åbakken 66,Kirke Hyllinge,4070,4,96,2002,950000.0,25-03-2003
+Ahornvej 3,Kirke Hyllinge,4070,4,63,1974,510000.0,24-03-2003
+Ved Fjorden 9,Kirke Hyllinge,4070,3,90,1986,1350000.0,23-03-2003
+Østergade 20,Kirke Hyllinge,4070,6,211,1970,1850000.0,23-03-2003
+Stærevænget 10,Kirke Hyllinge,4070,3,81,2004,60000.0,14-03-2003
+Agervang 11,Kirke Hyllinge,4070,6,127,1972,1300000.0,10-03-2003
+Gammel Skolevej 10,Kirke Hyllinge,4070,9,215,1935,2446000.0,03-03-2003
+Stendyssen 23,Kirke Hyllinge,4070,5,124,1963,640000.0,01-03-2003
+Hasselvej 13,Kirke Hyllinge,4070,4,92,1965,725000.0,27-02-2003
+Harekærgårdsvej 2,Kirke Hyllinge,4070,4,87,1977,648000.0,26-02-2003
+Lorentzensvej 13,Kirke Hyllinge,4070,4,135,1973,1825000.0,23-02-2003
+Elverdamsvej 329,Kirke Hyllinge,4070,5,173,1944,2985000.0,20-02-2003
+Buen 2,Kirke Hyllinge,4070,6,170,1850,2429766.0,17-02-2003
+Strandbakken 2,Kirke Hyllinge,4070,4,104,1961,975000.0,17-02-2003
+Ahornvej 5,Kirke Hyllinge,4070,6,84,1974,600000.0,13-02-2003
+Tværvej 31,Kirke Hyllinge,4070,7,96,1907,412500.0,04-02-2003
+Gershøjvej 42,Kirke Hyllinge,4070,6,176,1913,650000.0,03-02-2003
+Stærevænget 13,Kirke Hyllinge,4070,3,81,2007,70000.0,02-02-2003
+Bigårdsvej 20,Kirke Hyllinge,4070,3,140,1973,1695000.0,16-01-2003
+Bybrønden 13,Kirke Hyllinge,4070,5,162,1926,1425000.0,13-01-2003
+Hyllingeparken 63,Kirke Hyllinge,4070,6,152,1977,1700000.0,13-01-2003
+Biltris Gade 25,Kirke Hyllinge,4070,5,200,1876,2200000.0,12-01-2003
+Stærevænget 11,Kirke Hyllinge,4070,4,91,2007,95000.0,12-01-2003
+Egebregnen 7,Kirke Hyllinge,4070,3,53,1969,510000.0,06-01-2003
+Troldhøj 4,Kirke Hyllinge,4070,4,105,1960,1465000.0,27-12-2002
+Smedegårdsvej 4B,Kirke Hyllinge,4070,4,58,1968,365500.0,26-12-2002
+Blommevej 6,Kirke Hyllinge,4070,5,140,2005,469200.0,16-12-2002
+Ved Fjorden 4,Kirke Hyllinge,4070,5,154,1969,1470000.0,16-12-2002
+Agervang 4,Kirke Hyllinge,4070,7,152,1966,1400000.0,10-12-2002
+Fjerbregnen 2,Kirke Hyllinge,4070,3,54,1972,156608.0,09-12-2002
+Højdevang 12,Kirke Hyllinge,4070,4,76,1969,512579.0,01-12-2002
+Blommevej 3,Kirke Hyllinge,4070,5,230,2003,484500.0,28-11-2002
+Søstersvej 6,Kirke Hyllinge,4070,6,190,1975,1950000.0,21-11-2002
+Bakkesvinget 30,Kirke Hyllinge,4070,5,68,1971,380000.0,18-11-2002
+Hornsherredvej 256,Kirke Hyllinge,4070,5,130,2007,750000.0,13-11-2002
+Lyndby Havnevej 13,Kirke Hyllinge,4070,3,105,1956,2167605.0,12-11-2002
+Humlevænget 10,Kirke Hyllinge,4070,4,125,2009,200000.0,08-11-2002
+Valmuevej 13,Kirke Hyllinge,4070,5,152,1999,1863361.0,08-11-2002
+Ebbevænget 3,Kirke Hyllinge,4070,4,143,2003,590000.0,06-11-2002
+Olaf Kristiansensvej 43,Kirke Hyllinge,4070,3,60,1968,1470000.0,05-11-2002
+Mirabellevej 2,Kirke Hyllinge,4070,6,191,2003,457725.0,23-10-2002
+Ved Fjorden 10,Kirke Hyllinge,4070,5,201,1974,3195000.0,21-10-2002
+Ebbevænget 9,Kirke Hyllinge,4070,5,188,2010,650000.0,18-10-2002
+Åsen 18,Kirke Hyllinge,4070,5,82,1982,565000.0,15-10-2002
+Rønnevej 6,Kirke Hyllinge,4070,5,111,1978,1345000.0,08-10-2002
+Strandagervænge 19,Kirke Hyllinge,4070,4,114,2003,1350000.0,02-10-2002
+Cedervej 20,Kirke Hyllinge,4070,3,58,1966,595000.0,30-09-2002
+Blommevej 18,Kirke Hyllinge,4070,5,140,2003,489175.0,30-09-2002
+Skovkanten 2,Kirke Hyllinge,4070,3,48,1890,360145.0,30-09-2002
+Ørnebregnen 4,Kirke Hyllinge,4070,4,58,1967,205000.0,26-09-2002
+Lykkesvej 4,Kirke Hyllinge,4070,2,110,1969,635000.0,24-09-2002
+Humlevænget 26,Kirke Hyllinge,4070,4,100,2005,200000.0,23-09-2002
+Gershøjvej 73,Kirke Hyllinge,4070,5,167,1948,1527150.0,20-09-2002
+Åbakken 19,Kirke Hyllinge,4070,3,66,2001,795000.0,19-09-2002
+Løvkjærgaardsvej 9,Kirke Hyllinge,4070,4,118,1972,1265000.0,11-09-2002
+Sæbyparken 7,Kirke Hyllinge,4070,5,210,1955,1400000.0,09-09-2002
+Blågranvej 1,Kirke Hyllinge,4070,3,67,1968,542371.0,05-09-2002
+Stendyssen 5,Kirke Hyllinge,4070,2,45,1962,358318.0,02-09-2002
+Åhusene 20,Kirke Hyllinge,4070,3,103,1961,395000.0,30-08-2002
+Svenningsvej 5,Kirke Hyllinge,4070,8,213,1975,1525000.0,27-08-2002
+Åvangen 4,Kirke Hyllinge,4070,4,80,2005,70000.0,15-08-2002
+Humlevænget 11,Kirke Hyllinge,4070,3,79,1997,1062387.0,09-08-2002
+Hornsherredvej 442,Kirke Hyllinge,4070,9,175,1921,1800000.0,05-08-2002
+Knudsvej 14,Kirke Hyllinge,4070,5,136,1969,1633673.0,05-08-2002
+Valdemarsvej 7,Kirke Hyllinge,4070,4,122,2007,1750000.0,05-08-2002
+Kærvej 21,Kirke Hyllinge,4070,4,108,1966,750000.0,31-07-2002
+Birkevej 5,Kirke Hyllinge,4070,4,67,1968,250000.0,29-07-2002
+Østergade 16,Kirke Hyllinge,4070,3,91,1827,695000.0,29-07-2002
+Irisvej 9,Kirke Hyllinge,4070,8,190,1987,1875000.0,28-07-2002
+Fuglehavevej 19,Kirke Hyllinge,4070,4,86,2001,1342500.0,25-07-2002
+Ligustervej 22,Kirke Hyllinge,4070,2,59,1969,472162.0,19-07-2002
+Harekærgårdsvej 18,Kirke Hyllinge,4070,3,54,1980,374000.0,12-07-2002
+Syrenvej 22,Kirke Hyllinge,4070,4,118,2003,249000.0,08-07-2002
+Karlebyvej 35,Kirke Hyllinge,4070,4,250,1930,1750000.0,08-07-2002
+Strandbakken 5,Kirke Hyllinge,4070,3,42,1969,410000.0,07-07-2002
+Biltris Gade 18,Kirke Hyllinge,4070,5,144,1963,1151000.0,01-07-2002
+Smedevej 8,Kirke Hyllinge,4070,4,125,1900,1175000.0,01-07-2002
+Strandvangen 9,Kirke Hyllinge,4070,3,64,1968,694878.0,30-06-2002
+Hornsherredvej 238,Kirke Hyllinge,4070,2,73,1930,940000.0,27-06-2002
+Egevej 32,Kirke Hyllinge,4070,4,116,1967,1236084.0,27-06-2002
+Blommevej 10,Kirke Hyllinge,4070,5,185,2004,499800.0,25-06-2002
+Blommevej 16,Kirke Hyllinge,4070,5,150,2003,504050.0,25-06-2002
+Åbakken 2,Kirke Hyllinge,4070,3,79,1977,670000.0,24-06-2002
+Lykkesvej 29,Kirke Hyllinge,4070,4,48,1967,300000.0,24-06-2002
+Vestervang 15,Kirke Hyllinge,4070,3,52,2002,99000.0,24-06-2002
+Troldager 1,Kirke Hyllinge,4070,3,44,1962,656431.0,21-06-2002
+Grimshøjvej 3,Kirke Hyllinge,4070,4,131,1960,1200000.0,20-06-2002
+Blommevej 12,Kirke Hyllinge,4070,4,163,2004,490025.0,17-06-2002
+Gershøjvej 107,Kirke Hyllinge,4070,4,125,1967,1185000.0,17-06-2002
+Cedervej 9,Kirke Hyllinge,4070,3,48,1969,395000.0,10-06-2002
+Karlebyvej 127,Kirke Hyllinge,4070,4,150,1973,1350000.0,10-06-2002
+Hindebregnen 4,Kirke Hyllinge,4070,2,32,1968,324584.0,07-06-2002
+Blommevej 2,Kirke Hyllinge,4070,3,94,2003,438175.0,07-06-2002
+Elverdamsvej 316,Kirke Hyllinge,4070,5,123,1958,1100000.0,07-06-2002
+Hjortevænget 9,Kirke Hyllinge,4070,3,55,1974,451376.0,05-06-2002
+Lyndbyparken 37,Kirke Hyllinge,4070,5,133,1984,1603365.0,03-06-2002
+Olaf Kristiansensvej 23,Kirke Hyllinge,4070,3,67,2001,730000.0,24-05-2002
+Drosselvænget 12,Kirke Hyllinge,4070,3,74,1973,620259.0,21-05-2002
+Ejbyvej 67,Kirke Hyllinge,4070,5,125,1959,1175000.0,20-05-2002
+Anders Rasmussensvej 13,Kirke Hyllinge,4070,5,168,1973,1525000.0,19-05-2002
+Gershøj Havnevej 17,Kirke Hyllinge,4070,7,111,1975,2834000.0,16-05-2002
+Agervang 3,Kirke Hyllinge,4070,5,215,2005,550000.0,14-05-2002
+Trehøjevej 44,Kirke Hyllinge,4070,6,286,1869,2249000.0,13-05-2002
+Hornsherredvej 243,Kirke Hyllinge,4070,8,214,1989,1995000.0,13-05-2002
+Åbakken 70,Kirke Hyllinge,4070,4,75,2004,105000.0,08-05-2002
+Olaf Kristiansensvej 33,Kirke Hyllinge,4070,1,48,2009,410000.0,08-05-2002
+Ejby Strandvej 37,Kirke Hyllinge,4070,3,50,1827,650000.0,06-05-2002
+Troldager 13,Kirke Hyllinge,4070,2,40,1964,395000.0,06-05-2002
+Åbakken 102,Kirke Hyllinge,4070,3,90,1983,632537.0,06-05-2002
+Strandagervænge 27,Kirke Hyllinge,4070,4,117,2005,1250000.0,02-05-2002
+Valmuevej 14,Kirke Hyllinge,4070,5,152,2004,1800000.0,02-05-2002
+Lærkevænget 3,Kirke Hyllinge,4070,4,74,1972,483720.0,01-05-2002
+Nørrevang 13,Kirke Hyllinge,4070,3,45,1974,438000.0,01-05-2002
+Østermarken 4,Kirke Hyllinge,4070,7,206,1980,1932000.0,01-05-2002
+Åsen 28,Kirke Hyllinge,4070,3,55,1980,425000.0,30-04-2002
+Hornsherredvej 463,Kirke Hyllinge,4070,8,229,2003,1200000.0,24-04-2002
+Humlevænget 7,Kirke Hyllinge,4070,5,101,1980,940614.0,24-04-2002
+Trehøjevej 28,Kirke Hyllinge,4070,10,275,1877,3200000.0,22-04-2002
+Nagels Rende 12,Kirke Hyllinge,4070,4,120,1965,1665000.0,22-04-2002
+Elverdamsvej 242,Kirke Hyllinge,4070,6,171,1974,2800000.0,22-04-2002
+Egebregnen 18,Kirke Hyllinge,4070,3,50,1967,625272.0,22-04-2002
+Hornsherredvej 259,Kirke Hyllinge,4070,6,163,1998,2000000.0,22-04-2002
+Strandagervænge 39,Kirke Hyllinge,4070,3,54,1969,1448788.0,19-04-2002
+Bigårdsvej 38,Kirke Hyllinge,4070,4,111,1980,1274920.0,17-04-2002
+Lærkevænget 5,Kirke Hyllinge,4070,3,55,1977,507098.0,14-04-2002
+Smedegårdsvej 5F,Kirke Hyllinge,4070,4,68,1977,1400000.0,06-04-2002
+Lyndby Gade 3,Kirke Hyllinge,4070,3,90,1855,1050000.0,05-04-2002
+Bygaden 44,Kirke Hyllinge,4070,3,103,1930,950000.0,04-04-2002
+Hvidemosevej 19,Kirke Hyllinge,4070,5,154,1850,2461000.0,04-04-2002
+Svalevænget 9,Kirke Hyllinge,4070,4,49,1971,453176.0,03-04-2002
+Tømmergården 5,Kirke Hyllinge,4070,3,76,1983,987162.0,02-04-2002
+Gershøj Havnevej 1,Kirke Hyllinge,4070,6,164,1972,1800000.0,29-03-2002
+Mågevej 8,Kirke Hyllinge,4070,4,124,2007,200000.0,26-03-2002
+Sæbyparken 6,Kirke Hyllinge,4070,4,120,1973,1185000.0,15-03-2002
+Ingridsvej 82,Kirke Hyllinge,4070,4,114,1975,1275000.0,13-03-2002
+Agervang 7,Kirke Hyllinge,4070,9,253,1967,1654982.0,13-03-2002
+Olaf Kristiansensvej 7,Kirke Hyllinge,4070,4,92,2004,150000.0,11-03-2002
+Kirkevej 49,Kirke Hyllinge,4070,5,127,1986,1385000.0,07-03-2002
+Hvidemosevej 28,Kirke Hyllinge,4070,6,189,1928,2350000.0,28-02-2002
+Møllevej 15,Kirke Hyllinge,4070,4,138,1965,1485000.0,27-02-2002
+Agervang 5,Kirke Hyllinge,4070,3,73,1989,1110000.0,17-02-2002
+Bodekær 7,Kirke Hyllinge,4070,4,145,1974,1270000.0,15-02-2002
+Nørrevang 1,Kirke Hyllinge,4070,3,45,1970,380000.0,12-02-2002
+Lillegade 18D,Kirke Hyllinge,4070,9,158,1872,1102049.0,07-02-2002
+Spurvevænget 3,Kirke Hyllinge,4070,3,44,1967,272000.0,04-02-2002
+Bigårdsvej 57,Kirke Hyllinge,4070,5,162,1982,1795000.0,04-02-2002
+Troldhøj 10,Kirke Hyllinge,4070,3,64,2005,850000.0,04-02-2002
+Lyndbyparken 40,Kirke Hyllinge,4070,3,97,1982,1303000.0,29-01-2002
+Grønagergårdsvej 2,Kirke Hyllinge,4070,5,226,1930,1759913.0,28-01-2002
+Gyvelvej 18,Kirke Hyllinge,4070,2,59,1986,865000.0,28-01-2002
+Lyndbyparken 13,Kirke Hyllinge,4070,6,169,1999,2795000.0,22-01-2002
+Duevænget 2,Kirke Hyllinge,4070,3,50,1970,418000.0,11-01-2002
+Hornsherredvej 196A,Kirke Hyllinge,4070,4,150,2003,3400000.0,09-01-2002
+Lindevej 1,Kirke Hyllinge,4070,3,138,1977,528065.0,07-01-2002
+Karlebyvej 61,Kirke Hyllinge,4070,4,125,1959,976446.0,07-01-2002
+Ligustervej 16,Kirke Hyllinge,4070,3,100,2010,100000.0,07-01-2002
+Ilsøevej 13,Kirke Hyllinge,4070,7,310,1965,2000000.0,19-12-2001
+Brusagervej 17,Kirke Hyllinge,4070,3,70,1980,1250000.0,14-12-2001
+Lyndbyparken 35,Kirke Hyllinge,4070,4,138,1983,1505000.0,10-12-2001
+Skovbrynet 15,Kirke Hyllinge,4070,5,91,1972,742298.0,10-12-2001
+Æblerosevej 14,Kirke Hyllinge,4070,3,55,2002,60000.0,05-12-2001
+Kambregnen 6,Kirke Hyllinge,4070,3,97,1975,355000.0,03-12-2001
+Harekærgårdsvej 39,Kirke Hyllinge,4070,5,82,1980,547602.0,22-11-2001
+Hornsherredvej 170,Kirke Hyllinge,4070,4,165,1967,2218499.0,21-11-2001
+Gershøjvej 2,Kirke Hyllinge,4070,5,160,1800,1800015.0,16-11-2001
+Valmuevej 22,Kirke Hyllinge,4070,4,131,1997,1795000.0,15-11-2001
+Ligustervej 11,Kirke Hyllinge,4070,5,66,1972,473758.0,14-11-2001
+Åvangen 7,Kirke Hyllinge,4070,3,63,2007,100000.0,06-11-2001
+Ingridsvej 60,Kirke Hyllinge,4070,5,188,1977,1475000.0,30-10-2001
+Smedegårdsvej 2E,Kirke Hyllinge,4070,3,49,1967,600000.0,22-10-2001
+Spurvevænget 2,Kirke Hyllinge,4070,1,18,1967,200000.0,22-10-2001
+Bigårdsvej 4,Kirke Hyllinge,4070,6,236,1977,1700000.0,17-10-2001
+Åhusene 41,Kirke Hyllinge,4070,5,64,1963,600000.0,06-10-2001
+Clematisvej 11,Kirke Hyllinge,4070,3,61,1971,240010.0,05-10-2001
+Elmevang 10,Kirke Hyllinge,4070,2,43,1968,360000.0,04-10-2001
+Tømmergården 12,Kirke Hyllinge,4070,3,76,1983,870000.0,01-10-2001
+Strandbakken 9,Kirke Hyllinge,4070,2,51,1967,482267.0,01-10-2001
+Skovbrynet 28,Kirke Hyllinge,4070,3,117,1973,935000.0,28-09-2001
+Tømmergården 2,Kirke Hyllinge,4070,7,137,1950,1395000.0,24-09-2001
+Bakkesvinget 33,Kirke Hyllinge,4070,4,90,1969,575000.0,18-09-2001
+Knudsvej 2,Kirke Hyllinge,4070,4,118,1966,1194743.0,17-09-2001
+Skjoldbregnen 10,Kirke Hyllinge,4070,1,77,1967,225000.0,13-09-2001
+Birkevej 13,Kirke Hyllinge,4070,4,73,1966,465000.0,12-09-2001
+Kamillevej 12,Kirke Hyllinge,4070,5,181,2002,435000.0,12-09-2001
+Stationsvej 6,Kirke Hyllinge,4070,4,112,1950,1480531.0,10-09-2001
+Hvidemosevej 13A,Kirke Hyllinge,4070,5,213,2002,550000.0,03-09-2001
+Smedegårdsvej 2H,Kirke Hyllinge,4070,3,66,1966,668605.0,24-08-2001
+Lyndbyparken 38,Kirke Hyllinge,4070,3,113,1982,1135000.0,22-08-2001
+Kamillevej 9,Kirke Hyllinge,4070,7,231,2007,482500.0,20-08-2001
+Harekærgårdsvej 62,Kirke Hyllinge,4070,4,120,2003,170538.0,18-08-2001
+Granbakken 3,Kirke Hyllinge,4070,6,232,2003,795000.0,15-08-2001
+Bovelgårdsvej 36,Kirke Hyllinge,4070,4,167,1977,1270915.0,14-08-2001
+Kongebregnen 7,Kirke Hyllinge,4070,3,49,1972,450000.0,13-08-2001
+Sydmarksvej 24,Kirke Hyllinge,4070,7,216,1931,115668.0,09-08-2001
+Ligustervej 5,Kirke Hyllinge,4070,4,74,1965,270000.0,06-08-2001
+Gershøjvej 97,Kirke Hyllinge,4070,5,205,1827,1973836.0,06-08-2001
+Kirkevej 18,Kirke Hyllinge,4070,3,121,1946,1200000.0,01-08-2001
+Hvidemosevej 7,Kirke Hyllinge,4070,7,207,1911,1331186.0,01-08-2001
+Vestervang 5,Kirke Hyllinge,4070,2,85,2003,80000.0,01-08-2001
+Rønnebærvej 16,Kirke Hyllinge,4070,4,84,1973,572160.0,25-07-2001
+Kærvej 15,Kirke Hyllinge,4070,4,110,1969,400000.0,16-07-2001
+Bakkesvinget 27,Kirke Hyllinge,4070,3,67,1974,570338.0,16-07-2001
+Åbakken 30,Kirke Hyllinge,4070,4,82,2004,80000.0,15-07-2001
+Ejbyvej 63,Kirke Hyllinge,4070,5,105,1939,1230000.0,12-07-2001
+Fuglehavevej 29,Kirke Hyllinge,4070,4,165,1981,2855000.0,09-07-2001
+Olaf Kristiansensvej 35,Kirke Hyllinge,4070,2,28,1945,373010.0,08-07-2001
+Østergade 22,Kirke Hyllinge,4070,6,176,2010,684870.0,08-07-2001
+Hyllingeparken 43,Kirke Hyllinge,4070,5,145,1976,1595000.0,06-07-2001
+Bigårdsvej 5,Kirke Hyllinge,4070,3,197,1975,1495023.0,05-07-2001
+Tranevej 8,Kirke Hyllinge,4070,4,120,1978,1170192.0,03-07-2001
+Gyvelvej 7,Kirke Hyllinge,4070,5,95,1985,815192.0,02-07-2001
+Ranunkelvej 16,Kirke Hyllinge,4070,7,281,2002,310000.0,02-07-2001
+Knudsvej 13,Kirke Hyllinge,4070,4,116,1968,1122000.0,02-07-2001
+Bakkesvinget 13,Kirke Hyllinge,4070,3,96,2006,86000.0,01-07-2001
+Ejbyvej 18,Kirke Hyllinge,4070,4,90,1923,1975000.0,28-06-2001
+Harekærgårdsvej 13,Kirke Hyllinge,4070,2,31,1991,185000.0,25-06-2001
+Åbakken 90,Kirke Hyllinge,4070,3,91,2003,89000.0,18-06-2001
+Tværvej 6,Kirke Hyllinge,4070,4,132,1993,1750000.0,14-06-2001
+Tværvej 52,Kirke Hyllinge,4070,6,182,2003,450000.0,04-06-2001
+Ejbyvej 77,Kirke Hyllinge,4070,6,145,1969,1040000.0,31-05-2001
+Karlebyvej 8,Kirke Hyllinge,4070,4,181,1956,1150000.0,31-05-2001
+Egernvænget 8,Kirke Hyllinge,4070,4,61,1967,479683.0,29-05-2001
+Ranunkelvej 10,Kirke Hyllinge,4070,5,179,2002,1570000.0,28-05-2001
+Øreholmvej 10,Kirke Hyllinge,4070,6,159,1970,1730000.0,28-05-2001
+Hindebregnen 9,Kirke Hyllinge,4070,3,59,1973,410000.0,22-05-2001
+Ranunkelvej 2,Kirke Hyllinge,4070,5,149,2002,445000.0,21-05-2001
+Højdevang 17,Kirke Hyllinge,4070,4,42,1985,445000.0,21-05-2001
+Åskrænten 3,Kirke Hyllinge,4070,5,89,1977,275000.0,20-05-2001
+Tranemosevej 14,Kirke Hyllinge,4070,4,140,1980,1411984.0,07-05-2001
+Harekærgårdsvej 10,Kirke Hyllinge,4070,4,98,2002,110000.0,07-05-2001
+Vintappervej 88,Kirke Hyllinge,4070,40,3302,1960,2000000.0,07-05-2001
+Edvard Olsensvej 8,Kirke Hyllinge,4070,2,37,1964,375000.0,07-05-2001
+Kærvej 2,Kirke Hyllinge,4070,3,64,1967,350000.0,04-05-2001
+Margrethevej 22,Kirke Hyllinge,4070,5,135,1968,1222325.0,27-04-2001
+Fuglehavevej 14,Kirke Hyllinge,4070,3,72,1972,610000.0,26-04-2001
+Nagels Rende 26,Kirke Hyllinge,4070,3,80,1964,790000.0,22-04-2001
+Hedegårdsvej 20,Kirke Hyllinge,4070,4,112,1940,586500.0,19-04-2001
+Brunskærvej 13,Kirke Hyllinge,4070,3,35,1971,225000.0,16-04-2001
+Hornsherredvej 268,Kirke Hyllinge,4070,7,129,1937,565000.0,16-04-2001
+Irisvej 7,Kirke Hyllinge,4070,5,148,1988,1374999.0,02-04-2001
+Rødtjørnevej 14,Kirke Hyllinge,4070,4,82,1979,625000.0,26-03-2001
+Hyllingeparken 68,Kirke Hyllinge,4070,5,164,1977,1500000.0,23-03-2001
+Dyssemosen 25,Kirke Hyllinge,4070,4,127,1973,1429186.0,22-03-2001
+Bygaden 23,Kirke Hyllinge,4070,5,196,1920,1295044.0,21-03-2001
+Ejbyvej 71,Kirke Hyllinge,4070,4,165,1877,1140000.0,20-03-2001
+Åbakken 33,Kirke Hyllinge,4070,2,49,2004,60000.0,19-03-2001
+Odinsvej 14,Kirke Hyllinge,4070,4,94,2002,150000.0,19-03-2001
+Lykkesvej 21,Kirke Hyllinge,4070,4,83,1976,280000.0,15-03-2001
+Lyndbyparken 12,Kirke Hyllinge,4070,4,135,1983,1319168.0,14-03-2001
+Stendyssen 32,Kirke Hyllinge,4070,4,76,1964,520459.0,12-03-2001
+Åhusene 18,Kirke Hyllinge,4070,4,66,1962,395000.0,12-03-2001
+Smedegårdsvej 5H,Kirke Hyllinge,4070,1,44,1967,525000.0,09-03-2001
+Kamillevej 3,Kirke Hyllinge,4070,5,187,2002,340000.0,05-03-2001
+Præstemarksvej 7,Kirke Hyllinge,4070,6,156,1967,1362986.0,04-03-2001
+Hornsherredvej 249,Kirke Hyllinge,4070,6,196,2007,1011231.0,01-03-2001
+Rødtjørnevej 39,Kirke Hyllinge,4070,3,63,1997,1008382.0,28-02-2001
+Birkevej 18,Kirke Hyllinge,4070,3,54,1966,425000.0,26-02-2001
+Kongebregnen 10,Kirke Hyllinge,4070,3,56,1979,380000.0,26-02-2001
+Bybrønden 10,Kirke Hyllinge,4070,6,208,1975,2218823.0,22-02-2001
+Anders Rasmussensvej 33,Kirke Hyllinge,4070,5,118,1970,1150000.0,22-02-2001
+Rønnevej 10,Kirke Hyllinge,4070,4,120,1975,575000.0,12-02-2001
+Hedegårdsvej 26,Kirke Hyllinge,4070,3,119,2002,975000.0,10-02-2001
+Ingridsvej 56,Kirke Hyllinge,4070,4,122,1973,1329973.0,09-02-2001
+Østergade 9,Kirke Hyllinge,4070,4,122,1877,950000.0,01-02-2001
+Mejsevænget 9,Kirke Hyllinge,4070,4,67,1970,325000.0,26-01-2001
+Skovbrynet 11,Kirke Hyllinge,4070,3,96,1968,1400000.0,19-01-2001
+Askevej 1,Kirke Hyllinge,4070,5,180,1969,1500000.0,15-01-2001
+Kamillevej 16,Kirke Hyllinge,4070,3,92,2002,360000.0,15-01-2001
+Kamillevej 10,Kirke Hyllinge,4070,4,183,2002,1516000.0,09-01-2001
+Humlevænget 28,Kirke Hyllinge,4070,3,113,2002,200000.0,03-01-2001
+Niels Hansensvej 9,Kirke Hyllinge,4070,4,127,1999,828037.0,31-12-2000
+Gudrun Børresensvej 2,Kirke Hyllinge,4070,2,51,1957,87500.0,30-12-2000
+Tranemosevej 8,Kirke Hyllinge,4070,4,96,1961,925000.0,27-12-2000
+Bybrønden 14,Kirke Hyllinge,4070,6,200,2012,1525000.0,21-12-2000
+Gudrun Børresensvej 26,Kirke Hyllinge,4070,5,155,2009,687000.0,20-12-2000
+Åskrænten 8,Kirke Hyllinge,4070,3,77,2009,95000.0,13-12-2000
+Brusagervej 25,Kirke Hyllinge,4070,3,77,1968,875000.0,11-12-2000
+Sæbyvej 2,Kirke Hyllinge,4070,5,75,1928,1400000.0,30-11-2000
+Karlebyvej 21,Kirke Hyllinge,4070,3,80,1937,916014.0,22-11-2000
+Nordmarksvej 36,Kirke Hyllinge,4070,4,248,2003,580000.0,13-11-2000
+Bakkesvinget 15,Kirke Hyllinge,4070,2,61,1967,349048.0,13-11-2000
+Strandvangen 6,Kirke Hyllinge,4070,3,145,1973,1154000.0,06-11-2000
+Valmuevej 18,Kirke Hyllinge,4070,5,128,1998,1547999.0,02-11-2000
+Præstemarksvej 17,Kirke Hyllinge,4070,3,88,1965,909000.0,30-10-2000
+Strædet 15,Kirke Hyllinge,4070,5,189,1830,1800000.0,25-10-2000
+Mosevej 13,Kirke Hyllinge,4070,6,105,1964,938000.0,24-10-2000
+Ejbyvej 68,Kirke Hyllinge,4070,5,150,1998,1625568.0,23-10-2000
+Lærkevænget 16,Kirke Hyllinge,4070,3,42,1966,233831.0,22-10-2000
+Bøgevej 12,Kirke Hyllinge,4070,5,164,1972,1140000.0,18-10-2000
+Vestervang 14,Kirke Hyllinge,4070,3,87,2007,70000.0,15-10-2000
+Bygaden 15,Kirke Hyllinge,4070,7,208,1930,1422950.0,14-10-2000
+Lærkevænget 9,Kirke Hyllinge,4070,2,39,1971,232264.0,11-10-2000
+Ejby Havnevej 39A,Kirke Hyllinge,4070,6,156,1974,1555260.0,06-10-2000
+Hornsherredvej 471,Kirke Hyllinge,4070,7,176,1917,1453880.0,02-10-2000
+Bygaden 46,Kirke Hyllinge,4070,7,161,1934,883000.0,02-10-2000
+Gudrun Børresensvej 8,Kirke Hyllinge,4070,4,117,2001,467500.0,02-10-2000
+Karlebyvej 70,Kirke Hyllinge,4070,2,114,1800,600000.0,02-10-2000
+Dyssemosen 17,Kirke Hyllinge,4070,4,108,1973,1104987.0,27-09-2000
+Hyllingeparken 9,Kirke Hyllinge,4070,4,158,1976,1250000.0,24-09-2000
+Åbakken 43,Kirke Hyllinge,4070,2,36,1972,322000.0,21-09-2000
+Rødtjørnevej 17,Kirke Hyllinge,4070,6,133,1975,1325000.0,21-09-2000
+Vestervang 19,Kirke Hyllinge,4070,3,60,2001,70000.0,20-09-2000
+Karlebyvej 175,Kirke Hyllinge,4070,4,158,1974,254556.0,19-09-2000
+Næsvej 13,Kirke Hyllinge,4070,6,308,1864,2750000.0,15-09-2000
+Gyvelvej 13,Kirke Hyllinge,4070,3,99,1985,930000.0,13-09-2000
+Østergade 21,Kirke Hyllinge,4070,6,171,2002,530000.0,11-09-2000
+Østergade 23,Kirke Hyllinge,4070,5,157,2005,405000.0,11-09-2000
+Vellerupvej 5,Kirke Hyllinge,4070,4,176,1990,1683000.0,04-09-2000
+Tværvej 16,Kirke Hyllinge,4070,2,174,1950,1714923.0,01-09-2000
+Åhusene 48,Kirke Hyllinge,4070,3,71,1961,604188.0,01-09-2000
+Elmevang 3,Kirke Hyllinge,4070,4,76,1972,446751.0,21-08-2000
+Jenslevvej 3,Kirke Hyllinge,4070,6,129,1962,1075000.0,20-08-2000
+Edvard Olsensvej 6,Kirke Hyllinge,4070,2,39,1964,425000.0,18-08-2000
+Mågevænget 14,Kirke Hyllinge,4070,2,41,1972,175915.0,04-08-2000
+Hyllingeparken 53,Kirke Hyllinge,4070,5,169,1977,1600000.0,04-08-2000
+Hornsherredvej 237,Kirke Hyllinge,4070,3,198,1985,2699570.0,01-08-2000
+Stendyssen 13,Kirke Hyllinge,4070,4,80,1964,450000.0,24-07-2000
+Anders Rasmussensvej 29,Kirke Hyllinge,4070,4,102,1971,1185000.0,24-07-2000
+Strandhøj 6,Kirke Hyllinge,4070,4,77,1977,325000.0,24-07-2000
+Rytterlodden 15,Kirke Hyllinge,4070,3,98,2016,384891.0,21-07-2000
+Anders Rasmussensvej 3,Kirke Hyllinge,4070,4,132,1972,1219330.0,14-07-2000
+Ahornvej 11,Kirke Hyllinge,4070,3,50,1972,433000.0,10-07-2000
+Kirkevej 6,Kirke Hyllinge,4070,8,237,1977,1582000.0,10-07-2000
+Hyllingeparken 77,Kirke Hyllinge,4070,5,200,1979,1909880.0,10-07-2000
+Elmevang 15,Kirke Hyllinge,4070,1,58,1972,350683.0,06-07-2000
+Hyllingeparken 62,Kirke Hyllinge,4070,4,155,1977,1475000.0,06-07-2000
+Bellegårdsvej 3,Kirke Hyllinge,4070,6,155,1907,1213160.0,06-07-2000
+Ingridsvej 100,Kirke Hyllinge,4070,6,185,1974,1745000.0,02-07-2000
+Gershøjgårdsvej 11,Kirke Hyllinge,4070,5,170,1974,1408100.0,01-07-2000
+Harevænget 4,Kirke Hyllinge,4070,3,79,1981,300000.0,26-06-2000
+Gershøjvej 14A,Kirke Hyllinge,4070,6,190,1777,1575558.0,19-06-2000
+Strandbakken 7,Kirke Hyllinge,4070,3,80,1965,622662.0,19-06-2000
+Svalevænget 12,Kirke Hyllinge,4070,3,47,1973,447985.0,12-06-2000
+Gyvelvej 15,Kirke Hyllinge,4070,5,95,1985,939370.0,12-06-2000
+Strandagervænge 20B,Kirke Hyllinge,4070,3,81,2004,200000.0,12-06-2000
+Irisvej 5,Kirke Hyllinge,4070,4,115,1995,1450000.0,11-06-2000
+Egholmmarken 5,Kirke Hyllinge,4070,4,130,1920,1600000.0,06-06-2000
+Strædet 22,Kirke Hyllinge,4070,4,133,1969,1308223.0,06-06-2000
+Strandagervænge 13,Kirke Hyllinge,4070,4,158,1988,1650000.0,03-06-2000
+Bøgevej 13B,Kirke Hyllinge,4070,4,103,1985,932763.0,29-05-2000
+Bodekær 4,Kirke Hyllinge,4070,4,139,1979,1322000.0,29-05-2000
+Bovelgårdsvej 8,Kirke Hyllinge,4070,5,135,1971,1415570.0,29-05-2000
+Nakkedamsvej 39,Kirke Hyllinge,4070,8,272,1920,1673120.0,23-05-2000
+Rolighedsvej 7,Kirke Hyllinge,4070,4,178,1972,1345495.0,22-05-2000
+Æblerosevej 11,Kirke Hyllinge,4070,3,66,2000,150000.0,20-05-2000
+Grimshøjvej 13,Kirke Hyllinge,4070,6,126,1952,1286183.0,17-05-2000
+Vibevænget 11,Kirke Hyllinge,4070,3,95,1999,615000.0,17-05-2000
+Nagels Rende 9,Kirke Hyllinge,4070,5,170,1949,1850000.0,15-05-2000
+Maglemosen 2,Kirke Hyllinge,4070,6,245,1915,3378344.0,15-05-2000
+Kamillevej 5,Kirke Hyllinge,4070,4,132,2000,340000.0,15-05-2000
+Bjergfyrvej 17,Kirke Hyllinge,4070,2,28,1974,288039.0,10-05-2000
+Ejby Strandvej 29,Kirke Hyllinge,4070,4,116,1962,1101000.0,09-05-2000
+Rønnebærvej 15,Kirke Hyllinge,4070,3,56,1973,484727.0,09-05-2000
+Svalevænget 13,Kirke Hyllinge,4070,3,29,1967,121000.0,08-05-2000
+Kamillevej 7,Kirke Hyllinge,4070,5,145,2000,350000.0,08-05-2000
+Agervang 22,Kirke Hyllinge,4070,3,114,2002,620000.0,08-05-2000
+Mejsevænget 2,Kirke Hyllinge,4070,2,79,2004,62500.0,04-05-2000
+Troldhøj 14,Kirke Hyllinge,4070,5,101,1960,501754.0,26-04-2000
+Kyndeløse Strandvej 10,Kirke Hyllinge,4070,3,52,1977,405273.0,19-04-2000
+Drosselvænget 11,Kirke Hyllinge,4070,5,84,1969,567574.0,19-04-2000
+Lyndby Havnevej 6,Kirke Hyllinge,4070,8,136,1973,690000.0,17-04-2000
+Strædet 6B,Kirke Hyllinge,4070,5,161,2000,324575.0,10-04-2000
+Hornsherredvej 153,Kirke Hyllinge,4070,5,104,1954,1326956.0,03-04-2000
+Lyndby Gade 6,Kirke Hyllinge,4070,3,225,1961,540000.0,01-04-2000
+Olaf Kristiansensvej 31,Kirke Hyllinge,4070,2,76,1937,323000.0,31-03-2000
+Lykkesvej 12,Kirke Hyllinge,4070,5,149,2008,446000.0,30-03-2000
+Bygaden 17. A,Kirke Hyllinge,4070,9,166,1929,1250000.0,28-03-2000
+Bjergfyrvej 24,Kirke Hyllinge,4070,1,20,1979,140000.0,27-03-2000
+Smedegårdsvej 1E,Kirke Hyllinge,4070,7,74,1975,300000.0,20-03-2000
+Ranunkelvej 14,Kirke Hyllinge,4070,4,170,2001,350000.0,13-03-2000
+Ahornvej 6,Kirke Hyllinge,4070,3,91,1977,432238.0,10-03-2000
+Hornsherredvej 244,Kirke Hyllinge,4070,4,76,1942,605000.0,06-03-2000
+Clematisvej 3,Kirke Hyllinge,4070,3,90,1972,575000.0,01-03-2000
+Øreholmvej 12B,Kirke Hyllinge,4070,4,125,1979,1432033.0,29-02-2000
+Valmuevej 4,Kirke Hyllinge,4070,5,186,2006,260000.0,22-02-2000
+Gammel Skolevej 12,Kirke Hyllinge,4070,6,160,1950,1301309.0,18-02-2000
+Trekroner 2,Kirke Hyllinge,4070,8,212,1921,1775000.0,07-02-2000
+Bakkesvinget 66,Kirke Hyllinge,4070,3,59,1974,373200.0,07-02-2000
+Valmuevej 11,Kirke Hyllinge,4070,6,141,2000,1450000.0,24-01-2000
+Troldkær 13,Kirke Hyllinge,4070,5,80,1991,310000.0,19-01-2000
+Ranunkelvej 8,Kirke Hyllinge,4070,5,167,2002,350000.0,10-01-2000
+Holtensmindevej 59,Kirke Hyllinge,4070,4,100,1820,1099999.0,10-01-2000
+Hellesvej 13,Kirke Hyllinge,4070,4,48,1967,300000.0,04-01-2000
+Søstersvej 3,Kirke Hyllinge,4070,4,133,1976,1225000.0,22-12-1999
+Kamillevej 11,Kirke Hyllinge,4070,6,209,2003,350000.0,16-12-1999
+Stendyssen 50,Kirke Hyllinge,4070,3,51,1968,360000.0,15-12-1999
+Nakkedamsvej 31,Kirke Hyllinge,4070,9,250,1922,1900000.0,13-12-1999
+Terosevej 3,Kirke Hyllinge,4070,3,65,1971,371677.0,13-12-1999
+Hornsherredvej 239,Kirke Hyllinge,4070,6,324,1908,731024.0,13-12-1999
+Bovelgårdsvej 27,Kirke Hyllinge,4070,5,183,1976,1300000.0,11-12-1999
+Svalevej 4,Kirke Hyllinge,4070,2,49,1968,200000.0,07-12-1999
+Bigårdsvej 1,Kirke Hyllinge,4070,5,191,1978,699448.0,07-12-1999
+Humlevænget 4,Kirke Hyllinge,4070,4,87,2000,147000.0,29-11-1999
+Humlevænget 22,Kirke Hyllinge,4070,3,76,2004,90000.0,29-11-1999
+Elverdamsvej 407,Kirke Hyllinge,4070,3,72,1920,875000.0,27-11-1999
+Strandengen 2,Kirke Hyllinge,4070,3,48,1976,504077.0,19-11-1999
+Ejbyvej 20,Kirke Hyllinge,4070,8,274,1924,1391316.0,15-11-1999
+Spurvevænget 1,Kirke Hyllinge,4070,3,51,1969,268059.0,15-11-1999
+Anders Rasmussensvej 37,Kirke Hyllinge,4070,5,160,1969,1207280.0,14-11-1999
+Dyssemosen 18,Kirke Hyllinge,4070,4,128,1974,1279433.0,08-11-1999
+Kirkevej 26,Kirke Hyllinge,4070,4,98,1962,870000.0,01-11-1999
+Kornbakken 8,Kirke Hyllinge,4070,4,117,1969,1129646.0,01-11-1999
+Birkevej 12,Kirke Hyllinge,4070,3,92,1972,400000.0,29-10-1999
+Ejby Strandvej 16,Kirke Hyllinge,4070,5,125,2001,336000.0,26-10-1999
+Agervang 10,Kirke Hyllinge,4070,4,105,2001,360000.0,25-10-1999
+Cedervej 3,Kirke Hyllinge,4070,3,57,1968,268809.0,22-10-1999
+Trehøjevej 3,Kirke Hyllinge,4070,8,225,1908,2385111.0,18-10-1999
+Gershøj Havnevej 25,Kirke Hyllinge,4070,2,93,1876,920234.0,11-10-1999
+Troldbyvej 19,Kirke Hyllinge,4070,9,334,1827,2379877.0,10-10-1999
+Kjøbmagergade 10,Kirke Hyllinge,4070,5,130,1916,920000.0,07-10-1999
+Smedevej 5,Kirke Hyllinge,4070,3,109,1850,700000.0,07-10-1999
+Hornsherredvej 404,Kirke Hyllinge,4070,3,79,1840,803000.0,07-10-1999
+Elverdamsvej 363,Kirke Hyllinge,4070,3,130,1950,832152.0,21-09-1999
+Syrenvej 5,Kirke Hyllinge,4070,3,100,1974,703513.0,20-09-1999
+Strandagervænge 6,Kirke Hyllinge,4070,4,72,1968,501300.0,20-09-1999
+Bakkesvinget 64,Kirke Hyllinge,4070,3,68,1971,384928.0,20-09-1999
+Åbakken 51,Kirke Hyllinge,4070,4,50,1991,309820.0,13-09-1999
+Hellesvej 7,Kirke Hyllinge,4070,2,38,1966,262251.0,13-09-1999
+Østergade 12,Kirke Hyllinge,4070,5,118,1920,1187360.0,13-09-1999
+Hasselvej 27,Kirke Hyllinge,4070,3,77,1966,789984.0,29-08-1999
+Bodekær 8,Kirke Hyllinge,4070,5,132,1972,1114768.0,24-08-1999
+Bigårdsvej 9,Kirke Hyllinge,4070,4,135,1973,1216609.0,11-08-1999
+Anders Rasmussensvej 34,Kirke Hyllinge,4070,5,165,1974,1260200.0,22-07-1999
+Kornblomstvej 10,Kirke Hyllinge,4070,5,153,2000,270000.0,22-07-1999
+Agervang 2,Kirke Hyllinge,4070,3,115,1982,900000.0,22-07-1999
+Hvidemosevej 10,Kirke Hyllinge,4070,3,135,1901,1125000.0,19-07-1999
+Spurvevænget 20,Kirke Hyllinge,4070,3,56,1978,369589.0,16-07-1999
+Smedegade 1D,Kirke Hyllinge,4070,3,77,1984,700000.0,16-07-1999
+Niels Klarskovsvej 14A,Kirke Hyllinge,4070,6,156,1969,1878239.0,12-07-1999
+Kærvej 27,Kirke Hyllinge,4070,4,82,1973,517260.0,03-07-1999
+Bigårdsvej 44,Kirke Hyllinge,4070,6,175,1974,1435058.0,01-07-1999
+Åbakken 98,Kirke Hyllinge,4070,3,51,1982,433320.0,21-06-1999
+Kjøbmagergade 18,Kirke Hyllinge,4070,5,132,1827,11000.0,21-06-1999
+Nyvej 6,Kirke Hyllinge,4070,4,121,1978,979000.0,21-06-1999
+Hornsherredvej 188,Kirke Hyllinge,4070,3,159,1990,1860460.0,21-06-1999
+Bakkesvinget 56,Kirke Hyllinge,4070,3,55,1976,339760.0,21-06-1999
+Hornsherredvej 240,Kirke Hyllinge,4070,4,110,2000,550000.0,21-06-1999
+Pilevang 2,Kirke Hyllinge,4070,4,72,1967,380890.0,21-06-1999
+Østergade 26,Kirke Hyllinge,4070,4,160,2000,380000.0,14-06-1999
+Lærkevej 18,Kirke Hyllinge,4070,4,77,1964,489920.0,11-06-1999
+Nyvej 3,Kirke Hyllinge,4070,4,148,1977,960386.0,08-06-1999
+Vibevej 8,Kirke Hyllinge,4070,3,49,1963,360000.0,07-06-1999
+Margrethevej 10,Kirke Hyllinge,4070,5,173,1968,1216909.0,07-06-1999
+Niels Klarskovsvej 8,Kirke Hyllinge,4070,4,133,1990,1546390.0,07-06-1999
+Åsen 46,Kirke Hyllinge,4070,3,57,2005,87500.0,07-06-1999
+Vellerupvej 12,Kirke Hyllinge,4070,4,85,1870,240000.0,07-06-1999
+Humlevænget 15,Kirke Hyllinge,4070,4,75,2000,1188260.0,06-06-1999
+Tømmergården 14,Kirke Hyllinge,4070,3,76,1983,775525.0,04-06-1999
+Grønagergårdsvej 3,Kirke Hyllinge,4070,9,319,1880,5361748.0,01-06-1999
+Edvard Olsensvej 12,Kirke Hyllinge,4070,3,84,2002,498000.0,30-05-1999
+Bøgevej 15,Kirke Hyllinge,4070,3,92,1961,1149000.0,29-05-1999
+Bygaden 43,Kirke Hyllinge,4070,6,146,1962,928118.0,27-05-1999
+Ingridsvej 88,Kirke Hyllinge,4070,4,114,1973,1195000.0,25-05-1999
+Svalevej 2,Kirke Hyllinge,4070,3,35,1965,214615.0,12-05-1999
+Fjerbregnen 17,Kirke Hyllinge,4070,4,71,1975,412397.0,10-05-1999
+Åsen 1,Kirke Hyllinge,4070,4,82,1998,685000.0,10-05-1999
+Østermarken 2,Kirke Hyllinge,4070,5,130,1964,1326872.0,10-05-1999
+Humlevænget 24,Kirke Hyllinge,4070,5,97,2001,140000.0,04-05-1999
+Ahornvej 27,Kirke Hyllinge,4070,4,64,1968,229000.0,03-05-1999
+Nakkedamsvej 46,Kirke Hyllinge,4070,3,159,1920,935000.0,26-04-1999
+Boesvej 2,Kirke Hyllinge,4070,6,174,1965,1243234.0,25-04-1999
+Åskrænten 14,Kirke Hyllinge,4070,3,82,1977,469270.0,23-04-1999
+Fuglehavevej 10,Kirke Hyllinge,4070,2,30,1973,364826.0,22-04-1999
+Drosselvænget 14,Kirke Hyllinge,4070,3,35,1967,193207.0,15-04-1999
+Harekærgårdsvej 55,Kirke Hyllinge,4070,5,128,1999,85000.0,15-04-1999
+Kornblomstvej 12,Kirke Hyllinge,4070,4,165,2000,250000.0,25-03-1999
+Mågevej 9,Kirke Hyllinge,4070,4,71,2015,651000.0,23-03-1999
+Bovelgårdsvej 43,Kirke Hyllinge,4070,5,153,1970,1270585.0,23-03-1999
+Valmuevej 1,Kirke Hyllinge,4070,5,140,1998,1487534.0,20-03-1999
+Strandtoften 7,Kirke Hyllinge,4070,3,35,1977,289222.0,09-03-1999
+Kirkevej 42,Kirke Hyllinge,4070,10,185,1968,1679000.0,01-03-1999
+Duevænget 1,Kirke Hyllinge,4070,3,60,1969,135000.0,01-03-1999
+Valmuevej 3,Kirke Hyllinge,4070,6,165,1999,240000.0,01-03-1999
+Karlebyvej 173,Kirke Hyllinge,4070,5,130,1920,874177.0,22-02-1999
+Kornblomstvej 14,Kirke Hyllinge,4070,6,211,2000,250000.0,18-02-1999
+Nakkedamsvej 79,Kirke Hyllinge,4070,3,106,1920,135962.0,15-02-1999
+Vibevænget 3,Kirke Hyllinge,4070,3,63,1972,263000.0,01-02-1999
+Harekærgårdsvej 53,Kirke Hyllinge,4070,3,90,2002,42000.0,23-01-1999
+Hornsherredvej 427,Kirke Hyllinge,4070,4,98,1988,954633.0,18-01-1999
+Nørre Hyllingevej 30,Kirke Hyllinge,4070,7,338,1876,1375000.0,18-01-1999
+Løvkjærgaardsvej 18,Kirke Hyllinge,4070,4,155,1972,1145589.0,07-12-1998
+Jenslevvej 20,Kirke Hyllinge,4070,4,112,1984,1436321.0,07-12-1998
+Bjergfyrvej 4,Kirke Hyllinge,4070,6,66,1970,245000.0,07-12-1998
+Ved Fjorden 13,Kirke Hyllinge,4070,5,194,1980,2456683.0,30-11-1998
+Ahornvej 8,Kirke Hyllinge,4070,4,81,1975,362491.0,27-11-1998
+Strandbakken 16,Kirke Hyllinge,4070,2,76,1964,299210.0,26-11-1998
+Smedegade 3,Kirke Hyllinge,4070,3,150,1850,1626550.0,23-11-1998
+Nagels Rende 22,Kirke Hyllinge,4070,3,151,1964,875000.0,18-11-1998
+Nagels Rende 13,Kirke Hyllinge,4070,3,82,2004,218600.0,15-11-1998
+Hasselvej 3,Kirke Hyllinge,4070,4,70,1974,405400.0,09-11-1998
+Nagels Rende 2,Kirke Hyllinge,4070,4,127,1988,1115748.0,08-11-1998
+Ejbyvej 73,Kirke Hyllinge,4070,6,220,1999,250900.0,27-10-1998
+Syrenvej 23,Kirke Hyllinge,4070,3,40,1968,341243.0,26-10-1998
+Margrethevej 23,Kirke Hyllinge,4070,4,100,2009,601722.0,22-10-1998
+Hornsherredvej 429,Kirke Hyllinge,4070,4,98,1988,876540.0,20-10-1998
+Bøgegårdsvej 2,Kirke Hyllinge,4070,4,132,1985,1176002.0,16-10-1998
+Hornsherredvej 182,Kirke Hyllinge,4070,2,122,1963,1750000.0,13-10-1998
+Troldhøj 15,Kirke Hyllinge,4070,4,54,1962,260000.0,12-10-1998
+Elverdamsvej 302,Kirke Hyllinge,4070,5,155,1977,900320.0,12-10-1998
+Kornblomstvej 5,Kirke Hyllinge,4070,5,140,2000,270000.0,12-10-1998
+Biltris Gade 17,Kirke Hyllinge,4070,7,220,1826,265000.0,11-10-1998
+Harevænget 11,Kirke Hyllinge,4070,4,67,1973,308173.0,11-10-1998
+Spurvevej 2,Kirke Hyllinge,4070,4,67,1963,400000.0,08-10-1998
+Hedegårdsvej 9,Kirke Hyllinge,4070,9,263,1830,1280000.0,05-10-1998
+Åbakken 7,Kirke Hyllinge,4070,3,90,1988,489594.0,04-10-1998
+Hyllingeparken 70,Kirke Hyllinge,4070,4,140,1978,1419062.0,28-09-1998
+Lyndby Gade 5,Kirke Hyllinge,4070,4,110,1907,755790.0,28-09-1998
+Granbakken 5,Kirke Hyllinge,4070,6,143,1968,527135.0,22-09-1998
+Brusagervej 5,Kirke Hyllinge,4070,3,62,1962,230000.0,16-09-1998
+Humlevænget 5,Kirke Hyllinge,4070,4,70,1998,140000.0,14-09-1998
+Jenslev Gade 1,Kirke Hyllinge,4070,5,114,1877,407011.0,09-09-1998
+Karlebyvej 3,Kirke Hyllinge,4070,6,184,1971,1380377.0,03-09-1998
+Kornblomstvej 17,Kirke Hyllinge,4070,5,158,1998,290000.0,02-09-1998
+Mågevej 6,Kirke Hyllinge,4070,2,63,1965,389677.0,31-08-1998
+Henriksvej 5,Kirke Hyllinge,4070,4,186,1971,1325598.0,31-08-1998
+Duevænget 9,Kirke Hyllinge,4070,3,49,1969,110000.0,31-08-1998
+Gershøjgårdsvej 23,Kirke Hyllinge,4070,6,191,1973,1185388.0,31-08-1998
+Lillegade 8A,Kirke Hyllinge,4070,5,120,1932,774000.0,31-08-1998
+Hyllebjerget 6A,Kirke Hyllinge,4070,4,165,1979,1243000.0,24-08-1998
+Fasanvej 5,Kirke Hyllinge,4070,5,115,1965,924690.0,21-08-1998
+Niels Christensensvej 5,Kirke Hyllinge,4070,2,36,1946,150000.0,17-08-1998
+Pilevang 14,Kirke Hyllinge,4070,3,50,1965,304256.0,11-08-1998
+Åvej 21,Kirke Hyllinge,4070,7,179,1927,1374556.0,11-08-1998
+Olaf Kristiansensvej 12,Kirke Hyllinge,4070,3,61,1985,438501.0,10-08-1998
+Henriksvej 1,Kirke Hyllinge,4070,4,89,1968,769396.0,06-08-1998
+Kornblomstvej 1,Kirke Hyllinge,4070,6,166,1999,270000.0,05-08-1998
+Holtensmindevej 65,Kirke Hyllinge,4070,3,118,1943,924000.0,31-07-1998
+Gershøjvænge 4,Kirke Hyllinge,4070,2,70,1989,696900.0,27-07-1998
+Brunskærvej 7,Kirke Hyllinge,4070,3,62,1970,210000.0,20-07-1998
+Hjortevænget 2,Kirke Hyllinge,4070,8,252,1920,1475000.0,20-07-1998
+Højdevang 15,Kirke Hyllinge,4070,2,49,1967,270000.0,20-07-1998
+Strandagervænge 11,Kirke Hyllinge,4070,4,115,1966,222154.0,06-07-1998
+Nagels Rende 28,Kirke Hyllinge,4070,4,95,1962,620000.0,30-06-1998
+Elmevang 17,Kirke Hyllinge,4070,3,73,2011,60000.0,30-06-1998
+Grantoften 2,Kirke Hyllinge,4070,5,192,2004,300000.0,15-06-1998
+Elverdamsvej 405,Kirke Hyllinge,4070,5,182,1920,1503386.0,11-06-1998
+Åsvinget 5,Kirke Hyllinge,4070,4,100,2010,50000.0,01-06-1998
+Ejbybrovej 22,Kirke Hyllinge,4070,2,90,2004,95000.0,01-06-1998
+Bovelgårdsvej 37,Kirke Hyllinge,4070,6,160,1975,714000.0,16-05-1998
+Åhusene 52,Kirke Hyllinge,4070,2,60,1961,331000.0,13-05-1998
+Lyndbyparken 31,Kirke Hyllinge,4070,5,171,1984,1148715.0,11-05-1998
+Kornblomstvej 16,Kirke Hyllinge,4070,5,161,1999,250000.0,11-05-1998
+Smedegårdsvej 1D,Kirke Hyllinge,4070,3,62,1977,325000.0,06-05-1998
+Hindebregnen 10,Kirke Hyllinge,4070,3,47,1972,362000.0,01-05-1998
+Valmuevej 15,Kirke Hyllinge,4070,5,140,1998,220000.0,01-05-1998
+Vestervang 9,Kirke Hyllinge,4070,4,102,1998,90000.0,28-04-1998
+Egebregnen 10,Kirke Hyllinge,4070,3,60,1971,350201.0,26-04-1998
+Hellesvej 18,Kirke Hyllinge,4070,4,76,1965,254743.0,23-04-1998
+Boesvej 6,Kirke Hyllinge,4070,4,131,1998,215000.0,20-04-1998
+Valmuevej 9,Kirke Hyllinge,4070,5,152,1998,220000.0,20-04-1998
+Gershøj Havnevej 15,Kirke Hyllinge,4070,6,149,1937,1214760.0,13-04-1998
+Strandagervænge 34B,Kirke Hyllinge,4070,3,77,1992,384431.0,13-04-1998
+Bjergfyrvej 19,Kirke Hyllinge,4070,3,76,1993,631984.0,13-04-1998
+Åsvinget 9,Kirke Hyllinge,4070,3,92,2005,70000.0,13-04-1998
+Troldbyvej 22,Kirke Hyllinge,4070,5,75,1959,484500.0,08-04-1998
+Stejlebjerg 4,Kirke Hyllinge,4070,7,240,1972,1083750.0,26-03-1998
+Kærvej 16,Kirke Hyllinge,4070,2,45,1973,350000.0,23-03-1998
+Ejbybrovej 6,Kirke Hyllinge,4070,3,52,1975,345743.0,19-03-1998
+Drosselvænget 1,Kirke Hyllinge,4070,2,37,1968,165817.0,16-03-1998
+Olaf Kristiansensvej 11,Kirke Hyllinge,4070,4,88,1966,340000.0,16-03-1998
+Hornsherredvej 247,Kirke Hyllinge,4070,4,104,1960,1223000.0,09-03-1998
+Åbakken 5,Kirke Hyllinge,4070,3,52,1977,365120.0,07-03-1998
+Bakkesvinget 31,Kirke Hyllinge,4070,3,65,1971,205750.0,02-03-1998
+Troldhøj 9,Kirke Hyllinge,4070,3,50,1961,300000.0,01-03-1998
+Hindebregnen 12,Kirke Hyllinge,4070,2,35,1968,168400.0,01-03-1998
+Brusagervej 18,Kirke Hyllinge,4070,2,43,1964,140000.0,23-02-1998
+Vinkelvej 9,Kirke Hyllinge,4070,7,186,1974,1190000.0,09-02-1998
+Claus Henrisvej 1,Kirke Hyllinge,4070,4,119,1969,863998.0,08-02-1998
+Smedegårdsvej 3E,Kirke Hyllinge,4070,3,93,1975,579660.0,02-02-1998
+Lillegade 12,Kirke Hyllinge,4070,5,150,1877,611690.0,21-01-1998
+Skovbrynet 13,Kirke Hyllinge,4070,3,55,1972,543838.0,19-01-1998
+Åskrænten 9,Kirke Hyllinge,4070,2,40,1978,210000.0,19-01-1998
+Kongebregnen 2,Kirke Hyllinge,4070,3,54,1967,270000.0,19-01-1998
+Egevej 18,Kirke Hyllinge,4070,4,105,1967,654326.0,19-01-1998
+Tingstedet 8,Kirke Hyllinge,4070,9,178,1787,1221414.0,18-01-1998
+Sæbyvej 26,Kirke Hyllinge,4070,3,79,1953,670000.0,14-01-1998
+Lykkesvej 6,Kirke Hyllinge,4070,3,65,1998,120000.0,22-12-1997
+Højagervej 7,Kirke Hyllinge,4070,5,136,1985,575000.0,18-12-1997
+Gershøjvej 108A,Kirke Hyllinge,4070,10,388,1947,1566795.0,16-12-1997
+Egernvænget 5,Kirke Hyllinge,4070,3,59,1969,333756.0,12-12-1997
+Karlebyvej 62,Kirke Hyllinge,4070,6,215,1875,1409273.0,20-11-1997
+Svalevænget 4,Kirke Hyllinge,4070,2,70,1976,404305.0,19-11-1997
+Kambregnen 16,Kirke Hyllinge,4070,2,82,1969,295211.0,17-11-1997
+Åskrænten 16,Kirke Hyllinge,4070,4,108,1998,65500.0,17-11-1997
+Clematisvej 9,Kirke Hyllinge,4070,5,73,1967,425840.0,16-11-1997
+Skovbrynet 5,Kirke Hyllinge,4070,4,68,1974,455000.0,13-11-1997
+Egebregnen 14,Kirke Hyllinge,4070,4,121,1967,442156.0,12-11-1997
+Margrethevej 17,Kirke Hyllinge,4070,3,59,1987,198000.0,07-11-1997
+Egholmmarken 1,Kirke Hyllinge,4070,6,120,1920,1020000.0,07-11-1997
+Gershøjvej 8,Kirke Hyllinge,4070,2,160,1850,544292.0,03-11-1997
+Hyllingeparken 22,Kirke Hyllinge,4070,5,169,1978,1202743.0,03-11-1997
+Egernvænget 6,Kirke Hyllinge,4070,3,51,1978,350000.0,29-10-1997
+Strandagervænge 25,Kirke Hyllinge,4070,4,142,1998,665500.0,28-10-1997
+Lyndby Havnevej 7,Kirke Hyllinge,4070,4,134,1968,1230500.0,20-10-1997
+Åhusene 8,Kirke Hyllinge,4070,3,40,1961,235000.0,13-10-1997
+Ryttergårdsvej 1,Kirke Hyllinge,4070,4,164,1925,1140000.0,13-10-1997
+Bakkesvinget 40,Kirke Hyllinge,4070,4,68,1967,253500.0,13-10-1997
+Valmuevej 5,Kirke Hyllinge,4070,5,174,1999,240000.0,02-10-1997
+Valmuevej 24,Kirke Hyllinge,4070,4,158,2003,200000.0,29-09-1997
+Åbakken 18,Kirke Hyllinge,4070,4,93,1978,334032.0,25-09-1997
+Troldager 11,Kirke Hyllinge,4070,5,112,1968,773208.0,24-09-1997
+Hindebregnen 6,Kirke Hyllinge,4070,3,48,1968,201600.0,21-09-1997
+Hornsherredvej 461,Kirke Hyllinge,4070,4,100,1949,595000.0,10-09-1997
+Bjergfyrvej 16,Kirke Hyllinge,4070,2,67,1968,503300.0,10-09-1997
+Anders Rasmussensvej 24,Kirke Hyllinge,4070,4,133,1976,1026040.0,09-09-1997
+Frejasvej 6,Kirke Hyllinge,4070,4,104,2011,256000.0,08-09-1997
+Ingridsvej 78,Kirke Hyllinge,4070,5,155,1980,1636058.0,08-09-1997
+Troldager 16,Kirke Hyllinge,4070,4,65,1972,307272.0,03-09-1997
+Karlebyvej 109,Kirke Hyllinge,4070,5,99,1952,632868.0,01-09-1997
+Gershøjvej 102,Kirke Hyllinge,4070,7,254,1924,1849579.0,24-08-1997
+Smedegårdsvej 3B,Kirke Hyllinge,4070,4,92,2002,178500.0,22-08-1997
+Lyndbyparken 18,Kirke Hyllinge,4070,3,60,1983,672919.0,20-08-1997
+Sæbyvej 6,Kirke Hyllinge,4070,8,170,1906,990919.0,14-08-1997
+Strandagervænge 47,Kirke Hyllinge,4070,4,68,1966,450500.0,11-08-1997
+Rødtjørnevej 20,Kirke Hyllinge,4070,5,116,2001,150000.0,11-08-1997
+Smedegårdsvej 5B,Kirke Hyllinge,4070,4,130,1968,872704.0,10-08-1997
+Ejby Havnevej 101,Kirke Hyllinge,4070,3,220,1960,1300000.0,01-08-1997
+Stendyssen 12,Kirke Hyllinge,4070,4,63,1964,120000.0,28-07-1997
+Åvej 1,Kirke Hyllinge,4070,5,137,1912,1983753.0,28-07-1997
+Lillegade 16,Kirke Hyllinge,4070,7,128,1916,943085.0,24-07-1997
+Bygaden 14,Kirke Hyllinge,4070,3,120,1957,886000.0,21-07-1997
+Bjergfyrvej 13,Kirke Hyllinge,4070,3,80,1983,382685.0,21-07-1997
+Hornsherredvej 272,Kirke Hyllinge,4070,5,169,1940,1115000.0,21-07-1997
+Gammel Skolevej 13,Kirke Hyllinge,4070,5,127,1976,965331.0,20-07-1997
+Hornsherredvej 258,Kirke Hyllinge,4070,6,110,1977,2034411.0,17-07-1997
+Åsen 10,Kirke Hyllinge,4070,2,40,1980,237979.0,16-07-1997
+Niels Klarskovsvej 12,Kirke Hyllinge,4070,6,100,1932,1582344.0,07-07-1997
+Hvidemosevej 5,Kirke Hyllinge,4070,7,250,1860,580000.0,06-07-1997
+Svalevænget 11,Kirke Hyllinge,4070,3,63,1969,299000.0,04-07-1997
+Egholmvej 20,Kirke Hyllinge,4070,5,192,1925,780940.0,02-07-1997
+Smedegade 1A,Kirke Hyllinge,4070,3,77,1984,711894.0,29-06-1997
+Ingridsvej 28,Kirke Hyllinge,4070,5,180,1974,908571.0,23-06-1997
+Hornsherredvej 106,Kirke Hyllinge,4070,6,236,1930,1031300.0,23-06-1997
+Hyllingeparken 31,Kirke Hyllinge,4070,5,165,1977,1283820.0,23-06-1997
+Tømmergården 6,Kirke Hyllinge,4070,3,76,1983,670000.0,17-06-1997
+Bovelgårdsvej 34,Kirke Hyllinge,4070,4,124,1977,1001658.0,13-06-1997
+Anders Rasmussensvej 8,Kirke Hyllinge,4070,4,79,1985,341284.0,02-06-1997
+Hornsherredvej 322,Kirke Hyllinge,4070,3,121,1925,670000.0,02-06-1997
+Claus Henrisvej 8,Kirke Hyllinge,4070,5,138,1968,1021300.0,26-05-1997
+Mellemvang 12,Kirke Hyllinge,4070,5,105,1973,404000.0,26-05-1997
+Bøgevej 6,Kirke Hyllinge,4070,5,139,1999,180000.0,25-05-1997
+Stendyssen 36,Kirke Hyllinge,4070,3,80,1974,357000.0,18-05-1997
+Skovbrynet 10,Kirke Hyllinge,4070,3,82,1969,663000.0,17-05-1997
+Smedegårdsvej 1A,Kirke Hyllinge,4070,2,40,1972,240000.0,14-05-1997
+Bøgevang 3,Kirke Hyllinge,4070,4,71,1967,100000.0,12-05-1997
+Egevej 20A,Kirke Hyllinge,4070,3,144,1973,1060000.0,01-05-1997
+Tranemosevej 18,Kirke Hyllinge,4070,5,133,1980,1048305.0,29-04-1997
+Skovbrynet 38,Kirke Hyllinge,4070,4,96,1966,639919.0,28-04-1997
+Åbakken 26,Kirke Hyllinge,4070,4,90,1997,63000.0,21-04-1997
+Strandbakken 4,Kirke Hyllinge,4070,3,45,1962,265811.0,21-04-1997
+Kornbakken 20,Kirke Hyllinge,4070,3,100,1969,771000.0,18-04-1997
+Valmuevej 2,Kirke Hyllinge,4070,5,258,2004,278241.0,16-04-1997
+Øreholmvej 8,Kirke Hyllinge,4070,4,110,1967,800000.0,14-04-1997
+Østermarken 9,Kirke Hyllinge,4070,5,211,1978,1589379.0,14-04-1997
+Kjøbmagergade 24,Kirke Hyllinge,4070,4,138,1967,161500.0,11-04-1997
+Hyllingeparken 45,Kirke Hyllinge,4070,6,172,1977,1034000.0,07-04-1997
+Åbakken 11,Kirke Hyllinge,4070,2,41,1981,283926.0,02-04-1997
+Biltris Gade 21,Kirke Hyllinge,4070,4,114,1933,1051500.0,02-04-1997
+Bøgevang 13,Kirke Hyllinge,4070,3,80,1962,250000.0,31-03-1997
+Olaf Kristiansensvej 4,Kirke Hyllinge,4070,4,78,1997,162300.0,30-03-1997
+Åhusene 34,Kirke Hyllinge,4070,3,43,1961,247000.0,24-03-1997
+Syrenvej 28,Kirke Hyllinge,4070,5,85,1971,394727.0,17-03-1997
+Gyvelvej 17,Kirke Hyllinge,4070,3,94,1986,531680.0,14-03-1997
+Granbakken 1,Kirke Hyllinge,4070,4,115,1987,1134246.0,10-03-1997
+Hyllingeparken 54,Kirke Hyllinge,4070,4,154,1980,1000000.0,28-02-1997
+Gammel Havnevej 6,Kirke Hyllinge,4070,5,165,1877,664938.0,26-02-1997
+Nagels Rende 4,Kirke Hyllinge,4070,3,120,1973,1102164.0,22-02-1997
+Karlebyvej 14,Kirke Hyllinge,4070,5,350,1981,2350638.0,18-02-1997
+Ryttergårdsvej 8,Kirke Hyllinge,4070,3,154,1968,1262000.0,11-02-1997
+Elverdamsvej 255,Kirke Hyllinge,4070,6,191,1964,2592500.0,07-02-1997
+Jenslevvej 50,Kirke Hyllinge,4070,8,160,1872,1130500.0,28-01-1997
+Gershøj Havnevej 20,Kirke Hyllinge,4070,9,149,1904,750000.0,24-01-1997
+Niels Klarskovsvej 13,Kirke Hyllinge,4070,3,41,1927,212500.0,17-01-1997
+Strandagervænge 57,Kirke Hyllinge,4070,2,66,1985,665000.0,13-01-1997
+Tranevej 5,Kirke Hyllinge,4070,4,110,1976,685302.0,06-01-1997
+Drosselvænget 6,Kirke Hyllinge,4070,3,61,1971,280000.0,06-01-1997
+Strandagervænge 51,Kirke Hyllinge,4070,3,104,1968,272500.0,06-01-1997
+Smedevej 17,Kirke Hyllinge,4070,3,90,1973,100900.0,06-01-1997
+Nordre Ryevej 36,Kirke Hyllinge,4070,5,136,1960,216985.0,09-12-1996
+Hornsherredvej 276,Kirke Hyllinge,4070,3,75,1955,660000.0,09-12-1996
+Bøgegårdsvej 1,Kirke Hyllinge,4070,7,274,1920,1098600.0,09-12-1996
+Ejby Havnevej 114,Kirke Hyllinge,4070,3,54,1998,205000.0,05-12-1996
+Åbakken 3,Kirke Hyllinge,4070,4,106,2005,102900.0,18-11-1996
+Fjerbregnen 7,Kirke Hyllinge,4070,2,35,1970,237000.0,18-11-1996
+Hjørnegårdsvej 23,Kirke Hyllinge,4070,9,195,1910,1400000.0,18-11-1996
+Gershøj Havnevej 19,Kirke Hyllinge,4070,4,115,1935,1278000.0,18-11-1996
+Margrethevej 51,Kirke Hyllinge,4070,1,46,1969,135000.0,18-11-1996
+Hornsherredvej 228,Kirke Hyllinge,4070,3,148,1928,1200000.0,18-11-1996
+Karlebyvej 57,Kirke Hyllinge,4070,4,130,1927,587000.0,18-11-1996
+Stærevænget 9,Kirke Hyllinge,4070,3,41,1979,230000.0,18-11-1996
+Bybrønden 3,Kirke Hyllinge,4070,5,162,1986,1125000.0,11-11-1996
+Nakkedamsvej 22,Kirke Hyllinge,4070,5,148,1987,1706942.0,03-11-1996
+Lillegade 6B,Kirke Hyllinge,4070,5,130,1860,594000.0,29-10-1996
+Gershøj Havnevej 9,Kirke Hyllinge,4070,3,120,1818,673638.0,28-10-1996
+Hornsherredvej 405,Kirke Hyllinge,4070,4,100,1953,701600.0,26-10-1996
+Pilevej 19,Kirke Hyllinge,4070,3,124,1971,430000.0,21-10-1996
+Mejsevænget 11,Kirke Hyllinge,4070,3,51,1969,319669.0,21-10-1996
+Lyndby Havnevej 12,Kirke Hyllinge,4070,5,169,1980,1476111.0,17-10-1996
+Blågranvej 7,Kirke Hyllinge,4070,6,116,1777,831250.0,16-10-1996
+Hellesvej 2,Kirke Hyllinge,4070,4,80,1997,105000.0,14-10-1996
+Strandbakken 25,Kirke Hyllinge,4070,3,50,1965,140000.0,07-10-1996
+Humlevænget 18,Kirke Hyllinge,4070,3,88,1982,460548.0,30-09-1996
+Hornsherredvej 118,Kirke Hyllinge,4070,6,140,1908,537000.0,16-09-1996
+Christian Hansensvej 6,Kirke Hyllinge,4070,3,67,2005,550000.0,16-09-1996
+Skjoldbregnen 9,Kirke Hyllinge,4070,5,80,1973,250000.0,16-09-1996
+Bygaden 40,Kirke Hyllinge,4070,4,126,1989,1228270.0,15-09-1996
+Holtensmindevej 50,Kirke Hyllinge,4070,7,203,1877,1167000.0,15-09-1996
+Enghavevej 10,Kirke Hyllinge,4070,5,153,1925,828000.0,14-09-1996
+Tranevej 3,Kirke Hyllinge,4070,4,102,1969,695035.0,13-09-1996
+Irisvej 8,Kirke Hyllinge,4070,5,128,1988,1050000.0,11-09-1996
+Åbakken 39,Kirke Hyllinge,4070,3,93,2009,65000.0,11-09-1996
+Stationsvej 1,Kirke Hyllinge,4070,4,128,1962,600000.0,09-09-1996
+Rødtjørnevej 33,Kirke Hyllinge,4070,1,16,1990,120000.0,09-09-1996
+Vestervang 11,Kirke Hyllinge,4070,3,62,1998,102900.0,09-09-1996
+Niels Klarskovsvej 11,Kirke Hyllinge,4070,4,168,1927,510000.0,28-08-1996
+Lykkesvej 31,Kirke Hyllinge,4070,5,195,2010,220000.0,28-08-1996
+Kyndeløse Strandvej 22,Kirke Hyllinge,4070,6,116,1837,2775422.0,19-08-1996
+Søndervang 1,Kirke Hyllinge,4070,4,60,1970,384000.0,14-08-1996
+Lyndby Gade 10,Kirke Hyllinge,4070,3,94,1951,382500.0,13-08-1996
+Sæbyvej 49,Kirke Hyllinge,4070,6,178,1998,210000.0,07-08-1996
+Thorsvej 2,Kirke Hyllinge,4070,3,50,1970,101718.0,05-08-1996
+Karlebyvej 51,Kirke Hyllinge,4070,7,132,1920,477584.0,04-08-1996
+Svalevænget 14,Kirke Hyllinge,4070,6,98,1969,243482.0,01-08-1996
+Ilsøevej 3,Kirke Hyllinge,4070,7,178,1989,600000.0,29-07-1996
+Kærvej 11,Kirke Hyllinge,4070,3,82,1967,225000.0,22-07-1996
+Gershøjvej 10,Kirke Hyllinge,4070,4,117,1900,661350.0,22-07-1996
+Karlebyvej 52,Kirke Hyllinge,4070,4,207,1918,400000.0,22-07-1996
+Hornsherredvej 265,Kirke Hyllinge,4070,5,219,1997,18080.0,22-07-1996
+Hornsherredvej 290,Kirke Hyllinge,4070,5,153,1988,2027320.0,22-07-1996
+Hornsherredvej 403,Kirke Hyllinge,4070,5,202,1948,615800.0,22-07-1996
+Troldager 8,Kirke Hyllinge,4070,3,60,1962,180000.0,16-07-1996
+Smedevej 6,Kirke Hyllinge,4070,3,107,1969,664000.0,16-07-1996
+Lyndbyparken 19,Kirke Hyllinge,4070,6,165,1984,1020105.0,15-07-1996
+Humlevænget 16,Kirke Hyllinge,4070,3,53,1986,338000.0,15-07-1996
+Bygaden 26,Kirke Hyllinge,4070,6,250,1917,125000.0,15-07-1996
+Åsen 48,Kirke Hyllinge,4070,4,69,1979,415000.0,12-07-1996
+Ahornvej 13,Kirke Hyllinge,4070,3,33,1969,206100.0,09-07-1996
+Strandbakken 20,Kirke Hyllinge,4070,3,113,1973,438000.0,04-07-1996
+Gyvelvej 6,Kirke Hyllinge,4070,5,95,1986,725000.0,02-07-1996
+Bybrønden 9,Kirke Hyllinge,4070,4,148,1977,612000.0,01-07-1996
+Lyndby Gade 13,Kirke Hyllinge,4070,5,157,1984,1482134.0,01-07-1996
+Rødtjørnevej 19,Kirke Hyllinge,4070,4,90,1997,180000.0,24-06-1996
+Rødtjørnevej 23,Kirke Hyllinge,4070,4,124,1997,220000.0,24-06-1996
+Pilevej 7,Kirke Hyllinge,4070,4,134,1996,175000.0,21-06-1996
+Cedervej 13,Kirke Hyllinge,4070,6,85,1971,315000.0,17-06-1996
+Skovbrynet 48,Kirke Hyllinge,4070,3,137,2002,600000.0,17-06-1996
+Rødtjørnevej 3,Kirke Hyllinge,4070,6,149,1997,205000.0,17-06-1996
+Sæbyvej 44,Kirke Hyllinge,4070,4,145,2014,730500.0,17-06-1996
+Nakkedamsvej 9,Kirke Hyllinge,4070,4,126,1980,645323.0,03-06-1996
+Ejbyvej 56,Kirke Hyllinge,4070,4,122,1960,1406000.0,28-05-1996
+Øreholmvej 4,Kirke Hyllinge,4070,6,187,1972,1229750.0,22-05-1996
+Egebregnen 19,Kirke Hyllinge,4070,3,61,1971,271520.0,21-05-1996
+Harekærgårdsvej 60,Kirke Hyllinge,4070,3,64,2001,125000.0,18-05-1996
+Kærvej 23,Kirke Hyllinge,4070,4,98,1976,452000.0,15-05-1996
+Mosevej 21,Kirke Hyllinge,4070,3,156,1964,995000.0,15-05-1996
+Lærkevej 4,Kirke Hyllinge,4070,4,70,1976,418000.0,12-05-1996
+Hornsherredvej 267,Kirke Hyllinge,4070,13,170,1926,2220000.0,08-05-1996
+Bybrønden 1,Kirke Hyllinge,4070,3,98,1986,79069.0,06-05-1996
+Rødtjørnevej 16,Kirke Hyllinge,4070,4,109,1977,334000.0,06-05-1996
+Hellesvej 15,Kirke Hyllinge,4070,3,70,1967,427786.0,01-05-1996
+Lyndbyparken 14,Kirke Hyllinge,4070,4,136,1984,919000.0,29-04-1996
+Lillemosevej 6,Kirke Hyllinge,4070,5,142,1933,945000.0,18-04-1996
+Hedegårdsvej 21,Kirke Hyllinge,4070,4,94,1984,685493.0,16-04-1996
+Valmuevej 10,Kirke Hyllinge,4070,5,138,1997,220000.0,14-04-1996
+Anders Rasmussensvej 6,Kirke Hyllinge,4070,4,99,1998,85000.0,11-04-1996
+Elverdamsvej 291,Kirke Hyllinge,4070,3,84,1922,921095.0,11-04-1996
+Tranemosevej 17,Kirke Hyllinge,4070,4,128,1974,813750.0,08-04-1996
+Åbakken 56,Kirke Hyllinge,4070,2,83,1980,198000.0,08-04-1996
+Ilsøevej 6,Kirke Hyllinge,4070,3,88,1999,110000.0,08-04-1996
+Fjerbregnen 1,Kirke Hyllinge,4070,3,79,1972,428400.0,01-04-1996
+Kærvej 32,Kirke Hyllinge,4070,4,112,1997,90000.0,01-04-1996
+Egholmmarken 10,Kirke Hyllinge,4070,5,165,1920,1310000.0,30-03-1996
+Ejbyvej 79,Kirke Hyllinge,4070,3,104,1966,672000.0,25-03-1996
+Åbakken 52,Kirke Hyllinge,4070,2,41,1981,303650.0,21-03-1996
+Kornbakken 10,Kirke Hyllinge,4070,4,121,1970,794690.0,18-03-1996
+Tranemosevej 15,Kirke Hyllinge,4070,4,101,1974,650000.0,12-03-1996
+Hornsherredvej 279,Kirke Hyllinge,4070,6,221,1952,1141954.0,11-03-1996
+Møllevej 8,Kirke Hyllinge,4070,3,131,1964,840000.0,09-03-1996
+Nordmarksvej 27,Kirke Hyllinge,4070,4,58,1971,234000.0,02-03-1996
+Bjergfyrvej 3,Kirke Hyllinge,4070,5,116,1971,350000.0,01-03-1996
+Tinghøjvej 3,Kirke Hyllinge,4070,3,120,1843,696000.0,01-03-1996
+Spurvevænget 8,Kirke Hyllinge,4070,5,80,1976,393000.0,29-02-1996
+Anders Rasmussensvej 20,Kirke Hyllinge,4070,6,137,1996,200000.0,19-02-1996
+Birkevej 26,Kirke Hyllinge,4070,4,73,1971,246457.0,19-02-1996
+Hellesvej 11,Kirke Hyllinge,4070,4,65,1968,242756.0,15-02-1996
+Kyndeløsevej 8,Kirke Hyllinge,4070,5,211,1920,500000.0,22-01-1996
+Lillemosevej 12,Kirke Hyllinge,4070,3,56,1958,222000.0,22-01-1996
+Hornsherredvej 444,Kirke Hyllinge,4070,5,160,1921,430000.0,29-12-1995
+Åvangen 10,Kirke Hyllinge,4070,3,76,2007,68300.0,29-12-1995
+Elmevang 2,Kirke Hyllinge,4070,3,46,1967,173000.0,28-12-1995
+Harekærgårdsvej 50,Kirke Hyllinge,4070,6,86,1979,289430.0,19-12-1995
+Bigårdsvej 8,Kirke Hyllinge,4070,5,181,1976,936000.0,24-11-1995
+Hellesvej 17,Kirke Hyllinge,4070,5,82,1972,175500.0,21-11-1995
+Elverdamsvej 223,Kirke Hyllinge,4070,3,153,1930,731250.0,20-11-1995
+Hyllingeparken 36,Kirke Hyllinge,4070,4,120,1975,850000.0,20-11-1995
+Østermarken 8,Kirke Hyllinge,4070,7,244,1977,1345000.0,15-11-1995
+Kirkevej 30,Kirke Hyllinge,4070,3,108,1963,535000.0,06-11-1995
+Fuglehavevej 17,Kirke Hyllinge,4070,2,105,1967,302000.0,06-11-1995
+Strandagervænge 21,Kirke Hyllinge,4070,5,97,1964,300000.0,06-11-1995
+Olaf Kristiansensvej 6,Kirke Hyllinge,4070,3,68,1964,290000.0,04-11-1995
+Hornsherredvej 100,Kirke Hyllinge,4070,6,141,1915,640352.0,01-11-1995
+Gershøjgårdsvej 4,Kirke Hyllinge,4070,6,182,1973,350000.0,16-10-1995
+Kjøbmagergade 11,Kirke Hyllinge,4070,5,119,1870,593065.0,16-10-1995
+Gershøj Havnevej 3,Kirke Hyllinge,4070,4,80,1778,775500.0,16-10-1995
+Søndervang 11,Kirke Hyllinge,4070,4,112,1976,380000.0,16-10-1995
+Æblerosevej 3,Kirke Hyllinge,4070,4,85,2011,164496.0,16-10-1995
+Ejby Strandvej 7,Kirke Hyllinge,4070,3,118,1927,600000.0,07-10-1995
+Stærevænget 2,Kirke Hyllinge,4070,3,80,1999,40000.0,06-10-1995
+Nordmarksvej 28,Kirke Hyllinge,4070,3,87,1977,370000.0,05-10-1995
+Lærkevej 2,Kirke Hyllinge,4070,4,66,1971,368200.0,03-10-1995
+Højagervej 3,Kirke Hyllinge,4070,4,143,1986,1047800.0,29-09-1995
+Kirkevej 43,Kirke Hyllinge,4070,3,126,1910,520000.0,26-09-1995
+Brusagervej 19,Kirke Hyllinge,4070,5,135,1957,577802.0,21-09-1995
+Hyllingeparken 40,Kirke Hyllinge,4070,4,133,1976,802500.0,19-09-1995
+Hvidemosevej 6,Kirke Hyllinge,4070,5,81,1777,526510.0,18-09-1995
+Nørrevang 5,Kirke Hyllinge,4070,3,83,1967,410000.0,18-09-1995
+Skovbrynet 23,Kirke Hyllinge,4070,4,65,1980,320382.0,16-09-1995
+Skomagerstræde 1,Kirke Hyllinge,4070,4,79,1947,230000.0,12-09-1995
+Agervang 12,Kirke Hyllinge,4070,3,88,1979,760000.0,04-09-1995
+Edvard Olsensvej 5,Kirke Hyllinge,4070,4,99,1998,240000.0,03-09-1995
+Smedevej 23,Kirke Hyllinge,4070,4,113,1949,679309.0,29-08-1995
+Lyndbyparken 23,Kirke Hyllinge,4070,4,115,1984,871480.0,28-08-1995
+Åbakken 74,Kirke Hyllinge,4070,4,75,1997,112900.0,28-08-1995
+Stendyssen 33,Kirke Hyllinge,4070,4,42,1967,285000.0,28-08-1995
+Bygaden 30,Kirke Hyllinge,4070,3,64,1877,293000.0,28-08-1995
+Gershøjvej 55,Kirke Hyllinge,4070,5,188,1875,900000.0,28-08-1995
+Egebregnen 2,Kirke Hyllinge,4070,3,51,1968,295000.0,28-08-1995
+Bovelgårdsvej 29,Kirke Hyllinge,4070,5,160,1972,861000.0,18-08-1995
+Niels Hansensvej 16,Kirke Hyllinge,4070,1,18,1960,325000.0,04-08-1995
+Ligustervej 7,Kirke Hyllinge,4070,2,50,1967,159298.0,03-08-1995
+Bovelgårdsvej 25,Kirke Hyllinge,4070,6,160,1972,810000.0,03-08-1995
+Ingridsvej 72,Kirke Hyllinge,4070,4,114,1973,1295000.0,01-08-1995
+Ahornvej 19,Kirke Hyllinge,4070,3,56,1975,326975.0,30-07-1995
+Bittensvej 2,Kirke Hyllinge,4070,5,154,1973,858000.0,21-07-1995
+Stendyssen 47,Kirke Hyllinge,4070,5,128,1967,714000.0,18-07-1995
+Stendyssen 55,Kirke Hyllinge,4070,3,50,1964,313000.0,17-07-1995
+Hornsherredvej 186,Kirke Hyllinge,4070,3,132,1982,1469220.0,12-07-1995
+Gershøjvej 69,Kirke Hyllinge,4070,5,147,1916,775000.0,10-07-1995
+Hyllingeparken 42,Kirke Hyllinge,4070,4,129,1978,795000.0,10-07-1995
+Bakkesvinget 48,Kirke Hyllinge,4070,3,59,1976,260000.0,08-07-1995
+Ilsøevej 4,Kirke Hyllinge,4070,5,123,1968,436000.0,28-06-1995
+Elmevang 11,Kirke Hyllinge,4070,4,76,1988,393710.0,22-06-1995
+Bovelgårdsvej 3,Kirke Hyllinge,4070,4,128,1975,735000.0,22-06-1995
+Hvidemosevej 52,Kirke Hyllinge,4070,3,105,1989,350285.0,16-06-1995
+Hornsherredvej 310,Kirke Hyllinge,4070,5,82,1929,489605.0,16-06-1995
+Møllevej 14,Kirke Hyllinge,4070,4,132,1967,436253.0,12-06-1995
+Strandbakken 13,Kirke Hyllinge,4070,4,55,1971,170000.0,12-06-1995
+Grantoften 3,Kirke Hyllinge,4070,3,124,1998,33000.0,17-05-1995
+Bakkesvinget 14,Kirke Hyllinge,4070,4,64,1967,136000.0,12-05-1995
+Kambregnen 2,Kirke Hyllinge,4070,3,69,1974,265000.0,11-05-1995
+Karlebyvej 10,Kirke Hyllinge,4070,2,68,1954,529060.0,01-05-1995
+Elverdamsvej 309,Kirke Hyllinge,4070,3,95,1953,536936.0,26-04-1995
+Blågranvej 9,Kirke Hyllinge,4070,5,282,1915,1455800.0,26-04-1995
+Troldbyvej 24,Kirke Hyllinge,4070,6,110,1958,554860.0,21-04-1995
+Stendyssen 40,Kirke Hyllinge,4070,4,108,2011,127500.0,17-04-1995
+Klitrosevej 10,Kirke Hyllinge,4070,4,125,1974,183400.0,17-04-1995
+Gershøjvej 67,Kirke Hyllinge,4070,7,219,1923,949880.0,17-04-1995
+Præstholmvej 2,Kirke Hyllinge,4070,4,110,1965,499000.0,17-04-1995
+Hornsherredvej 260,Kirke Hyllinge,4070,7,165,1930,1425000.0,12-04-1995
+Stendyssen 53,Kirke Hyllinge,4070,4,74,1964,478930.0,09-04-1995
+Strandvangen 5,Kirke Hyllinge,4070,3,106,1976,650000.0,05-04-1995
+Fasanvej 1,Kirke Hyllinge,4070,4,112,1966,604603.0,26-03-1995
+Rønnebærvej 3,Kirke Hyllinge,4070,3,56,1968,223000.0,22-03-1995
+Gershøj Havnevej 18,Kirke Hyllinge,4070,5,163,1901,1091400.0,21-03-1995
+Margrethevej 41,Kirke Hyllinge,4070,7,221,2013,50000.0,02-03-1995
+Løvkjærgaardsvej 28,Kirke Hyllinge,4070,4,129,1972,675000.0,15-02-1995
+Karlebyvej 75,Kirke Hyllinge,4070,6,122,1939,775000.0,06-02-1995
+Askevej 5,Kirke Hyllinge,4070,4,170,1975,768000.0,22-01-1995
+Ejby Strandvej 19,Kirke Hyllinge,4070,3,85,1804,525000.0,16-01-1995
+Løvkjærgaardsvej 6,Kirke Hyllinge,4070,6,167,1973,699836.0,16-01-1995
+Elverdamsvej 304,Kirke Hyllinge,4070,6,117,1960,710000.0,16-01-1995
+Gershøjvej 79,Kirke Hyllinge,4070,4,162,1949,253132.0,16-01-1995
+Biltris Gade 32,Kirke Hyllinge,4070,4,101,1970,590000.0,13-01-1995
+Cedervej 19,Kirke Hyllinge,4070,2,86,1967,306000.0,11-01-1995
+Skovbrynet 17,Kirke Hyllinge,4070,4,65,1986,300090.0,08-01-1995
+Nagels Rende 7,Kirke Hyllinge,4070,4,74,1970,155281.0,12-12-1994
+Strandagervænge 17,Kirke Hyllinge,4070,9,190,1944,1650000.0,12-12-1994
+Strandagervænge 31,Kirke Hyllinge,4070,3,41,1965,140000.0,12-12-1994
+Askevej 13,Kirke Hyllinge,4070,4,121,1971,678160.0,12-12-1994
+Nørrevang 6,Kirke Hyllinge,4070,3,43,1969,132000.0,12-12-1994
+Valdemarsvej 4,Kirke Hyllinge,4070,3,96,1959,447260.0,12-12-1994
+Karlebyvej 34,Kirke Hyllinge,4070,8,88,1913,890440.0,12-12-1994
+Ahornvej 18,Kirke Hyllinge,4070,2,48,1970,230000.0,11-11-1994
+Grønagergårdsvej 7,Kirke Hyllinge,4070,5,150,1946,1657000.0,08-11-1994
+Rødtjørnevej 31,Kirke Hyllinge,4070,3,88,2005,215000.0,08-11-1994
+Boesvej 11,Kirke Hyllinge,4070,4,125,1969,565000.0,01-11-1994
+Lærkevej 6,Kirke Hyllinge,4070,3,55,1971,295000.0,30-10-1994
+Kærvej 25,Kirke Hyllinge,4070,4,138,1996,130000.0,29-10-1994
+Smedegårdsvej 5E,Kirke Hyllinge,4070,4,91,1996,365000.0,26-10-1994
+Fuglehavevej 13,Kirke Hyllinge,4070,4,106,1967,300000.0,18-10-1994
+Niels Hansensvej 4,Kirke Hyllinge,4070,4,77,1958,230000.0,01-10-1994
+Hvidemosevej 32,Kirke Hyllinge,4070,5,135,1881,625000.0,26-09-1994
+Åsen 40,Kirke Hyllinge,4070,3,54,1981,265000.0,26-09-1994
+Lyndbyparken 17,Kirke Hyllinge,4070,5,148,1984,800593.0,14-09-1994
+Lærkevænget 6,Kirke Hyllinge,4070,2,67,1978,381000.0,07-09-1994
+Gershøjvej 117,Kirke Hyllinge,4070,5,172,1927,500000.0,30-08-1994
+Kirkevej 23,Kirke Hyllinge,4070,4,90,1870,581000.0,25-08-1994
+Anders Rasmussensvej 23,Kirke Hyllinge,4070,4,140,1995,100000.0,22-08-1994
+Nordmarksvej 22,Kirke Hyllinge,4070,3,154,1904,888100.0,22-08-1994
+Skovbrynet 9,Kirke Hyllinge,4070,2,124,2007,400000.0,01-08-1994
+Åbakken 45,Kirke Hyllinge,4070,4,62,1980,308000.0,25-07-1994
+Biltris Gade 12,Kirke Hyllinge,4070,7,160,1900,696800.0,11-07-1994
+Gershøjvej 112,Kirke Hyllinge,4070,4,118,1650,551485.0,11-07-1994
+Tranemosevej 11,Kirke Hyllinge,4070,5,206,2007,937000.0,19-06-1994
+Åbakken 49,Kirke Hyllinge,4070,3,73,1978,310000.0,13-06-1994
+Bovelgårdsvej 33,Kirke Hyllinge,4070,5,137,1972,694882.0,13-06-1994
+Ved Fjorden 7,Kirke Hyllinge,4070,3,124,1996,315000.0,03-06-1994
+Skovbrynet 42,Kirke Hyllinge,4070,5,114,1968,504680.0,01-06-1994
+Knudsvej 12,Kirke Hyllinge,4070,4,159,1972,740000.0,01-06-1994
+Syrenvej 3,Kirke Hyllinge,4070,3,99,1968,450000.0,30-05-1994
+Ingridsvej 52,Kirke Hyllinge,4070,4,124,1979,825360.0,30-05-1994
+Stendyssen 42,Kirke Hyllinge,4070,1,21,1968,120000.0,30-05-1994
+Strandagervænge 29,Kirke Hyllinge,4070,4,79,1965,427000.0,30-05-1994
+Kongebregnen 3,Kirke Hyllinge,4070,3,53,1976,210000.0,30-05-1994
+Ved Fjorden 8,Kirke Hyllinge,4070,4,117,1960,719920.0,30-05-1994
+Vestervang 3,Kirke Hyllinge,4070,4,63,2003,102900.0,30-05-1994
+Karlebyvej 25,Kirke Hyllinge,4070,6,300,1882,945788.0,21-05-1994
+Karlebyvej 45,Kirke Hyllinge,4070,5,130,1927,1105469.0,06-05-1994
+Kærvej 14,Kirke Hyllinge,4070,2,92,1995,78000.0,02-05-1994
+Cedervej 16,Kirke Hyllinge,4070,3,63,1975,230000.0,02-05-1994
+Søstersvej 4,Kirke Hyllinge,4070,4,126,1974,251000.0,02-05-1994
+Ejby Strandvej 25,Kirke Hyllinge,4070,3,95,1925,621020.0,02-05-1994
+Bigårdsvej 27,Kirke Hyllinge,4070,4,116,1973,660000.0,02-05-1994
+Birkelund 2,Kirke Hyllinge,4070,6,210,1937,367000.0,02-05-1994
+Stendyssen 37,Kirke Hyllinge,4070,3,52,1965,120000.0,01-05-1994
+Øreholmvej 12C,Kirke Hyllinge,4070,5,160,1984,1321466.0,11-04-1994
+Ingridsvej 24,Kirke Hyllinge,4070,4,124,1982,787000.0,10-04-1994
+Claus Henrisvej 6,Kirke Hyllinge,4070,6,186,1968,670000.0,28-03-1994
+Jenslevvej 55,Kirke Hyllinge,4070,5,184,1900,154326.0,28-03-1994
+Nordmarksvej 41,Kirke Hyllinge,4070,6,200,1910,875200.0,28-03-1994
+Øreholmvej 3,Kirke Hyllinge,4070,4,150,1984,1343619.0,28-03-1994
+Åvej 15,Kirke Hyllinge,4070,3,50,1878,155000.0,28-03-1994
+Karlebyvej 63,Kirke Hyllinge,4070,6,192,1920,864400.0,28-03-1994
+Øreholmvej 5,Kirke Hyllinge,4070,6,276,1984,1964000.0,14-03-1994
+Bigårdsvej 22,Kirke Hyllinge,4070,4,147,1973,765000.0,11-02-1994
+Kyndeløse Strandvej 6,Kirke Hyllinge,4070,2,92,1974,455000.0,30-12-1993
+Niels Klarskovsvej 5,Kirke Hyllinge,4070,5,140,1928,635000.0,13-12-1993
+Åbakken 22,Kirke Hyllinge,4070,3,60,1980,315000.0,13-12-1993
+Strandagervænge 44,Kirke Hyllinge,4070,4,129,1976,340000.0,09-12-1993
+Egebregnen 11,Kirke Hyllinge,4070,5,100,1973,340000.0,21-11-1993
+Hornsherredvej 194,Kirke Hyllinge,4070,6,140,1986,1200000.0,15-11-1993
+Skovbrynet 2,Kirke Hyllinge,4070,6,220,1939,655000.0,01-11-1993
+Hornsherredvej 278,Kirke Hyllinge,4070,3,105,1996,468907.0,01-11-1993
+Højdevej 3,Kirke Hyllinge,4070,4,137,1969,690000.0,01-11-1993
+Søstersvej 9,Kirke Hyllinge,4070,5,134,1969,564200.0,29-10-1993
+Lindevej 10,Kirke Hyllinge,4070,4,110,1977,687891.0,28-10-1993
+Ahornvej 23,Kirke Hyllinge,4070,3,90,1976,350000.0,18-10-1993
+Kambregnen 18,Kirke Hyllinge,4070,3,42,1969,185000.0,15-10-1993
+Smedegårdsvej 5G,Kirke Hyllinge,4070,4,88,1965,475000.0,15-10-1993
+Bøgevej 5,Kirke Hyllinge,4070,5,207,1984,1113000.0,11-10-1993
+Lyndbyparken 24,Kirke Hyllinge,4070,5,138,1985,879107.0,11-10-1993
+Bigårdsvej 19,Kirke Hyllinge,4070,4,128,1974,635000.0,11-10-1993
+Jenslevvej 63,Kirke Hyllinge,4070,6,178,1999,39542.0,04-10-1993
+Bigårdsvej 49,Kirke Hyllinge,4070,4,136,1976,330782.0,27-09-1993
+Egevej 30,Kirke Hyllinge,4070,6,156,1966,726240.0,16-09-1993
+Lindevej 2,Kirke Hyllinge,4070,4,156,1969,558000.0,15-09-1993
+Margrethevej 20,Kirke Hyllinge,4070,6,192,1975,710000.0,12-09-1993
+Bygaden 48,Kirke Hyllinge,4070,3,104,1935,530000.0,01-09-1993
+Gudrun Børresensvej 4,Kirke Hyllinge,4070,3,73,1977,325000.0,31-08-1993
+Rønnevej 12,Kirke Hyllinge,4070,4,152,1975,459810.0,30-08-1993
+Strandagervænge 30,Kirke Hyllinge,4070,4,84,1973,214314.0,10-08-1993
+Lyndby Havnevej 18B,Kirke Hyllinge,4070,3,110,1994,250000.0,02-08-1993
+Skovbrynet 34,Kirke Hyllinge,4070,3,42,1962,270000.0,02-08-1993
+Lykkesvej 5,Kirke Hyllinge,4070,3,77,1965,239000.0,02-08-1993
+Bramsnæsvigvej 5,Kirke Hyllinge,4070,3,70,1965,280000.0,01-08-1993
+Smedegårdsvej 4H,Kirke Hyllinge,4070,4,113,1966,210000.0,01-08-1993
+Hornsherredvej 108,Kirke Hyllinge,4070,3,77,1965,310000.0,28-07-1993
+Ingridsvej 74,Kirke Hyllinge,4070,6,136,1977,675000.0,25-07-1993
+Gershøj Havnevej 8,Kirke Hyllinge,4070,8,162,1867,500111.0,21-07-1993
+Ligustervej 1,Kirke Hyllinge,4070,2,40,1964,206750.0,20-07-1993
+Lyndby Havnevej 10,Kirke Hyllinge,4070,4,140,1880,700000.0,20-07-1993
+Kirkevej 22,Kirke Hyllinge,4070,5,101,1962,640000.0,12-07-1993
+Niels Hansensvej 8,Kirke Hyllinge,4070,5,105,1971,575000.0,09-07-1993
+Kornbakken 14,Kirke Hyllinge,4070,4,101,1969,571000.0,05-07-1993
+Hasselvej 12,Kirke Hyllinge,4070,3,46,1976,263138.0,30-06-1993
+Ingridsvej 54,Kirke Hyllinge,4070,5,138,1974,408000.0,25-06-1993
+Fuglehavevej 27,Kirke Hyllinge,4070,4,119,1971,418400.0,25-06-1993
+Gershøjgårdsvej 7,Kirke Hyllinge,4070,8,213,1972,650000.0,23-06-1993
+Lindevej 4,Kirke Hyllinge,4070,5,126,1981,615000.0,12-06-1993
+Hornsherredvej 422,Kirke Hyllinge,4070,4,89,1800,317000.0,01-06-1993
+Bakkesvinget 54,Kirke Hyllinge,4070,2,86,1968,110000.0,01-06-1993
+Hornsherredvej 275,Kirke Hyllinge,4070,3,100,1929,456250.0,01-06-1993
+Sæbyparken 20B,Kirke Hyllinge,4070,4,129,1971,575000.0,24-05-1993
+Højdevej 7,Kirke Hyllinge,4070,5,132,1971,640000.0,20-05-1993
+Strandengen 3,Kirke Hyllinge,4070,4,80,1975,380000.0,18-05-1993
+Vellerupvej 2,Kirke Hyllinge,4070,7,228,1884,941600.0,12-05-1993
+Åhusene 36,Kirke Hyllinge,4070,3,82,1962,158000.0,30-04-1993
+Strandbakken 26,Kirke Hyllinge,4070,3,51,1967,265000.0,23-04-1993
+Ligustervej 13,Kirke Hyllinge,4070,3,47,1997,40000.0,19-04-1993
+Egholmmarken 14,Kirke Hyllinge,4070,5,152,1920,995000.0,04-04-1993
+Åhusene 40,Kirke Hyllinge,4070,3,45,1965,205000.0,26-03-1993
+Lorentzensvej 4,Kirke Hyllinge,4070,4,133,1976,614000.0,17-03-1993
+Åbakken 29,Kirke Hyllinge,4070,2,36,1980,268136.0,15-03-1993
+Gudrun Børresensvej 17,Kirke Hyllinge,4070,5,221,1800,640000.0,22-02-1993
+Strandagervænge 49,Kirke Hyllinge,4070,5,104,1968,625000.0,22-02-1993
+Åbakken 1,Kirke Hyllinge,4070,6,87,1977,142000.0,11-02-1993
+Rytterlodden 8,Kirke Hyllinge,4070,3,54,2003,195000.0,01-02-1993
+Åskrænten 5,Kirke Hyllinge,4070,5,78,1977,432000.0,25-01-1993
+Skovbrynet 1,Kirke Hyllinge,4070,3,50,1972,350000.0,13-01-1993
+Stendyssen 8,Kirke Hyllinge,4070,2,46,1965,250000.0,21-12-1992
+Gershøjvej 88,Kirke Hyllinge,4070,3,137,1974,2500000.0,07-12-1992
+Vellerupvej 8,Kirke Hyllinge,4070,4,112,1860,425000.0,16-11-1992
+Hornsherredvej 230,Kirke Hyllinge,4070,5,139,1931,1047100.0,02-11-1992
+Troldhøj 7,Kirke Hyllinge,4070,3,62,1961,210000.0,26-10-1992
+Hyllingeparken 34,Kirke Hyllinge,4070,4,147,1976,718550.0,19-10-1992
+Nakkedamsvej 4,Kirke Hyllinge,4070,5,175,1975,620000.0,12-10-1992
+Ejby Havnevej 108,Kirke Hyllinge,4070,5,137,1902,489083.0,12-10-1992
+Bittensvej 9,Kirke Hyllinge,4070,6,149,1976,800000.0,21-09-1992
+Strandbakken 17,Kirke Hyllinge,4070,3,101,2011,175000.0,07-09-1992
+Lindevej 3,Kirke Hyllinge,4070,4,132,1973,630000.0,07-09-1992
+Egernvænget 1,Kirke Hyllinge,4070,4,79,1968,200000.0,07-09-1992
+Højdevej 12,Kirke Hyllinge,4070,4,166,1969,795000.0,22-08-1992
+Gershøjvej 61,Kirke Hyllinge,4070,7,256,1727,911400.0,07-08-1992
+Nørrevang 3,Kirke Hyllinge,4070,3,77,1970,450000.0,03-08-1992
+Lillemosevej 2,Kirke Hyllinge,4070,3,90,1927,430000.0,27-07-1992
+Krabbesholmvej 2,Kirke Hyllinge,4070,5,130,1986,875000.0,27-07-1992
+Hyllingeparken 25,Kirke Hyllinge,4070,5,172,1976,385000.0,18-07-1992
+Gudrun Børresensvej 1,Kirke Hyllinge,4070,5,128,1965,292000.0,21-06-1992
+Løvkjærgaardsvej 11,Kirke Hyllinge,4070,3,166,1971,690000.0,15-06-1992
+Anders Rasmussensvej 18,Kirke Hyllinge,4070,4,154,1973,725000.0,15-06-1992
+Trehøjevej 14,Kirke Hyllinge,4070,5,220,1920,1057682.0,02-06-1992
+Nørrevang 11,Kirke Hyllinge,4070,2,82,1969,290000.0,15-05-1992
+Niels Christensensvej 4,Kirke Hyllinge,4070,6,117,1959,389200.0,12-05-1992
+Niels Hansensvej 14,Kirke Hyllinge,4070,5,108,1895,1234043.0,06-05-1992
+Stendyssen 43,Kirke Hyllinge,4070,3,82,1971,275000.0,02-04-1992
+Kjøbmagergade 22B,Kirke Hyllinge,4070,4,205,1924,190434.0,01-04-1992
+Svalevænget 7,Kirke Hyllinge,4070,3,56,1966,181500.0,13-03-1992
+Bigårdsvej 36,Kirke Hyllinge,4070,7,149,1974,325000.0,12-03-1992
+Bjergfyrvej 8,Kirke Hyllinge,4070,4,80,1972,299762.0,09-03-1992
+Granbakken 7,Kirke Hyllinge,4070,5,201,1967,963800.0,09-03-1992
+Kirkevej 53,Kirke Hyllinge,4070,6,225,1977,790000.0,06-03-1992
+Sæbyparken 27,Kirke Hyllinge,4070,5,137,1972,720000.0,06-02-1992
+Lyndby Havnevej 14,Kirke Hyllinge,4070,4,193,1923,1150000.0,03-02-1992
+Gershøjvænge 6,Kirke Hyllinge,4070,3,86,1989,640000.0,21-01-1992

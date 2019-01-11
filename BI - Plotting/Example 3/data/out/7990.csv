@@ -1,0 +1,570 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Kamillevej 9,Øster Assels,7990,4,81,2006,830000.0,04-05-2017
+Hesterøroddevej 14,Øster Assels,7990,3,87,1936,75000.0,02-05-2017
+Havnevej 58,Øster Assels,7990,5,115,1925,468990.0,12-04-2017
+Gammel Færgevej 101,Øster Assels,7990,5,127,1920,1975000.0,17-02-2017
+Mælkevejen 7,Øster Assels,7990,5,104,1931,35000.0,03-02-2017
+Mælkevejen 21,Øster Assels,7990,4,167,1899,45000.0,01-02-2017
+Skallevej 21,Øster Assels,7990,3,89,2003,1560000.0,05-01-2017
+Storupgårdvej 9,Øster Assels,7990,3,189,1912,616723.0,22-12-2016
+Hesterøroddevej 26,Øster Assels,7990,5,117,1938,225000.0,21-12-2016
+Skibdalsvej 28,Øster Assels,7990,4,120,1900,600000.0,22-11-2016
+Åbakken 26,Øster Assels,7990,10,316,1886,4965000.0,17-11-2016
+Vittrupvej 34,Øster Assels,7990,3,100,1917,510000.0,29-10-2016
+Idrætsvej 8,Øster Assels,7990,3,133,1979,240000.0,21-09-2016
+Bytoften 4,Øster Assels,7990,4,139,1977,505000.0,21-09-2016
+Østerbyen 6,Øster Assels,7990,3,121,1927,470000.0,12-09-2016
+Asselsvej 137,Øster Assels,7990,7,172,1961,1250000.0,31-08-2016
+Ballesvej 5,Øster Assels,7990,4,52,1976,400000.0,15-08-2016
+Mælkevejen 32,Øster Assels,7990,5,105,1911,125000.0,10-08-2016
+Hesterøroddevej 87,Øster Assels,7990,4,120,1877,12000.0,21-07-2016
+Ålekistevej 25,Øster Assels,7990,4,97,1909,550000.0,15-07-2016
+Skallevej 19,Øster Assels,7990,3,100,1969,382500.0,19-05-2016
+Tagensvej 12,Øster Assels,7990,4,92,1973,500000.0,11-05-2016
+Gammel Færgevej 5,Øster Assels,7990,10,186,1938,450000.0,20-04-2016
+Hesterøroddevej 113,Øster Assels,7990,6,222,1938,1700000.0,12-04-2016
+Kampsvej 9,Øster Assels,7990,4,65,1973,485000.0,04-04-2016
+Perlevej 4,Øster Assels,7990,8,193,1903,800000.0,23-03-2016
+Skibdalsvej 26,Øster Assels,7990,3,140,1925,635000.0,28-02-2016
+Kongehøjvej 71,Øster Assels,7990,8,220,1984,425000.0,26-02-2016
+Stranden 40,Øster Assels,7990,3,100,1877,402250.0,22-12-2015
+Ballesvej 7,Øster Assels,7990,4,75,2008,250000.0,14-12-2015
+Skibdalsvej 34,Øster Assels,7990,5,155,1877,885000.0,12-12-2015
+Bygaden 39,Øster Assels,7990,4,130,1924,924000.0,11-12-2015
+Skibdalsvej 10,Øster Assels,7990,8,252,1877,1000000.0,30-11-2015
+Åshøj 11,Øster Assels,7990,6,122,1901,330000.0,18-11-2015
+Tingstedvej 9,Øster Assels,7990,3,125,1971,575000.0,09-11-2015
+Skallevej 56,Øster Assels,7990,5,96,1980,455000.0,08-11-2015
+Møllevej 8,Øster Assels,7990,4,139,1979,275000.0,30-10-2015
+Højgårdsvej 5,Øster Assels,7990,7,140,1927,5100000.0,15-10-2015
+Hesterøroddevej 77,Øster Assels,7990,5,120,1965,30000.0,08-10-2015
+N. C. Rasmussens Vej 3,Øster Assels,7990,4,114,1935,25000.0,19-09-2015
+Stadionvej 36,Øster Assels,7990,4,126,1978,508000.0,15-09-2015
+Hedestien 8,Øster Assels,7990,4,71,2016,65000.0,14-09-2015
+Søndenom 7,Øster Assels,7990,3,48,1958,80000.0,17-08-2015
+Staghøjmøllevej 23,Øster Assels,7990,6,130,1902,100000.0,09-08-2015
+Perlevej 9,Øster Assels,7990,6,215,1844,1400000.0,30-07-2015
+Gammel Færgevej 109,Øster Assels,7990,3,70,1978,905000.0,10-07-2015
+Ballesvej 14,Øster Assels,7990,3,63,1973,250000.0,28-06-2015
+Søndertoften 7,Øster Assels,7990,4,128,1988,300000.0,24-06-2015
+Ålekistevej 14,Øster Assels,7990,3,107,1925,396000.0,14-06-2015
+Mælkevejen 53,Øster Assels,7990,4,70,1939,136000.0,01-06-2015
+A. Koldings Vej 10,Øster Assels,7990,3,64,2009,597000.0,04-05-2015
+Kongehøjvej 15,Øster Assels,7990,8,187,1918,4330000.0,30-04-2015
+Romerdammen 5,Øster Assels,7990,3,93,1929,218619.0,20-04-2015
+Kanalstien 11,Øster Assels,7990,11,528,2007,995000.0,09-04-2015
+Nøråvej 32,Øster Assels,7990,4,130,1894,100000.0,26-03-2015
+Årbækmøllevej 10,Øster Assels,7990,3,197,1975,362500.0,16-03-2015
+Hedestien 2,Øster Assels,7990,4,81,1973,290000.0,27-02-2015
+Hovedstrædet 33,Øster Assels,7990,4,150,1900,150000.0,08-02-2015
+Kanalstien 3,Øster Assels,7990,2,40,2009,595000.0,17-12-2014
+Hesterøroddevej 29,Øster Assels,7990,4,121,1974,275000.0,10-11-2014
+Østerbyen 17,Øster Assels,7990,6,161,1917,837623.0,06-11-2014
+Blidstrupvej 10,Øster Assels,7990,4,158,1923,585000.0,31-10-2014
+Hesterøroddevej 99,Øster Assels,7990,6,189,1920,689000.0,30-09-2014
+Møllevej 5,Øster Assels,7990,6,125,1962,425000.0,28-09-2014
+Bytoften 5,Øster Assels,7990,4,144,1977,375000.0,13-08-2014
+Mygdammen 9,Øster Assels,7990,4,83,1979,870000.0,08-08-2014
+Gammel Færgevej 53,Øster Assels,7990,6,233,1910,460000.0,24-07-2014
+Skallevej 10,Øster Assels,7990,3,55,1972,545000.0,20-07-2014
+Blidstrupmark 15,Øster Assels,7990,3,141,1933,409000.0,03-07-2014
+Gammel Færgevej 117,Øster Assels,7990,2,50,1985,605000.0,27-06-2014
+Fjordskovvej 8,Øster Assels,7990,3,72,1974,1224500.0,23-06-2014
+Kongehøjvej 17,Øster Assels,7990,2,66,1877,550000.0,11-06-2014
+Gammel Færgevej 29,Øster Assels,7990,5,150,1962,53935.0,23-04-2014
+Bygaden 10,Øster Assels,7990,4,100,1944,95223.0,19-02-2014
+Gammel Færgevej 69,Øster Assels,7990,4,86,1969,362500.0,31-01-2014
+Rolighedsvej 22,Øster Assels,7990,5,222,1906,310071.0,22-01-2014
+B. Nielsens Vej 16,Øster Assels,7990,3,62,2012,200000.0,23-12-2013
+N. C. Rasmussens Vej 5,Øster Assels,7990,4,181,1916,786000.0,16-12-2013
+Idrætsvej 4,Øster Assels,7990,4,140,1974,350000.0,13-12-2013
+Hesterøroddevej 40,Øster Assels,7990,3,83,1964,120000.0,20-11-2013
+Kampsvej 2,Øster Assels,7990,3,98,2014,400000.0,01-11-2013
+Skallevej 38,Øster Assels,7990,5,143,2015,250000.0,23-10-2013
+Hovedstrædet 31,Øster Assels,7990,9,132,1910,310000.0,01-10-2013
+Årbækmøllevej 15,Øster Assels,7990,4,130,1922,1390000.0,17-09-2013
+Hedestien 9,Øster Assels,7990,3,73,1973,560000.0,26-08-2013
+Atletikvej 3,Øster Assels,7990,3,111,1987,100000.0,20-08-2013
+Søndenom 3,Øster Assels,7990,7,133,1950,85000.0,01-08-2013
+A. Koldings Vej 6,Øster Assels,7990,4,88,2008,975000.0,01-07-2013
+Kamillevej 12,Øster Assels,7990,3,101,2003,1050000.0,01-07-2013
+Søndertoften 9,Øster Assels,7990,5,159,1981,750000.0,13-06-2013
+Romerdammen 9,Øster Assels,7990,4,100,1925,665000.0,04-06-2013
+Mælkevejen 36,Øster Assels,7990,5,132,1948,425000.0,22-05-2013
+Åshøj 3,Øster Assels,7990,5,128,1912,525000.0,25-04-2013
+Gammel Færgevej 76,Øster Assels,7990,4,72,1969,1000000.0,14-04-2013
+Bygaden 18,Øster Assels,7990,4,119,1935,286103.0,25-03-2013
+Søndertoften 8,Øster Assels,7990,5,141,1980,850000.0,04-03-2013
+Idrætsvej 2,Øster Assels,7990,3,117,1978,190000.0,28-02-2013
+Hovedstrædet 43,Øster Assels,7990,3,140,1909,330000.0,25-02-2013
+Tingstedvej 17,Øster Assels,7990,7,292,2011,1500000.0,21-12-2012
+Skallevej 52,Øster Assels,7990,7,140,1976,600000.0,20-12-2012
+Kongehøjvej 41,Øster Assels,7990,3,76,1952,330000.0,15-12-2012
+Kærvænget 4,Øster Assels,7990,3,95,1980,480000.0,15-12-2012
+Gammel Færgevej 125,Øster Assels,7990,3,87,1976,625000.0,30-11-2012
+Hesterøroddevej 18,Øster Assels,7990,5,106,1935,125729.0,24-10-2012
+Engkærvej 5,Øster Assels,7990,6,120,1860,30000.0,15-10-2012
+Kanalstien 8,Øster Assels,7990,4,101,2016,76800.0,09-10-2012
+Skallevej 31,Øster Assels,7990,3,80,2002,1900000.0,01-10-2012
+Ålekistevej 39,Øster Assels,7990,3,91,1837,620000.0,25-09-2012
+Gammel Færgevej 37,Øster Assels,7990,2,62,1903,138000.0,21-09-2012
+Blinkevej 2,Øster Assels,7990,4,158,1978,95000.0,19-09-2012
+Havnevej 5,Øster Assels,7990,5,105,1927,200000.0,03-09-2012
+A. Koldings Vej 12,Øster Assels,7990,4,98,2008,467500.0,17-08-2012
+Havnevej 62,Øster Assels,7990,4,115,1869,220000.0,07-08-2012
+Skallevej 25,Øster Assels,7990,5,90,1968,940000.0,18-06-2012
+Stadionvej 32,Øster Assels,7990,4,120,1974,450000.0,07-06-2012
+Møllevej 18,Øster Assels,7990,4,110,1963,350000.0,06-06-2012
+Mælkevejen 13,Øster Assels,7990,4,110,1951,150000.0,07-05-2012
+Skallevej 54,Øster Assels,7990,4,55,1976,750000.0,26-04-2012
+Møllersmindevej 4,Øster Assels,7990,4,147,1865,347500.0,29-03-2012
+Vittrupvej 29,Øster Assels,7990,3,90,1890,175800.0,18-03-2012
+Kompasvej 6,Øster Assels,7990,6,182,1980,290000.0,14-03-2012
+Tagensvej 7,Øster Assels,7990,4,80,1967,400000.0,08-03-2012
+Ålekistevej 23,Øster Assels,7990,2,70,1907,550000.0,02-03-2012
+Gammel Færgevej 113,Øster Assels,7990,3,47,1969,143750.0,01-03-2012
+Asselsvej 129,Øster Assels,7990,7,191,1911,253377.0,20-01-2012
+Møllersmindevej 13,Øster Assels,7990,3,77,1900,320000.0,29-09-2011
+Staghøjmøllevej 20,Øster Assels,7990,4,116,1964,310000.0,09-09-2011
+A. Koldings Vej 8,Øster Assels,7990,4,96,2008,1135000.0,02-09-2011
+Bygaden 14,Øster Assels,7990,5,133,1950,367129.0,01-09-2011
+Gammel Færgevej 94,Øster Assels,7990,4,78,1892,95000.0,15-07-2011
+Peterslundsvej 4,Øster Assels,7990,15,250,1925,29082000.0,06-07-2011
+Engkærvej 12,Øster Assels,7990,4,111,1968,160000.0,26-05-2011
+Gammel Færgevej 95,Øster Assels,7990,1,32,1927,162500.0,24-05-2011
+Kamillevej 10,Øster Assels,7990,4,65,1975,812500.0,23-05-2011
+B. Nielsens Vej 10,Øster Assels,7990,4,70,2008,560000.0,17-05-2011
+Ørding Kærvej 2,Øster Assels,7990,5,140,1938,600000.0,09-03-2011
+Hesterøroddevej 47,Øster Assels,7990,7,109,1982,700000.0,24-02-2011
+Skibdalsvej 5,Øster Assels,7990,8,148,1911,3629769.0,08-02-2011
+Mælkevejen 18,Øster Assels,7990,4,110,1907,200000.0,21-01-2011
+Havnevej 63,Øster Assels,7990,3,70,1900,229500.0,07-01-2011
+Kirkestræde 12,Øster Assels,7990,3,65,1923,125000.0,13-12-2010
+Staghøjmøllevej 7,Øster Assels,7990,3,95,2015,207387.0,10-12-2010
+Hesterøroddevej 44,Øster Assels,7990,4,128,1990,350000.0,05-12-2010
+Bolvej 4,Øster Assels,7990,4,150,1959,250000.0,23-11-2010
+Gammel Skolevej 1,Øster Assels,7990,4,123,1901,690000.0,22-11-2010
+Hesterøroddevej 11,Øster Assels,7990,4,104,1915,50000.0,15-10-2010
+Blåklokkevej 5,Øster Assels,7990,4,100,2005,747500.0,14-10-2010
+Møllevej 16,Øster Assels,7990,6,156,1969,435000.0,11-10-2010
+Mælkevejen 49,Øster Assels,7990,5,116,1929,25000.0,01-10-2010
+Ballesvej 3,Øster Assels,7990,4,72,1985,840000.0,18-09-2010
+Ballesvej 13,Øster Assels,7990,4,75,2012,160000.0,16-09-2010
+Kærvænget 3,Øster Assels,7990,4,156,1924,150000.0,18-08-2010
+Grimshøjvej 2,Øster Assels,7990,5,165,1843,160000.0,11-08-2010
+Hedestien 11,Øster Assels,7990,1,42,2002,379000.0,04-08-2010
+Havnevej 82,Øster Assels,7990,5,135,1870,2875000.0,03-08-2010
+B. Nielsens Vej 1,Øster Assels,7990,4,84,1975,700000.0,28-06-2010
+Romerdammen 3,Øster Assels,7990,5,98,1910,1200000.0,20-05-2010
+Blåklokkevej 11,Øster Assels,7990,3,68,1979,885000.0,26-04-2010
+Kongehøjvej 74,Øster Assels,7990,9,215,1900,2500000.0,09-04-2010
+Skallevej 35,Øster Assels,7990,4,112,2011,600000.0,02-02-2010
+Ålekistevej 19,Øster Assels,7990,3,81,1903,190000.0,29-01-2010
+Hesterøroddevej 46,Øster Assels,7990,4,144,1991,735000.0,07-01-2010
+Asselsvej 127,Øster Assels,7990,5,200,2006,6150000.0,30-12-2009
+N. C. Rasmussens Vej 1,Øster Assels,7990,6,125,1930,150000.0,18-12-2009
+Gammel Færgevej 35,Øster Assels,7990,6,169,1975,445000.0,10-12-2009
+Stranden 21,Øster Assels,7990,6,211,1920,300000.0,18-11-2009
+Lunden 10,Øster Assels,7990,3,82,1887,450000.0,13-11-2009
+Blåklokkevej 2,Øster Assels,7990,4,85,1979,745000.0,21-10-2009
+Blidstrupvej 12,Øster Assels,7990,5,140,1923,670000.0,30-09-2009
+Ballesvej 17,Øster Assels,7990,3,63,2013,155000.0,23-09-2009
+Blåklokkevej 4,Øster Assels,7990,5,165,2010,250000.0,19-09-2009
+Lanternevej 10,Øster Assels,7990,4,145,1976,591000.0,06-08-2009
+Bygaden 9,Øster Assels,7990,4,142,1964,410000.0,17-07-2009
+Kampsvej 5,Øster Assels,7990,4,75,1969,675000.0,10-07-2009
+Hesterøroddevej 22,Øster Assels,7990,3,74,1937,206644.0,06-07-2009
+Asselsvej 171,Øster Assels,7990,5,158,1973,265000.0,25-06-2009
+Serupsvej 6,Øster Assels,7990,4,112,1852,365000.0,11-06-2009
+Kongehøjvej 65,Øster Assels,7990,5,260,1917,365400.0,09-06-2009
+Hesterøroddevej 42,Øster Assels,7990,6,172,1957,230000.0,04-06-2009
+Blåklokkevej 6,Øster Assels,7990,4,94,2015,195000.0,12-05-2009
+Stadionvej 18,Øster Assels,7990,3,99,1917,425000.0,04-05-2009
+Lunden 14,Øster Assels,7990,6,196,1927,36000.0,30-04-2009
+Kamillevej 5,Øster Assels,7990,4,144,2016,555000.0,29-04-2009
+Havnevej 1,Øster Assels,7990,4,123,1886,201000.0,22-04-2009
+Blåklokkevej 9,Øster Assels,7990,4,103,2012,200000.0,06-04-2009
+Nøråvej 30,Øster Assels,7990,6,114,1917,250000.0,31-03-2009
+Stadionvej 14,Øster Assels,7990,7,209,1922,850000.0,11-03-2009
+Årbækmøllevej 17,Øster Assels,7990,6,182,1864,800000.0,04-03-2009
+Kongehøjvej 62,Øster Assels,7990,3,108,1965,302500.0,25-02-2009
+Asselsvej 180,Øster Assels,7990,3,100,1907,300000.0,23-02-2009
+Havnevej 47,Øster Assels,7990,8,178,1881,1260000.0,16-02-2009
+Årbækmøllevej 18,Øster Assels,7990,6,200,2011,1250000.0,26-01-2009
+N. C. Rasmussens Vej 4,Øster Assels,7990,6,151,1936,100000.0,08-12-2008
+Blinkevej 1,Øster Assels,7990,6,262,1934,1225000.0,21-11-2008
+Østerbyen 4,Øster Assels,7990,7,165,1913,2700000.0,10-11-2008
+A. Koldings Vej 2,Øster Assels,7990,3,81,2009,175000.0,10-11-2008
+Asselsvej 124,Øster Assels,7990,5,237,2016,1040000.0,07-11-2008
+Hovedstrædet 41,Øster Assels,7990,5,124,1929,550000.0,08-10-2008
+Mælkevejen 35,Øster Assels,7990,8,123,1955,300000.0,27-09-2008
+Højgårdsvej 2,Øster Assels,7990,6,145,1900,600000.0,18-09-2008
+Mælkevejen 39,Øster Assels,7990,4,102,1955,275000.0,10-09-2008
+Bygaden 12,Øster Assels,7990,6,103,1951,340000.0,08-09-2008
+Skibdalsvej 1,Øster Assels,7990,3,124,1964,391623.0,19-08-2008
+Hesterøroddevej 50,Øster Assels,7990,3,103,1949,245000.0,02-08-2008
+Mælkevejen 34,Øster Assels,7990,9,192,1936,795000.0,31-07-2008
+Asselsvej 149,Øster Assels,7990,8,174,1903,750000.0,04-07-2008
+Skibdalsvej 23,Øster Assels,7990,5,177,2011,1050000.0,20-06-2008
+Hovedstrædet 19,Øster Assels,7990,6,179,1903,350000.0,28-05-2008
+Skolesvinget 10,Øster Assels,7990,4,98,1959,383705.0,21-05-2008
+Tagensvej 8,Øster Assels,7990,2,65,1976,885000.0,20-05-2008
+B. Nielsens Vej 2,Øster Assels,7990,3,60,1969,865000.0,29-04-2008
+Kongehøjvej 6,Øster Assels,7990,3,103,1956,375000.0,28-04-2008
+Havnevej 12,Øster Assels,7990,13,261,1925,1075000.0,02-04-2008
+Møllersmindevej 16,Øster Assels,7990,6,138,1885,655000.0,31-03-2008
+Ålekistevej 8,Øster Assels,7990,7,176,1900,3000000.0,28-03-2008
+Kroghsvej 8,Øster Assels,7990,4,113,2010,100000.0,31-01-2008
+Tohøjevej 3,Øster Assels,7990,5,230,1877,925000.0,16-01-2008
+Hovedstrædet 6,Øster Assels,7990,5,185,1920,540000.0,04-01-2008
+Asselsvej 121,Øster Assels,7990,6,190,1911,450000.0,13-12-2007
+Asselsvej 177,Øster Assels,7990,2,90,1897,131633.0,26-11-2007
+Svinget 7,Øster Assels,7990,6,260,1924,850000.0,26-11-2007
+Hesterøroddevej 37,Øster Assels,7990,5,164,1932,475000.0,24-11-2007
+Hesterøroddevej 114,Øster Assels,7990,4,118,1912,750000.0,15-11-2007
+A. Koldings Vej 1,Øster Assels,7990,4,75,2007,1075000.0,09-10-2007
+Røllikevej 8,Øster Assels,7990,3,73,2005,1100000.0,26-09-2007
+Møllevej 9,Øster Assels,7990,3,100,1932,130000.0,05-09-2007
+Hedestien 3,Øster Assels,7990,3,66,1974,835000.0,31-08-2007
+Ålekistevej 7,Øster Assels,7990,5,199,1901,1500000.0,31-08-2007
+Mygdammen 6,Øster Assels,7990,6,251,1988,2250000.0,28-07-2007
+Sandholmen 8,Øster Assels,7990,5,137,1880,795000.0,04-07-2007
+Perlevej 5,Øster Assels,7990,3,74,1907,690000.0,20-06-2007
+Hedestien 5,Øster Assels,7990,4,74,1979,765000.0,20-06-2007
+Brandbægervej 18,Øster Assels,7990,4,70,1974,760000.0,13-06-2007
+Blinkevej 4,Øster Assels,7990,4,114,1978,585000.0,06-06-2007
+Strædet 11,Øster Assels,7990,4,126,1900,160000.0,14-05-2007
+Idrætsvej 10,Øster Assels,7990,5,131,1978,485000.0,26-03-2007
+Søndertoften 10,Øster Assels,7990,4,124,1988,770000.0,08-03-2007
+Gammel Færgevej 52,Øster Assels,7990,4,102,1890,3650000.0,21-02-2007
+Strædet 9,Øster Assels,7990,5,109,1957,170073.0,04-02-2007
+B. Nielsens Vej 5,Øster Assels,7990,4,80,2008,185000.0,30-12-2006
+Serupsvej 10,Øster Assels,7990,4,110,1929,1864717.0,20-12-2006
+Åbakken 14,Øster Assels,7990,5,160,1923,200000.0,25-10-2006
+Tingstedvej 14,Øster Assels,7990,7,156,1902,10500000.0,16-10-2006
+Årbækmøllevej 3,Øster Assels,7990,2,82,1915,160000.0,28-09-2006
+Kongehøjvej 59,Øster Assels,7990,4,120,1935,490000.0,23-09-2006
+Kamillevej 1,Øster Assels,7990,4,67,1987,1125000.0,19-09-2006
+Ballesvej 24,Øster Assels,7990,4,117,2007,195000.0,12-09-2006
+Brandbægervej 20,Øster Assels,7990,6,124,2008,196000.0,30-08-2006
+Rolighedsvej 6,Øster Assels,7990,8,349,1977,10646000.0,22-08-2006
+Kanalstien 1,Øster Assels,7990,2,50,2011,780000.0,21-08-2006
+Brandbægervej 14,Øster Assels,7990,4,70,1974,695000.0,15-08-2006
+Skibdalsvej 33,Øster Assels,7990,4,131,1910,1700000.0,08-08-2006
+Asselsvej 169,Øster Assels,7990,10,163,1954,900000.0,24-07-2006
+Stranden 47,Øster Assels,7990,5,252,1902,1750000.0,12-07-2006
+Fjordskovvej 10,Øster Assels,7990,6,111,1970,1095000.0,10-07-2006
+Gammel Færgevej 67,Øster Assels,7990,3,43,2010,240000.0,10-07-2006
+Hesterøroddevej 110,Øster Assels,7990,7,259,1981,16000000.0,05-07-2006
+Hesterøroddevej 116,Øster Assels,7990,4,105,1910,581250.0,01-07-2006
+Sandholmen 5,Øster Assels,7990,3,90,1954,382500.0,23-06-2006
+Kirkestræde 2,Øster Assels,7990,3,86,1922,120000.0,21-06-2006
+Asselsvej 158,Øster Assels,7990,6,176,1935,585000.0,13-06-2006
+Brandbægervej 7,Øster Assels,7990,4,59,1975,767500.0,09-06-2006
+B. Nielsens Vej 12,Øster Assels,7990,4,83,2006,175000.0,18-05-2006
+Stranden 41,Øster Assels,7990,3,103,1952,830000.0,08-05-2006
+Gammel Færgevej 80,Øster Assels,7990,5,114,1965,808000.0,05-05-2006
+Hovedstrædet 3,Øster Assels,7990,4,141,1959,430000.0,18-04-2006
+B. Nielsens Vej 6,Øster Assels,7990,4,83,2005,1050000.0,08-04-2006
+Asselsvej 139,Øster Assels,7990,5,190,1950,750000.0,06-04-2006
+Asselsvej 146,Øster Assels,7990,8,222,1969,3514826.0,28-03-2006
+Kongehøjvej 20,Øster Assels,7990,6,167,2015,502200.0,16-03-2006
+Gammel Færgevej 25,Øster Assels,7990,5,162,1910,340000.0,22-02-2006
+Tingstedvej 29,Øster Assels,7990,5,127,1970,650000.0,13-02-2006
+Tingstedvej 8,Øster Assels,7990,7,171,1995,1475000.0,25-01-2006
+Peterslundsvej 7,Øster Assels,7990,4,192,1916,2400000.0,12-01-2006
+Perlevej 6,Øster Assels,7990,5,115,1910,1100000.0,09-01-2006
+Kongehøjvej 38,Øster Assels,7990,9,407,1974,1035000.0,21-12-2005
+Kongehøjvej 53,Øster Assels,7990,5,134,1955,373000.0,20-12-2005
+Gammel Færgevej 51,Øster Assels,7990,4,212,2009,977500.0,13-12-2005
+Lervænget 5,Øster Assels,7990,6,176,1985,8715579.0,10-11-2005
+Bygaden 27,Øster Assels,7990,3,87,1875,190000.0,09-11-2005
+Hovedstrædet 39,Øster Assels,7990,3,117,1920,325000.0,08-11-2005
+Åbakken 18,Øster Assels,7990,6,122,1948,475000.0,05-11-2005
+Havnevej 44,Øster Assels,7990,10,354,1965,1360000.0,01-11-2005
+Gammel Færgevej 45,Øster Assels,7990,8,169,1934,660000.0,12-10-2005
+Vittrupvej 26,Øster Assels,7990,5,148,1877,557000.0,30-09-2005
+Hesterøroddevej 103,Øster Assels,7990,4,119,1904,100000.0,28-09-2005
+Østerbyen 7,Øster Assels,7990,4,236,1938,1128000.0,28-09-2005
+Hovedstrædet 26,Øster Assels,7990,7,179,1940,1400000.0,26-09-2005
+Lanternevej 4,Øster Assels,7990,5,149,1976,810000.0,16-09-2005
+Hesterøroddevej 4,Øster Assels,7990,8,155,1917,181596.0,12-09-2005
+Åbakken 17,Øster Assels,7990,4,130,1927,283000.0,12-09-2005
+Hesterøroddevej 101,Øster Assels,7990,4,78,1930,185000.0,06-09-2005
+Møllersmindevej 23,Øster Assels,7990,5,129,1877,360000.0,02-09-2005
+Kongehøjvej 11,Øster Assels,7990,8,274,1935,655000.0,29-08-2005
+Søndertoften 33,Øster Assels,7990,5,135,1988,730000.0,29-08-2005
+Kampsvej 8,Øster Assels,7990,3,56,1970,390000.0,29-08-2005
+Mælkevejen 9,Øster Assels,7990,4,142,1890,202000.0,29-08-2005
+Søndertoften 5,Øster Assels,7990,3,118,1982,495000.0,25-08-2005
+Østerbyen 11,Øster Assels,7990,3,100,1947,605000.0,24-08-2005
+Kampsvej 15,Øster Assels,7990,3,75,2011,120000.0,23-08-2005
+Bygaden 3,Øster Assels,7990,4,101,1927,265000.0,08-08-2005
+Hedestien 6,Øster Assels,7990,10,264,2005,150000.0,15-07-2005
+Gammel Færgevej 86A,Øster Assels,7990,4,108,1962,350000.0,15-07-2005
+Hovedstrædet 28,Øster Assels,7990,6,138,1874,295000.0,14-07-2005
+Gammel Færgevej 66A,Øster Assels,7990,3,63,2009,80000.0,03-07-2005
+Kroghsvej 7,Øster Assels,7990,3,78,1998,350000.0,13-06-2005
+Ballesvej 11,Øster Assels,7990,4,78,2007,100704.0,23-05-2005
+Skallevej 17,Øster Assels,7990,3,59,1968,1217117.0,27-04-2005
+Skallevej 14,Øster Assels,7990,2,36,2004,375000.0,23-04-2005
+Brandbægervej 10,Øster Assels,7990,4,63,1978,559000.0,16-04-2005
+Kampsvej 16,Øster Assels,7990,4,80,1970,425000.0,16-04-2005
+Højgårdsvej 4,Øster Assels,7990,4,149,1905,275000.0,13-04-2005
+Gammel Færgevej 116,Øster Assels,7990,3,48,1969,255000.0,10-04-2005
+Gammel Færgevej 18,Øster Assels,7990,2,126,1928,325000.0,30-03-2005
+Perlevej 3,Øster Assels,7990,5,183,2007,850000.0,29-03-2005
+Ballesvej 18,Øster Assels,7990,3,80,2006,347000.0,21-03-2005
+Mælkevejen 41,Øster Assels,7990,2,96,1953,225000.0,14-03-2005
+Møllebjerget 12,Øster Assels,7990,4,121,1957,200000.0,02-02-2005
+Peterslundsvej 6,Øster Assels,7990,6,179,1970,1350000.0,18-01-2005
+Kampsvej 7,Øster Assels,7990,3,63,1968,530000.0,29-12-2004
+Møllevej 10,Øster Assels,7990,3,95,1877,100000.0,15-12-2004
+Hesterøroddevej 100,Øster Assels,7990,7,212,1937,260000.0,04-11-2004
+Kampsvej 24,Øster Assels,7990,4,74,2004,450000.0,18-10-2004
+Rolighedsvej 8,Øster Assels,7990,5,191,1920,420000.0,30-07-2004
+Blåklokkevej 1,Øster Assels,7990,4,106,1974,750000.0,28-07-2004
+Romerdammen 2,Øster Assels,7990,8,182,1910,550000.0,11-07-2004
+Gammel Færgevej 97,Øster Assels,7990,4,118,1925,900000.0,13-06-2004
+Kampsvej 4,Øster Assels,7990,5,112,1970,475000.0,08-06-2004
+Skallevej 44,Øster Assels,7990,2,54,1974,450000.0,04-06-2004
+Brandbægervej 12,Øster Assels,7990,4,80,1976,450000.0,31-05-2004
+Skallevej 16,Øster Assels,7990,3,73,1978,490000.0,30-04-2004
+Skræppedalsvej 71,Øster Assels,7990,7,231,1877,123750.0,27-04-2004
+Kirkestræde 14,Øster Assels,7990,3,72,1923,90000.0,23-03-2004
+Ålekistevej 6,Øster Assels,7990,6,193,1956,845000.0,11-02-2004
+Skallevej 42,Øster Assels,7990,4,110,2005,36500.0,16-01-2004
+Gammel Færgevej 27,Øster Assels,7990,4,181,1968,347500.0,07-01-2004
+Skræppedalsvej 73,Øster Assels,7990,4,137,1877,40000.0,19-12-2003
+Gammel Færgevej 75,Øster Assels,7990,4,54,1975,325000.0,03-11-2003
+Kærvænget 6,Øster Assels,7990,5,166,1980,530000.0,16-10-2003
+Hesterøroddevej 70,Øster Assels,7990,4,150,1960,240000.0,29-09-2003
+Røllikevej 6,Øster Assels,7990,4,100,2006,95000.0,23-09-2003
+Asselsvej 126,Øster Assels,7990,3,100,1911,580000.0,18-09-2003
+Mælkevejen 10,Øster Assels,7990,6,134,1910,140000.0,05-09-2003
+Hesterøroddevej 108,Øster Assels,7990,4,95,1938,1239780.0,25-08-2003
+Mygdammen 8,Øster Assels,7990,2,68,1978,425000.0,03-08-2003
+Kampsvej 20,Øster Assels,7990,4,60,1972,310000.0,09-07-2003
+Rolighedsvej 4,Øster Assels,7990,7,243,1975,1100000.0,03-07-2003
+Gammel Færgevej 39,Øster Assels,7990,6,143,1926,107217.0,02-07-2003
+Kamillevej 2,Øster Assels,7990,4,90,1976,575000.0,27-06-2003
+Ålekistevej 27,Øster Assels,7990,5,143,1875,165000.0,24-06-2003
+Hesterøroddevej 111,Øster Assels,7990,4,145,1938,440000.0,20-06-2003
+Tagensvej 6,Øster Assels,7990,3,50,1982,370000.0,20-06-2003
+Hesterøroddevej 107,Øster Assels,7990,7,375,1898,190000.0,16-06-2003
+Kærstien 1,Øster Assels,7990,5,153,1978,462500.0,20-05-2003
+Tohøjevej 2,Øster Assels,7990,4,102,1897,222000.0,04-04-2003
+Bytoften 3,Øster Assels,7990,7,140,1878,375000.0,26-03-2003
+Havnevej 40,Øster Assels,7990,3,90,1882,178500.0,21-03-2003
+Bygaden 13,Øster Assels,7990,2,147,1913,300000.0,28-02-2003
+Møllersmindevej 20,Øster Assels,7990,4,101,2006,154000.0,19-02-2003
+Søndenom 15,Øster Assels,7990,5,175,1931,300000.0,13-02-2003
+Staghøjmøllevej 16,Øster Assels,7990,9,218,1938,540000.0,17-01-2003
+Gammel Færgevej 74A,Øster Assels,7990,2,48,1967,350000.0,13-12-2002
+Møllebjerget 9,Øster Assels,7990,6,164,1919,600000.0,10-12-2002
+Stranden 10,Øster Assels,7990,3,108,1877,160000.0,06-12-2002
+Perlevej 2,Øster Assels,7990,7,193,1960,940000.0,03-12-2002
+Brandbægervej 4,Øster Assels,7990,4,58,1967,440000.0,28-11-2002
+Hesterøroddevej 59,Øster Assels,7990,3,84,1909,315000.0,13-11-2002
+Søndenom 11,Øster Assels,7990,6,200,1913,1380000.0,04-11-2002
+Hesterøroddevej 109,Øster Assels,7990,4,200,1938,1060000.0,30-09-2002
+Sportsvej 6,Øster Assels,7990,4,110,1934,295000.0,24-09-2002
+Nørrekjær 3,Øster Assels,7990,4,181,1948,246423.0,23-09-2002
+Gammel Færgevej 88,Øster Assels,7990,4,162,1922,750000.0,22-09-2002
+Idrætsvej 1,Øster Assels,7990,4,118,1974,280000.0,01-09-2002
+Kongehøjvej 60,Øster Assels,7990,3,90,1968,460000.0,28-08-2002
+Mælkevejen 51,Øster Assels,7990,3,72,1965,150000.0,17-07-2002
+Lervænget 8,Øster Assels,7990,9,182,1877,300000.0,13-06-2002
+Mygdammen 2,Øster Assels,7990,3,80,1978,150000.0,10-06-2002
+Blidstrupvej 8,Øster Assels,7990,4,214,1965,220000.0,03-06-2002
+Engkærvej 14,Øster Assels,7990,4,166,1930,374024.0,30-05-2002
+Skallevej 40,Øster Assels,7990,3,74,1972,370000.0,07-05-2002
+Havnevej 48,Øster Assels,7990,4,119,1896,80000.0,01-05-2002
+Lervænget 10,Øster Assels,7990,5,165,1924,668445.0,25-03-2002
+Bytoften 6,Øster Assels,7990,4,116,1977,407000.0,15-03-2002
+Birkemosen 6,Øster Assels,7990,2,140,1920,722000.0,03-11-2001
+Blåklokkevej 3,Øster Assels,7990,3,85,2003,60000.0,25-10-2001
+Brandbægervej 9,Øster Assels,7990,4,63,1980,435000.0,19-10-2001
+Møllevej 14,Øster Assels,7990,3,108,1971,250000.0,10-10-2001
+Gammel Færgevej 21,Øster Assels,7990,6,167,1920,225000.0,29-09-2001
+Lunden 6,Øster Assels,7990,6,153,1980,1375000.0,25-09-2001
+Kongehøjvej 45,Øster Assels,7990,7,139,1933,315015.0,27-08-2001
+Ørding Kærvej 5,Øster Assels,7990,5,181,2012,800000.0,21-08-2001
+Skallevej 29,Øster Assels,7990,3,98,2005,150000.0,30-07-2001
+Gammel Færgevej 84,Øster Assels,7990,3,96,1961,250000.0,29-06-2001
+Lervænget 6,Øster Assels,7990,3,106,1910,350000.0,30-05-2001
+Hedestien 7,Øster Assels,7990,3,55,2006,80000.0,29-05-2001
+Nørrekjær 9,Øster Assels,7990,5,177,1929,1170000.0,28-05-2001
+Skallevej 46,Øster Assels,7990,3,84,1978,429813.0,01-05-2001
+Kærstien 3,Øster Assels,7990,1,44,1982,420000.0,30-04-2001
+Stadionvej 20,Øster Assels,7990,6,153,1913,170000.0,27-04-2001
+Lunden 5,Øster Assels,7990,5,96,1914,850000.0,11-04-2001
+Kongehøjvej 89,Øster Assels,7990,8,182,1931,270000.0,27-03-2001
+Kongehøjvej 51,Øster Assels,7990,4,122,1972,480000.0,13-03-2001
+Hesterøroddevej 96,Øster Assels,7990,4,97,1893,50000.0,01-02-2001
+Gammel Færgevej 36,Øster Assels,7990,3,110,1930,260000.0,15-12-2000
+Gammel Færgevej 73,Øster Assels,7990,4,78,1962,238000.0,28-11-2000
+Skallevej 33,Øster Assels,7990,4,84,2002,185000.0,14-11-2000
+Gammel Færgevej 3,Øster Assels,7990,3,73,1906,270000.0,02-11-2000
+Møllersmindevej 8,Øster Assels,7990,6,142,1912,96805.0,18-10-2000
+Kamillevej 4,Øster Assels,7990,5,78,1975,414592.0,27-09-2000
+Skibdalsvej 24,Øster Assels,7990,3,165,1910,973000.0,06-09-2000
+Vittrupvej 32,Øster Assels,7990,7,210,1932,440000.0,17-08-2000
+Strædet 17,Øster Assels,7990,3,81,1930,295000.0,14-07-2000
+Kongehøjvej 39,Øster Assels,7990,3,83,1932,331267.0,13-06-2000
+Kroghsvej 6,Øster Assels,7990,3,75,1978,391606.0,14-05-2000
+Skallevej 27,Øster Assels,7990,4,60,1969,221000.0,28-03-2000
+Blidstrupvej 14,Øster Assels,7990,6,193,1923,523080.0,28-01-2000
+Engkærvej 11,Øster Assels,7990,8,196,1910,228213.0,21-01-2000
+Gammel Færgevej 86,Øster Assels,7990,5,70,1962,187000.0,10-12-1999
+Havnevej 4,Øster Assels,7990,6,289,1931,430000.0,03-12-1999
+Søndenom 10,Øster Assels,7990,6,183,1827,785000.0,18-11-1999
+Asselsvej 138,Øster Assels,7990,6,152,1954,425000.0,16-11-1999
+Hesterøroddevej 106,Øster Assels,7990,6,152,1929,113018.0,02-11-1999
+Stranden 30,Øster Assels,7990,3,117,1870,66400.0,27-10-1999
+Åbakken 40,Øster Assels,7990,6,155,1900,2048300.0,23-09-1999
+Stranden 27,Øster Assels,7990,8,247,1877,480046.0,17-09-1999
+Bygaden 16,Øster Assels,7990,8,223,1968,925000.0,29-08-1999
+Åbakken 45,Øster Assels,7990,5,148,1900,325000.0,23-08-1999
+Brandbægervej 8,Øster Assels,7990,4,84,2003,80000.0,18-08-1999
+Gammel Færgevej 68,Øster Assels,7990,4,78,1983,418407.0,14-08-1999
+Brandbægervej 2,Øster Assels,7990,4,80,1973,381000.0,30-07-1999
+Skallevej 23,Øster Assels,7990,6,144,2000,175000.0,22-07-1999
+Kroghsvej 2,Øster Assels,7990,4,85,1973,410000.0,21-07-1999
+Asselsvej 167,Øster Assels,7990,4,131,1921,1150000.0,18-06-1999
+Kroghsvej 4,Øster Assels,7990,4,75,1976,430000.0,13-06-1999
+Skallevej 50,Øster Assels,7990,5,95,1975,323000.0,10-06-1999
+Asselsvej 145,Øster Assels,7990,4,148,1890,850000.0,09-06-1999
+Perlevej 7,Øster Assels,7990,5,149,1937,715000.0,05-06-1999
+Gammel Færgevej 105,Øster Assels,7990,7,144,1807,610000.0,01-06-1999
+Kongehøjvej 21,Øster Assels,7990,7,197,1906,379353.0,28-05-1999
+Asselsvej 153,Øster Assels,7990,4,120,1890,200000.0,21-05-1999
+Skallevej 18,Øster Assels,7990,5,147,1981,430000.0,13-05-1999
+Kongehøjvej 69,Øster Assels,7990,9,345,1875,618558.0,16-03-1999
+Havnevej 51,Øster Assels,7990,3,137,1924,144000.0,01-03-1999
+Fjordlundsvej 1,Øster Assels,7990,6,222,1937,1200000.0,16-01-1999
+Skallevej 7,Øster Assels,7990,4,68,1974,471000.0,19-12-1998
+Gammel Færgevej 66,Øster Assels,7990,4,82,1973,275000.0,12-12-1998
+Bygaden 29,Øster Assels,7990,3,78,1890,180000.0,06-12-1998
+Sandholmen 6,Øster Assels,7990,10,258,1837,378500.0,19-11-1998
+Asselsvej 144,Øster Assels,7990,3,104,1911,116567.0,13-11-1998
+Havnevej 78,Øster Assels,7990,4,249,2002,180000.0,03-11-1998
+Hovedstrædet 13,Øster Assels,7990,3,104,1902,161943.0,30-10-1998
+Skolesvinget 5,Øster Assels,7990,5,118,1947,175000.0,16-10-1998
+Ballesvej 16,Øster Assels,7990,3,87,1978,375000.0,10-09-1998
+Ålekistevej 12,Øster Assels,7990,5,161,1927,340000.0,31-07-1998
+Gammel Færgevej 72,Øster Assels,7990,5,170,1890,740000.0,30-07-1998
+Blidstrupvej 16,Øster Assels,7990,4,133,1961,220000.0,01-07-1998
+Asselsvej 143,Øster Assels,7990,8,247,1912,404748.0,22-06-1998
+Bytoften 7,Øster Assels,7990,4,120,1978,531356.0,19-06-1998
+Møllersmindevej 24,Øster Assels,7990,6,103,1905,330000.0,17-06-1998
+Stranden 8,Øster Assels,7990,4,95,1982,427597.0,09-06-1998
+Asselsvej 160,Øster Assels,7990,4,118,1933,242000.0,01-05-1998
+Asselsvej 123,Øster Assels,7990,4,130,1914,430000.0,01-05-1998
+Hedestien 1,Øster Assels,7990,4,97,1976,355000.0,20-04-1998
+Nørrekjær 7,Øster Assels,7990,6,116,1913,408469.0,30-03-1998
+Fjordskovvej 5,Øster Assels,7990,4,106,1932,550000.0,26-03-1998
+Brandbægervej 3,Øster Assels,7990,5,140,1976,196000.0,23-03-1998
+Møllersmindevej 17,Øster Assels,7990,5,315,1907,724000.0,14-03-1998
+Jordmodervej 3,Øster Assels,7990,5,152,1903,327165.0,09-03-1998
+Åbakken 28A,Øster Assels,7990,4,146,1936,100000.0,27-02-1998
+Stranden 44,Øster Assels,7990,5,251,2008,65000.0,19-02-1998
+Møllebjerget 21,Øster Assels,7990,4,80,1933,172640.0,05-01-1998
+Gammel Færgevej 99,Øster Assels,7990,3,127,1936,205000.0,11-12-1997
+Hesterøroddevej 8,Øster Assels,7990,7,92,1917,235000.0,06-11-1997
+Kompasvej 5,Øster Assels,7990,4,82,1976,366834.0,17-10-1997
+Stadionvej 16,Øster Assels,7990,4,121,1920,210000.0,29-09-1997
+Møllersmindevej 21,Øster Assels,7990,8,186,1925,820800.0,19-09-1997
+Hesterøroddevej 30,Øster Assels,7990,4,87,1966,220000.0,16-09-1997
+Stranden 48,Øster Assels,7990,9,191,1900,256647.0,11-09-1997
+Vittrupvej 31,Øster Assels,7990,4,120,1877,275000.0,08-09-1997
+Hesterøroddevej 75,Øster Assels,7990,5,137,1965,410500.0,28-08-1997
+Lunden 4,Øster Assels,7990,4,82,1912,341000.0,23-08-1997
+Asselsvej 151,Øster Assels,7990,3,130,1890,190000.0,29-07-1997
+Asselsvej 157,Øster Assels,7990,5,165,1910,550000.0,22-07-1997
+Kongehøjvej 31,Øster Assels,7990,3,117,1973,385000.0,16-07-1997
+Stadionvej 30,Øster Assels,7990,3,124,1971,390000.0,16-07-1997
+Romerdammen 11,Øster Assels,7990,6,301,1987,1350000.0,06-07-1997
+Blidstrupmark 4,Øster Assels,7990,8,224,1923,2050000.0,02-07-1997
+Kongehøjvej 58,Øster Assels,7990,3,107,1963,305000.0,28-05-1997
+Kamillevej 8,Øster Assels,7990,4,89,1979,375000.0,27-05-1997
+Havnevej 22,Øster Assels,7990,3,91,1959,345000.0,13-05-1997
+Kamillevej 7,Øster Assels,7990,3,95,1998,58700.0,22-04-1997
+Hovedstrædet 37,Øster Assels,7990,4,105,1904,75000.0,07-03-1997
+Skallevej 3,Øster Assels,7990,3,52,1976,202000.0,05-03-1997
+Gammel Færgevej 46,Øster Assels,7990,3,91,1890,400000.0,14-02-1997
+Kompasvej 4,Øster Assels,7990,5,139,1978,432000.0,15-01-1997
+Gammel Færgevej 31,Øster Assels,7990,5,169,1925,413000.0,13-01-1997
+Skallevej 22,Øster Assels,7990,4,68,1974,295000.0,11-12-1996
+Ålekistevej 31,Øster Assels,7990,5,127,1900,310000.0,15-11-1996
+Skallevej 36,Øster Assels,7990,4,82,1969,335000.0,29-10-1996
+Skallevej 4,Øster Assels,7990,4,80,1972,250000.0,18-10-1996
+Asselsvej 165,Øster Assels,7990,7,150,1923,525000.0,01-10-1996
+Birkemosen 3,Øster Assels,7990,7,259,1902,739000.0,23-09-1996
+Hesterøroddevej 95,Øster Assels,7990,4,105,1898,327000.0,08-08-1996
+Staghøjmøllevej 8,Øster Assels,7990,8,324,1977,2975000.0,24-06-1996
+Blidstrupmark 17,Øster Assels,7990,5,143,1967,650000.0,19-06-1996
+Skibdalsvej 29,Øster Assels,7990,5,235,1908,474678.0,06-06-1996
+Østerbyen 9,Øster Assels,7990,3,70,1877,180000.0,31-05-1996
+Blidstrupmark 5,Øster Assels,7990,3,163,1923,240000.0,24-04-1996
+Rolighedsvej 11,Øster Assels,7990,5,138,1939,125495.0,19-04-1996
+Kampsvej 6,Øster Assels,7990,5,70,1968,235000.0,17-04-1996
+Søndertoften 3,Øster Assels,7990,4,137,1986,600000.0,22-03-1996
+Asselsvej 116,Øster Assels,7990,9,247,1997,660000.0,28-12-1995
+Møllebjerget 17,Øster Assels,7990,9,246,1969,663000.0,27-12-1995
+Mælkevejen 14,Øster Assels,7990,3,83,1905,140000.0,21-12-1995
+Møllebjerget 18,Øster Assels,7990,6,118,1877,275000.0,18-12-1995
+Hesterøroddevej 9,Øster Assels,7990,3,68,1919,42000.0,20-11-1995
+Tingstedvej 25,Øster Assels,7990,9,283,1935,721000.0,27-10-1995
+Serupsvej 7,Øster Assels,7990,5,165,1880,1060000.0,26-10-1995
+Blidstrupvej 9,Øster Assels,7990,6,176,1923,370000.0,05-10-1995
+Asselsvej 122,Øster Assels,7990,6,135,1911,160000.0,06-09-1995
+Tagensvej 14,Øster Assels,7990,3,72,1971,258873.0,14-07-1995
+Hovedstrædet 9,Øster Assels,7990,3,118,1901,160000.0,30-06-1995
+Tingstedvej 13,Øster Assels,7990,9,236,1928,4416760.0,19-06-1995
+Havnevej 9,Øster Assels,7990,3,122,1925,180000.0,04-06-1995
+Serupsvej 8,Øster Assels,7990,4,105,1871,180000.0,03-06-1995
+Staghøjmøllevej 5,Øster Assels,7990,1,142,1897,73582.0,02-06-1995
+Kroghsvej 1A,Øster Assels,7990,4,73,1999,70000.0,01-05-1995
+Blidstrupmark 9,Øster Assels,7990,3,94,1923,260000.0,20-04-1995
+Blidstrupmark 13,Øster Assels,7990,5,201,1923,853000.0,18-03-1995
+Birkemosen 5,Øster Assels,7990,7,216,1930,1600000.0,24-02-1995
+Åbakken 25,Øster Assels,7990,5,140,1929,133263.0,17-02-1995
+Mælkevejen 17,Øster Assels,7990,4,115,1907,97500.0,20-01-1995
+Mælkevejen 3,Øster Assels,7990,3,88,1920,30000.0,19-01-1995
+Vittrupvej 38,Øster Assels,7990,6,271,1924,575000.0,19-12-1994
+Hesterøroddevej 84,Øster Assels,7990,5,192,1900,180000.0,29-11-1994
+Havnevej 61,Øster Assels,7990,4,70,1887,160000.0,29-11-1994
+Mælkevejen 5,Øster Assels,7990,3,77,1922,48000.0,18-11-1994
+Stadionvej 12,Øster Assels,7990,4,195,1964,400000.0,01-11-1994
+Hesterøroddevej 20,Øster Assels,7990,6,132,1938,60000.0,20-07-1994
+Brandbægervej 6,Øster Assels,7990,4,90,1975,310000.0,29-05-1994
+Havnevej 66,Øster Assels,7990,8,196,1904,500000.0,28-04-1994
+Gammel Færgevej 111,Øster Assels,7990,4,70,1978,327000.0,09-04-1994
+Grå Stensvej 7,Øster Assels,7990,5,140,1927,298000.0,06-04-1994
+Gammel Færgevej 38,Øster Assels,7990,4,148,1904,294510.0,17-03-1994
+Gammel Færgevej 47,Øster Assels,7990,6,170,1927,1250000.0,17-03-1994
+Kroghsvej 5,Øster Assels,7990,4,77,1979,224000.0,23-12-1993
+Kongehøjvej 64,Øster Assels,7990,8,422,1980,3580297.0,20-12-1993
+Lunden 12,Øster Assels,7990,6,141,1900,308000.0,17-11-1993
+Havnevej 71,Øster Assels,7990,3,120,1978,510000.0,27-10-1993
+Kirkestræde 26,Øster Assels,7990,4,78,1900,35000.0,19-10-1993
+Mælkevejen 11,Øster Assels,7990,3,84,1910,35000.0,19-10-1993
+Kamillevej 11,Øster Assels,7990,5,77,1978,150000.0,12-08-1993
+Brandbægervej 5,Øster Assels,7990,4,73,1977,240000.0,10-08-1993
+Kongehøjvej 87,Øster Assels,7990,3,87,1933,205000.0,19-07-1993
+Gammel Færgevej 78,Øster Assels,7990,6,130,1969,76500.0,11-07-1993
+Møllebjerget 19,Øster Assels,7990,5,122,1875,385000.0,14-06-1993
+Lunden 8,Øster Assels,7990,6,183,1937,395907.0,08-06-1993
+Romerdammen 7,Øster Assels,7990,7,170,1933,175000.0,27-05-1993
+Åbakken 22,Øster Assels,7990,3,73,1928,60000.0,18-05-1993
+Havnevej 13,Øster Assels,7990,3,140,1925,293000.0,08-05-1993
+Havnevej 67,Øster Assels,7990,4,107,1910,245000.0,27-04-1993
+Møllebjerget 6,Øster Assels,7990,4,162,1923,210000.0,25-03-1993
+Blidstrupmark 12,Øster Assels,7990,5,170,1924,730000.0,12-02-1993
+Fjordlundsvej 5,Øster Assels,7990,6,239,1936,509029.0,13-01-1993
+Vittrupvej 36,Øster Assels,7990,7,226,1914,500000.0,18-11-1992
+Mælkevejen 16,Øster Assels,7990,4,110,1929,165000.0,23-07-1992
+Højgårdsvej 3,Øster Assels,7990,4,106,1936,406387.0,02-06-1992
+Blidstrupmark 14,Øster Assels,7990,7,254,1979,1650000.0,27-05-1992
+Svanekærvej 8,Øster Assels,7990,7,121,1932,368000.0,07-02-1992

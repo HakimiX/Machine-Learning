@@ -1,0 +1,1031 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Kongehøjen 8,Klampenborg,2930,3,125,1982,7900000.0,02-05-2017
+Hvidørevej 26,Klampenborg,2930,7,218,1933,9300000.0,20-04-2017
+Christiansholms Parkvej 26,Klampenborg,2930,8,319,1907,19250000.0,18-04-2017
+Klampenborgvej 12C,Klampenborg,2930,7,249,1955,11000000.0,04-04-2017
+"Slotsalleen 8, ST",Klampenborg,2930,4,183,1901,16450000.0,28-03-2017
+Slotsalleen 5,Klampenborg,2930,9,257,1900,19250000.0,22-03-2017
+"Strandvejen 417B, 2. TH",Klampenborg,2930,4,112,1959,6400000.0,22-03-2017
+Fabritius Alle 19,Klampenborg,2930,4,192,2016,15250000.0,20-03-2017
+Klampenborgvej 30,Klampenborg,2930,8,189,1924,10450000.0,19-03-2017
+Zicavej 19,Klampenborg,2930,6,210,1963,18250000.0,17-03-2017
+Rosavej 13,Klampenborg,2930,3,98,1991,5000000.0,14-03-2017
+"Skovvej 4, ST. TH",Klampenborg,2930,2,66,1896,3145000.0,13-03-2017
+Fabritius Alle 10,Klampenborg,2930,7,276,1925,14750000.0,12-03-2017
+Klampenborgvej 21,Klampenborg,2930,6,167,1927,7900000.0,01-03-2017
+"Strandvejen 423, 1. TV",Klampenborg,2930,4,111,1933,5700000.0,01-03-2017
+Strandvejen 655,Klampenborg,2930,5,132,1992,7300000.0,28-02-2017
+"Taarbækdalsvej 1C, 2. 1",Klampenborg,2930,2,51,1937,2200000.0,22-02-2017
+Rosavej 26,Klampenborg,2930,6,208,1970,11600000.0,22-02-2017
+Hvidørevej 28,Klampenborg,2930,5,116,1957,6700000.0,15-02-2017
+Taarbæk Strandvej 85,Klampenborg,2930,2,49,1800,3350000.0,12-02-2017
+Christiansholmsvej 9,Klampenborg,2930,8,126,1954,7200000.0,03-02-2017
+"Taarbæk Strandvej 65B, 1. TH",Klampenborg,2930,3,115,1939,2847500.0,24-01-2017
+"Bellevuevej 3, ST. TH",Klampenborg,2930,3,96,1933,4700000.0,23-01-2017
+Drachmannsvej 9,Klampenborg,2930,7,204,1954,10700000.0,18-01-2017
+Christiansholmsvej 35,Klampenborg,2930,6,212,1929,8475000.0,18-01-2017
+Taarbæk Strandvej 89B,Klampenborg,2930,3,83,1877,5600000.0,17-01-2017
+Christiansholmsvej 11,Klampenborg,2930,6,210,1953,10970000.0,16-01-2017
+Schimmelmannsvej 6,Klampenborg,2930,5,140,1932,8400000.0,06-01-2017
+Fabritius Alle 6,Klampenborg,2930,6,224,1923,15400000.0,04-01-2017
+"Skovvej 4, ST. TV",Klampenborg,2930,3,83,1896,3500000.0,03-01-2017
+"Taarbæk Strandvej 95, 1. TV",Klampenborg,2930,5,108,1937,6500000.0,23-12-2016
+Eremitagevej 6,Klampenborg,2930,9,259,1915,8400000.0,23-12-2016
+Bellevuekrogen 6,Klampenborg,2930,5,128,1950,7500000.0,20-12-2016
+Dalsgaardsvej 16,Klampenborg,2930,3,93,1991,5150000.0,19-12-2016
+Nordre Molevej 4A,Klampenborg,2930,3,70,1877,3295000.0,16-12-2016
+"Strandvejen 423, ST",Klampenborg,2930,4,136,1933,6800000.0,15-12-2016
+Hvidørevej 64,Klampenborg,2930,9,268,1933,9700000.0,13-12-2016
+Strandvejen 296A,Klampenborg,2930,6,192,1890,10250000.0,12-12-2016
+Klampenborgvej 19,Klampenborg,2930,6,182,1928,7600000.0,02-12-2016
+Christiansholms Tværvej 10,Klampenborg,2930,9,314,1929,16975000.0,29-11-2016
+Exnersvej 45,Klampenborg,2930,7,202,1933,11200000.0,23-11-2016
+Taarbækdalsvej 11B,Klampenborg,2930,2,55,1904,2650000.0,16-11-2016
+Christiansholmsvej 5,Klampenborg,2930,7,259,1931,8500000.0,15-11-2016
+Vitus Berings Alle 28,Klampenborg,2930,9,355,1902,15500000.0,14-11-2016
+Dyrehavevej 43A,Klampenborg,2930,6,137,1958,6250000.0,13-11-2016
+Bellevuevej 9,Klampenborg,2930,5,173,1888,5150000.0,04-11-2016
+Strandvejen 635,Klampenborg,2930,4,138,1898,2350000.0,02-11-2016
+Strandvejen 328,Klampenborg,2930,10,382,1880,13880000.0,19-10-2016
+Taarbæk Strandvej 100,Klampenborg,2930,5,82,1802,5500000.0,17-10-2016
+Dyrehavevej 57,Klampenborg,2930,5,174,1935,6600000.0,14-10-2016
+Vitus Berings Alle 15A,Klampenborg,2930,4,161,1917,9200000.0,11-10-2016
+Taarbæk Strandvej 16,Klampenborg,2930,5,174,1887,18600000.0,07-10-2016
+Søvej 8,Klampenborg,2930,4,145,1892,13500000.0,05-10-2016
+Dalsgaardsvej 20,Klampenborg,2930,4,127,1991,6150000.0,21-09-2016
+Christiansrovej 7,Klampenborg,2930,4,130,1902,14300000.0,15-09-2016
+Christiansholms Tværvej 25,Klampenborg,2930,6,193,1903,12250000.0,13-09-2016
+"Taarbæk Strandvej 59, 1. TV",Klampenborg,2930,3,71,1923,4200000.0,11-09-2016
+Taarbæk Strandvej 122,Klampenborg,2930,12,262,1924,24750000.0,08-09-2016
+Hvidørevej 35,Klampenborg,2930,8,148,1931,7487500.0,03-09-2016
+Krøyersvej 13,Klampenborg,2930,4,104,1934,6700000.0,02-09-2016
+Taarbæk Strandvej 142,Klampenborg,2930,3,138,1802,9250000.0,31-08-2016
+Nordlyvej 7,Klampenborg,2930,4,81,1880,7995000.0,31-08-2016
+Rosavej 6,Klampenborg,2930,5,191,1988,10900000.0,30-08-2016
+Klampenborgvej 12E,Klampenborg,2930,6,227,1957,5175000.0,29-08-2016
+Strandvejen 371,Klampenborg,2930,4,172,1910,9700000.0,29-08-2016
+"Taarbæk Strandvej 65A, 2. TH",Klampenborg,2930,4,115,1939,7500000.0,27-08-2016
+Taarbæk Strandvej 114,Klampenborg,2930,5,189,1926,23000000.0,26-08-2016
+"Strandvejen 421, 2. TV",Klampenborg,2930,2,71,1933,2575000.0,25-08-2016
+Sølystparken 6,Klampenborg,2930,10,340,1950,23000000.0,17-08-2016
+Dyrehavevej 35,Klampenborg,2930,7,351,1902,11500000.0,10-08-2016
+Dyrehavevej 43,Klampenborg,2930,11,267,1897,2500000.0,09-08-2016
+Emiliekildevej 42,Klampenborg,2930,6,191,1934,8395000.0,01-08-2016
+Strandvejen 697A,Klampenborg,2930,4,120,1958,6350000.0,01-08-2016
+Slotsalleen 7A,Klampenborg,2930,4,176,1961,11250000.0,31-07-2016
+Schimmelmannsvej 11,Klampenborg,2930,9,256,1934,11700000.0,30-07-2016
+Frølichsvej 14,Klampenborg,2930,7,155,1921,6500000.0,26-07-2016
+"Taarbækdalsvej 1B, 2. TV",Klampenborg,2930,4,98,1937,4445000.0,14-07-2016
+Taarbæk Strandvej 42B,Klampenborg,2930,6,204,2012,10500000.0,12-07-2016
+Taarbæk Strandvej 110,Klampenborg,2930,5,132,1923,3475000.0,06-07-2016
+Nordre Molevej 1,Klampenborg,2930,4,118,1882,8250000.0,23-06-2016
+Strandvejen 302B,Klampenborg,2930,3,121,1974,9865000.0,22-06-2016
+"Skovvej 6, 2. TV",Klampenborg,2930,4,148,1896,5995000.0,18-06-2016
+Strandvejen 393,Klampenborg,2930,8,249,1845,14525000.0,08-06-2016
+Hurdlevej 2,Klampenborg,2930,8,240,1926,7175000.0,08-06-2016
+"Bellevuevej 7, 1. TH",Klampenborg,2930,2,60,1933,2195000.0,30-05-2016
+Dalsgaardsvej 18,Klampenborg,2930,4,126,1991,6200000.0,26-05-2016
+Emiliekildevej 13C,Klampenborg,2930,4,163,1977,7700000.0,25-05-2016
+Skovvej 11,Klampenborg,2930,4,100,1994,4750000.0,25-05-2016
+Strandvejen 415C,Klampenborg,2930,6,180,1961,10600000.0,24-05-2016
+Bellevuekrogen 22,Klampenborg,2930,4,135,1949,11000000.0,22-05-2016
+Fabritius Alle 17,Klampenborg,2930,6,194,1953,10235000.0,19-05-2016
+"Strandvejen 417A, 2. TH",Klampenborg,2930,4,118,1959,6350000.0,18-05-2016
+Dyrehavevej 21,Klampenborg,2930,9,352,1902,10000000.0,13-05-2016
+Søvej 1,Klampenborg,2930,6,167,1909,7950000.0,13-05-2016
+Klampenborgvej 35C,Klampenborg,2930,11,307,1926,27700000.0,10-05-2016
+Krøyersvej 28,Klampenborg,2930,5,169,1933,8600000.0,09-05-2016
+Schimmelmanns Have 9,Klampenborg,2930,6,271,1971,10700000.0,21-04-2016
+Strandvejen 415B,Klampenborg,2930,7,180,1961,8250000.0,20-04-2016
+"Skovvej 2, ST. TV",Klampenborg,2930,2,68,1896,1950000.0,13-04-2016
+Dyrehavevej 37,Klampenborg,2930,7,224,1933,10250000.0,12-04-2016
+"Taarbæk Strandvej 65C, 3. TV",Klampenborg,2930,3,143,1939,9850000.0,07-04-2016
+"Edelslundsvej 5, 1. TH",Klampenborg,2930,4,121,1911,5800000.0,05-04-2016
+Zicavej 9,Klampenborg,2930,6,218,2002,13500000.0,04-04-2016
+"Taarbækdalsvej 1B, ST. MF",Klampenborg,2930,2,83,1937,3475000.0,24-03-2016
+Bostamose Østre Stræde 7,Klampenborg,2930,2,144,1868,5000000.0,07-03-2016
+Emiliekildevej 23,Klampenborg,2930,7,215,1922,6900000.0,03-03-2016
+Strandvejen 669,Klampenborg,2930,4,146,1986,6400000.0,24-02-2016
+Sølystparken 25,Klampenborg,2930,6,217,1947,5125000.0,15-02-2016
+Christiansholmsvej 37,Klampenborg,2930,6,147,1930,7700000.0,02-02-2016
+Christiansholmsvej 14,Klampenborg,2930,7,256,1932,9900000.0,20-01-2016
+"Taarbækdalsvej 1C, 3. 3",Klampenborg,2930,2,64,1937,2995000.0,18-01-2016
+Sølystparken 1,Klampenborg,2930,12,448,1936,26500000.0,18-01-2016
+Schimmelmanns Have 5,Klampenborg,2930,5,215,1973,8950000.0,15-01-2016
+Christiansholmsvej 25,Klampenborg,2930,6,169,1933,3750000.0,12-01-2016
+Hvidørevej 73,Klampenborg,2930,7,203,1954,10400000.0,22-12-2015
+Dyrehavevej 50,Klampenborg,2930,5,150,1958,5600000.0,16-12-2015
+Strandvejen 316,Klampenborg,2930,6,182,1925,10600000.0,04-12-2015
+Nordre Molevej 7,Klampenborg,2930,7,179,1877,9650000.0,15-11-2015
+Schimmelmanns Have 15,Klampenborg,2930,5,215,1971,8000000.0,03-11-2015
+Drachmannsvej 19,Klampenborg,2930,6,253,1949,7550000.0,31-10-2015
+"Strandvejen 677, 1",Klampenborg,2930,3,96,1895,3135000.0,30-10-2015
+"Strandvejen 433, 1. TH",Klampenborg,2930,2,66,1933,2250000.0,30-10-2015
+Dyrehavevej 54,Klampenborg,2930,7,217,1919,8200000.0,29-10-2015
+"Bellevuevej 7, 1. TV",Klampenborg,2930,2,75,1933,2400000.0,24-10-2015
+Strandvejen 660A,Klampenborg,2930,11,434,1914,25750000.0,20-10-2015
+"Edelslundsvej 7, 1",Klampenborg,2930,6,165,1870,3900000.0,08-10-2015
+Dyrehavevej 23,Klampenborg,2930,7,206,1902,10400000.0,01-10-2015
+Exnersvej 46,Klampenborg,2930,7,254,1930,12500000.0,24-09-2015
+Skovvej 12,Klampenborg,2930,7,200,1982,8350100.0,18-09-2015
+Rosavej 1A,Klampenborg,2930,5,157,1991,8700000.0,18-09-2015
+"Vitus Berings Alle 5A, 1",Klampenborg,2930,5,200,1919,6600000.0,17-09-2015
+Bostamose Østre Stræde 3,Klampenborg,2930,3,83,1827,5700000.0,10-09-2015
+"Taarbækdalsvej 1C, ST. 2",Klampenborg,2930,2,61,1937,1700000.0,03-09-2015
+Lorentzensvej 9,Klampenborg,2930,2,57,1890,2250000.0,02-09-2015
+"Taarbæk Strandvej 36A, 2",Klampenborg,2930,3,95,1877,3900000.0,01-09-2015
+"Ole Steffens Vej 5, 1",Klampenborg,2930,6,140,1902,8600000.0,25-08-2015
+"Strandvejen 417B, ST. TV",Klampenborg,2930,3,126,1959,5495000.0,14-08-2015
+"Skovvej 8B, ST",Klampenborg,2930,3,68,1874,2800000.0,05-08-2015
+Christiansholms Tværvej 27,Klampenborg,2930,8,299,1905,17100000.0,30-07-2015
+"Strandvejen 427, ST. TV",Klampenborg,2930,4,103,1933,5500000.0,28-07-2015
+Fabritius Alle 9,Klampenborg,2930,6,240,1952,9000000.0,21-07-2015
+Bostamose Vestre Stræde 7A,Klampenborg,2930,4,117,1901,6600000.0,19-07-2015
+Strandvejen 322,Klampenborg,2930,10,241,1882,3195000.0,16-07-2015
+Taarbæk Strandvej 105F,Klampenborg,2930,4,110,1963,4900000.0,10-07-2015
+Taarbæk Strandvej 105L,Klampenborg,2930,2,70,1963,2850000.0,01-07-2015
+Taarbæk Strandvej 121,Klampenborg,2930,6,236,1970,5800000.0,30-06-2015
+Dyrehavevej 53B,Klampenborg,2930,5,192,1999,7575000.0,30-06-2015
+Hvidørevej 14A,Klampenborg,2930,3,116,1970,7600000.0,16-06-2015
+Drachmannsvej 20,Klampenborg,2930,7,252,1929,19125000.0,10-06-2015
+"Taarbækdalsvej 1B, 3. MF",Klampenborg,2930,3,84,1937,3500000.0,09-06-2015
+Slotsalleen 1,Klampenborg,2930,11,352,1900,12500000.0,05-06-2015
+"Strandvejen 417C, 1. TH",Klampenborg,2930,4,112,1959,5800000.0,03-06-2015
+Lars Carls Vej 6,Klampenborg,2930,4,177,1892,14050000.0,03-06-2015
+"Klampenborgvej 24, 1",Klampenborg,2930,6,175,1929,4495000.0,01-06-2015
+"Klampenborgvej 26, 1",Klampenborg,2930,5,139,1927,4745000.0,01-06-2015
+Taarbæk Strandvej 103K,Klampenborg,2930,3,116,1970,6250000.0,31-05-2015
+"Taarbækdalsvej 1C, 3. 1",Klampenborg,2930,2,52,1937,2000000.0,29-05-2015
+"Strandvejen 439, ST. TV",Klampenborg,2930,4,174,1936,7600000.0,21-05-2015
+Dyrehavevej 30,Klampenborg,2930,3,249,2017,6850000.0,15-05-2015
+Frølichsvej 2,Klampenborg,2930,8,222,1908,24700000.0,13-05-2015
+Sølystvej 1,Klampenborg,2930,9,119,1930,7600000.0,11-05-2015
+Drachmannsvej 18,Klampenborg,2930,9,276,1928,5687500.0,08-05-2015
+Krøyersvej 9,Klampenborg,2930,8,234,1920,13000000.0,30-04-2015
+Schimmelmannsvej 4B,Klampenborg,2930,5,196,2009,12050000.0,30-04-2015
+Taarbæk Strandvej 44B,Klampenborg,2930,5,155,1876,8750000.0,30-04-2015
+Drachmannsvej 17,Klampenborg,2930,7,202,1926,11500000.0,29-04-2015
+Emiliekildevej 47,Klampenborg,2930,9,376,1916,12100000.0,22-04-2015
+Borgmester Jørgensens Vej 4,Klampenborg,2930,7,212,1969,10100000.0,14-04-2015
+"Taarbækdalsvej 7B, 1",Klampenborg,2930,3,140,1877,6785000.0,07-04-2015
+Emiliekildevej 48,Klampenborg,2930,7,242,2004,9500000.0,16-03-2015
+"Strandvejen 347, ST",Klampenborg,2930,5,133,1933,3720000.0,10-03-2015
+Taarbæk Parcelvej 6,Klampenborg,2930,2,81,1900,3885000.0,10-03-2015
+"Exnersvej 27, ST",Klampenborg,2930,4,112,1931,4850000.0,09-03-2015
+Christiansholmsvej 48,Klampenborg,2930,6,218,1930,9200000.0,05-03-2015
+"Taarbækdalsvej 1C, 3. 4",Klampenborg,2930,2,62,1937,2450000.0,25-02-2015
+Damgårdsvej 18,Klampenborg,2930,8,281,1935,9725000.0,23-02-2015
+Klampenborgvej 12B,Klampenborg,2930,5,139,1956,5018625.0,19-02-2015
+Dyrehavevej 61,Klampenborg,2930,8,269,1936,7550000.0,18-02-2015
+Bostamose Vestre Stræde 1,Klampenborg,2930,3,130,1880,4900000.0,10-02-2015
+"Strandvejen 717, 2",Klampenborg,2930,3,75,1859,4275000.0,10-02-2015
+Krøyersvej 19,Klampenborg,2930,6,211,1937,10075000.0,04-02-2015
+Fabritius Alle 8,Klampenborg,2930,8,253,1935,13200000.0,28-01-2015
+Emiliekildevej 15,Klampenborg,2930,8,280,1966,10600000.0,27-01-2015
+"Strandvejen 433, 2. TV",Klampenborg,2930,3,111,1933,4050000.0,20-01-2015
+Lorentzensvej 3,Klampenborg,2930,2,67,1890,2250000.0,15-01-2015
+Taarbækdalsvej 9A,Klampenborg,2930,4,165,1978,8500000.0,13-01-2015
+Strandvejen 673,Klampenborg,2930,4,143,1986,5995000.0,12-01-2015
+Borgmester Jørgensens Vej 7,Klampenborg,2930,5,176,1970,6300000.0,09-01-2015
+Hvidørevej 45,Klampenborg,2930,6,228,2008,14250000.0,23-12-2014
+Schimmelmannsvej 17B,Klampenborg,2930,7,299,1928,9425000.0,19-12-2014
+"Edelslundsvej 5, ST. TH",Klampenborg,2930,4,121,1911,5500000.0,17-12-2014
+"Skovvej 4, 1. TV",Klampenborg,2930,3,81,1896,4000000.0,17-12-2014
+"Skovvej 8A, 2",Klampenborg,2930,7,122,1874,3300000.0,07-12-2014
+Strandvejen 399B,Klampenborg,2930,8,213,1959,7500000.0,01-12-2014
+Klampenborgvej 14B,Klampenborg,2930,4,138,1949,4264584.0,29-11-2014
+Skovvej 15,Klampenborg,2930,4,100,1994,4175000.0,20-11-2014
+"Strandvejen 429, 1. TH",Klampenborg,2930,3,100,1933,3620000.0,11-11-2014
+"Taarbæk Strandvej 76, 2. TV",Klampenborg,2930,3,62,1895,3350000.0,28-10-2014
+Taarbækdalsvej 1E,Klampenborg,2930,3,80,1896,3100000.0,23-10-2014
+Emiliekildevej 13A,Klampenborg,2930,6,256,2016,9400000.0,21-10-2014
+Strandvejen 701,Klampenborg,2930,4,136,1860,5345000.0,17-10-2014
+Taarbæk Strandvej 105G,Klampenborg,2930,4,110,1963,5600000.0,09-10-2014
+Christiansholms Tværvej 3,Klampenborg,2930,8,180,1903,10500000.0,05-10-2014
+Kyhnsvej 5,Klampenborg,2930,5,225,1934,10800000.0,30-09-2014
+"Taarbækdalsvej 12, 1",Klampenborg,2930,3,148,1912,5350000.0,29-09-2014
+Strandvejen 403,Klampenborg,2930,7,217,1834,10000000.0,25-09-2014
+Strandvejen 606,Klampenborg,2930,8,197,1909,4850000.0,23-09-2014
+Strandvejen 667,Klampenborg,2930,6,158,1986,3600000.0,05-09-2014
+Damgårdsvej 1,Klampenborg,2930,8,188,1890,7750000.0,04-09-2014
+Hvidørevej 68,Klampenborg,2930,8,211,1934,7350000.0,02-09-2014
+Emiliekildevej 19A,Klampenborg,2930,9,448,1919,34500000.0,01-09-2014
+"Strandvejen 417D, ST. TV",Klampenborg,2930,2,107,1959,3400000.0,27-08-2014
+Christiansholms Parkvej 24,Klampenborg,2930,12,394,1907,14100000.0,27-08-2014
+"Strandvejen 429, ST. TH",Klampenborg,2930,3,94,1933,3500000.0,22-08-2014
+Christiansholms Parallelvej 3,Klampenborg,2930,7,219,1903,1951687.0,20-08-2014
+Bloksbjerget 6,Klampenborg,2930,10,282,1943,9500000.0,19-08-2014
+Sølystparken 10,Klampenborg,2930,10,369,1937,16350000.0,14-08-2014
+Emiliekildevej 12,Klampenborg,2930,5,131,1924,7600000.0,08-08-2014
+"Dyrehavevej 38, ST",Klampenborg,2930,5,232,1917,15000000.0,05-08-2014
+"Taarbæk Strandvej 65A, 3. TV",Klampenborg,2930,4,120,1939,3800000.0,22-07-2014
+Strandvejen 703,Klampenborg,2930,7,172,1877,4500000.0,16-07-2014
+Krøyersvej 14,Klampenborg,2930,5,207,1958,9200000.0,14-07-2014
+Emiliekildevej 17,Klampenborg,2930,9,256,1894,10500000.0,09-07-2014
+Fabritius Alle 18,Klampenborg,2930,10,302,1933,5050000.0,08-07-2014
+"Edelslundsvej 3, ST",Klampenborg,2930,11,304,1920,12750000.0,04-07-2014
+Strandvejen 306,Klampenborg,2930,5,232,2015,7501055.0,02-07-2014
+Hvidørevej 61,Klampenborg,2930,4,118,1956,5025000.0,30-06-2014
+"Rosavej 1, ST",Klampenborg,2930,5,137,1931,7000000.0,25-06-2014
+Kirkevej 1A,Klampenborg,2930,5,148,1987,7200000.0,18-06-2014
+Damgårdsvej 22,Klampenborg,2930,7,276,1935,10500000.0,16-06-2014
+Damgårdsvej 9,Klampenborg,2930,4,109,1958,7300000.0,04-06-2014
+"Skovvej 2, 1. TV",Klampenborg,2930,2,69,1896,2195000.0,30-05-2014
+"Skovvej 6, 1. TH",Klampenborg,2930,3,98,1896,3450000.0,28-05-2014
+"Dyrehavevej 19, 1. TH",Klampenborg,2930,4,109,1989,3000000.0,25-05-2014
+Strandvejen 633,Klampenborg,2930,5,168,2015,3200000.0,14-05-2014
+Taarbæk Strandvej 105Q,Klampenborg,2930,5,150,1963,4675000.0,14-05-2014
+"Strandvejen 421, 1. TH",Klampenborg,2930,4,113,1933,3700000.0,08-05-2014
+Bellevuekrogen 3,Klampenborg,2930,4,114,1953,6500000.0,01-05-2014
+"Christiansholms Parallelvej 9, 2",Klampenborg,2930,4,109,1903,4000000.0,30-04-2014
+Taarbæk Strandvej 42C,Klampenborg,2930,7,271,2014,16940650.0,30-04-2014
+"Taarbæk Strandvej 65A, 2. TV",Klampenborg,2930,4,120,1939,5885000.0,27-04-2014
+Strandvejen 292,Klampenborg,2930,5,171,1897,6550000.0,22-04-2014
+Strandvejen 626A,Klampenborg,2930,5,225,1978,26900000.0,16-04-2014
+Taarbæk Strandvej 105I,Klampenborg,2930,7,151,1963,4800000.0,09-04-2014
+Krøyersvej 21,Klampenborg,2930,5,165,1954,9000000.0,09-04-2014
+Dalsgaardsvej 1,Klampenborg,2930,6,211,1931,7900000.0,09-04-2014
+Taarbæk Strandvej 109,Klampenborg,2930,7,145,1900,6700000.0,08-04-2014
+Bloksbjerget 22,Klampenborg,2930,6,279,1933,5150000.0,08-04-2014
+Dalsgaardsvej 5,Klampenborg,2930,8,177,1927,9000000.0,03-04-2014
+Damgårdsvej 31,Klampenborg,2930,4,188,1934,9735000.0,23-03-2014
+Christiansholms Tværvej 6,Klampenborg,2930,8,270,1934,10000000.0,23-03-2014
+"Strandvejen 423, 2. TV",Klampenborg,2930,4,117,1933,4850000.0,17-03-2014
+Drachmannsvej 15,Klampenborg,2930,7,182,1928,7000000.0,12-03-2014
+Sølystparken 19,Klampenborg,2930,5,181,1952,7500000.0,03-03-2014
+Drachmannsvej 14B,Klampenborg,2930,5,172,1971,9000000.0,03-03-2014
+"Strandvejen 419, 2. TV",Klampenborg,2930,2,71,1933,2556000.0,28-02-2014
+Strandvejen 304,Klampenborg,2930,9,306,1975,16300000.0,21-02-2014
+Domusvej 4,Klampenborg,2930,7,169,1889,8300000.0,08-02-2014
+Sølystvej 7,Klampenborg,2930,6,210,1935,8750000.0,07-02-2014
+Slotsalleen 15,Klampenborg,2930,7,349,2001,15000000.0,04-02-2014
+Taarbæk Strandvej 103G,Klampenborg,2930,4,116,1970,5700000.0,31-01-2014
+"Taarbæk Strandvej 95, 2. TH",Klampenborg,2930,3,92,1937,3400000.0,24-01-2014
+Strandvejen 296C,Klampenborg,2930,4,197,1912,10125000.0,16-01-2014
+"Dyrehavevej 19, 1. TV",Klampenborg,2930,4,109,1989,3200000.0,13-01-2014
+Vermehrensvej 15,Klampenborg,2930,6,256,1935,15500000.0,08-01-2014
+Hurdlevej 4,Klampenborg,2930,8,246,1934,4450000.0,08-01-2014
+Emiliekildevej 17A,Klampenborg,2930,4,135,1884,6225000.0,19-12-2013
+Christiansholmsvej 24,Klampenborg,2930,7,260,1936,8750000.0,18-12-2013
+Emiliekildevej 69,Klampenborg,2930,6,195,1933,1532000.0,17-12-2013
+"Strandvejen 417B, ST. TH",Klampenborg,2930,4,114,1959,4795000.0,16-12-2013
+"Bellevuevej 1, ST. TV",Klampenborg,2930,4,112,1933,4600000.0,11-12-2013
+"Taarbækdalsvej 1D, 2",Klampenborg,2930,3,166,1896,4800000.0,05-12-2013
+Bostamose Østre Stræde 5,Klampenborg,2930,4,115,1891,4400000.0,03-12-2013
+Drachmannsvej 7,Klampenborg,2930,6,162,1993,7500000.0,02-12-2013
+Damgårdsvej 16,Klampenborg,2930,12,341,1933,7500000.0,01-12-2013
+Christiansholms Tværvej 8,Klampenborg,2930,7,225,1933,7975000.0,27-11-2013
+"Strandvejen 417E, 3. 4",Klampenborg,2930,4,119,1959,5250000.0,15-11-2013
+Taarbæk Strandvej 75,Klampenborg,2930,4,112,1967,4200000.0,15-11-2013
+Nordlyvej 8,Klampenborg,2930,7,164,1900,12000000.0,08-11-2013
+Sølystparken 11,Klampenborg,2930,5,249,1939,3096661.0,08-11-2013
+"Taarbæk Strandvej 36B, 2. TH",Klampenborg,2930,2,45,1877,1475000.0,07-11-2013
+Strandvejen 326,Klampenborg,2930,8,280,1945,14400000.0,03-11-2013
+"Strandvejen 417A, 3",Klampenborg,2930,5,148,1959,10600000.0,31-10-2013
+Havnevej 4,Klampenborg,2930,3,101,1858,6650000.0,31-10-2013
+Dyrehavevej 53A,Klampenborg,2930,3,100,1926,2250000.0,31-10-2013
+"Taarbæk Strandvej 36B, 1. TV",Klampenborg,2930,2,46,1877,1100000.0,08-10-2013
+Taarbæk Strandvej 41,Klampenborg,2930,7,124,1875,6375000.0,03-10-2013
+Strandvejen 383,Klampenborg,2930,5,187,1881,5800000.0,30-09-2013
+Kirkevej 3,Klampenborg,2930,6,174,1867,7250000.0,27-09-2013
+"Bellevuevej 5, 2. TH",Klampenborg,2930,3,101,1933,3200000.0,21-09-2013
+Nordlyvej 1,Klampenborg,2930,2,74,1912,2975000.0,12-09-2013
+"Taarbæk Strandvej 76, 1. TV",Klampenborg,2930,3,64,1895,2880000.0,12-09-2013
+"Strandvejen 347, 1",Klampenborg,2930,5,133,1933,4185000.0,09-09-2013
+"Strandvejen 429, 2. TV",Klampenborg,2930,5,130,1933,4850000.0,06-09-2013
+Damgårdsvej 29,Klampenborg,2930,7,191,1931,8400000.0,03-09-2013
+Strandvejen 727,Klampenborg,2930,6,127,1864,4550000.0,02-09-2013
+Schimmelmanns Have 19,Klampenborg,2930,9,300,2000,8000000.0,01-09-2013
+Ole Steffens Vej 5A,Klampenborg,2930,3,94,1902,10150000.0,20-08-2013
+Taarbækdalsvej 11D,Klampenborg,2930,2,50,1904,1625000.0,17-07-2013
+Nordlyvej 2,Klampenborg,2930,3,93,1800,5600000.0,28-06-2013
+Frølichsvej 3,Klampenborg,2930,4,191,2016,5880000.0,24-06-2013
+"Taarbækdalsvej 1C, 2. 3",Klampenborg,2930,2,63,1937,2450000.0,18-06-2013
+"Taarbæk Strandvej 95, ST. TV",Klampenborg,2930,2,108,1937,3333333.0,13-06-2013
+Taarbæk Strandvej 103I,Klampenborg,2930,3,116,1970,2380000.0,09-06-2013
+Dyrehavevej 58,Klampenborg,2930,5,199,1922,12750000.0,09-06-2013
+Anchersvej 6,Klampenborg,2930,6,197,1935,10300000.0,06-06-2013
+Strandvejen 381,Klampenborg,2930,9,358,1860,24000000.0,30-05-2013
+"Skovvej 8B, 1",Klampenborg,2930,3,132,1874,3100000.0,24-05-2013
+Rosavej 10A,Klampenborg,2930,5,211,2006,19500000.0,17-05-2013
+Strandvejen 401,Klampenborg,2930,8,214,1880,6565000.0,25-04-2013
+Eremitagevej 1,Klampenborg,2930,7,260,1920,11300000.0,24-04-2013
+"Taarbæk Strandvej 59G, 2",Klampenborg,2930,2,73,1935,1100000.0,21-04-2013
+Krøyersvej 17,Klampenborg,2930,5,216,2014,5700000.0,12-04-2013
+Taarbæk Strandvej 105B,Klampenborg,2930,4,110,1963,4600000.0,04-03-2013
+Taarbæk Strandvej 116,Klampenborg,2930,9,495,1928,16000000.0,26-02-2013
+Hvidørevej 62,Klampenborg,2930,7,208,2011,3600000.0,22-02-2013
+Hvidørevej 51,Klampenborg,2930,7,144,1923,7150000.0,17-01-2013
+Sølystparken 13,Klampenborg,2930,7,240,1955,9800000.0,08-01-2013
+"Strandvejen 425, ST. TH",Klampenborg,2930,3,96,1933,4450000.0,05-01-2013
+"Bellevuevej 1, 1",Klampenborg,2930,5,218,1933,9500000.0,22-12-2012
+"Strandvejen 614, 1",Klampenborg,2930,3,105,1935,2325000.0,19-12-2012
+Strandvejen 413A,Klampenborg,2930,6,176,2007,10200000.0,18-12-2012
+Strandvejen 330A,Klampenborg,2930,6,301,2014,9900000.0,18-12-2012
+Krøyersvej 7,Klampenborg,2930,7,244,1921,10600000.0,17-12-2012
+Hvidørevej 41,Klampenborg,2930,6,146,1929,3650000.0,10-12-2012
+Krøyersvej 26,Klampenborg,2930,9,225,1941,10400000.0,06-12-2012
+Taarbæk Strandvej 107,Klampenborg,2930,7,152,1856,6250000.0,05-12-2012
+Strandvejen 292A,Klampenborg,2930,6,151,1932,8900000.0,27-11-2012
+Sølystvej 17,Klampenborg,2930,11,297,1925,6250000.0,26-11-2012
+Krøyersvej 25,Klampenborg,2930,4,212,1933,9250000.0,23-11-2012
+Klampenborgvej 32,Klampenborg,2930,8,275,1931,11750000.0,02-11-2012
+Krøyersvej 30,Klampenborg,2930,7,158,1932,8000000.0,23-10-2012
+Strandvejen 671,Klampenborg,2930,4,143,1986,1112500.0,19-10-2012
+Hvidørevej 69,Klampenborg,2930,9,278,1946,7000000.0,19-10-2012
+Frølichsvej 9,Klampenborg,2930,7,192,1933,8300000.0,11-10-2012
+Dyrehavevej 36,Klampenborg,2930,7,201,1925,9000000.0,05-10-2012
+Damgårdsvej 19,Klampenborg,2930,12,377,1934,16250000.0,02-10-2012
+Klampenborgvej 1A,Klampenborg,2930,5,147,1957,2850000.0,25-09-2012
+Sølystvej 4,Klampenborg,2930,8,238,1924,9000000.0,21-09-2012
+Schimmelmannsvej 3,Klampenborg,2930,6,149,1930,5700000.0,19-09-2012
+Strandvejen 369,Klampenborg,2930,6,112,1903,5500000.0,18-09-2012
+Emiliekildevej 61,Klampenborg,2930,8,189,1933,7100000.0,05-09-2012
+"Strandvejen 419, ST. TH",Klampenborg,2930,2,61,1933,1960000.0,24-08-2012
+Exnersvej 48,Klampenborg,2930,9,288,1928,8800000.0,22-08-2012
+"Strandvejen 435, 1. TV",Klampenborg,2930,5,115,1936,4075000.0,16-08-2012
+Drachmannsvej 12,Klampenborg,2930,6,175,1921,9000000.0,16-07-2012
+"Bellevuevej 5, ST. TH",Klampenborg,2930,2,81,1933,2075000.0,16-07-2012
+Kirkevej 1B,Klampenborg,2930,5,134,1896,6000000.0,20-06-2012
+Klampenborgvej 15A,Klampenborg,2930,5,162,1973,5500000.0,19-06-2012
+Hurdlevej 5,Klampenborg,2930,8,228,1934,2000000.0,14-06-2012
+Hvidørevej 87,Klampenborg,2930,7,190,1936,7500000.0,08-06-2012
+Taarbæk Strandvej 74,Klampenborg,2930,9,316,1995,17000000.0,24-05-2012
+"Taarbæk Strandvej 95, ST. TH",Klampenborg,2930,3,92,1937,2400000.0,07-05-2012
+Strandvejen 623,Klampenborg,2930,7,147,1910,2600000.0,03-05-2012
+Zicavej 12,Klampenborg,2930,8,175,1964,9400000.0,27-04-2012
+Exnersvej 11,Klampenborg,2930,7,183,1930,7710000.0,26-04-2012
+Dyrehavevej 45,Klampenborg,2930,9,256,1897,500000.0,26-04-2012
+Taarbækdalsvej 17,Klampenborg,2930,9,204,1877,7000000.0,03-04-2012
+Strandvejen 296,Klampenborg,2930,4,124,1954,6800000.0,03-04-2012
+Klampenborgvej 13A,Klampenborg,2930,7,211,1934,6995000.0,21-03-2012
+Christiansholms Parkvej 4,Klampenborg,2930,6,181,1903,6800000.0,20-03-2012
+Strandvejen 855,Klampenborg,2930,9,314,1941,7935000.0,09-03-2012
+Dyrehavevej 31,Klampenborg,2930,6,206,1902,6750000.0,08-03-2012
+Krøyersvej 18,Klampenborg,2930,5,114,1928,6200000.0,05-03-2012
+Taarbæk Strandvej 48A,Klampenborg,2930,3,115,1979,3375000.0,22-02-2012
+"Strandvejen 419, 1. TV",Klampenborg,2930,2,71,1933,2300000.0,17-02-2012
+Zicavej 3,Klampenborg,2930,6,162,1931,8000000.0,15-02-2012
+Damgårdsvej 21,Klampenborg,2930,7,210,1953,8375000.0,07-02-2012
+Christiansholms Parallelvej 2,Klampenborg,2930,9,249,1903,11250000.0,03-02-2012
+Exnersvej 50,Klampenborg,2930,8,240,1928,13200000.0,30-01-2012
+"Skovvej 2, 2. TH",Klampenborg,2930,4,119,1896,5300000.0,27-01-2012
+Strandvejen 625,Klampenborg,2930,7,158,1918,3200000.0,10-01-2012
+"Taarbækdalsvej 1B, ST. TV",Klampenborg,2930,4,98,1937,1700000.0,22-12-2011
+Strandvejen 707,Klampenborg,2930,7,235,1915,1962500.0,13-12-2011
+"Taarbæk Strandvej 65B, 1. TV",Klampenborg,2930,4,115,1939,4800000.0,02-12-2011
+Damgårdsvej 27,Klampenborg,2930,6,143,1931,3850000.0,30-11-2011
+Christiansholms Tværvej 19,Klampenborg,2930,6,220,1903,4250000.0,29-11-2011
+Christiansholmsvej 27,Klampenborg,2930,5,176,1934,7800000.0,10-11-2011
+"Strandvejen 435, ST. TH",Klampenborg,2930,2,60,1936,1500000.0,06-11-2011
+"Taarbækdalsvej 1B, 3. TH",Klampenborg,2930,2,64,1937,1187500.0,24-10-2011
+Strandvejen 320,Klampenborg,2930,8,289,1886,20000000.0,14-10-2011
+Strandvejen 298,Klampenborg,2930,6,180,1900,12650000.0,08-10-2011
+Christiansholms Parallelvej 16,Klampenborg,2930,10,329,1903,12200000.0,05-10-2011
+Vitus Berings Alle 26,Klampenborg,2930,8,259,1903,10500000.0,20-09-2011
+Christiansholms Parallelvej 15,Klampenborg,2930,9,378,1903,12000000.0,21-08-2011
+Klampenborgvej 4,Klampenborg,2930,6,215,1932,7000000.0,17-08-2011
+Strandvejen 407,Klampenborg,2930,9,490,1840,32500000.0,08-08-2011
+Søvej 2,Klampenborg,2930,4,122,1880,6250000.0,03-08-2011
+"Bellevuevej 5, 1. TV",Klampenborg,2930,4,109,1933,3400000.0,03-08-2011
+Zicavej 8,Klampenborg,2930,6,269,1954,9200000.0,01-08-2011
+Emiliekildevej 46,Klampenborg,2930,7,210,1937,1787500.0,15-07-2011
+"Lorentzensvej 5, 1. TV",Klampenborg,2930,3,64,1890,1077000.0,06-07-2011
+"Edelslundsvej 5, 2. TV",Klampenborg,2930,2,86,1911,3200000.0,17-06-2011
+Exnersvej 36,Klampenborg,2930,7,175,1930,9000000.0,15-06-2011
+"Taarbæk Strandvej 65C, 2. TV",Klampenborg,2930,4,115,1939,5100000.0,08-06-2011
+Strandvejen 286,Klampenborg,2930,6,175,1938,7400000.0,24-05-2011
+"Taarbæk Strandvej 76, ST. TH",Klampenborg,2930,2,62,1895,1825000.0,19-05-2011
+Skærsommervej 1,Klampenborg,2930,5,130,1902,7900000.0,08-05-2011
+Rosavej 24,Klampenborg,2930,7,240,1969,5437500.0,01-05-2011
+"Dyrehavevej 19, ST. TV",Klampenborg,2930,4,109,1989,3495000.0,19-04-2011
+Taarbæk Strandvej 50,Klampenborg,2930,4,155,1870,6725000.0,04-04-2011
+Lorentzensvej 6,Klampenborg,2930,10,250,1870,8450000.0,03-04-2011
+Emiliekildevej 55,Klampenborg,2930,8,205,1933,8200000.0,17-03-2011
+Fabritius Alle 11,Klampenborg,2930,6,265,1953,9300000.0,09-03-2011
+Klampenborgvej 23,Klampenborg,2930,5,213,1932,7000000.0,11-02-2011
+Taarbæk Strandvej 103B,Klampenborg,2930,7,198,1825,7250000.0,10-02-2011
+"Strandvejen 431, 1. TH",Klampenborg,2930,3,101,1933,3275000.0,02-02-2011
+Damgårdsvej 3,Klampenborg,2930,5,112,1890,3250000.0,18-01-2011
+Strandvejen 668,Klampenborg,2930,14,380,1920,21000000.0,13-01-2011
+Krøyersvej 24,Klampenborg,2930,6,250,1937,6300000.0,03-01-2011
+Strandvejen 665,Klampenborg,2930,8,193,1908,6900000.0,22-12-2010
+Taarbæk Strandvej 39,Klampenborg,2930,7,245,1850,3050000.0,10-12-2010
+Taarbæk Strandvej 53D,Klampenborg,2930,6,164,1970,8200000.0,09-12-2010
+Strandvejen 733,Klampenborg,2930,3,140,1987,4400000.0,09-12-2010
+Christiansholms Parkvej 16,Klampenborg,2930,8,231,1903,8000000.0,30-11-2010
+Taarbæk Strandvej 28A,Klampenborg,2930,9,312,1892,14340000.0,27-11-2010
+Emiliekildevej 15C,Klampenborg,2930,4,130,1990,5700000.0,08-11-2010
+Klampenborgvej 35D,Klampenborg,2930,6,313,1962,14250000.0,05-11-2010
+"Bellevuevej 3, 1. TV",Klampenborg,2930,4,108,1933,3250000.0,03-11-2010
+Strandvejen 413B,Klampenborg,2930,4,260,2009,12700000.0,26-10-2010
+Taarbæk Strandvej 53C,Klampenborg,2930,5,164,1970,8500000.0,26-10-2010
+Dalsgaardsvej 10,Klampenborg,2930,4,127,1991,71852000.0,21-10-2010
+Dalsgaardsvej 12,Klampenborg,2930,3,93,1991,71852000.0,21-10-2010
+Dalsgaardsvej 28,Klampenborg,2930,4,93,1991,71852000.0,21-10-2010
+Dalsgaardsvej 26,Klampenborg,2930,4,126,1991,71852000.0,21-10-2010
+Dalsgaardsvej 14,Klampenborg,2930,3,98,1991,71852000.0,21-10-2010
+Rosavej 7,Klampenborg,2930,4,127,1991,71852000.0,21-10-2010
+Rosavej 9,Klampenborg,2930,4,126,1991,71852000.0,21-10-2010
+Rosavej 11,Klampenborg,2930,3,93,1991,71852000.0,21-10-2010
+Dalsgaardsvej 22,Klampenborg,2930,4,127,1991,71852000.0,21-10-2010
+Rosavej 15,Klampenborg,2930,4,126,1991,71852000.0,21-10-2010
+Dalsgaardsvej 24,Klampenborg,2930,4,127,1991,71852000.0,21-10-2010
+Rosavej 17,Klampenborg,2930,4,127,1991,71852000.0,21-10-2010
+Dalsgaardsvej 30,Klampenborg,2930,3,98,1991,71852000.0,21-10-2010
+Dalsgaardsvej 32,Klampenborg,2930,4,127,1991,71852000.0,21-10-2010
+Dyrehavevej 51B,Klampenborg,2930,3,140,1968,5750000.0,14-10-2010
+Krøyersvej 23,Klampenborg,2930,6,184,1934,7400000.0,11-10-2010
+Drachmannsvej 4B,Klampenborg,2930,8,283,1887,10650000.0,11-10-2010
+Taarbæk Strandvej 51,Klampenborg,2930,8,200,1864,11500000.0,28-09-2010
+Damgårdsvej 24,Klampenborg,2930,7,280,1934,10500000.0,28-09-2010
+"Bellevuevej 3, ST. TV",Klampenborg,2930,4,103,1933,2507500.0,22-09-2010
+"Strandvejen 433, 2. TH",Klampenborg,2930,2,66,1933,2451000.0,22-09-2010
+Borgmester Jørgensens Vej 14,Klampenborg,2930,8,206,1988,8150000.0,14-09-2010
+Strandvejen 314,Klampenborg,2930,3,171,1885,10200000.0,08-09-2010
+"Drachmannsvej 6, 1",Klampenborg,2930,3,110,1913,3500000.0,07-09-2010
+Zicavej 4,Klampenborg,2930,6,190,1891,12200000.0,26-08-2010
+Exnersvej 42,Klampenborg,2930,7,175,1927,7900000.0,24-08-2010
+Taarbæk Strandvej 55A,Klampenborg,2930,5,217,1972,7500000.0,20-08-2010
+Rosavej 8B,Klampenborg,2930,4,348,2012,14500000.0,18-08-2010
+Schimmelmannsvej 7,Klampenborg,2930,7,205,1929,6350000.0,15-08-2010
+Strandvejen 351,Klampenborg,2930,6,158,1878,5100000.0,10-08-2010
+"Strandvejen 423, 2. TH",Klampenborg,2930,3,102,1933,3900000.0,09-08-2010
+Strandvejen 331,Klampenborg,2930,4,64,1883,2755000.0,04-08-2010
+Kyhnsvej 4,Klampenborg,2930,6,157,1947,6800000.0,02-08-2010
+Strandvejen 397,Klampenborg,2930,4,231,1847,9550000.0,27-07-2010
+Nordre Molevej 4,Klampenborg,2930,6,135,1870,5000000.0,13-07-2010
+"Taarbæk Strandvej 65A, ST. TH",Klampenborg,2930,4,98,1939,4300000.0,25-06-2010
+Krøyersvej 16,Klampenborg,2930,4,138,1927,5100000.0,20-06-2010
+Taarbæk Strandvej 22,Klampenborg,2930,5,123,1825,10200000.0,15-06-2010
+Emiliekildevej 6B,Klampenborg,2930,8,199,1956,12500000.0,15-06-2010
+Krøyersvej 31,Klampenborg,2930,5,186,1930,7850000.0,09-06-2010
+Schimmelmannsvej 21,Klampenborg,2930,8,240,1932,8500000.0,02-06-2010
+Klampenborgvej 10D,Klampenborg,2930,4,121,1978,5300000.0,24-05-2010
+Christiansholmsvej 6,Klampenborg,2930,8,234,1923,7000000.0,24-05-2010
+Strandvejen 379,Klampenborg,2930,7,193,1860,10000000.0,19-05-2010
+Exnersvej 40,Klampenborg,2930,7,169,1924,6200000.0,11-05-2010
+Hvidørevej 4,Klampenborg,2930,4,267,1924,8000000.0,09-05-2010
+Strandvejen 604,Klampenborg,2930,7,190,1907,5000000.0,29-04-2010
+Søvej 5,Klampenborg,2930,2,70,1910,8200000.0,29-04-2010
+Krøyersvej 4,Klampenborg,2930,7,167,1914,7800000.0,26-04-2010
+Borgmester Jørgensens Vej 3,Klampenborg,2930,4,208,1978,80000.0,21-04-2010
+"Strandvejen 417A, 1. TH",Klampenborg,2930,4,119,1959,4950000.0,13-04-2010
+Christiansholms Tværvej 15,Klampenborg,2930,8,324,1903,10600000.0,11-04-2010
+Nordre Molevej 9,Klampenborg,2930,8,250,1881,12900000.0,07-04-2010
+Bloksbjerget 2,Klampenborg,2930,7,173,1932,7750000.0,28-03-2010
+Sølystvej 19,Klampenborg,2930,5,136,1957,2850000.0,26-03-2010
+Taarbæk Strandvej 68,Klampenborg,2930,7,184,1854,6000000.0,26-03-2010
+Christiansholms Parkvej 6,Klampenborg,2930,6,231,1903,9450000.0,22-03-2010
+Zicavej 7,Klampenborg,2930,5,144,1935,7200000.0,19-03-2010
+"Skovvej 2, 3",Klampenborg,2930,4,119,1896,4600000.0,17-03-2010
+Taarbækdalsvej 11E,Klampenborg,2930,6,174,1979,7800000.0,15-03-2010
+"Strandvejen 441, ST. TH",Klampenborg,2930,2,133,1936,7500000.0,26-02-2010
+Drachmannsvej 1,Klampenborg,2930,10,216,1929,6250000.0,25-02-2010
+Taarbæk Strandvej 72,Klampenborg,2930,6,77,1880,2850000.0,22-02-2010
+"Taarbæk Strandvej 95, 3. TH",Klampenborg,2930,3,93,1937,4000000.0,19-02-2010
+Christiansholmsvej 12,Klampenborg,2930,6,191,1909,7925000.0,06-02-2010
+Strandvejen 415D,Klampenborg,2930,6,180,1961,6900000.0,05-02-2010
+Emiliekildevej 7,Klampenborg,2930,8,194,1895,9500000.0,24-01-2010
+Emiliekildevej 19,Klampenborg,2930,8,239,1922,8700000.0,22-01-2010
+"Taarbæk Strandvej 65C, ST. TV",Klampenborg,2930,4,115,1939,5000000.0,14-01-2010
+Christiansholmsvej 32,Klampenborg,2930,7,257,1933,7600000.0,07-01-2010
+Hvidørevej 81,Klampenborg,2930,5,148,1946,752000.0,31-12-2009
+Klampenborgvej 29,Klampenborg,2930,6,184,2014,3700000.0,23-12-2009
+Frølichsvej 5,Klampenborg,2930,7,203,1979,6825000.0,21-12-2009
+Emiliekildevej 3,Klampenborg,2930,5,337,1926,9000000.0,09-12-2009
+Christiansholm Slot 3,Klampenborg,2930,4,199,1947,6100000.0,08-12-2009
+Christiansholms Parkvej 18,Klampenborg,2930,7,184,1903,6725000.0,27-11-2009
+Emiliekildevej 29,Klampenborg,2930,10,225,1923,6995000.0,25-11-2009
+"Dyrehavevej 38, 1",Klampenborg,2930,5,271,1917,5500000.0,16-11-2009
+Dyrehavevej 41,Klampenborg,2930,8,249,1929,6300000.0,13-11-2009
+Strandvejen 310,Klampenborg,2930,8,256,1957,10350000.0,11-11-2009
+Frølichsvej 10,Klampenborg,2930,4,148,1939,6100000.0,10-11-2009
+Christiansholms Tværvej 7,Klampenborg,2930,9,273,1903,10500000.0,25-09-2009
+"Strandvejen 417D, 1. TH",Klampenborg,2930,5,129,1959,6500000.0,21-09-2009
+Damgårdsvej 41,Klampenborg,2930,6,165,1936,5300000.0,14-09-2009
+Strandvejen 628,Klampenborg,2930,5,247,2012,15000000.0,10-09-2009
+"Strandvejen 427, 2. TH",Klampenborg,2930,3,103,1933,3110000.0,25-08-2009
+Hvidørevej 47,Klampenborg,2930,6,160,2005,6310000.0,17-08-2009
+Strandvejen 705,Klampenborg,2930,6,266,1920,7700000.0,15-08-2009
+"Strandvejen 614, ST",Klampenborg,2930,5,134,1935,3300000.0,21-07-2009
+Hurdlevej 8,Klampenborg,2930,5,171,1986,4000000.0,14-07-2009
+Rosavej 8A,Klampenborg,2930,5,184,1987,7250000.0,30-06-2009
+Vitus Berings Alle 18,Klampenborg,2930,9,310,1903,4975000.0,26-06-2009
+Exnersvej 33,Klampenborg,2930,6,173,1930,7500000.0,22-06-2009
+Krøyersvej 20,Klampenborg,2930,6,164,1928,5400000.0,25-05-2009
+Christiansholms Parkvej 10,Klampenborg,2930,9,333,1903,11500000.0,25-05-2009
+"Strandvejen 431, ST. TV",Klampenborg,2930,4,119,1933,3340000.0,25-05-2009
+"Taarbækdalsvej 1D, 1",Klampenborg,2930,5,165,1896,4800000.0,14-05-2009
+"Skovvej 4, 2. TH",Klampenborg,2930,2,66,1896,1800000.0,12-05-2009
+Zicavej 17,Klampenborg,2930,5,203,1962,18250000.0,08-04-2009
+"Edelslundsvej 1A, 3. TH",Klampenborg,2930,3,85,1937,3450000.0,02-04-2009
+Damgårdsvej 44,Klampenborg,2930,6,163,1934,8100000.0,30-03-2009
+Sølystparken 22,Klampenborg,2930,6,233,1937,17900000.0,03-03-2009
+Taarbæk Strandvej 55B,Klampenborg,2930,4,138,1971,4500000.0,18-02-2009
+Sølystparken 21,Klampenborg,2930,8,194,1943,5250000.0,05-02-2009
+Strandvejen 361,Klampenborg,2930,6,198,1896,8500000.0,29-01-2009
+Rosavej 22,Klampenborg,2930,6,234,1969,11500000.0,28-01-2009
+Damgårdsvej 11,Klampenborg,2930,8,232,1930,9000000.0,26-01-2009
+Dyrehavevej 47,Klampenborg,2930,6,245,1957,5200000.0,26-01-2009
+Skovvej 16,Klampenborg,2930,12,489,1850,5550000.0,05-01-2009
+Strandvejen 290A,Klampenborg,2930,7,207,1850,9775000.0,22-12-2008
+Christiansholms Tværvej 11,Klampenborg,2930,6,175,1903,9800000.0,05-12-2008
+Drachmannsvej 10,Klampenborg,2930,6,225,2010,6555000.0,26-10-2008
+"Strandvejen 417A, 1. TV",Klampenborg,2930,5,125,1959,5500000.0,24-10-2008
+Taarbæk Strandvej 112,Klampenborg,2930,7,150,1924,13500000.0,22-10-2008
+"Strandvejen 717, 1",Klampenborg,2930,4,119,1859,3850000.0,23-09-2008
+"Strandvejen 437, ST. TH",Klampenborg,2930,2,134,1936,6500000.0,10-09-2008
+Sommervej 4,Klampenborg,2930,6,110,1827,3300000.0,10-09-2008
+Schimmelmannsvej 19,Klampenborg,2930,4,134,1932,7800000.0,03-09-2008
+Vitus Berings Alle 14,Klampenborg,2930,8,251,1903,11125000.0,11-08-2008
+Exnersvej 30,Klampenborg,2930,7,263,1927,16400000.0,21-07-2008
+Strandvejen 697B,Klampenborg,2930,4,120,1959,3900000.0,11-07-2008
+"Taarbækdalsvej 1B, 3. TV",Klampenborg,2930,4,99,1937,5000000.0,09-07-2008
+Taarbæk Strandvej 138,Klampenborg,2930,7,297,1870,40000000.0,20-06-2008
+Taarbæk Strandvej 105C,Klampenborg,2930,4,110,1963,6500000.0,11-06-2008
+"Taarbæk Strandvej 36B, ST. TV",Klampenborg,2930,2,46,1877,2050000.0,28-05-2008
+Strandvejen 691,Klampenborg,2930,8,199,1877,7200000.0,21-05-2008
+Rosavej 14,Klampenborg,2930,6,172,1956,9500000.0,19-05-2008
+Hvidørevej 38,Klampenborg,2930,6,248,2009,6842902.0,18-05-2008
+Taarbæk Strandvej 124,Klampenborg,2930,8,358,1938,35000000.0,15-05-2008
+"Strandvejen 417B, 1. TH",Klampenborg,2930,4,113,1959,5500000.0,05-05-2008
+"Skovvej 6, ST. TH",Klampenborg,2930,3,96,1896,2478638.0,05-05-2008
+"Christiansholms Parallelvej 7, 1",Klampenborg,2930,4,138,1903,5350000.0,28-04-2008
+Rosavej 5,Klampenborg,2930,6,210,1936,12750000.0,01-03-2008
+Christiansholmsvej 23,Klampenborg,2930,6,191,1928,7250000.0,27-01-2008
+Strandvejen 288A,Klampenborg,2930,8,111,1899,2805000.0,31-12-2007
+Taarbæk Strandvej 119,Klampenborg,2930,3,101,1932,1134000.0,24-12-2007
+Christiansholms Parkvej 8,Klampenborg,2930,8,240,1903,10350.0,19-12-2007
+Bostamose Vestre Stræde 9,Klampenborg,2930,4,150,1855,1850000.0,30-11-2007
+Strandvejen 617,Klampenborg,2930,5,180,1936,6100000.0,24-11-2007
+Strandvejen 646,Klampenborg,2930,9,291,1902,3060000.0,22-11-2007
+Krøyersvej 11,Klampenborg,2930,4,117,1935,6000000.0,20-11-2007
+Strandvejen 725,Klampenborg,2930,5,162,1968,9200000.0,17-11-2007
+Christiansholmsvej 42,Klampenborg,2930,3,148,1981,4700000.0,08-10-2007
+"Taarbæk Strandvej 65A, 1. TV",Klampenborg,2930,4,120,1939,3400000.0,18-09-2007
+Strandvejen 357,Klampenborg,2930,6,124,1957,11000000.0,10-09-2007
+"Taarbækdalsvej 1C, 1. 2",Klampenborg,2930,2,61,1937,2300000.0,27-08-2007
+Krøyersvej 2,Klampenborg,2930,6,151,1926,8300000.0,23-08-2007
+Emiliekildevej 17C,Klampenborg,2930,8,294,1885,8200000.0,30-07-2007
+Strandvejen 709D,Klampenborg,2930,3,118,1770,4500000.0,10-07-2007
+Strandvejen 300A,Klampenborg,2930,7,227,1877,17750000.0,28-06-2007
+Dyrehavevej 28,Klampenborg,2930,5,169,1935,8300000.0,17-06-2007
+Bloksbjerget 3,Klampenborg,2930,7,191,1938,12000000.0,22-05-2007
+Taarbæk Strandvej 103D,Klampenborg,2930,6,166,1887,4888000.0,20-05-2007
+"Strandvejen 419, 1. TH",Klampenborg,2930,2,67,1933,2950000.0,24-04-2007
+Vitus Berings Alle 16,Klampenborg,2930,9,328,1903,16900000.0,18-04-2007
+Strandvejen 721,Klampenborg,2930,6,172,1900,6750000.0,17-04-2007
+"Dyrehavsbakken 51, KL. 4",Klampenborg,2930,3,49,1920,3000000.0,16-04-2007
+Strandvejen 618,Klampenborg,2930,6,173,1934,5600000.0,04-04-2007
+Strandvejen 399A,Klampenborg,2930,10,380,1884,28000000.0,18-03-2007
+"Taarbæk Strandvej 36B, 2. TV",Klampenborg,2930,2,45,1877,1695000.0,06-02-2007
+Christiansholms Parkvej 12,Klampenborg,2930,7,208,1903,11600000.0,19-01-2007
+Taarbæk Strandvej 53A,Klampenborg,2930,4,164,1970,9150000.0,16-12-2006
+"Taarbækdalsvej 1B, 1. MF",Klampenborg,2930,3,83,1937,3070000.0,13-12-2006
+Zicavej 5,Klampenborg,2930,8,186,1954,10120000.0,23-11-2006
+"Taarbæk Strandvej 59F, ST",Klampenborg,2930,2,99,1929,4500000.0,22-11-2006
+Strandvejen 302A,Klampenborg,2930,3,121,1974,9500000.0,13-11-2006
+Emiliekildevej 71,Klampenborg,2930,6,191,1930,4862500.0,05-09-2006
+Damgårdsvej 40,Klampenborg,2930,9,206,1938,8000000.0,14-08-2006
+"Strandvejen 427, 1. TH",Klampenborg,2930,3,103,1933,5375000.0,11-08-2006
+Bloksbjerget 17,Klampenborg,2930,8,266,1932,14200000.0,25-07-2006
+Rosavej 30,Klampenborg,2930,10,282,1989,15091000.0,24-07-2006
+Sommervej 1,Klampenborg,2930,5,130,1897,3617688.0,26-06-2006
+"Dyrehavevej 19, ST. TH",Klampenborg,2930,4,109,1989,4350000.0,21-06-2006
+"Taarbækdalsvej 7B, ST",Klampenborg,2930,3,146,1877,8500000.0,20-06-2006
+Strandvejen 314A,Klampenborg,2930,7,116,1892,8000000.0,16-06-2006
+Emiliekildevej 36,Klampenborg,2930,6,163,1934,12600000.0,15-06-2006
+"Skovvej 2, 1. TH",Klampenborg,2930,4,119,1896,4775000.0,14-06-2006
+"Edelslundsvej 5, 2. TH",Klampenborg,2930,3,88,1911,4475000.0,09-06-2006
+Borgmester Jørgensens Vej 5,Klampenborg,2930,6,159,1971,7995000.0,31-05-2006
+Strandvejen 651B,Klampenborg,2930,5,215,1865,6500000.0,30-05-2006
+Slotsalleen 17,Klampenborg,2930,8,308,1954,5355000.0,29-05-2006
+Hurdlevej 10,Klampenborg,2930,4,170,1986,7325000.0,15-05-2006
+Klampenborgvej 10A,Klampenborg,2930,5,165,1946,3750000.0,14-05-2006
+Vermehrensvej 11,Klampenborg,2930,7,179,1949,8950000.0,10-04-2006
+Dalsgaardsvej 4,Klampenborg,2930,7,195,1968,7750000.0,10-04-2006
+Bostamose Vestre Stræde 3,Klampenborg,2930,4,177,1985,8400000.0,30-03-2006
+Skovvej 10,Klampenborg,2930,3,101,1982,5900000.0,30-03-2006
+Klampenborgvej 16,Klampenborg,2930,5,167,1934,8050000.0,12-03-2006
+Christiansholmsvej 21,Klampenborg,2930,7,231,1930,8200000.0,10-03-2006
+Taarbæk Strandvej 83,Klampenborg,2930,5,128,1877,6750000.0,09-03-2006
+Exnersvej 4,Klampenborg,2930,5,120,1928,7400000.0,15-02-2006
+Emiliekildevej 49,Klampenborg,2930,7,278,1956,8250000.0,13-02-2006
+"Strandvejen 439, ST. TH",Klampenborg,2930,3,173,1936,8000000.0,09-02-2006
+Rosavej 2,Klampenborg,2930,8,300,1928,5700000.0,28-01-2006
+Strandvejen 322A,Klampenborg,2930,4,186,1907,12250000.0,24-01-2006
+Taarbæk Strandvej 53B,Klampenborg,2930,6,164,1970,8000000.0,17-01-2006
+"Strandvejen 431, 1. TV",Klampenborg,2930,3,125,1933,5980000.0,15-01-2006
+Taarbæk Strandvej 42D,Klampenborg,2930,6,271,2013,4000000.0,13-01-2006
+Edelslundsvej 6,Klampenborg,2930,7,182,1870,8800000.0,30-12-2005
+Hvidørevej 16,Klampenborg,2930,8,157,1958,4725000.0,20-12-2005
+Christiansholms Tværvej 14,Klampenborg,2930,8,222,1948,9600000.0,20-12-2005
+Bloksbjerget 12,Klampenborg,2930,7,284,1935,10000000.0,13-12-2005
+Trepilevej 3,Klampenborg,2930,7,271,1914,9700000.0,12-12-2005
+Strandvejen 415A,Klampenborg,2930,5,180,1961,8425000.0,12-12-2005
+Dyrehavevej 27,Klampenborg,2930,12,265,1902,7200000.0,12-12-2005
+Taarbæk Strandvej 104,Klampenborg,2930,3,85,1827,5500000.0,09-12-2005
+Klampenborgvej 6C,Klampenborg,2930,7,172,1934,4335000.0,28-11-2005
+Hvidørevej 71,Klampenborg,2930,9,253,1953,8950000.0,28-11-2005
+Vitus Berings Alle 8,Klampenborg,2930,8,257,1903,9850000.0,24-11-2005
+Dyrehavevej 24,Klampenborg,2930,5,201,1938,6760000.0,21-11-2005
+Taarbæk Strandvej 105P,Klampenborg,2930,6,144,1963,6350000.0,09-11-2005
+"Strandvejen 417C, 3",Klampenborg,2930,6,148,1959,7650000.0,09-11-2005
+Damgårdsvej 15,Klampenborg,2930,7,356,1985,13000000.0,03-11-2005
+Klampenborgvej 10G,Klampenborg,2930,5,121,1978,5350000.0,18-10-2005
+Christiansholmsvej 38,Klampenborg,2930,7,307,1948,8500000.0,18-10-2005
+Damgårdsvej 20,Klampenborg,2930,8,307,1934,1520000.0,17-10-2005
+Hvidørevej 65,Klampenborg,2930,7,219,1934,9200000.0,19-09-2005
+Klampenborgvej 22,Klampenborg,2930,6,192,1931,7595000.0,06-09-2005
+Dyrehavevej 18,Klampenborg,2930,5,141,1935,4800000.0,02-09-2005
+Emiliekildevej 15B,Klampenborg,2930,4,133,1990,4950000.0,16-08-2005
+Exnersvej 43,Klampenborg,2930,6,172,1932,6750000.0,08-08-2005
+"Taarbæk Strandvej 65C, 3. TH",Klampenborg,2930,4,120,1939,2295000.0,05-08-2005
+"Bellevuevej 7, ST. TV",Klampenborg,2930,3,120,1933,3295000.0,02-08-2005
+Hvidørevej 50,Klampenborg,2930,7,173,1934,8300000.0,29-07-2005
+Vitus Berings Alle 15B,Klampenborg,2930,7,236,1917,6400000.0,22-07-2005
+Fabritius Alle 5,Klampenborg,2930,7,186,1969,8000000.0,22-07-2005
+Taarbæk Strandvej 103L,Klampenborg,2930,4,121,1970,4995000.0,12-07-2005
+Strandvejen 743A,Klampenborg,2930,3,94,1988,3825000.0,12-07-2005
+Taarbæk Strandvej 67,Klampenborg,2930,6,175,1863,6700000.0,12-07-2005
+Rosavej 4,Klampenborg,2930,11,350,1928,16000000.0,01-07-2005
+Bellevuekrogen 10,Klampenborg,2930,4,128,1950,5495000.0,23-06-2005
+"Taarbæk Strandvej 103A, 1",Klampenborg,2930,3,97,1906,3300000.0,20-06-2005
+Fabritius Alle 14,Klampenborg,2930,8,233,1928,4500000.0,20-06-2005
+Emiliekildevej 15D,Klampenborg,2930,5,174,1956,5550000.0,22-05-2005
+Taarbæk Strandvej 26,Klampenborg,2930,6,170,1933,5865000.0,18-05-2005
+Dyrehavevej 65,Klampenborg,2930,6,231,1987,5300000.0,11-05-2005
+Fabritius Alle 12B,Klampenborg,2930,10,269,1924,8500000.0,06-05-2005
+Emiliekildevej 25,Klampenborg,2930,5,116,1928,6675000.0,05-05-2005
+"Taarbæk Strandvej 118, ST",Klampenborg,2930,5,292,2011,3000000.0,26-04-2005
+Strandvejen 413,Klampenborg,2930,7,131,1951,11000000.0,08-04-2005
+"Strandvejen 417A, ST. TH",Klampenborg,2930,4,120,1959,3500000.0,08-04-2005
+"Taarbæk Strandvej 65B, 2. TV",Klampenborg,2930,4,115,1939,4500000.0,06-04-2005
+Taarbæk Strandvej 57,Klampenborg,2930,6,217,1852,3570000.0,18-03-2005
+Emiliekildevej 9,Klampenborg,2930,5,115,1931,1650000.0,14-03-2005
+Dyrehavsbakken 63,Klampenborg,2930,3,21,1902,1595000.0,10-03-2005
+Hvidørevej 14B,Klampenborg,2930,4,132,1956,4900000.0,27-02-2005
+Christiansholm Slot 2,Klampenborg,2930,6,407,2011,500000.0,21-02-2005
+Emiliekildevej 41,Klampenborg,2930,5,136,1953,4800000.0,15-02-2005
+"Skovvej 6, ST. TV",Klampenborg,2930,3,97,1896,2560000.0,11-02-2005
+Strandvejen 709C,Klampenborg,2930,6,157,1770,3600000.0,10-01-2005
+Schimmelmanns Have 7,Klampenborg,2930,5,215,1973,2750000.0,03-01-2005
+"Bellevuevej 1, ST. TH",Klampenborg,2930,3,97,1933,3400000.0,02-01-2005
+Emiliekildevej 37,Klampenborg,2930,4,242,1966,4450000.0,29-12-2004
+"Strandvejen 433, 1. TV",Klampenborg,2930,3,111,1933,3050000.0,27-12-2004
+"Strandvejen 421, ST. TV",Klampenborg,2930,2,65,1933,20000000.0,16-12-2004
+"Taarbækdalsvej 1C, ST. 4",Klampenborg,2930,1,46,1937,1085000.0,07-12-2004
+"Lorentzensvej 5, 1. TH",Klampenborg,2930,2,47,1890,1085000.0,04-12-2004
+Klampenborgvej 15B,Klampenborg,2930,5,174,1968,4425000.0,28-11-2004
+Hvidørevej 53,Klampenborg,2930,7,171,1952,4500000.0,18-11-2004
+"Strandvejen 419, 2. TH",Klampenborg,2930,2,67,1933,2080000.0,17-11-2004
+Hvidørevej 36,Klampenborg,2930,6,167,1927,4500000.0,11-11-2004
+"Strandvejen 419, ST. TV",Klampenborg,2930,2,65,1933,2000000.0,11-11-2004
+Taarbæk Strandvej 71,Klampenborg,2930,5,142,1933,3200000.0,11-11-2004
+Christiansholmsvej 17,Klampenborg,2930,7,200,1960,4945000.0,28-10-2004
+Dyrehavevej 44,Klampenborg,2930,7,214,1919,7200000.0,09-09-2004
+Fabritius Alle 16,Klampenborg,2930,7,173,1928,5300000.0,27-08-2004
+Taarbæk Strandvej 134,Klampenborg,2930,8,243,1891,12500000.0,26-08-2004
+Emiliekildevej 11,Klampenborg,2930,5,154,1857,2190000.0,10-07-2004
+Strandvejen 415E,Klampenborg,2930,5,180,1961,5400000.0,04-07-2004
+Bostamose Vestre Stræde 7,Klampenborg,2930,6,170,1902,4310000.0,29-06-2004
+"Bellevuevej 7, 2. TH",Klampenborg,2930,2,60,1933,1995000.0,25-06-2004
+Strandvejen 355,Klampenborg,2930,4,105,1927,3850000.0,24-06-2004
+Vitus Berings Alle 3,Klampenborg,2930,6,229,1918,4950000.0,18-05-2004
+Dyrehavevej 33,Klampenborg,2930,10,232,1902,4925000.0,05-05-2004
+"Strandvejen 427, 2. TV",Klampenborg,2930,4,109,1933,3275000.0,26-04-2004
+Bellevuekrogen 1,Klampenborg,2930,3,122,1953,5075000.0,22-04-2004
+"Strandvejen 417D, 2. TH",Klampenborg,2930,5,130,1959,4300000.0,19-04-2004
+Sølystparken 15,Klampenborg,2930,3,148,1986,6500000.0,18-04-2004
+Hvidørevej 33,Klampenborg,2930,5,148,1923,4420000.0,16-04-2004
+Taarbæk Strandvej 46,Klampenborg,2930,9,192,1847,6000000.0,06-04-2004
+Zicavej 16,Klampenborg,2930,4,158,1961,3400000.0,05-04-2004
+Exnersvej 25,Klampenborg,2930,5,119,1926,4650000.0,01-04-2004
+Krøyersvej 27,Klampenborg,2930,6,145,1933,6700000.0,25-03-2004
+Schimmelmannsvej 4A,Klampenborg,2930,7,185,1930,6000000.0,20-03-2004
+Strandvejen 308B,Klampenborg,2930,5,179,1958,4250000.0,14-03-2004
+Dalsgaardsvej 9,Klampenborg,2930,5,188,1970,4850000.0,02-03-2004
+Christiansholmsvej 33,Klampenborg,2930,4,178,1927,4250000.0,01-03-2004
+"Taarbæk Strandvej 65A, 3. TH",Klampenborg,2930,4,115,1939,3500000.0,25-02-2004
+Søvej 11,Klampenborg,2930,4,87,1910,1600000.0,23-02-2004
+Klampenborgvej 12A,Klampenborg,2930,6,208,1960,4150000.0,20-02-2004
+Dyrehavevej 34,Klampenborg,2930,7,277,1926,4660000.0,20-02-2004
+"Lorentzensvej 7, 1",Klampenborg,2930,3,87,1890,1225000.0,30-01-2004
+Taarbæk Strandvej 136,Klampenborg,2930,9,257,1930,9500000.0,08-12-2003
+"Taarbæk Strandvej 65B, 3. TV",Klampenborg,2930,4,115,1939,2125000.0,08-12-2003
+Klampenborgvej 37,Klampenborg,2930,11,464,1932,12200000.0,30-11-2003
+"Strandvejen 425, 1. TH",Klampenborg,2930,3,102,1933,2550000.0,26-11-2003
+Strandvejen 610,Klampenborg,2930,6,206,1922,4250000.0,21-11-2003
+Vermehrensvej 5,Klampenborg,2930,9,305,1937,6300000.0,13-11-2003
+Hvidørevej 30A,Klampenborg,2930,5,217,1948,4700000.0,29-10-2003
+Krøyersvej 22C,Klampenborg,2930,6,181,1939,4200000.0,20-10-2003
+Klampenborgvej 5,Klampenborg,2930,5,118,1928,3500000.0,07-10-2003
+Klampenborgvej 10F,Klampenborg,2930,5,121,1978,3450000.0,06-10-2003
+Klampenborgvej 27,Klampenborg,2930,5,207,1934,3775000.0,28-09-2003
+Strandvejen 405,Klampenborg,2930,8,327,1946,6650000.0,26-09-2003
+"Taarbæk Strandvej 76, 2. TH",Klampenborg,2930,4,119,1895,3100000.0,22-09-2003
+Damgårdsvej 37,Klampenborg,2930,10,289,1936,5975000.0,16-09-2003
+"Strandvejen 439, 1. TV",Klampenborg,2930,5,206,1936,6500000.0,16-09-2003
+Taarbæk Strandvej 62,Klampenborg,2930,4,102,1889,2600000.0,07-09-2003
+Taarbæk Strandvej 103F,Klampenborg,2930,3,121,1970,3300000.0,03-09-2003
+Strandvejen 375,Klampenborg,2930,8,222,1931,200000.0,28-08-2003
+Strandvejen 695,Klampenborg,2930,8,210,1875,4500000.0,01-08-2003
+Christiansholms Parallelvej 13,Klampenborg,2930,6,219,1903,5500000.0,24-07-2003
+Schimmelmannsvej 15B,Klampenborg,2930,5,159,1989,4100000.0,09-06-2003
+Damgårdsvej 13,Klampenborg,2930,6,180,1933,691805.0,07-05-2003
+Strandvejen 715,Klampenborg,2930,5,150,1929,3050000.0,10-04-2003
+Kongehøjen 10,Klampenborg,2930,5,374,1931,10900000.0,27-03-2003
+Strandvejen 661,Klampenborg,2930,6,175,1908,3375000.0,17-03-2003
+Zicavej 14,Klampenborg,2930,6,175,1962,3995000.0,27-02-2003
+Strandvejen 409,Klampenborg,2930,5,204,1950,5230000.0,26-02-2003
+Christiansholms Parallelvej 1,Klampenborg,2930,11,267,1903,5900000.0,21-02-2003
+Sølystvej 8,Klampenborg,2930,7,173,1924,4550000.0,07-02-2003
+Emiliekildevej 24,Klampenborg,2930,7,233,1934,4750000.0,27-01-2003
+"Strandvejen 441, ST. TV",Klampenborg,2930,3,174,1936,3500000.0,27-01-2003
+Emiliekildevej 44,Klampenborg,2930,6,187,1935,4750000.0,02-01-2003
+Taarbæk Strandvej 103H,Klampenborg,2930,3,127,1970,2900000.0,31-12-2002
+"Christiansholms Parallelvej 9, 1",Klampenborg,2930,3,96,1903,2275000.0,20-12-2002
+Taarbæk Strandvej 34,Klampenborg,2930,8,255,1851,6100000.0,10-12-2002
+Emiliekildevej 67,Klampenborg,2930,7,158,1933,3640450.0,05-12-2002
+Bloksbjerget 9,Klampenborg,2930,10,294,1932,5394290.0,03-12-2002
+"Strandvejen 417F, ST",Klampenborg,2930,2,75,1959,1650000.0,05-11-2002
+Fabritius Alle 15,Klampenborg,2930,5,183,1953,5290000.0,22-10-2002
+Taarbæk Strandvej 105D,Klampenborg,2930,4,110,1963,3150000.0,20-10-2002
+Krøyersvej 22A,Klampenborg,2930,6,146,1926,4100000.0,14-10-2002
+"Strandvejen 425, 2. TH",Klampenborg,2930,3,102,1933,2394999.0,10-10-2002
+"Christiansholms Parallelvej 9, ST",Klampenborg,2930,4,174,1903,3500000.0,02-10-2002
+Rosavej 10B,Klampenborg,2930,8,239,1923,2018750.0,01-10-2002
+Strandvejen 679,Klampenborg,2930,4,145,1877,2300000.0,30-09-2002
+"Lorentzensvej 7, ST",Klampenborg,2930,1,52,1890,925000.0,09-09-2002
+Domusvej 3,Klampenborg,2930,7,225,1870,5300000.0,22-08-2002
+Emiliekildevej 54,Klampenborg,2930,5,195,1935,2677500.0,14-08-2002
+Klampenborgvej 3,Klampenborg,2930,4,116,2013,2300000.0,12-08-2002
+Strandvejen 675B,Klampenborg,2930,5,148,1999,2950000.0,24-07-2002
+Krøyersvej 29,Klampenborg,2930,6,173,1934,1317500.0,14-07-2002
+"Taarbæk Strandvej 59E, ST",Klampenborg,2930,3,81,1929,10000.0,06-07-2002
+"Taarbæk Strandvej 59E, 1",Klampenborg,2930,1,69,1929,10000.0,06-07-2002
+"Edelslundsvej 1A, 2. TV",Klampenborg,2930,3,89,1937,2220000.0,10-06-2002
+Bostamose Vestre Stræde 5,Klampenborg,2930,5,166,1892,3580376.0,10-06-2002
+Sølystvej 6,Klampenborg,2930,5,171,1928,5150000.0,16-05-2002
+Taarbækdalsvej 5,Klampenborg,2930,5,131,1860,2815000.0,06-05-2002
+Christiansholms Tværvej 9,Klampenborg,2930,8,253,1903,5500000.0,15-04-2002
+Exnersvej 24,Klampenborg,2930,4,194,1934,2970000.0,14-04-2002
+Strandvejen 643,Klampenborg,2930,3,85,1974,2200000.0,02-04-2002
+Vitus Berings Alle 22,Klampenborg,2930,9,253,1903,4850000.0,23-03-2002
+Krøyersvej 3,Klampenborg,2930,7,194,1928,4500000.0,25-02-2002
+"Strandvejen 417E, 1",Klampenborg,2930,4,120,1959,3500000.0,18-02-2002
+Taarbæk Parcelvej 2,Klampenborg,2930,4,80,1864,2650000.0,08-02-2002
+Dyrehavsbakken 64,Klampenborg,2930,2,25,1981,150000.0,01-02-2002
+Emiliekildevej 6C,Klampenborg,2930,7,226,1955,4700000.0,22-01-2002
+Strandvejen 332,Klampenborg,2930,12,390,1880,7950000.0,22-12-2001
+"Skovvej 6, 2. TH",Klampenborg,2930,3,98,1896,1350000.0,19-12-2001
+Dyrehavevej 59,Klampenborg,2930,7,267,1935,3655075.0,19-12-2001
+"Strandvejen 421, 2. TH",Klampenborg,2930,4,112,1933,2675000.0,06-12-2001
+"Skovvej 8A, ST",Klampenborg,2930,6,142,1874,2495000.0,06-12-2001
+Bellevuekrogen 24,Klampenborg,2930,5,135,1947,5293750.0,02-12-2001
+"Damgårdsvej 7, 2",Klampenborg,2930,4,81,1890,1646127.0,26-11-2001
+Strandvejen 659,Klampenborg,2930,6,178,1880,2950000.0,25-11-2001
+Christiansholms Parallelvej 6,Klampenborg,2930,6,243,1903,4885000.0,25-11-2001
+Klampenborgvej 36,Klampenborg,2930,6,194,1927,5800000.0,08-11-2001
+Strandvejen 689B,Klampenborg,2930,6,153,1996,1775000.0,28-10-2001
+Slotsalleen 18,Klampenborg,2930,6,222,1950,4950000.0,15-09-2001
+Christiansholms Tværvej 5,Klampenborg,2930,8,212,1903,4900000.0,01-09-2001
+Bloksbjerget 14,Klampenborg,2930,8,235,1951,5499783.0,30-08-2001
+Slotsalleen 3,Klampenborg,2930,6,173,1900,5450000.0,09-08-2001
+"Strandvejen 449, 1. TH",Klampenborg,2930,6,167,1936,4375000.0,06-08-2001
+"Taarbæk Strandvej 65A, ST. TV",Klampenborg,2930,4,120,1939,2450000.0,05-08-2001
+Strandvejen 634,Klampenborg,2930,5,223,1999,6700000.0,12-07-2001
+"Taarbækdalsvej 1C, 1. 3",Klampenborg,2930,2,63,1937,1525000.0,11-07-2001
+Domusvej 1,Klampenborg,2930,5,126,1875,2650000.0,14-06-2001
+Vitus Berings Alle 4,Klampenborg,2930,6,240,1901,4900000.0,14-06-2001
+Drachmannsvej 14A,Klampenborg,2930,6,166,1917,4100000.0,29-05-2001
+Vitus Berings Alle 10,Klampenborg,2930,7,246,1903,6000000.0,12-04-2001
+Klampenborgvej 35B,Klampenborg,2930,5,149,1982,2650000.0,23-03-2001
+Krøyersvej 12,Klampenborg,2930,6,221,1928,3450000.0,14-03-2001
+Damgårdsvej 23,Klampenborg,2930,4,164,1953,3484106.0,12-02-2001
+Christiansholmsvej 50,Klampenborg,2930,6,207,1927,4900000.0,25-01-2001
+Bellevuevej 10,Klampenborg,2930,8,269,1933,616000.0,23-01-2001
+Christiansholms Tværvej 1,Klampenborg,2930,10,289,1903,5395000.0,22-01-2001
+Drachmannsvej 2A,Klampenborg,2930,6,167,1950,3450000.0,21-01-2001
+Taarbæk Strandvej 48B,Klampenborg,2930,3,115,1979,1923350.0,20-01-2001
+Taarbæk Strandvej 140,Klampenborg,2930,6,157,1888,4611600.0,27-12-2000
+Emiliekildevej 51,Klampenborg,2930,5,140,1956,2700000.0,21-12-2000
+Dyrehavsbakken 18,Klampenborg,2930,5,72,1968,4100000.0,19-12-2000
+Emiliekildevej 57,Klampenborg,2930,4,100,1933,2838962.0,15-12-2000
+Christiansholms Tværvej 21,Klampenborg,2930,9,239,1900,5570000.0,13-12-2000
+"Taarbækdalsvej 1C, 3. 2",Klampenborg,2930,2,62,1937,1700000.0,06-12-2000
+Christiansholms Parallelvej 12,Klampenborg,2930,6,188,1903,4300000.0,01-12-2000
+Exnersvej 21,Klampenborg,2930,3,112,1933,2650000.0,30-11-2000
+Vitus Berings Alle 11,Klampenborg,2930,10,313,1919,6545000.0,29-11-2000
+Klampenborgvej 15C,Klampenborg,2930,7,210,1922,3100000.0,27-11-2000
+"Drachmannsvej 6, ST",Klampenborg,2930,3,130,1913,2990800.0,12-10-2000
+"Skovvej 2, 2. TV",Klampenborg,2930,2,68,1896,1251160.0,11-10-2000
+Strandvejen 367,Klampenborg,2930,4,116,1902,2400000.0,18-09-2000
+"Taarbæk Strandvej 36A, ST. TH",Klampenborg,2930,1,35,1877,644000.0,13-09-2000
+"Strandvejen 439, 1. TH",Klampenborg,2930,4,112,1936,4175000.0,18-08-2000
+Drachmannsvej 11,Klampenborg,2930,4,151,1923,1175000.0,17-08-2000
+"Vitus Berings Alle 5A, ST",Klampenborg,2930,6,288,1919,3500000.0,10-07-2000
+Borgmester Jørgensens Vej 12,Klampenborg,2930,6,223,1970,3899577.0,07-07-2000
+Damgårdsvej 42,Klampenborg,2930,6,210,1934,3650000.0,28-06-2000
+"Taarbæk Strandvej 65B, ST. TH",Klampenborg,2930,4,115,1939,2214590.0,15-06-2000
+"Christiansholms Parallelvej 7, 2",Klampenborg,2930,2,82,1903,1653000.0,08-06-2000
+"Strandvejen 431, 2. TH",Klampenborg,2930,3,101,1933,2468228.0,20-05-2000
+"Lorentzensvej 5, 2. TV",Klampenborg,2930,1,56,1890,1017840.0,02-05-2000
+Strandvejen 729,Klampenborg,2930,8,155,1890,1785000.0,17-04-2000
+Christiansholms Parkvej 14,Klampenborg,2930,7,200,1903,4495000.0,17-04-2000
+Christiansholms Tværvej 12,Klampenborg,2930,8,228,1933,4550000.0,14-04-2000
+Strandvejen 387,Klampenborg,2930,7,280,1885,3615000.0,30-03-2000
+Emiliekildevej 6A,Klampenborg,2930,5,194,1955,3000000.0,30-03-2000
+Sommervej 3,Klampenborg,2930,4,79,1897,1550000.0,15-02-2000
+"Skovvej 8A, 1. TV",Klampenborg,2930,3,70,1874,434000.0,01-02-2000
+Bellevuekrogen 14,Klampenborg,2930,3,128,1950,3150000.0,26-01-2000
+Christiansholmsvej 39,Klampenborg,2930,7,326,1930,3849369.0,13-01-2000
+Dalsgaardsvej 15,Klampenborg,2930,5,139,1940,2600000.0,30-12-1999
+Sommervej 5,Klampenborg,2930,3,90,1897,1147500.0,28-12-1999
+Strandvejen 619,Klampenborg,2930,4,120,1877,1544000.0,14-12-1999
+Taarbæk Strandvej 53E,Klampenborg,2930,6,168,1969,4500000.0,13-12-1999
+Skovvej 19,Klampenborg,2930,4,100,1994,2551122.0,21-11-1999
+Klampenborgvej 35A,Klampenborg,2930,5,168,1981,3300000.0,11-11-1999
+Schimmelmannsvej 15A,Klampenborg,2930,6,174,1997,3400000.0,09-11-1999
+Christiansholmsvej 7,Klampenborg,2930,10,353,1934,3145000.0,03-11-1999
+"Strandvejen 417A, ST. TV",Klampenborg,2930,5,126,1959,34000000.0,31-10-1999
+"Strandvejen 417B, 1. TV",Klampenborg,2930,5,125,1959,2650000.0,25-10-1999
+Dyrehavevej 52,Klampenborg,2930,3,80,1919,2261016.0,24-09-1999
+Edelslundsvej 8,Klampenborg,2930,6,154,1877,3250000.0,15-09-1999
+"Strandvejen 417B, 2. TV",Klampenborg,2930,3,124,1959,3450000.0,07-09-1999
+Skovvej 9,Klampenborg,2930,6,229,1912,3176000.0,16-08-1999
+"Damgårdsvej 7, ST",Klampenborg,2930,4,140,1890,2526050.0,11-08-1999
+"Strandvejen 449, 1. TV",Klampenborg,2930,2,67,1936,2000000.0,25-06-1999
+"Taarbækdalsvej 1C, ST. 1",Klampenborg,2930,2,51,1937,767000.0,17-06-1999
+Vitus Berings Alle 5B,Klampenborg,2930,6,284,1919,4210610.0,16-06-1999
+Zicavej 18,Klampenborg,2930,6,194,1970,3958060.0,06-06-1999
+"Strandvejen 417E, 2. 3",Klampenborg,2930,1,37,1959,651000.0,27-05-1999
+"Strandvejen 439, ST. MF",Klampenborg,2930,1,101,1936,2223250.0,27-05-1999
+Trepilevej 5,Klampenborg,2930,8,261,1914,3778000.0,03-05-1999
+Christiansholms Parallelvej 14,Klampenborg,2930,6,214,1903,1050000.0,26-04-1999
+Bloksbjerget 5,Klampenborg,2930,8,201,1933,3636000.0,26-04-1999
+Hvidørevej 18,Klampenborg,2930,7,142,1958,2167500.0,14-04-1999
+Exnersvej 31,Klampenborg,2930,7,197,1943,3792000.0,07-04-1999
+"Taarbæk Strandvej 95, 2. TV",Klampenborg,2930,4,108,1937,1900000.0,06-04-1999
+"Taarbæk Strandvej 36A, ST. TV",Klampenborg,2930,5,145,1877,1975000.0,30-03-1999
+Sølystparken 16,Klampenborg,2930,11,422,1939,7800000.0,27-03-1999
+Bloksbjerget 26,Klampenborg,2930,7,243,1967,4800000.0,20-03-1999
+Taarbæk Strandvej 144,Klampenborg,2930,3,166,1802,2900000.0,10-03-1999
+Hvidørevej 49,Klampenborg,2930,6,180,1934,2295000.0,11-02-1999
+Strandvejen 336,Klampenborg,2930,9,213,1920,6250000.0,08-01-1999
+Strandvejen 689A,Klampenborg,2930,6,153,1996,2807000.0,20-12-1998
+"Strandvejen 417C, ST. TV",Klampenborg,2930,5,126,1959,2277128.0,14-12-1998
+"Strandvejen 417E, 4. TH",Klampenborg,2930,2,74,1959,510000.0,08-12-1998
+Hvidørevej 29,Klampenborg,2930,5,125,1923,2737000.0,06-12-1998
+Christiansholms Parkvej 20,Klampenborg,2930,9,336,1903,5100000.0,22-11-1998
+Strandvejen 681,Klampenborg,2930,6,183,1999,900000.0,02-11-1998
+"Taarbækdalsvej 1B, 2. TH",Klampenborg,2930,2,63,1937,1027000.0,06-10-1998
+Nordlyvej 9,Klampenborg,2930,4,102,1886,5350000.0,01-09-1998
+Lars Carls Vej 4,Klampenborg,2930,9,205,1898,2075000.0,14-07-1998
+"Taarbæk Strandvej 65C, 1. TV",Klampenborg,2930,4,115,1939,2275000.0,21-06-1998
+Taarbæk Strandvej 61,Klampenborg,2930,4,121,1890,288041.0,16-06-1998
+Christiansholms Tværvej 13,Klampenborg,2930,6,213,1903,3000000.0,27-05-1998
+Exnersvej 29,Klampenborg,2930,4,128,1959,2604618.0,23-05-1998
+Eremitagevej 2,Klampenborg,2930,7,195,1915,3257000.0,15-05-1998
+"Strandvejen 417B, 3",Klampenborg,2930,6,148,1959,1000000.0,05-05-1998
+Dyrehavevej 22,Klampenborg,2930,8,264,1936,3280450.0,23-03-1998
+"Taarbæk Strandvej 65A, 1. TH",Klampenborg,2930,4,115,1939,1875000.0,18-03-1998
+Klampenborgvej 28,Klampenborg,2930,5,270,1932,3920000.0,11-03-1998
+"Taarbækdalsvej 1B, ST. TH",Klampenborg,2930,2,63,1937,917221.0,25-02-1998
+Bloksbjerget 1,Klampenborg,2930,7,240,1935,2902640.0,25-02-1998
+Sølystparken 18A,Klampenborg,2930,4,154,1982,2842732.0,28-01-1998
+"Strandvejen 445, ST",Klampenborg,2930,2,71,1900,2700000.0,26-01-1998
+Hvidørevej 60,Klampenborg,2930,8,194,1933,3177000.0,17-12-1997
+Taarbæk Strandvej 47B,Klampenborg,2930,5,160,1998,630000.0,08-12-1997
+Strandvejen 675A,Klampenborg,2930,4,143,1986,2277000.0,05-12-1997
+"Taarbækdalsvej 1B, 1. TH",Klampenborg,2930,2,63,1937,710000.0,17-11-1997
+Klampenborgvej 18B,Klampenborg,2930,6,188,1934,1960000.0,12-11-1997
+Taarbæk Parcelvej 8,Klampenborg,2930,4,137,1800,2052852.0,22-10-1997
+"Strandvejen 429, 1. TV",Klampenborg,2930,5,130,1933,2317800.0,01-09-1997
+"Skovvej 4, 1. TH",Klampenborg,2930,2,66,1896,650000.0,20-08-1997
+Bloksbjerget 7,Klampenborg,2930,9,294,1932,3213000.0,10-08-1997
+Borgmester Jørgensens Vej 8,Klampenborg,2930,5,149,1969,2492000.0,04-08-1997
+Rosavej 20,Klampenborg,2930,4,293,2002,2000000.0,25-07-1997
+Taarbæk Strandvej 105A,Klampenborg,2930,4,116,1963,1800000.0,13-07-1997
+Taarbæk Strandvej 105M,Klampenborg,2930,4,151,1963,1650000.0,23-06-1997
+Bellevuekrogen 2,Klampenborg,2930,4,129,1950,2900000.0,20-06-1997
+"Strandvejen 433, ST",Klampenborg,2930,3,96,1933,1333990.0,29-05-1997
+Strandvejen 377A,Klampenborg,2930,5,240,1880,3550000.0,07-05-1997
+Exnersvej 41,Klampenborg,2930,8,238,1936,2700000.0,03-05-1997
+Strandvejen 616,Klampenborg,2930,6,243,1935,2750000.0,11-04-1997
+Vitus Berings Alle 20,Klampenborg,2930,8,196,1903,2900000.0,10-04-1997
+Fabritius Alle 4,Klampenborg,2930,7,258,1936,3162000.0,07-04-1997
+Emiliekildevej 13B,Klampenborg,2930,5,134,1952,2396000.0,01-04-1997
+"Taarbæk Strandvej 36B, ST. TH",Klampenborg,2930,4,93,1877,520000.0,01-04-1997
+Dyrehavevej 32,Klampenborg,2930,4,155,1936,2130000.0,12-03-1997
+Strandvejen 713,Klampenborg,2930,5,159,1930,1300169.0,09-03-1997
+Exnersvej 23,Klampenborg,2930,4,112,1933,1825000.0,27-02-1997
+Slotsalleen 9,Klampenborg,2930,3,123,1988,4309385.0,26-02-1997
+Strandvejen 288B,Klampenborg,2930,6,190,1880,3200000.0,20-02-1997
+Christiansholmsvej 44,Klampenborg,2930,3,148,1981,1958165.0,19-02-1997
+Emiliekildevej 5,Klampenborg,2930,5,133,1927,2100000.0,16-01-1997
+"Skovvej 6, 1. TV",Klampenborg,2930,4,148,1896,1355000.0,15-01-1997
+Drachmannsvej 16,Klampenborg,2930,4,117,1953,1938000.0,23-12-1996
+Strandvejen 649,Klampenborg,2930,6,224,1875,2500000.0,07-12-1996
+Bloksbjerget 4,Klampenborg,2930,5,116,1932,2021382.0,26-11-1996
+Christiansholmsvej 40,Klampenborg,2930,11,367,1934,4097010.0,18-11-1996
+Frølichsvej 7,Klampenborg,2930,4,85,1949,1627000.0,06-11-1996
+Hvidørevej 75,Klampenborg,2930,6,139,1932,2108000.0,07-10-1996
+Damgårdsvej 17,Klampenborg,2930,5,133,2015,2103400.0,01-10-1996
+Lars Carls Vej 2,Klampenborg,2930,3,142,2004,1175000.0,26-09-1996
+"Strandvejen 421, ST. TH",Klampenborg,2930,4,107,1933,1390000.0,01-09-1996
+"Damgårdsvej 7, 1",Klampenborg,2930,4,126,1890,1500000.0,27-06-1996
+Sølystvej 11,Klampenborg,2930,9,326,1938,862507.0,17-06-1996
+Klampenborgvej 8B,Klampenborg,2930,4,204,1968,2118650.0,20-05-1996
+"Taarbæk Strandvej 59G, 1",Klampenborg,2930,3,96,1935,652755.0,06-05-1996
+Bellevuekrogen 7,Klampenborg,2930,2,105,1954,2333015.0,08-04-1996
+Klampenborgvej 11,Klampenborg,2930,6,189,1956,815000.0,31-03-1996
+Klampenborgvej 10B,Klampenborg,2930,4,121,1978,85000.0,08-03-1996
+Christiansholmsvej 28,Klampenborg,2930,4,146,1937,398846.0,04-03-1996
+Emiliekildevej 28,Klampenborg,2930,2,169,1938,1974000.0,26-02-1996
+Christiansholms Parallelvej 5,Klampenborg,2930,6,240,1903,900000.0,20-02-1996
+Strandvejen 300,Klampenborg,2930,6,152,1958,2495000.0,24-01-1996
+Christiansholmsvej 29,Klampenborg,2930,6,194,1933,1960000.0,21-12-1995
+Emiliekildevej 14,Klampenborg,2930,4,106,1926,1045500.0,08-12-1995
+Taarbæk Strandvej 115,Klampenborg,2930,5,184,1934,1859660.0,30-10-1995
+Strandvejen 638,Klampenborg,2930,12,328,1903,1434375.0,25-10-1995
+Strandvejen 709A,Klampenborg,2930,5,117,1994,173500.0,25-09-1995
+Emiliekildevej 33,Klampenborg,2930,8,326,1969,2106000.0,21-09-1995
+"Skovvej 4, 2. TV",Klampenborg,2930,3,81,1896,842000.0,24-08-1995
+Taarbæk Strandvej 44,Klampenborg,2930,10,282,1984,2650000.0,10-08-1995
+Fabritius Alle 23,Klampenborg,2930,9,233,1903,965200.0,07-08-1995
+Emiliekildevej 59,Klampenborg,2930,4,111,1933,1027000.0,28-07-1995
+Christiansholmsvej 2A,Klampenborg,2930,6,316,1934,2323000.0,27-07-1995
+Bellevuekrogen 26,Klampenborg,2930,4,150,1947,3295822.0,03-07-1995
+Rosavej 28,Klampenborg,2930,6,208,1970,2146200.0,16-06-1995
+"Taarbæk Strandvej 103A, ST",Klampenborg,2930,4,97,1906,990520.0,16-05-1995
+"Lorentzensvej 5, ST",Klampenborg,2930,2,61,1890,670000.0,19-04-1995
+Dyrehavevej 20,Klampenborg,2930,5,141,1935,1220000.0,21-02-1995
+"Strandvejen 417D, 3",Klampenborg,2930,4,148,1959,1000000.0,02-02-1995
+Strandvejen 641,Klampenborg,2930,4,130,1867,739500.0,01-02-1995
+Bellevuekrogen 12,Klampenborg,2930,4,132,1950,1914000.0,31-01-1995
+"Emiliekildevej 26, ST",Klampenborg,2930,4,126,1934,1082000.0,24-01-1995
+Hvidørevej 56,Klampenborg,2930,7,180,1932,2200000.0,06-01-1995
+Dyrehavevej 56,Klampenborg,2930,5,125,1954,1237000.0,31-12-1994
+Bellevuekrogen 8,Klampenborg,2930,5,128,1950,1925160.0,14-12-1994
+Taarbæk Parcelvej 4,Klampenborg,2930,3,118,1852,860000.0,27-11-1994
+Nordre Molevej 3,Klampenborg,2930,4,60,1840,1267000.0,25-11-1994
+"Strandvejen 417C, 1. TV",Klampenborg,2930,5,125,1959,1450000.0,28-10-1994
+"Strandvejen 421, 1. TV",Klampenborg,2930,2,71,1933,842693.0,19-09-1994
+Emiliekildevej 35,Klampenborg,2930,13,554,1926,4440000.0,24-08-1994
+Skovvej 13,Klampenborg,2930,4,100,1994,1449400.0,17-08-1994
+Borgmester Jørgensens Vej 10,Klampenborg,2930,10,240,1970,1958062.0,02-08-1994
+Strandvejen 743B,Klampenborg,2930,3,94,1988,1095000.0,13-07-1994
+Strandvejen 621,Klampenborg,2930,5,141,1805,1383750.0,04-07-1994
+Skovvej 17,Klampenborg,2930,4,100,1994,1446400.0,17-06-1994
+"Taarbæk Strandvej 76, 1. TH",Klampenborg,2930,4,121,1895,865000.0,10-06-1994
+"Strandvejen 423, 1. TH",Klampenborg,2930,3,103,1933,1434500.0,18-05-1994
+Emiliekildevej 63,Klampenborg,2930,4,115,1933,1240000.0,08-05-1994
+Vermehrensvej 6,Klampenborg,2930,10,231,1933,1600000.0,01-04-1994
+Kyhnsvej 9,Klampenborg,2930,4,131,1934,1074000.0,14-03-1994
+Strandvejen 330,Klampenborg,2930,5,215,1881,3575000.0,28-02-1994
+Vermehrensvej 3,Klampenborg,2930,9,248,1936,1690000.0,21-02-1994
+"Taarbæk Strandvej 76, ST. TV",Klampenborg,2930,3,86,1895,720000.0,14-02-1994
+Klampenborgvej 18A,Klampenborg,2930,4,180,1987,2150000.0,06-02-1994
+Exnersvej 15,Klampenborg,2930,8,184,1930,530249.0,25-01-1994
+Vitus Berings Alle 2,Klampenborg,2930,9,288,1908,1800000.0,07-12-1993
+Frølichsvej 6,Klampenborg,2930,6,208,1936,2016812.0,29-11-1993
+Vermehrensvej 7,Klampenborg,2930,7,230,1952,1735000.0,06-11-1993
+Exnersvej 44,Klampenborg,2930,6,264,1930,2050000.0,05-11-1993
+Anchersvej 8,Klampenborg,2930,9,226,1935,1750000.0,29-10-1993
+Kongehøjen 6,Klampenborg,2930,6,221,1931,2200000.0,22-10-1993
+Schimmelmannsvej 9,Klampenborg,2930,6,234,1930,1511888.0,14-10-1993
+"Slotsalleen 8, 1",Klampenborg,2930,4,170,1901,1450000.0,06-10-1993
+Drachmannsvej 4A,Klampenborg,2930,4,175,1983,1655520.0,06-10-1993
+Dalsgaardsvej 3A,Klampenborg,2930,6,140,1949,1520000.0,16-09-1993
+Dyrehavevej 49,Klampenborg,2930,5,197,1907,1375000.0,31-08-1993
+Taarbæk Strandvej 62B,Klampenborg,2930,4,139,1877,1483400.0,15-08-1993
+"Christiansholms Parallelvej 7, ST",Klampenborg,2930,8,175,1903,600000.0,12-08-1993
+Christiansholm Slot 1,Klampenborg,2930,14,757,1746,12600000.0,27-07-1993
+Hvidørevej 30,Klampenborg,2930,7,194,1934,1100000.0,20-06-1993
+Taarbæk Strandvej 117,Klampenborg,2930,4,114,1934,1257017.0,17-06-1993
+Taarbæk Strandvej 105O,Klampenborg,2930,7,153,1963,1350000.0,09-06-1993
+Strandvejen 611A,Klampenborg,2930,8,233,1900,1000000.0,01-06-1993
+Emiliekildevej 43,Klampenborg,2930,6,152,1934,1722054.0,01-06-1993
+"Taarbækdalsvej 1C, ST. 3",Klampenborg,2930,2,63,1937,435000.0,21-05-1993
+"Ole Steffens Vej 5, ST",Klampenborg,2930,5,146,1902,1850000.0,18-05-1993
+Exnersvej 28,Klampenborg,2930,6,183,1923,1500037.0,01-04-1993
+Christiansholmsvej 36,Klampenborg,2930,5,127,1933,517021.0,04-01-1993
+Dyrehavevej 42,Klampenborg,2930,6,260,1920,380000.0,09-12-1992
+"Edelslundsvej 1A, 1. TH",Klampenborg,2930,3,84,1937,570000.0,01-12-1992
+Klampenborgvej 9,Klampenborg,2930,4,116,1927,1289527.0,22-11-1992
+"Strandvejen 677, ST",Klampenborg,2930,3,103,1895,270495.0,04-11-1992
+Klampenborgvej 13,Klampenborg,2930,5,160,1934,750000.0,27-09-1992
+Taarbækdalsvej 13,Klampenborg,2930,7,181,1880,2100000.0,23-08-1992
+Strandvejen 600,Klampenborg,2930,7,194,1890,960000.0,16-08-1992
+Strandvejen 741B,Klampenborg,2930,4,108,1914,725000.0,12-07-1992
+"Emiliekildevej 26, 1",Klampenborg,2930,4,126,1934,975000.0,29-06-1992
+Dalsgaardsvej 8,Klampenborg,2930,7,196,1950,1815000.0,25-06-1992
+Strandvejen 365,Klampenborg,2930,4,67,1896,1695000.0,07-05-1992
+Strandvejen 385,Klampenborg,2930,6,174,1909,2740000.0,04-05-1992
+"Taarbækdalsvej 12, ST",Klampenborg,2930,3,113,1912,822500.0,19-04-1992
+Bellevuekrogen 5,Klampenborg,2930,4,114,1950,1500000.0,25-03-1992
+Exnersvej 5,Klampenborg,2930,5,114,1929,600000.0,29-02-1992
+Klampenborgvej 13B,Klampenborg,2930,5,200,1994,271646.0,20-02-1992
+Klampenborgvej 1B,Klampenborg,2930,4,141,1935,1295900.0,08-01-1992

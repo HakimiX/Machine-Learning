@@ -1,0 +1,634 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Magleåsen 2,Veksø Sjælland,3670,4,130,1910,1495000.0,19-04-2017
+Nordre Sørække 9,Veksø Sjælland,3670,3,86,1923,1305000.0,24-03-2017
+Madam Anes Vej 4,Veksø Sjælland,3670,7,208,1951,2900000.0,15-03-2017
+Lærkevang 19,Veksø Sjælland,3670,4,61,1965,760000.0,12-03-2017
+Veksø Bygade 34,Veksø Sjælland,3670,6,174,1850,1600000.0,07-03-2017
+Skelhøjvej 5,Veksø Sjælland,3670,4,132,1981,4900000.0,09-02-2017
+Skolevangen 3,Veksø Sjælland,3670,4,90,1964,1975000.0,09-02-2017
+Korshøj 226,Veksø Sjælland,3670,7,181,1986,3125000.0,03-02-2017
+Skovvangsvej 11,Veksø Sjælland,3670,4,121,1965,3099000.0,24-01-2017
+Brøndsted 215,Veksø Sjælland,3670,4,124,1989,1196907.0,05-01-2017
+Kelsted 309,Veksø Sjælland,3670,4,122,1983,2770000.0,14-11-2016
+Tjørnevang 5,Veksø Sjælland,3670,5,203,2009,2850000.0,25-10-2016
+Store Valbyvej 273,Veksø Sjælland,3670,8,249,1900,3500000.0,04-10-2016
+Kelsted 301,Veksø Sjælland,3670,6,153,1982,3600000.0,23-09-2016
+Katholm 325,Veksø Sjælland,3670,5,157,1979,2965000.0,20-09-2016
+Tjørnevang 4,Veksø Sjælland,3670,3,43,1963,700000.0,20-09-2016
+Skibsted 312,Veksø Sjælland,3670,4,113,1983,2495000.0,20-09-2016
+Brunhøjvej 4,Veksø Sjælland,3670,4,130,1986,2175000.0,19-09-2016
+Kresten Smed Stræde 6,Veksø Sjælland,3670,8,180,1969,720000.0,18-09-2016
+Egevang 5,Veksø Sjælland,3670,6,134,1965,350000.0,06-09-2016
+Korshøj 108,Veksø Sjælland,3670,6,176,1987,3825000.0,15-08-2016
+Skibsted 220,Veksø Sjælland,3670,5,145,1981,3675000.0,29-07-2016
+Løjesøvej 12,Veksø Sjælland,3670,5,147,1960,2300000.0,28-07-2016
+Kastanievang 5,Veksø Sjælland,3670,4,77,1970,767000.0,30-06-2016
+Byrgesens Vænge 5,Veksø Sjælland,3670,4,123,2007,3090000.0,28-06-2016
+Brøndsted 139,Veksø Sjælland,3670,4,96,1989,2295000.0,28-06-2016
+Skovvangsvej 28B,Veksø Sjælland,3670,3,104,1967,2695000.0,17-06-2016
+Hyldevang 3,Veksø Sjælland,3670,3,83,1965,1100000.0,16-06-2016
+Søsumvej 109,Veksø Sjælland,3670,3,102,2002,2037500.0,03-06-2016
+Lillevangsvej 8,Veksø Sjælland,3670,13,472,1884,5486250.0,31-05-2016
+Skibsted 212,Veksø Sjælland,3670,4,113,1982,445000.0,24-05-2016
+Rønnevang 2,Veksø Sjælland,3670,2,33,1978,225367.0,03-05-2016
+Kelsted 227,Veksø Sjælland,3670,4,123,1984,2795000.0,29-04-2016
+Katholm 318,Veksø Sjælland,3670,6,140,1980,3160000.0,05-04-2016
+Tranemosen 3,Veksø Sjælland,3670,2,28,1977,795000.0,22-03-2016
+Hesselholm 106,Veksø Sjælland,3670,5,141,1979,1219875.0,11-03-2016
+Damvadvej 34,Veksø Sjælland,3670,4,110,1965,2675000.0,02-03-2016
+Østersø 15,Veksø Sjælland,3670,8,248,1937,5575000.0,23-02-2016
+Brøndsted 137,Veksø Sjælland,3670,3,90,1989,1965000.0,22-02-2016
+Skovvangsvej 25,Veksø Sjælland,3670,4,114,1894,810000.0,01-02-2016
+Kelsted 107,Veksø Sjælland,3670,4,127,1986,2432000.0,27-01-2016
+Brøndsted 213,Veksø Sjælland,3670,6,175,1986,3920000.0,22-01-2016
+Søsumvej 123,Veksø Sjælland,3670,2,115,2002,2290000.0,18-01-2016
+Birkevang 13,Veksø Sjælland,3670,2,100,2017,375000.0,14-01-2016
+Katholm 107,Veksø Sjælland,3670,4,131,1980,2560000.0,07-01-2016
+Korshøj 210,Veksø Sjælland,3670,4,127,1986,2500000.0,06-01-2016
+Brøndsted 301,Veksø Sjælland,3670,5,134,1990,2825000.0,30-12-2015
+Tjørnevang 1,Veksø Sjælland,3670,4,122,2005,2100000.0,17-12-2015
+Brøndsted 155,Veksø Sjælland,3670,4,102,1989,1960000.0,01-12-2015
+Kelsted 125,Veksø Sjælland,3670,4,127,1986,2380000.0,27-11-2015
+Humlebakken 16,Veksø Sjælland,3670,6,167,1902,3800000.0,10-11-2015
+Skovvangsvej 39,Veksø Sjælland,3670,4,91,1960,1510000.0,03-11-2015
+Poppelvang 7,Veksø Sjælland,3670,3,99,1973,1375000.0,21-10-2015
+Agervej 7,Veksø Sjælland,3670,4,128,1964,2500000.0,12-10-2015
+Stenpilstræde 7,Veksø Sjælland,3670,4,145,1900,1900000.0,29-09-2015
+Møllestræde 1,Veksø Sjælland,3670,7,180,1777,3615000.0,21-09-2015
+Søsum Bygade 27,Veksø Sjælland,3670,9,192,1917,3375000.0,20-09-2015
+Løjesøvej 17,Veksø Sjælland,3670,5,187,1956,1315005.0,08-09-2015
+Korshøj 204,Veksø Sjælland,3670,4,162,1986,2500000.0,01-09-2015
+Veksø Bygade 2,Veksø Sjælland,3670,3,98,1961,859445.0,19-08-2015
+Kirkebakken 24,Veksø Sjælland,3670,4,183,1981,2885000.0,06-08-2015
+Kresten Smed Stræde 3,Veksø Sjælland,3670,5,122,1845,1795000.0,30-07-2015
+Hesselholm 207,Veksø Sjælland,3670,5,140,1982,2850000.0,27-07-2015
+Katholm 112,Veksø Sjælland,3670,4,131,1980,2475000.0,24-07-2015
+Veksø Bygade 18,Veksø Sjælland,3670,3,108,1877,2110000.0,24-07-2015
+Thorkildgårdsvej 11,Veksø Sjælland,3670,2,90,1800,625000.0,13-07-2015
+Søsum Bygade 14,Veksø Sjælland,3670,3,72,1963,1450000.0,08-07-2015
+Søsumvej 93,Veksø Sjælland,3670,2,95,2002,1775000.0,07-07-2015
+Kildevej 2,Veksø Sjælland,3670,5,131,1985,1116977.0,07-07-2015
+Nordre Sørække 17,Veksø Sjælland,3670,4,144,2017,1650000.0,29-06-2015
+Brøndsted 421,Veksø Sjælland,3670,4,124,1988,1380000.0,15-06-2015
+Katholm 313,Veksø Sjælland,3670,5,158,1979,2325000.0,29-05-2015
+Søsumvej 107,Veksø Sjælland,3670,3,124,2002,2495000.0,26-05-2015
+Brøndsted 416,Veksø Sjælland,3670,4,94,1992,1850000.0,15-05-2015
+Søsumvej 105,Veksø Sjælland,3670,3,103,2002,2150000.0,04-05-2015
+Løjesøvej 7,Veksø Sjælland,3670,6,150,1877,2900000.0,03-05-2015
+Birkevang 23,Veksø Sjælland,3670,3,70,1965,720000.0,23-04-2015
+Bjellekjærvej 16,Veksø Sjælland,3670,11,397,1977,740000.0,21-04-2015
+Brøndsted 127,Veksø Sjælland,3670,3,87,1989,1950000.0,18-04-2015
+Lille Veksøvej 3,Veksø Sjælland,3670,4,122,1965,2350000.0,13-04-2015
+Fugleøjevej 1,Veksø Sjælland,3670,3,90,1877,1599000.0,30-03-2015
+Kelsted 113,Veksø Sjælland,3670,4,127,1986,2300000.0,25-03-2015
+Søsumvej 89,Veksø Sjælland,3670,3,117,2000,1995000.0,19-03-2015
+Søsumvej 99,Veksø Sjælland,3670,2,102,2002,2000000.0,11-03-2015
+Lærkevang 21,Veksø Sjælland,3670,3,43,1972,400000.0,04-03-2015
+Damvadvej 45,Veksø Sjælland,3670,5,141,1977,1657755.0,03-03-2015
+Nordre Sørække 13,Veksø Sjælland,3670,5,117,1857,2395000.0,26-02-2015
+Skibsted 302,Veksø Sjælland,3670,4,113,1983,1100000.0,23-02-2015
+Snedkerstræde 1,Veksø Sjælland,3670,4,101,1900,1242961.0,16-02-2015
+Løjesøvej 15,Veksø Sjælland,3670,4,277,2015,325000.0,09-02-2015
+Katholm 205,Veksø Sjælland,3670,5,141,1980,1175000.0,15-01-2015
+Humlebakken 5,Veksø Sjælland,3670,6,202,1950,2450000.0,08-01-2015
+Kelsted 103,Veksø Sjælland,3670,4,127,1986,2220000.0,07-01-2015
+Brøndsted 135,Veksø Sjælland,3670,3,90,1989,1750000.0,27-12-2014
+Birkevang 15,Veksø Sjælland,3670,3,45,1964,280400.0,19-12-2014
+Hesselholm 202,Veksø Sjælland,3670,5,140,1983,2460000.0,12-12-2014
+Slotsgyden 18,Veksø Sjælland,3670,4,91,1949,1250000.0,08-12-2014
+Skibsted 316,Veksø Sjælland,3670,3,95,1983,1875000.0,08-12-2014
+Korshøj 202,Veksø Sjælland,3670,4,126,1986,2223764.0,25-11-2014
+Engtoften 6,Veksø Sjælland,3670,5,131,1807,1695000.0,24-11-2014
+Slotsgyden 12,Veksø Sjælland,3670,6,165,1957,1450000.0,24-11-2014
+Katholm 104,Veksø Sjælland,3670,3,111,1979,2000000.0,13-11-2014
+Birkevang 4,Veksø Sjælland,3670,2,30,1967,380000.0,11-11-2014
+Kelsted 101,Veksø Sjælland,3670,4,127,1986,2250000.0,05-11-2014
+Katholm 314,Veksø Sjælland,3670,6,140,1980,2550000.0,02-11-2014
+Slotsgyden 4,Veksø Sjælland,3670,3,69,1930,1985000.0,27-10-2014
+Brøndsted 141,Veksø Sjælland,3670,3,90,1989,1800000.0,23-10-2014
+Madam Anes Vej 2,Veksø Sjælland,3670,6,159,1860,2495000.0,12-10-2014
+Skovvangsvej 14,Veksø Sjælland,3670,4,150,1923,3950000.0,10-10-2014
+Birkevang 41,Veksø Sjælland,3670,2,26,1992,250000.0,26-08-2014
+Stenpilstræde 3,Veksø Sjælland,3670,6,124,1900,1275000.0,14-08-2014
+Dyrlægevej 9,Veksø Sjælland,3670,5,124,1963,2050000.0,24-07-2014
+Toppevadvej 9,Veksø Sjælland,3670,4,235,1976,4500000.0,15-07-2014
+Smedestræde 3B,Veksø Sjælland,3670,4,151,1987,2375000.0,15-07-2014
+Brøndsted 153,Veksø Sjælland,3670,4,102,1989,1895000.0,08-07-2014
+Veksø Bygade 42,Veksø Sjælland,3670,3,126,1827,2320000.0,30-06-2014
+Lillevangsvej 19,Veksø Sjælland,3670,6,190,1777,4335000.0,27-06-2014
+Lillevangsvej 1,Veksø Sjælland,3670,6,250,2016,4120000.0,24-06-2014
+Brøndsted 302,Veksø Sjælland,3670,4,107,1988,2395000.0,24-06-2014
+Nordre Sørække 23,Veksø Sjælland,3670,5,147,1864,2425000.0,20-06-2014
+Skovhusvej 4,Veksø Sjælland,3670,8,282,1850,4600000.0,18-06-2014
+Rønnevang 4,Veksø Sjælland,3670,1,15,1969,375000.0,18-06-2014
+Brøndsted 115,Veksø Sjælland,3670,4,100,1989,1800000.0,16-06-2014
+Fugleøjevej 8,Veksø Sjælland,3670,5,229,1925,1722425.0,26-05-2014
+Damvadvej 38,Veksø Sjælland,3670,5,180,1966,7350000.0,22-05-2014
+Birkevang 24,Veksø Sjælland,3670,2,40,1968,375000.0,22-05-2014
+Søsumvej 103,Veksø Sjælland,3670,2,101,2002,1700000.0,21-05-2014
+Skibsted 308,Veksø Sjælland,3670,4,113,1983,2100000.0,04-04-2014
+Slotsgyden 22,Veksø Sjælland,3670,8,197,1800,2765000.0,03-04-2014
+Veksø Bygade 23A,Veksø Sjælland,3670,4,124,1850,573750.0,01-04-2014
+Veksø Bygade 23B,Veksø Sjælland,3670,4,104,1850,573750.0,01-04-2014
+Veksø Stationsvej 5,Veksø Sjælland,3670,6,62,1920,1720000.0,25-03-2014
+Nordre Sørække 15,Veksø Sjælland,3670,4,134,1962,1549500.0,19-03-2014
+Brøndsted 329,Veksø Sjælland,3670,5,124,1989,962376.0,13-03-2014
+Bøgevang 6,Veksø Sjælland,3670,3,70,1962,270000.0,11-03-2014
+Veksø Bygade 6E,Veksø Sjælland,3670,3,78,1975,1225000.0,20-02-2014
+Katholm 207,Veksø Sjælland,3670,5,121,1980,1438550.0,19-02-2014
+Veksø Bygade 6G,Veksø Sjælland,3670,4,97,1993,1825000.0,11-02-2014
+Slettemosevej 7,Veksø Sjælland,3670,5,166,1897,1300000.0,07-01-2014
+Bjellekjærvej 12,Veksø Sjælland,3670,5,225,1982,1976417.0,10-12-2013
+Veksø Bygade 9,Veksø Sjælland,3670,5,120,1880,1835000.0,03-12-2013
+Holmevej 141,Veksø Sjælland,3670,8,273,1920,4950000.0,14-11-2013
+Ellevej 2A,Veksø Sjælland,3670,7,260,1880,4800000.0,11-11-2013
+Skibsted 102,Veksø Sjælland,3670,5,144,1984,2400000.0,20-10-2013
+Hesselholm 104,Veksø Sjælland,3670,4,111,1980,1925000.0,20-10-2013
+Agervej 16,Veksø Sjælland,3670,6,246,1961,100000.0,17-10-2013
+Brøndsted 418,Veksø Sjælland,3670,4,98,1992,1745000.0,15-10-2013
+Brøndsted 111,Veksø Sjælland,3670,3,90,1989,1750000.0,23-09-2013
+Birkevang 25,Veksø Sjælland,3670,4,96,2008,1330000.0,23-09-2013
+Katholm 309,Veksø Sjælland,3670,6,140,1980,620359.0,19-09-2013
+Katholm 301,Veksø Sjælland,3670,6,140,1980,2375000.0,10-09-2013
+Søsumvej 119,Veksø Sjælland,3670,3,129,2002,2245000.0,29-08-2013
+Kastanievang 1,Veksø Sjælland,3670,4,94,1966,945000.0,11-08-2013
+Søsumvej 101,Veksø Sjælland,3670,2,102,2002,1750000.0,09-08-2013
+Hasselvang 2,Veksø Sjælland,3670,3,69,1960,510000.0,01-08-2013
+Skovgårdsvej 15,Veksø Sjælland,3670,6,250,1919,7275000.0,31-07-2013
+Lærkebækvej 15,Veksø Sjælland,3670,3,95,1960,1725000.0,26-07-2013
+Brøndsted 402,Veksø Sjælland,3670,4,98,1992,1712500.0,15-07-2013
+Korshøj 214,Veksø Sjælland,3670,6,164,1987,3200000.0,15-07-2013
+Stenpilstræde 9,Veksø Sjælland,3670,4,108,1921,956000.0,02-07-2013
+Skibsted 120,Veksø Sjælland,3670,6,170,1984,926619.0,24-06-2013
+Fyrrevang 6,Veksø Sjælland,3670,2,51,1965,260000.0,18-06-2013
+Kildevej 4,Veksø Sjælland,3670,5,114,1981,875000.0,14-06-2013
+Skolevangen 15,Veksø Sjælland,3670,3,172,1966,2600000.0,14-06-2013
+Søsum Bygade 18,Veksø Sjælland,3670,6,235,1927,7500000.0,06-06-2013
+Hyldevang 10,Veksø Sjælland,3670,2,47,1966,100000.0,03-06-2013
+Katholm 103,Veksø Sjælland,3670,4,175,1985,2550000.0,21-05-2013
+Toppevadvej 3,Veksø Sjælland,3670,5,178,1877,2125000.0,19-05-2013
+Katholm 216,Veksø Sjælland,3670,4,131,1980,2795000.0,14-05-2013
+Brøndsted 325,Veksø Sjælland,3670,5,124,1988,2020000.0,12-05-2013
+Kirkebakken 5,Veksø Sjælland,3670,3,151,1918,900000.0,07-05-2013
+Kelsted 102,Veksø Sjælland,3670,5,130,1985,760000.0,02-05-2013
+Rønnevang 1,Veksø Sjælland,3670,3,65,1970,600000.0,06-03-2013
+Lærkevang 7,Veksø Sjælland,3670,4,85,1963,1175000.0,26-02-2013
+Kelsted 406,Veksø Sjælland,3670,4,137,1984,2150000.0,21-02-2013
+Skolevangen 13,Veksø Sjælland,3670,6,169,1974,440000.0,25-01-2013
+Birkevang 2A,Veksø Sjælland,3670,4,108,1963,1000000.0,21-01-2013
+Damvadvej 58,Veksø Sjælland,3670,6,243,1975,6000000.0,03-01-2013
+Brøndsted 101,Veksø Sjælland,3670,4,102,1989,1750000.0,19-11-2012
+Skibsted 116,Veksø Sjælland,3670,4,140,1981,2500000.0,19-11-2012
+Brøndsted 420,Veksø Sjælland,3670,4,96,1992,1560000.0,08-11-2012
+Veksø Bygade 40,Veksø Sjælland,3670,5,128,1959,1800000.0,28-10-2012
+Korshøj 126,Veksø Sjælland,3670,4,160,1987,2705000.0,25-10-2012
+Skibsted 204,Veksø Sjælland,3670,4,113,1983,1995000.0,14-10-2012
+Søsumvej 111,Veksø Sjælland,3670,2,101,2002,1915000.0,11-10-2012
+Brøndsted 123,Veksø Sjælland,3670,4,102,1989,1730000.0,10-10-2012
+Korshøj 228,Veksø Sjælland,3670,5,155,1987,2600000.0,10-10-2012
+Kelsted 223,Veksø Sjælland,3670,4,122,1984,2495000.0,12-09-2012
+Lærkevang 16,Veksø Sjælland,3670,6,102,1965,975000.0,10-08-2012
+Hesselholm 110,Veksø Sjælland,3670,4,157,1979,1800000.0,10-08-2012
+Smedestræde 4,Veksø Sjælland,3670,5,148,1999,3295000.0,05-08-2012
+Lærkevang 4,Veksø Sjælland,3670,4,66,1967,595000.0,23-07-2012
+Store Valbyvej 280,Veksø Sjælland,3670,4,166,2006,3100000.0,06-07-2012
+Pileholm 4,Veksø Sjælland,3670,7,197,1890,2450000.0,24-06-2012
+Veksø Bygade 32,Veksø Sjælland,3670,9,244,1925,2027628.0,13-06-2012
+Snedkerstræde 4,Veksø Sjælland,3670,4,124,1977,1925000.0,06-06-2012
+Store Valbyvej 276,Veksø Sjælland,3670,12,504,1819,21000000.0,21-05-2012
+Birkevang 7,Veksø Sjælland,3670,4,85,1974,1075000.0,09-05-2012
+Skibsted 110,Veksø Sjælland,3670,5,144,1984,2495000.0,27-04-2012
+Byrgesens Vænge 1,Veksø Sjælland,3670,4,123,2007,2200000.0,17-04-2012
+Hesselholm 107,Veksø Sjælland,3670,4,141,1980,2375000.0,30-03-2012
+Dyrlægevej 11,Veksø Sjælland,3670,3,90,1960,1730000.0,15-03-2012
+Kelsted 418,Veksø Sjælland,3670,4,137,1984,2200000.0,21-02-2012
+Korshøj 110,Veksø Sjælland,3670,6,172,1986,3345000.0,03-02-2012
+Slettemosevej 2,Veksø Sjælland,3670,3,70,1877,2000000.0,31-01-2012
+Kastanievang 2,Veksø Sjælland,3670,5,221,2009,1700000.0,19-01-2012
+Egevang 3,Veksø Sjælland,3670,4,65,1981,660000.0,09-01-2012
+Birkevang 6,Veksø Sjælland,3670,3,79,1965,1000000.0,22-12-2011
+Brøndsted 149,Veksø Sjælland,3670,4,102,1989,1600000.0,20-12-2011
+Dyrlægevej 5,Veksø Sjælland,3670,4,159,1800,1600000.0,20-12-2011
+Skibsted 108,Veksø Sjælland,3670,5,144,1984,2675000.0,14-12-2011
+Kirkestræde 6,Veksø Sjælland,3670,5,353,1872,4500000.0,28-11-2011
+Møllestræde 2,Veksø Sjælland,3670,4,110,1930,1450000.0,04-11-2011
+Brøndsted 321,Veksø Sjælland,3670,6,172,1992,3150000.0,27-10-2011
+Hesselholm 201,Veksø Sjælland,3670,5,140,1982,2450000.0,27-10-2011
+Engtoften 2A,Veksø Sjælland,3670,6,217,1741,1400000.0,22-09-2011
+Katholm 306,Veksø Sjælland,3670,6,140,1980,2430000.0,29-08-2011
+Kelsted 104,Veksø Sjælland,3670,4,130,1985,900536.0,23-08-2011
+Korshøjgårdsvej 8,Veksø Sjælland,3670,6,225,1924,3900000.0,29-07-2011
+Svinemosevej 4,Veksø Sjælland,3670,6,258,1927,5700000.0,26-07-2011
+Katholm 311,Veksø Sjælland,3670,6,140,1980,2450000.0,11-07-2011
+Store Valbyvej 275,Veksø Sjælland,3670,6,161,1905,800000.0,04-07-2011
+Fugleøjevej 6,Veksø Sjælland,3670,5,173,2013,1325000.0,30-06-2011
+Søsum Bygade 11,Veksø Sjælland,3670,3,142,2002,910000.0,23-06-2011
+Hesselholm 217,Veksø Sjælland,3670,6,140,1982,2550000.0,24-05-2011
+Søsum Bygade 22,Veksø Sjælland,3670,4,170,1880,1250000.0,18-05-2011
+Brøndsted 424,Veksø Sjælland,3670,4,95,1992,915242.0,11-05-2011
+Søsum Bygade 17,Veksø Sjælland,3670,3,107,1953,1600000.0,12-04-2011
+Holmevej 59,Veksø Sjælland,3670,3,102,1900,3000000.0,10-02-2011
+Humlebakken 9,Veksø Sjælland,3670,4,190,1983,2700000.0,20-01-2011
+Veksø Bygade 24,Veksø Sjælland,3670,4,107,1800,1500000.0,13-01-2011
+Søsum Bygade 34,Veksø Sjælland,3670,6,130,1900,550000.0,12-01-2011
+Poppelvang 2,Veksø Sjælland,3670,4,126,1966,775000.0,18-11-2010
+Poppelvang 4,Veksø Sjælland,3670,4,67,1964,600000.0,26-10-2010
+Søsum Bygade 32,Veksø Sjælland,3670,3,106,1915,1900000.0,17-10-2010
+Korshøjgårdsvej 13,Veksø Sjælland,3670,5,178,1986,3070000.0,03-09-2010
+Kelsted 143,Veksø Sjælland,3670,4,112,1984,1047500.0,26-08-2010
+Brøndsted 211,Veksø Sjælland,3670,5,180,1987,3200000.0,20-07-2010
+Brøndsted 410,Veksø Sjælland,3670,4,94,1992,1400000.0,22-06-2010
+Brøndsted 143,Veksø Sjælland,3670,3,90,1989,1685000.0,26-05-2010
+Kirkebakken 40,Veksø Sjælland,3670,6,141,1870,1762500.0,06-04-2010
+Byrgesens Vænge 8,Veksø Sjælland,3670,4,123,2007,1215000.0,31-03-2010
+Katholm 329,Veksø Sjælland,3670,5,154,1979,1950000.0,31-03-2010
+Hyldevang 9,Veksø Sjælland,3670,3,87,1964,977500.0,20-03-2010
+Brøndsted 305,Veksø Sjælland,3670,5,154,1988,2775000.0,02-03-2010
+Holmevej 60,Veksø Sjælland,3670,5,135,1964,2100000.0,18-02-2010
+Bjørnebakken 4,Veksø Sjælland,3670,5,147,1961,1775000.0,15-02-2010
+Byrgesens Vænge 3,Veksø Sjælland,3670,4,123,2007,2800000.0,05-02-2010
+Rønnevang 6,Veksø Sjælland,3670,5,120,2007,900000.0,25-01-2010
+Kelsted 147,Veksø Sjælland,3670,4,120,1985,2150000.0,21-01-2010
+Østrupvej 102,Veksø Sjælland,3670,5,151,1825,824956.0,20-10-2009
+Vandtårnet 11,Veksø Sjælland,3670,6,167,1920,1000000.0,19-10-2009
+Snedkerstræde 10,Veksø Sjælland,3670,4,191,1960,2400000.0,12-10-2009
+Søsumvej 85,Veksø Sjælland,3670,5,106,1780,2257000.0,10-10-2009
+Veksø Stationsvej 11,Veksø Sjælland,3670,5,134,1916,1300000.0,08-10-2009
+Brøndsted 414,Veksø Sjælland,3670,4,94,1992,1565000.0,28-09-2009
+Østrupvej 107,Veksø Sjælland,3670,5,171,1912,3300000.0,20-09-2009
+Søsum Bygade 24,Veksø Sjælland,3670,3,87,1678,1790000.0,17-09-2009
+Kelsted 422,Veksø Sjælland,3670,4,140,1984,2395000.0,27-08-2009
+Kelsted 203,Veksø Sjælland,3670,4,144,1985,2525000.0,17-07-2009
+Ellevang 8,Veksø Sjælland,3670,3,75,1968,675000.0,29-06-2009
+Søsumvej 117,Veksø Sjælland,3670,2,102,2002,956250.0,25-06-2009
+Kelsted 106,Veksø Sjælland,3670,4,130,1985,2300000.0,16-06-2009
+Lillevangsvej 5,Veksø Sjælland,3670,8,346,2013,4750000.0,16-05-2009
+Lærkebækvej 19,Veksø Sjælland,3670,4,124,1897,1950000.0,30-04-2009
+Kelsted 219,Veksø Sjælland,3670,4,122,1984,2050000.0,27-04-2009
+Skovvangsvej 28A,Veksø Sjælland,3670,5,143,1967,2000000.0,13-04-2009
+Rønnevang 7,Veksø Sjælland,3670,3,124,2009,600000.0,02-03-2009
+Katholm 304,Veksø Sjælland,3670,6,140,1980,3000000.0,16-02-2009
+Brøndsted 219,Veksø Sjælland,3670,4,124,1989,1004174.0,12-11-2008
+Søsumvej 95,Veksø Sjælland,3670,3,129,2002,2650000.0,03-11-2008
+Katholm 211,Veksø Sjælland,3670,5,131,1979,2995000.0,08-09-2008
+Agervej 3,Veksø Sjælland,3670,6,209,1928,3700000.0,26-08-2008
+Ellevang 4,Veksø Sjælland,3670,3,85,1970,915000.0,23-07-2008
+Skibsted 310,Veksø Sjælland,3670,4,113,1983,2750000.0,21-07-2008
+Østrupvej 106C,Veksø Sjælland,3670,6,195,1900,2000000.0,05-05-2008
+Østrupvej 106B,Veksø Sjælland,3670,6,192,1900,2166666.0,05-05-2008
+Østrupvej 106A,Veksø Sjælland,3670,8,222,1900,2400000.0,05-05-2008
+Skelhøjvej 2,Veksø Sjælland,3670,6,189,1888,4500000.0,28-04-2008
+Brøndsted 210,Veksø Sjælland,3670,6,168,1988,800000.0,24-04-2008
+Toxværdvej 5,Veksø Sjælland,3670,4,109,1960,1870000.0,23-04-2008
+Brøndsted 131,Veksø Sjælland,3670,3,90,1989,2080000.0,08-04-2008
+Brøndsted 221,Veksø Sjælland,3670,4,124,1988,2600000.0,24-03-2008
+Katholm 101,Veksø Sjælland,3670,4,136,1979,2900000.0,08-02-2008
+Bjørnebakken 6,Veksø Sjælland,3670,6,152,1961,3150000.0,07-01-2008
+Bjørnebakken 11,Veksø Sjælland,3670,4,110,1962,2400000.0,17-12-2007
+Bøgevang 3,Veksø Sjælland,3670,3,55,1970,433333.0,10-12-2007
+Lærkevang 9,Veksø Sjælland,3670,3,118,2001,2082500.0,10-12-2007
+Madam Anes Vej 5,Veksø Sjælland,3670,8,220,2005,3600000.0,20-11-2007
+Østrupvej 101,Veksø Sjælland,3670,7,195,1900,2600000.0,17-10-2007
+Knudsbjergvej 3,Veksø Sjælland,3670,3,96,1976,1761000.0,01-10-2007
+Brøndsted 117,Veksø Sjælland,3670,3,90,1989,2600000.0,14-09-2007
+Damvadvej 26,Veksø Sjælland,3670,5,121,1967,2800000.0,22-08-2007
+Pilevang 6,Veksø Sjælland,3670,3,98,1967,1725000.0,15-08-2007
+Birkevang 30,Veksø Sjælland,3670,3,40,1967,978000.0,29-07-2007
+Kelsted 108,Veksø Sjælland,3670,4,130,1986,837500.0,25-06-2007
+Rønnevang 3,Veksø Sjælland,3670,2,43,1995,1100000.0,05-06-2007
+Pilevang 4,Veksø Sjælland,3670,4,127,1967,2350000.0,31-05-2007
+Brunhøjvej 7,Veksø Sjælland,3670,3,131,1970,2875000.0,21-05-2007
+Engtoften 10,Veksø Sjælland,3670,6,182,1912,2600000.0,26-04-2007
+Veksø Bygade 21,Veksø Sjælland,3670,10,350,1928,5450000.0,22-04-2007
+Brøndsted 105,Veksø Sjælland,3670,4,102,1989,2570000.0,30-03-2007
+Brøndsted 107,Veksø Sjælland,3670,3,90,1989,2290000.0,28-03-2007
+Vandtårnet 7,Veksø Sjælland,3670,4,122,1922,2050000.0,26-02-2007
+Kirkestræde 1,Veksø Sjælland,3670,8,160,1770,1695000.0,26-02-2007
+Pilevang 3,Veksø Sjælland,3670,3,95,1989,1650000.0,12-02-2007
+Søsumvej 91,Veksø Sjælland,3670,3,115,2002,2925000.0,23-01-2007
+Kelsted 215,Veksø Sjælland,3670,5,122,1984,2975000.0,18-01-2007
+Tjørnevang 8,Veksø Sjælland,3670,6,198,1998,2000000.0,11-01-2007
+Veksø Bygade 6F,Veksø Sjælland,3670,2,84,1975,2195000.0,25-11-2006
+Damvadvej 49,Veksø Sjælland,3670,4,113,1961,1500000.0,14-11-2006
+Skibsted 226,Veksø Sjælland,3670,4,161,1982,4100000.0,17-10-2006
+Søsum Bygade 30,Veksø Sjælland,3670,6,120,1890,1760000.0,05-10-2006
+Pileholm 6,Veksø Sjælland,3670,5,148,1920,4000000.0,23-09-2006
+Brøndsted 417,Veksø Sjælland,3670,4,124,1988,3160000.0,18-09-2006
+Nordre Sørække 7,Veksø Sjælland,3670,6,121,1962,3800000.0,05-09-2006
+Byrgesens Vænge 2,Veksø Sjælland,3670,4,123,2007,2895000.0,03-09-2006
+Brøndsted 404,Veksø Sjælland,3670,4,94,1992,2308500.0,15-08-2006
+Brøndsted 406,Veksø Sjælland,3670,4,94,1992,2306000.0,15-08-2006
+Brøndsted 408,Veksø Sjælland,3670,4,94,1992,2318250.0,15-08-2006
+Brøndsted 412,Veksø Sjælland,3670,4,94,1992,2303750.0,15-08-2006
+Brøndsted 428,Veksø Sjælland,3670,4,96,1992,2303485.0,15-08-2006
+Brøndsted 426,Veksø Sjælland,3670,4,95,1992,2303485.0,15-08-2006
+Brøndsted 422,Veksø Sjælland,3670,4,95,1992,2302000.0,09-08-2006
+Byrgesens Vænge 4,Veksø Sjælland,3670,4,123,2007,2795000.0,08-08-2006
+Byrgesens Vænge 10,Veksø Sjælland,3670,4,123,2007,2795000.0,06-08-2006
+Byrgesens Vænge 14,Veksø Sjælland,3670,4,123,2006,2795000.0,04-08-2006
+Byrgesens Vænge 12,Veksø Sjælland,3670,4,122,2007,2895000.0,01-08-2006
+Skolevangen 8,Veksø Sjælland,3670,4,92,1966,2100000.0,01-08-2006
+Byrgesens Vænge 6,Veksø Sjælland,3670,4,123,2007,2795000.0,28-07-2006
+Stenpilstræde 5,Veksø Sjælland,3670,5,156,1890,2900000.0,17-07-2006
+Søsumvej 97,Veksø Sjælland,3670,2,102,2002,2395000.0,12-07-2006
+Bjørnebakken 1D,Veksø Sjælland,3670,4,147,1934,3100000.0,27-06-2006
+Gl Hovevej 17,Veksø Sjælland,3670,5,134,1927,3400000.0,23-05-2006
+Nordre Sørække 3,Veksø Sjælland,3670,6,236,2013,5995000.0,19-05-2006
+Thorkildgårdsvej 5,Veksø Sjælland,3670,5,112,1870,4950000.0,16-05-2006
+Slotsgyden 1,Veksø Sjælland,3670,5,139,1937,2900000.0,09-04-2006
+Søsumvej 115,Veksø Sjælland,3670,2,102,2002,2424000.0,27-02-2006
+Katholm 307,Veksø Sjælland,3670,6,140,1980,1647500.0,08-02-2006
+Birkevang 3,Veksø Sjælland,3670,3,79,1980,2516000.0,05-02-2006
+Stenpilstræde 11,Veksø Sjælland,3670,5,209,1880,2550000.0,26-01-2006
+Ellevej 4B,Veksø Sjælland,3670,5,129,1860,826500.0,06-01-2006
+Vandtårnet 15,Veksø Sjælland,3670,6,153,1950,3050000.0,17-12-2005
+Lærkevang 11,Veksø Sjælland,3670,3,51,2009,670000.0,14-12-2005
+Smedestræde 5B,Veksø Sjælland,3670,2,107,1910,2595000.0,11-12-2005
+Bjørnebakken 2,Veksø Sjælland,3670,8,140,1930,3700000.0,08-12-2005
+Skibsted 222,Veksø Sjælland,3670,5,191,2009,2275000.0,01-12-2005
+Brøndsted 311,Veksø Sjælland,3670,5,137,1996,3095000.0,25-11-2005
+Skibsted 228,Veksø Sjælland,3670,5,122,1982,3500000.0,19-11-2005
+Birkevang 26,Veksø Sjælland,3670,3,76,1976,1445000.0,11-11-2005
+Ellevang 1,Veksø Sjælland,3670,5,148,1964,1399000.0,21-10-2005
+Fugleøjevej 7,Veksø Sjælland,3670,5,139,1902,2995000.0,04-10-2005
+Birkevang 39,Veksø Sjælland,3670,3,36,1986,400000.0,21-09-2005
+Birkevang 43,Veksø Sjælland,3670,1,34,1972,515000.0,21-09-2005
+Søsum Bygade 29,Veksø Sjælland,3670,4,125,1912,2195000.0,20-09-2005
+Skovvangsvej 8,Veksø Sjælland,3670,8,244,1963,2800000.0,10-09-2005
+"Kirkebakken 15, 1",Veksø Sjælland,3670,3,158,1969,8200000.0,18-08-2005
+Korshøj 120,Veksø Sjælland,3670,5,155,1986,2800000.0,14-08-2005
+Brøndsted 423,Veksø Sjælland,3670,4,124,1988,2499000.0,04-07-2005
+Hesselholm 211,Veksø Sjælland,3670,6,140,1982,2400000.0,29-06-2005
+Skibsted 202,Veksø Sjælland,3670,6,222,1983,3495000.0,25-06-2005
+Birkevang 37,Veksø Sjælland,3670,2,59,1973,325000.0,10-06-2005
+Toppevadvej 7,Veksø Sjælland,3670,6,257,1923,3300000.0,09-06-2005
+Brøndsted 317,Veksø Sjælland,3670,4,136,1988,2900000.0,01-05-2005
+Birkevang 38,Veksø Sjælland,3670,2,107,2007,805000.0,18-04-2005
+Snedkerstræde 2,Veksø Sjælland,3670,3,139,1900,1635000.0,05-04-2005
+Brøndsted 331,Veksø Sjælland,3670,5,124,1989,2000000.0,20-03-2005
+Kresten Smed Stræde 33,Veksø Sjælland,3670,7,208,2016,2115000.0,20-03-2005
+Søsumvej 83,Veksø Sjælland,3670,4,113,1780,1985000.0,22-02-2005
+Lærkevang 15,Veksø Sjælland,3670,6,107,1975,935000.0,18-02-2005
+Kastanievang 11,Veksø Sjælland,3670,6,120,1967,1535000.0,09-02-2005
+Kelsted 207,Veksø Sjælland,3670,5,148,1984,2661000.0,24-01-2005
+Birkevang 31,Veksø Sjælland,3670,2,49,1972,820000.0,23-01-2005
+Rønnevang 5,Veksø Sjælland,3670,7,146,1969,300000.0,17-01-2005
+Katholm 315,Veksø Sjælland,3670,5,154,1979,1995000.0,30-12-2004
+Hyldevang 12,Veksø Sjælland,3670,3,50,1965,685117.0,22-12-2004
+Pilevang 1,Veksø Sjælland,3670,4,100,1969,1250000.0,20-12-2004
+Ellevej 9,Veksø Sjælland,3670,7,216,1888,1760000.0,29-11-2004
+Korshøj 216,Veksø Sjælland,3670,6,146,1989,1975000.0,27-10-2004
+Kastanievang 7,Veksø Sjælland,3670,5,106,2009,385000.0,15-10-2004
+Katholm 333,Veksø Sjælland,3670,5,157,1979,1750000.0,03-10-2004
+Skibsted 322,Veksø Sjælland,3670,5,152,1983,1550000.0,30-09-2004
+Katholm 331,Veksø Sjælland,3670,5,154,1979,1930000.0,26-09-2004
+Skibsted 112,Veksø Sjælland,3670,5,144,1984,2270000.0,23-09-2004
+Hesselholm 208,Veksø Sjælland,3670,5,172,1983,1850000.0,10-09-2004
+Hyldevang 8,Veksø Sjælland,3670,6,150,1969,640000.0,03-08-2004
+Ellevej 7,Veksø Sjælland,3670,7,226,2007,1235000.0,25-07-2004
+Bjørnebakken 5,Veksø Sjælland,3670,5,140,1961,1895000.0,23-07-2004
+Skovvangsvej 6,Veksø Sjælland,3670,9,196,1966,2495000.0,22-07-2004
+Hyldevang 4,Veksø Sjælland,3670,3,47,1967,660000.0,30-06-2004
+Lindevang 4,Veksø Sjælland,3670,3,84,1965,720782.0,28-06-2004
+Dyrlægevej 7,Veksø Sjælland,3670,6,158,1964,1395000.0,23-06-2004
+Ellevej 3,Veksø Sjælland,3670,4,137,1875,2000000.0,16-06-2004
+Hyldevang 2,Veksø Sjælland,3670,4,77,1966,788000.0,31-05-2004
+Hesselholm 203,Veksø Sjælland,3670,5,140,1982,1795000.0,21-05-2004
+Kirkestræde 4,Veksø Sjælland,3670,6,319,1798,2327000.0,06-05-2004
+Søsumvej 81,Veksø Sjælland,3670,2,117,2002,1885000.0,02-05-2004
+Kelsted 129,Veksø Sjælland,3670,4,127,1986,1820000.0,22-04-2004
+Fugleøjevej 9B,Veksø Sjælland,3670,4,123,1977,1620000.0,28-03-2004
+Lille Veksøvej 14,Veksø Sjælland,3670,4,104,1965,2894000.0,07-03-2004
+Katholm 327,Veksø Sjælland,3670,5,154,1979,1795000.0,02-03-2004
+Ellevang 3,Veksø Sjælland,3670,4,94,1975,870000.0,21-01-2004
+Brøndsted 204,Veksø Sjælland,3670,5,139,1994,2095000.0,06-01-2004
+Kelsted 402,Veksø Sjælland,3670,4,140,1984,1722000.0,09-12-2003
+Holmevej 31,Veksø Sjælland,3670,7,172,1904,1381550.0,03-12-2003
+Veksø Bygade 16,Veksø Sjælland,3670,2,105,1900,1050000.0,21-11-2003
+Kastanievang 16,Veksø Sjælland,3670,3,92,1975,490000.0,06-11-2003
+Katholm 323,Veksø Sjælland,3670,5,158,1979,1944000.0,04-11-2003
+Vandtårnet 3,Veksø Sjælland,3670,3,104,1947,1491273.0,20-10-2003
+Hyldevang 1,Veksø Sjælland,3670,3,45,1973,725000.0,05-09-2003
+Søsum Bygade 26A,Veksø Sjælland,3670,6,130,1880,575000.0,20-08-2003
+Bjørnebakken 9,Veksø Sjælland,3670,6,200,1962,1785000.0,05-08-2003
+Kresten Smed Stræde 4,Veksø Sjælland,3670,3,124,1962,1524700.0,01-08-2003
+Smedestræde 2,Veksø Sjælland,3670,7,162,1780,1735000.0,28-07-2003
+Ellevang 7,Veksø Sjælland,3670,2,58,1968,395000.0,16-07-2003
+Katholm 212,Veksø Sjælland,3670,4,111,1979,1798000.0,11-07-2003
+Birkevang 27,Veksø Sjælland,3670,4,55,1966,325699.0,05-07-2003
+Skibsted 306,Veksø Sjælland,3670,6,156,1983,1995000.0,02-07-2003
+Kelsted 308,Veksø Sjælland,3670,4,130,1986,1875000.0,27-06-2003
+Tranemosevænget 17,Veksø Sjælland,3670,1,12,1950,110000.0,17-06-2003
+Holmevej 120,Veksø Sjælland,3670,8,175,1900,3400000.0,14-06-2003
+Korshøj 220,Veksø Sjælland,3670,6,183,1989,1982000.0,22-05-2003
+Kelsted 110,Veksø Sjælland,3670,7,171,1986,1835000.0,31-03-2003
+Bjellekjærvej 6,Veksø Sjælland,3670,3,140,1918,573763.0,31-03-2003
+Smedestræde 9,Veksø Sjælland,3670,5,142,1897,995000.0,28-03-2003
+Nordre Sørække 37,Veksø Sjælland,3670,6,180,1987,2923000.0,24-03-2003
+Veksø Bygade 36,Veksø Sjælland,3670,4,141,1877,1505058.0,21-03-2003
+Ellevej 1,Veksø Sjælland,3670,4,131,1880,1655000.0,26-02-2003
+Toxværdvej 8,Veksø Sjælland,3670,7,160,1953,1454255.0,29-11-2002
+Skibsted 320,Veksø Sjælland,3670,3,95,1983,1600178.0,07-10-2002
+Ellevej 11,Veksø Sjælland,3670,3,106,1903,1350000.0,23-09-2002
+Løjesøvej 9,Veksø Sjælland,3670,6,148,1920,1700000.0,18-09-2002
+Tjørnevang 3,Veksø Sjælland,3670,5,87,2003,225000.0,15-08-2002
+Kastanievang 13,Veksø Sjælland,3670,4,86,1967,947713.0,08-08-2002
+Frederikssundsvej 7,Veksø Sjælland,3670,6,161,1927,400000.0,30-07-2002
+Tjørnevang 7,Veksø Sjælland,3670,3,81,1965,850515.0,12-07-2002
+Snedkerstræde 6,Veksø Sjælland,3670,4,124,1977,1445316.0,12-06-2002
+Brøndsted 225,Veksø Sjælland,3670,4,124,1989,1750000.0,09-06-2002
+Kastanievang 14,Veksø Sjælland,3670,3,57,1965,598848.0,02-06-2002
+Søsumvej 113,Veksø Sjælland,3670,2,102,2002,1645000.0,13-05-2002
+Poppelvang 9,Veksø Sjælland,3670,4,99,1966,433500.0,17-01-2002
+Hyldevang 7,Veksø Sjælland,3670,3,80,2000,325000.0,15-01-2002
+Brøndsted 203,Veksø Sjælland,3670,6,163,1988,1925000.0,13-11-2001
+Skibsted 106,Veksø Sjælland,3670,5,144,1984,1870000.0,13-09-2001
+Kastanievang 8,Veksø Sjælland,3670,2,44,1962,450000.0,30-08-2001
+Bjørnebakken 8,Veksø Sjælland,3670,3,120,1962,1310037.0,18-07-2001
+Kelsted 116,Veksø Sjælland,3670,4,130,1985,1702000.0,16-07-2001
+Korshøj 212,Veksø Sjælland,3670,4,160,1986,1908000.0,01-07-2001
+Kelsted 225,Veksø Sjælland,3670,4,138,1985,1770594.0,27-06-2001
+Egevang 6,Veksø Sjælland,3670,3,27,1974,240134.0,22-06-2001
+Lærkevang 22,Veksø Sjælland,3670,3,60,1960,432500.0,06-06-2001
+Søsum Bygade 9,Veksø Sjælland,3670,4,114,1969,1657970.0,16-05-2001
+Veksø Bygade 25B,Veksø Sjælland,3670,4,194,1850,1995525.0,15-05-2001
+Brunhøjvej 1,Veksø Sjælland,3670,4,154,1924,1925000.0,08-05-2001
+Brøndsted 335,Veksø Sjælland,3670,4,125,1989,1590000.0,03-05-2001
+Skolevangen 2,Veksø Sjælland,3670,4,106,1966,1150000.0,20-03-2001
+Madam Anes Vej 9,Veksø Sjælland,3670,5,138,1850,930337.0,26-02-2001
+Skibsted 118,Veksø Sjælland,3670,5,140,1981,1749900.0,18-02-2001
+Søsumvej 121,Veksø Sjælland,3670,2,95,2002,1335398.0,21-01-2001
+Humlebakken 17,Veksø Sjælland,3670,4,120,1830,1035000.0,31-10-2000
+Løjesøvej 1,Veksø Sjælland,3670,6,230,1900,3300000.0,24-10-2000
+Engtoften 4,Veksø Sjælland,3670,6,157,1876,1201650.0,22-10-2000
+Damvadvej 46,Veksø Sjælland,3670,7,234,1780,1738463.0,20-10-2000
+Østrupvej 175,Veksø Sjælland,3670,7,148,1907,3100000.0,16-10-2000
+Damvadvej 42,Veksø Sjælland,3670,5,188,1962,2375020.0,20-09-2000
+Bøgevang 4,Veksø Sjælland,3670,2,74,1962,650000.0,13-09-2000
+Søsum Bygade 25,Veksø Sjælland,3670,4,137,1908,1450000.0,11-09-2000
+Kelsted 111,Veksø Sjælland,3670,4,127,1986,1461000.0,03-09-2000
+Bjellekjærvej 24,Veksø Sjælland,3670,5,180,1938,3350000.0,12-07-2000
+Skibsted 210,Veksø Sjælland,3670,4,144,1982,630630.0,03-07-2000
+Østrupvej 103,Veksø Sjælland,3670,5,163,1800,2130497.0,26-06-2000
+Skovvangsvej 44,Veksø Sjælland,3670,5,128,1967,700000.0,01-06-2000
+Søsum Bygade 10,Veksø Sjælland,3670,6,179,1890,2099165.0,10-05-2000
+Søsumvej 87,Veksø Sjælland,3670,5,113,1780,1421880.0,14-04-2000
+Brøndsted 327,Veksø Sjælland,3670,5,124,1988,1494000.0,09-04-2000
+Hesselholm 108,Veksø Sjælland,3670,4,116,1979,1495000.0,03-04-2000
+Skovvangsvej 49,Veksø Sjælland,3670,7,190,1890,1750000.0,23-03-2000
+Kelsted 302,Veksø Sjælland,3670,4,130,1985,1524830.0,19-03-2000
+Kelsted 139,Veksø Sjælland,3670,4,140,1984,1428000.0,25-02-2000
+Kelsted 317,Veksø Sjælland,3670,6,131,1982,1513000.0,26-01-2000
+Nordre Sørække 19,Veksø Sjælland,3670,6,178,1903,1887397.0,18-01-2000
+"Gl Hovevej 2, 1",Veksø Sjælland,3670,3,88,1927,1435000.0,14-01-2000
+Søsumvej 75,Veksø Sjælland,3670,4,158,1985,2252871.0,22-12-1999
+Stenpilstræde 4,Veksø Sjælland,3670,4,147,2001,400000.0,19-12-1999
+Stenpilstræde 1,Veksø Sjælland,3670,4,142,1850,1975000.0,26-11-1999
+Smedestræde 11,Veksø Sjælland,3670,4,139,1999,1875000.0,25-11-1999
+Katholm 312,Veksø Sjælland,3670,6,140,1980,1812000.0,08-11-1999
+Kelsted 408,Veksø Sjælland,3670,4,137,1984,1325000.0,02-11-1999
+Korshøjgårdsvej 7,Veksø Sjælland,3670,3,190,1920,3223343.0,07-10-1999
+Fyrrevang 1,Veksø Sjælland,3670,3,73,1977,675000.0,09-09-1999
+Fugleøjevej 4,Veksø Sjælland,3670,6,123,1904,1275107.0,28-08-1999
+Hesselholm 213,Veksø Sjælland,3670,6,140,1982,1770000.0,23-08-1999
+Skibsted 218,Veksø Sjælland,3670,3,95,1981,1345000.0,12-08-1999
+Bøgevang 1,Veksø Sjælland,3670,3,57,1966,599000.0,27-07-1999
+Kelsted 315,Veksø Sjælland,3670,5,117,1981,1185052.0,05-07-1999
+Brøndsted 205,Veksø Sjælland,3670,6,183,1989,1606492.0,19-05-1999
+Skolevangen 5,Veksø Sjælland,3670,4,92,1962,915000.0,17-05-1999
+Skibsted 114,Veksø Sjælland,3670,5,144,1984,1642936.0,11-05-1999
+Skovvangsvej 17,Veksø Sjælland,3670,7,210,1924,2903460.0,25-10-1998
+Agervej 12,Veksø Sjælland,3670,7,225,1880,1210765.0,21-10-1998
+Brøndsted 403,Veksø Sjælland,3670,4,126,1988,1432000.0,26-09-1998
+Brøndsted 303,Veksø Sjælland,3670,4,136,1996,1664586.0,02-09-1998
+Stenpilstræde 13,Veksø Sjælland,3670,4,187,1780,2014021.0,01-09-1998
+Bjellekjærvej 19,Veksø Sjælland,3670,6,255,1800,3368280.0,19-08-1998
+Thorkildgårdsvej 24,Veksø Sjælland,3670,5,135,1880,1842200.0,07-08-1998
+Dyrlægevej 2,Veksø Sjælland,3670,7,209,1860,1450000.0,05-07-1998
+Brøndsted 308,Veksø Sjælland,3670,7,162,1990,1623908.0,01-07-1998
+Veksø Bygade 4,Veksø Sjælland,3670,3,60,1897,600910.0,30-06-1998
+Egevang 4,Veksø Sjælland,3670,4,88,1973,510000.0,10-06-1998
+Humlebakken 13,Veksø Sjælland,3670,4,120,1944,429000.0,07-06-1998
+Østrupvej 100,Veksø Sjælland,3670,5,215,1905,1487500.0,27-05-1998
+Veksø Bygade 25A,Veksø Sjælland,3670,4,157,1850,1219802.0,18-05-1998
+Svinemosevej 7,Veksø Sjælland,3670,7,204,1955,2400000.0,27-04-1998
+Birkevang 9,Veksø Sjælland,3670,4,91,2008,450000.0,18-03-1998
+Brøndsted 333,Veksø Sjælland,3670,6,144,1988,1306405.0,16-03-1998
+Brøndsted 415,Veksø Sjælland,3670,6,178,1995,1805300.0,14-03-1998
+Lindebjergvej 11,Veksø Sjælland,3670,3,60,1955,950000.0,03-03-1998
+Brøndsted 411,Veksø Sjælland,3670,5,130,1987,639083.0,24-02-1998
+Kelsted 211,Veksø Sjælland,3670,6,160,1985,1455880.0,23-02-1998
+Slotsgyden 6,Veksø Sjælland,3670,3,72,1900,769000.0,16-02-1998
+Tranemosevænget 11,Veksø Sjælland,3670,5,68,1800,325000.0,16-02-1998
+Hesselholm 209,Veksø Sjælland,3670,5,140,1982,1532730.0,30-11-1997
+Brøndsted 223,Veksø Sjælland,3670,4,124,1988,1195234.0,24-11-1997
+Møllestræde 4,Veksø Sjælland,3670,6,126,1951,553505.0,20-11-1997
+Brøndsted 217,Veksø Sjælland,3670,4,124,1989,500000.0,05-11-1997
+Østersø 26,Veksø Sjælland,3670,3,78,1877,1114000.0,28-10-1997
+Birkevang 36,Veksø Sjælland,3670,2,42,1965,242000.0,25-10-1997
+Katholm 102,Veksø Sjælland,3670,6,180,1979,1287500.0,15-10-1997
+Hasselvang 8,Veksø Sjælland,3670,4,125,1999,340000.0,07-10-1997
+Birkevang 35,Veksø Sjælland,3670,4,73,1991,495000.0,02-10-1997
+Brøndsted 401,Veksø Sjælland,3670,5,128,1995,1524327.0,25-08-1997
+Katholm 308,Veksø Sjælland,3670,6,140,1980,1543024.0,15-08-1997
+Veksø Bygade 7,Veksø Sjælland,3670,6,160,1864,290000.0,08-08-1997
+Brunhøjvej 28,Veksø Sjælland,3670,4,166,1900,1700000.0,01-08-1997
+Hyldevang 11,Veksø Sjælland,3670,4,183,2002,223800.0,23-07-1997
+Vandtårnet 5,Veksø Sjælland,3670,4,153,1925,952097.0,15-06-1997
+Bøgevang 8,Veksø Sjælland,3670,4,71,1965,385000.0,31-05-1997
+Ellevej 5,Veksø Sjælland,3670,4,201,1600,1600000.0,12-05-1997
+Slettemosevej 9,Veksø Sjælland,3670,7,162,1877,567125.0,21-03-1997
+Tranemosen 11,Veksø Sjælland,3670,2,18,1949,70000.0,10-03-1997
+Løvkærvej 4,Veksø Sjælland,3670,4,103,1922,1100000.0,10-03-1997
+Slettemosevej 11,Veksø Sjælland,3670,8,156,1902,732875.0,04-03-1997
+Sigersdalvej 14,Veksø Sjælland,3670,2,19,1959,605000.0,28-02-1997
+Damvadvej 32,Veksø Sjælland,3670,6,152,1990,1995000.0,07-12-1996
+Holmevej 111,Veksø Sjælland,3670,7,243,1950,1832600.0,04-12-1996
+Fugleøjevej 2,Veksø Sjælland,3670,3,131,1919,750000.0,15-11-1996
+Veksø Bygade 8,Veksø Sjælland,3670,6,201,1895,1487000.0,12-11-1996
+Kelsted 109,Veksø Sjælland,3670,4,127,1986,1017000.0,22-09-1996
+Tranemosevænget 13,Veksø Sjælland,3670,2,30,1960,180000.0,22-09-1996
+Kelsted 306,Veksø Sjælland,3670,4,130,1985,1285000.0,10-09-1996
+Brøndsted 315,Veksø Sjælland,3670,7,174,1988,1693000.0,27-08-1996
+Birkevang 45,Veksø Sjælland,3670,3,23,1965,75000.0,12-08-1996
+Humlebakken 3,Veksø Sjælland,3670,4,76,1950,344000.0,06-08-1996
+Ellevang 13,Veksø Sjælland,3670,1,18,1955,230000.0,18-07-1996
+Brøndsted 209,Veksø Sjælland,3670,6,179,1989,1565000.0,18-07-1996
+Damvadvej 36,Veksø Sjælland,3670,11,304,1965,1545715.0,07-07-1996
+Sigersdalvej 6,Veksø Sjælland,3670,6,192,1883,1000000.0,07-07-1996
+Katholm 209,Veksø Sjælland,3670,5,121,1981,1168224.0,05-07-1996
+Skovvangsvej 24,Veksø Sjælland,3670,3,104,1961,851208.0,25-06-1996
+Madam Anes Vej 7,Veksø Sjælland,3670,6,180,1974,1174000.0,06-06-1996
+Brøndsted 202,Veksø Sjælland,3670,5,172,1988,1691450.0,02-04-1996
+Kelsted 135,Veksø Sjælland,3670,4,127,1986,1130000.0,27-03-1996
+Søsum Bygade 21,Veksø Sjælland,3670,4,116,1952,570000.0,28-02-1996
+Kelsted 311,Veksø Sjælland,3670,5,144,1985,744000.0,19-01-1996
+Slotsgyden 20,Veksø Sjælland,3670,3,84,1946,652880.0,03-01-1996
+Skibsted 208,Veksø Sjælland,3670,4,113,1983,765000.0,22-11-1995
+Holmevej 90,Veksø Sjælland,3670,5,170,1934,200000.0,17-11-1995
+Korshøj 124,Veksø Sjælland,3670,5,117,1987,1388960.0,12-11-1995
+Skovvangsvej 7,Veksø Sjælland,3670,7,184,1983,1285000.0,29-10-1995
+Poppelvang 14,Veksø Sjælland,3670,3,68,1964,300000.0,02-10-1995
+Damvadvej 47,Veksø Sjælland,3670,6,241,1968,1073210.0,20-09-1995
+Lærkevang 20,Veksø Sjælland,3670,3,48,1968,300000.0,17-09-1995
+Korshøj 112,Veksø Sjælland,3670,5,162,1987,1312380.0,12-09-1995
+Brøndsted 207,Veksø Sjælland,3670,6,163,1988,1500000.0,01-09-1995
+Kelsted 127,Veksø Sjælland,3670,4,127,1986,1005000.0,17-08-1995
+Væverhusvej 1,Veksø Sjælland,3670,8,260,1908,1100000.0,22-06-1995
+Toxværdvej 3,Veksø Sjælland,3670,6,160,1967,1025000.0,06-06-1995
+Lærkevang 10,Veksø Sjælland,3670,3,75,1964,365000.0,30-05-1995
+Bjellekjærvej 13,Veksø Sjælland,3670,6,190,1999,1000000.0,26-04-1995
+Tjørnevang 6,Veksø Sjælland,3670,3,70,1965,127089.0,24-04-1995
+Brøndsted 312,Veksø Sjælland,3670,5,143,1995,120000.0,21-04-1995
+Kresten Smed Stræde 23,Veksø Sjælland,3670,3,164,1976,773200.0,13-04-1995
+Gl Hovevej 3,Veksø Sjælland,3670,3,149,1909,677900.0,28-03-1995
+Lindebjergvej 5,Veksø Sjælland,3670,9,219,1880,1700000.0,25-03-1995
+Lillevangsvej 13,Veksø Sjælland,3670,5,166,1700,1429500.0,01-02-1995
+Ellevang 9,Veksø Sjælland,3670,5,107,1965,695000.0,25-01-1995
+Smedestræde 7,Veksø Sjælland,3670,5,183,1796,1350000.0,18-01-1995
+Brøndsted 309,Veksø Sjælland,3670,4,123,1995,1145000.0,06-12-1994
+Brøndsted 405,Veksø Sjælland,3670,4,124,1995,150000.0,31-10-1994
+Kelsted 208,Veksø Sjælland,3670,4,130,1985,997000.0,25-09-1994
+Birkevang 20,Veksø Sjælland,3670,2,40,1980,179435.0,23-08-1994
+Egebjergvej 5,Veksø Sjælland,3670,3,67,1860,470000.0,20-08-1994
+Ellevang 5,Veksø Sjælland,3670,5,122,1970,175000.0,09-07-1994
+Østrupvej 169,Veksø Sjælland,3670,6,214,1914,1200000.0,01-07-1994
+Damvadvej 51,Veksø Sjælland,3670,6,182,1908,700000.0,29-06-1994
+Birkevang 29,Veksø Sjælland,3670,4,71,2007,135000.0,22-06-1994
+Hasselvang 9,Veksø Sjælland,3670,4,94,1968,310000.0,14-06-1994
+Slettemosevej 3,Veksø Sjælland,3670,5,134,1901,1271000.0,01-06-1994
+Brøndsted 201,Veksø Sjælland,3670,4,129,1987,962096.0,13-05-1994
+Hasselvang 1,Veksø Sjælland,3670,3,54,1970,235000.0,02-05-1994
+Skolevangen 4,Veksø Sjælland,3670,5,120,1966,729874.0,26-03-1994
+Skovvangsvej 2,Veksø Sjælland,3670,5,161,1995,275000.0,22-03-1994
+Skibsted 104,Veksø Sjælland,3670,5,144,1984,1044182.0,16-03-1994
+Engtoften 1,Veksø Sjælland,3670,5,142,1983,500000.0,09-03-1994
+Engtoften 8B,Veksø Sjælland,3670,4,92,1923,300000.0,09-03-1994
+Veksø Stationsvej 1,Veksø Sjælland,3670,5,176,1900,660000.0,17-02-1994
+Kelsted 202,Veksø Sjælland,3670,4,130,1986,1057500.0,27-01-1994
+Østersø 2,Veksø Sjælland,3670,5,123,1849,340000.0,23-12-1993
+Fyrrevang 5,Veksø Sjælland,3670,2,37,1967,90000.0,20-12-1993
+Kelsted 131,Veksø Sjælland,3670,4,127,1986,985100.0,14-12-1993
+Møllestræde 6,Veksø Sjælland,3670,4,118,1962,675000.0,27-10-1993
+Bjellekjærvej 14,Veksø Sjælland,3670,3,68,1850,385000.0,12-09-1993
+Kelsted 229,Veksø Sjælland,3670,4,124,1984,985000.0,31-08-1993
+Kelsted 145,Veksø Sjælland,3670,4,142,1986,1045000.0,29-07-1993
+Thorkildgårdsvej 6,Veksø Sjælland,3670,6,142,1954,400000.0,26-07-1993
+Damvadvej 40,Veksø Sjælland,3670,5,152,1968,967450.0,16-07-1993
+Korshøj 104,Veksø Sjælland,3670,8,211,1986,1020000.0,04-07-1993
+Brunhøjvej 5,Veksø Sjælland,3670,7,181,1970,890000.0,02-07-1993
+Hovevej 47,Veksø Sjælland,3670,3,106,1960,540000.0,27-06-1993
+Korshøj 218,Veksø Sjælland,3670,6,183,1986,1450000.0,01-05-1993
+Knudsbjergvej 21,Veksø Sjælland,3670,7,199,1960,890000.0,19-04-1993
+Bjørnebakken 7,Veksø Sjælland,3670,5,173,1961,271265.0,15-03-1993
+Frederikssundsvej 10,Veksø Sjælland,3670,5,184,1976,1800000.0,23-02-1993
+Agervej 5,Veksø Sjælland,3670,5,122,1965,685000.0,10-02-1993
+Brøndsted 313,Veksø Sjælland,3670,4,140,1987,870000.0,21-12-1992
+Veksø Bygade 10,Veksø Sjælland,3670,7,204,1900,835000.0,01-12-1992
+Hovevej 61,Veksø Sjælland,3670,5,148,1875,2485272.0,08-09-1992
+Fugleøjevej 13,Veksø Sjælland,3670,8,188,1959,550000.0,17-08-1992
+Løjesøvej 16,Veksø Sjælland,3670,4,173,1984,675652.0,12-08-1992
+Brøndsted 306,Veksø Sjælland,3670,4,130,1992,230000.0,08-07-1992
+Bjørnebakken 10,Veksø Sjælland,3670,6,136,1962,685000.0,11-06-1992
+Kastanievang 10,Veksø Sjælland,3670,6,115,1971,306000.0,03-05-1992
+Kelsted 307,Veksø Sjælland,3670,4,122,1984,462012.0,23-04-1992

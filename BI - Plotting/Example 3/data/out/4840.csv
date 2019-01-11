@@ -1,0 +1,1762 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Egensevej 66,Nørre Alslev,4840,4,89,1941,175000.0,01-05-2017
+Skovvej 60,Nørre Alslev,4840,4,96,1960,545000.0,12-04-2017
+Vedby Vesterskovvej 9,Nørre Alslev,4840,7,140,1900,41310.0,29-03-2017
+Skernevej 14,Nørre Alslev,4840,5,100,1912,234500.0,29-03-2017
+Vigvej 54,Nørre Alslev,4840,4,166,1963,460000.0,29-03-2017
+Gåbense Strandvej 59B,Nørre Alslev,4840,4,130,1985,2330000.0,28-03-2017
+Vigvej 20,Nørre Alslev,4840,5,112,1958,362500.0,20-03-2017
+Drosselvej 12,Nørre Alslev,4840,4,128,1976,800000.0,14-03-2017
+Lundbyvej 35,Nørre Alslev,4840,3,80,1904,195000.0,01-03-2017
+Egensevej 5,Nørre Alslev,4840,3,113,1900,73000.0,01-03-2017
+Nykøbingvej 42,Nørre Alslev,4840,3,86,1947,150000.0,28-02-2017
+Kippingevej 29,Nørre Alslev,4840,2,60,2015,200000.0,27-02-2017
+Vigvej 52,Nørre Alslev,4840,3,94,1935,180000.0,27-02-2017
+Ertebøllevej 6,Nørre Alslev,4840,5,154,2007,1795000.0,27-02-2017
+Smedevej 10,Nørre Alslev,4840,15,399,1888,7156000.0,24-02-2017
+Lyttehøjvej 34,Nørre Alslev,4840,3,117,1900,245000.0,23-02-2017
+Præstevænget 1,Nørre Alslev,4840,2,64,1965,425000.0,22-02-2017
+Svinget 19A,Nørre Alslev,4840,4,140,1970,860000.0,20-02-2017
+Østervej 42,Nørre Alslev,4840,3,125,1966,245000.0,17-02-2017
+Ellehammersvej 20A,Nørre Alslev,4840,3,79,1988,375000.0,16-02-2017
+Svinget 35,Nørre Alslev,4840,4,136,1967,1295000.0,15-02-2017
+Spurvevej 11,Nørre Alslev,4840,4,115,1976,750000.0,14-02-2017
+Sølvgade 22,Nørre Alslev,4840,7,188,1976,1285000.0,10-02-2017
+Godthåbsvej 1,Nørre Alslev,4840,4,107,1960,300000.0,09-02-2017
+Bøstrupvej 7,Nørre Alslev,4840,4,123,1978,998000.0,09-02-2017
+Herbergervej 3,Nørre Alslev,4840,7,150,1891,375000.0,08-02-2017
+Nykøbingvej 34,Nørre Alslev,4840,4,130,1964,364000.0,08-02-2017
+Gyldenbjergvej 51,Nørre Alslev,4840,5,141,1898,325000.0,06-02-2017
+Nr Alslev Nygade 11B,Nørre Alslev,4840,1,65,1910,170000.0,03-02-2017
+Storstrømsvej 57,Nørre Alslev,4840,4,100,1897,145000.0,31-01-2017
+Skovby Tværvej 22,Nørre Alslev,4840,4,95,1947,575000.0,31-01-2017
+Skovby Tværvej 52,Nørre Alslev,4840,8,272,1727,500000.0,27-01-2017
+Nr Alslev Nygade 11C,Nørre Alslev,4840,3,120,1910,200000.0,26-01-2017
+Krokusvej 16,Nørre Alslev,4840,4,135,1979,383373.0,20-01-2017
+Skovvænget 25,Nørre Alslev,4840,5,177,1975,1685000.0,17-01-2017
+Nyskolevej 38,Nørre Alslev,4840,4,72,1890,700000.0,10-01-2017
+Anisvænget 5,Nørre Alslev,4840,4,117,1984,1125000.0,21-12-2016
+Ravnse Byvej 10,Nørre Alslev,4840,5,255,1931,2400000.0,19-12-2016
+Storstrømsvej 110,Nørre Alslev,4840,7,160,1914,445000.0,19-12-2016
+Østervej 21,Nørre Alslev,4840,4,118,1906,295000.0,15-12-2016
+Nr Vedby Kirkevej 7,Nørre Alslev,4840,3,81,1940,465000.0,15-12-2016
+Vigvej 99,Nørre Alslev,4840,7,119,1978,600000.0,15-12-2016
+Ertebøllevej 16,Nørre Alslev,4840,6,189,2008,1870000.0,13-12-2016
+Riserupvej 52,Nørre Alslev,4840,5,176,1900,250000.0,08-12-2016
+Skernevej 22,Nørre Alslev,4840,3,80,1968,370000.0,07-12-2016
+Godthåbsvej 5,Nørre Alslev,4840,9,202,1966,5082500.0,01-12-2016
+Følfodvej 6,Nørre Alslev,4840,4,115,1981,825000.0,29-11-2016
+Nr Alslev Nygade 26,Nørre Alslev,4840,3,63,1925,120000.0,24-11-2016
+Skerne Gade 29,Nørre Alslev,4840,10,132,1880,11861000.0,22-11-2016
+Rasmus Sigvardtsvej 7,Nørre Alslev,4840,3,139,1987,1000000.0,21-11-2016
+Nyskolevej 8,Nørre Alslev,4840,3,76,1877,395000.0,19-11-2016
+Fasanvej 14,Nørre Alslev,4840,4,131,1977,1040000.0,18-11-2016
+Nr Alslev Parkvej 1,Nørre Alslev,4840,3,119,1960,935000.0,09-11-2016
+Skovvænget 32,Nørre Alslev,4840,5,148,1973,1095000.0,07-11-2016
+Stubbekøbingvej 47,Nørre Alslev,4840,4,84,1895,100000.0,07-11-2016
+Steffensmindevej 7,Nørre Alslev,4840,4,100,1900,59063.0,26-10-2016
+Nyvej 11,Nørre Alslev,4840,4,111,1964,460000.0,24-10-2016
+Lyttehøjvej 26,Nørre Alslev,4840,4,90,1890,563000.0,24-10-2016
+"Nr Alslev Nygade 11A, ST",Nørre Alslev,4840,3,78,1910,375000.0,13-10-2016
+Kastanievej 4,Nørre Alslev,4840,4,112,1906,337500.0,12-10-2016
+Nr Alslev Syrenvej 17,Nørre Alslev,4840,3,96,1974,550000.0,12-10-2016
+Nr Alslev Vestergade 12,Nørre Alslev,4840,2,102,1964,715000.0,12-10-2016
+"Nr Alslev Langgade 2D, 1",Nørre Alslev,4840,3,115,1900,675000.0,12-10-2016
+Riserupvej 10,Nørre Alslev,4840,7,245,1903,1850000.0,11-10-2016
+Storstrømsvej 120,Nørre Alslev,4840,4,127,1939,200000.0,07-10-2016
+Nr Alslev Langgade 25A,Nørre Alslev,4840,4,45,1902,595000.0,05-10-2016
+Gåbense Strandvej 27,Nørre Alslev,4840,3,86,1938,739126.0,05-10-2016
+Krokusvej 17,Nørre Alslev,4840,6,177,1979,1625000.0,04-10-2016
+Vålse Møllevej 6,Nørre Alslev,4840,7,211,1908,1500000.0,26-09-2016
+Skovby Tværvej 23,Nørre Alslev,4840,6,93,1940,60000.0,26-09-2016
+Brarupvej 15,Nørre Alslev,4840,3,125,1852,1070000.0,21-09-2016
+Skovvænget 20,Nørre Alslev,4840,5,156,1973,725000.0,20-09-2016
+Ravnsevej 22,Nørre Alslev,4840,4,100,1960,395000.0,12-09-2016
+Sølvgade 36,Nørre Alslev,4840,6,165,1907,450000.0,12-09-2016
+Sundbyvej 42,Nørre Alslev,4840,6,150,1946,130000.0,07-09-2016
+Skolegade 7,Nørre Alslev,4840,4,130,1966,950000.0,05-09-2016
+Dæmningsvej 3,Nørre Alslev,4840,5,180,1902,785000.0,05-09-2016
+Ellehammersvej 18A,Nørre Alslev,4840,3,79,1988,650000.0,29-08-2016
+Nr Alslev Syrenvej 24,Nørre Alslev,4840,4,91,1972,430000.0,23-08-2016
+Riserupvej 19,Nørre Alslev,4840,4,95,1777,330000.0,22-08-2016
+Kastanievej 5,Nørre Alslev,4840,4,129,1948,475000.0,11-08-2016
+Storstrømsvej 73,Nørre Alslev,4840,5,158,1910,900000.0,10-08-2016
+Tværgade 3,Nørre Alslev,4840,7,141,1910,1080000.0,08-08-2016
+Vedby Vesterskovvej 11,Nørre Alslev,4840,3,107,1887,620000.0,31-07-2016
+Orehoved Vinkelvej 6,Nørre Alslev,4840,4,118,1965,517500.0,27-07-2016
+Baunehøjen 11,Nørre Alslev,4840,3,134,1910,350000.0,26-07-2016
+Herthadalvej 8,Nørre Alslev,4840,4,113,1982,900000.0,15-07-2016
+Orehoved Langgade 38,Nørre Alslev,4840,2,80,1963,500000.0,14-07-2016
+Skovvej 35A,Nørre Alslev,4840,2,54,1958,571534.0,07-07-2016
+Sortkammervej 7,Nørre Alslev,4840,3,84,1900,675000.0,24-06-2016
+Egensevej 56,Nørre Alslev,4840,3,115,1895,425000.0,14-06-2016
+Gåbensevej 30,Nørre Alslev,4840,3,84,1900,150000.0,07-06-2016
+Skjoldmosevej 6,Nørre Alslev,4840,5,134,1912,450000.0,02-06-2016
+Gåbensevej 60,Nørre Alslev,4840,4,115,1936,450000.0,31-05-2016
+Tømrervænget 2B,Nørre Alslev,4840,2,80,1991,500000.0,24-05-2016
+Kippingevej 12,Nørre Alslev,4840,5,155,1877,336568.0,12-05-2016
+Ravnsevej 4,Nørre Alslev,4840,5,162,1934,555000.0,09-05-2016
+Svinget 16,Nørre Alslev,4840,4,135,1970,995000.0,02-05-2016
+Egensevej 52,Nørre Alslev,4840,4,138,1777,495000.0,29-04-2016
+Ertebøllevej 24,Nørre Alslev,4840,5,147,2006,748500.0,29-04-2016
+Miljøvænget 5,Nørre Alslev,4840,4,125,1988,1025000.0,29-04-2016
+Frihedsmindevej 24,Nørre Alslev,4840,4,151,1954,400000.0,26-04-2016
+Spurvevej 6,Nørre Alslev,4840,6,146,1976,803000.0,25-04-2016
+Cikorievænget 4,Nørre Alslev,4840,4,134,2004,1250000.0,25-04-2016
+Egelev Gade 1,Nørre Alslev,4840,3,67,1880,440000.0,21-04-2016
+Kippingevej 16,Nørre Alslev,4840,5,132,1925,336516.0,20-04-2016
+Storstrømsvej 77,Nørre Alslev,4840,7,165,1901,90000.0,07-04-2016
+Skovvænget 24,Nørre Alslev,4840,4,166,1973,1347000.0,05-04-2016
+Nr Alslev Birkevej 16,Nørre Alslev,4840,4,130,1970,1145000.0,04-04-2016
+Svinget 5,Nørre Alslev,4840,3,84,1968,335000.0,04-04-2016
+Stubbekøbingvej 7,Nørre Alslev,4840,8,348,1896,2010000.0,04-04-2016
+Stubbekøbingvej 5,Nørre Alslev,4840,3,124,1967,500000.0,04-04-2016
+Nykøbingvej 36,Nørre Alslev,4840,4,132,1932,795000.0,01-04-2016
+Gyldenbjergvej 29,Nørre Alslev,4840,4,135,1965,440000.0,29-03-2016
+Langesvej 9,Nørre Alslev,4840,4,152,1993,830000.0,22-03-2016
+Svinget 19,Nørre Alslev,4840,3,83,1970,370000.0,17-03-2016
+Nyskolevej 7,Nørre Alslev,4840,6,160,1931,708000.0,02-03-2016
+Østervej 26,Nørre Alslev,4840,4,62,1887,10000.0,01-03-2016
+Gyldenbjergvej 24,Nørre Alslev,4840,3,89,1980,635000.0,01-03-2016
+Tværvej 6,Nørre Alslev,4840,4,122,1930,500000.0,23-02-2016
+Gyldenbjergvej 7,Nørre Alslev,4840,5,120,1903,675000.0,22-02-2016
+Egelev Mosevej 4,Nørre Alslev,4840,4,105,1870,725000.0,17-02-2016
+Nyvej 5,Nørre Alslev,4840,3,125,1958,350000.0,15-02-2016
+Dæmningsvej 17,Nørre Alslev,4840,3,144,1865,157280.0,30-01-2016
+Ravnsevej 11,Nørre Alslev,4840,5,269,1900,635000.0,24-01-2016
+Baunehøjen 13,Nørre Alslev,4840,3,77,1873,174000.0,13-01-2016
+Nr Vedbyvej 2A,Nørre Alslev,4840,4,130,1890,475000.0,13-01-2016
+Skovbyvej 31,Nørre Alslev,4840,5,250,1929,150000.0,29-12-2015
+Ravnse Byvej 1,Nørre Alslev,4840,8,225,1854,650000.0,28-12-2015
+Svinget 11,Nørre Alslev,4840,3,84,1970,475000.0,21-12-2015
+Orehoved Langgade 5,Nørre Alslev,4840,3,107,1918,239300.0,18-12-2015
+Gåbense Strandvej 57,Nørre Alslev,4840,5,129,1902,350000.0,17-12-2015
+Skerne Gade 4,Nørre Alslev,4840,3,76,1951,435000.0,12-12-2015
+Nr Alslev Birkevej 5,Nørre Alslev,4840,4,121,1972,425000.0,09-12-2015
+Bellisvej 7,Nørre Alslev,4840,4,105,1979,448000.0,08-12-2015
+Vigvej 18,Nørre Alslev,4840,5,112,1960,450000.0,08-12-2015
+Havnsøvej 12,Nørre Alslev,4840,8,245,1864,250000.0,04-12-2015
+Riserupvej 17,Nørre Alslev,4840,5,138,1913,725000.0,30-11-2015
+Nr Alslev Langgade 28,Nørre Alslev,4840,6,155,1902,250000.0,27-11-2015
+Smedevej 6,Nørre Alslev,4840,5,154,2005,1650000.0,24-11-2015
+Gåbensevej 24,Nørre Alslev,4840,7,190,1780,1351000.0,21-11-2015
+Skerne Skovvej 4,Nørre Alslev,4840,8,211,1873,1895000.0,13-11-2015
+Egense Strandvej 1,Nørre Alslev,4840,3,197,1800,250000.0,11-11-2015
+Brovænget 14,Nørre Alslev,4840,3,65,1951,360000.0,09-11-2015
+Kippingevej 20,Nørre Alslev,4840,4,84,1870,250000.0,30-10-2015
+Gåbensevej 33,Nørre Alslev,4840,2,80,1948,200000.0,27-10-2015
+Bregnevej 11,Nørre Alslev,4840,5,159,1973,920000.0,24-10-2015
+Nr Alslev Vestergade 22,Nørre Alslev,4840,4,120,1968,340000.0,22-10-2015
+Skovbyvej 22,Nørre Alslev,4840,4,115,1877,216960.0,21-10-2015
+Skovby Tværvej 16,Nørre Alslev,4840,8,192,1870,270000.0,20-10-2015
+Nr Vedbyvej 9,Nørre Alslev,4840,15,450,1884,1925000.0,19-10-2015
+Vedby Vesterskovvej 3,Nørre Alslev,4840,8,203,1877,1350000.0,08-10-2015
+Stubbekøbingvej 11,Nørre Alslev,4840,4,102,1934,110000.0,07-10-2015
+Gransangervej 5,Nørre Alslev,4840,6,176,1976,1000000.0,05-10-2015
+Følfodvej 1,Nørre Alslev,4840,5,120,1982,775000.0,30-09-2015
+Anemonevej 2,Nørre Alslev,4840,3,85,1985,500000.0,28-09-2015
+Skovvej 20,Nørre Alslev,4840,4,95,1947,565000.0,23-09-2015
+Gåbense Strandvej 9,Nørre Alslev,4840,5,116,1950,105341.0,23-09-2015
+Riserupvej 13,Nørre Alslev,4840,7,154,1909,665000.0,18-09-2015
+Kastanievej 1,Nørre Alslev,4840,4,70,1850,145000.0,08-09-2015
+Nr Alslev Nygade 11D,Nørre Alslev,4840,4,129,1976,50000.0,08-09-2015
+Smedevej 3,Nørre Alslev,4840,5,103,1902,500000.0,31-08-2015
+Vålse Vesterskovvej 21,Nørre Alslev,4840,9,188,1801,612000.0,27-08-2015
+Gyldenbjergvej 20,Nørre Alslev,4840,5,148,1977,915000.0,26-08-2015
+Dæmningsvej 12,Nørre Alslev,4840,6,195,1877,545445.0,26-08-2015
+Skovvænget 4,Nørre Alslev,4840,3,110,1974,595000.0,21-08-2015
+Anisvænget 7,Nørre Alslev,4840,4,142,2007,1394000.0,19-08-2015
+Orehoved Langgade 36,Nørre Alslev,4840,4,141,1927,353000.0,19-08-2015
+Skerne Gade 15,Nørre Alslev,4840,8,241,1802,950000.0,19-08-2015
+Lundbyvej 55,Nørre Alslev,4840,2,54,1900,330000.0,18-08-2015
+Vålse Møllevej 1,Nørre Alslev,4840,5,96,1959,395000.0,13-08-2015
+Gyldenbjergvej 53,Nørre Alslev,4840,3,239,1924,583000.0,12-08-2015
+Skovby Tværvej 54,Nørre Alslev,4840,3,120,1870,370000.0,12-08-2015
+Langesvej 6,Nørre Alslev,4840,4,142,1958,420000.0,05-08-2015
+Egelev Gade 10,Nørre Alslev,4840,4,106,1897,111000.0,05-08-2015
+Vigvej 68,Nørre Alslev,4840,3,115,1989,420000.0,04-08-2015
+Gåbense Strandvej 8,Nørre Alslev,4840,5,94,1926,391051.0,29-07-2015
+Gåbensevej 37,Nørre Alslev,4840,7,210,1976,1225000.0,23-07-2015
+Ulriksdalsvej 16,Nørre Alslev,4840,10,298,1888,1850000.0,20-07-2015
+Gårdrækkevej 1,Nørre Alslev,4840,8,161,1903,200000.0,09-07-2015
+Alstrupvej 33,Nørre Alslev,4840,4,153,1944,425000.0,02-07-2015
+Krokusvej 28,Nørre Alslev,4840,4,130,1980,675000.0,01-07-2015
+Ravnse Skovvej 17,Nørre Alslev,4840,6,250,1986,7500000.0,01-07-2015
+Nr Alslev Nygade 6,Nørre Alslev,4840,8,195,1920,500000.0,01-07-2015
+Alstrup Skovvej 8,Nørre Alslev,4840,4,125,1912,300000.0,30-06-2015
+Smedevej 8,Nørre Alslev,4840,3,72,1777,975000.0,30-06-2015
+Nr Alslev Langgade 54,Nørre Alslev,4840,6,131,1939,760000.0,24-06-2015
+Kredsvej 3,Nørre Alslev,4840,7,202,1890,750000.0,23-06-2015
+Løvsangervej 4,Nørre Alslev,4840,4,123,1978,600000.0,20-06-2015
+Alstrup Strandvej 6,Nørre Alslev,4840,6,212,1968,2495000.0,19-06-2015
+Nr Grimmelstrupvej 19,Nørre Alslev,4840,4,126,1897,500000.0,16-06-2015
+Tårupvej 1A,Nørre Alslev,4840,4,140,2007,6200.0,16-06-2015
+Spurvevej 4,Nørre Alslev,4840,4,135,1976,480000.0,09-06-2015
+Nr Grimmelstrupvej 7,Nørre Alslev,4840,3,115,1860,60000.0,09-06-2015
+Vigvej 81,Nørre Alslev,4840,4,120,1910,145000.0,08-06-2015
+Storstrømsvej 78,Nørre Alslev,4840,3,57,1887,25000.0,05-06-2015
+Kæpgårdsvej 17,Nørre Alslev,4840,6,110,1976,375000.0,04-06-2015
+Lundbyvej 54,Nørre Alslev,4840,2,80,1900,42500.0,04-06-2015
+Tømrervænget 1A,Nørre Alslev,4840,2,82,1990,665000.0,28-05-2015
+Alstrupvej 6,Nørre Alslev,4840,4,122,1931,182500.0,27-05-2015
+Storstrømsvej 95,Nørre Alslev,4840,6,245,1900,800000.0,25-05-2015
+Nr Alslev Langgade 62A,Nørre Alslev,4840,3,99,1963,331000.0,24-05-2015
+Ulriksdalsvej 3,Nørre Alslev,4840,5,250,1910,2000000.0,24-05-2015
+Ravnsevej 32,Nørre Alslev,4840,5,126,1953,485000.0,16-05-2015
+Skernevej 16,Nørre Alslev,4840,3,130,1918,425000.0,12-05-2015
+Skovvej 41,Nørre Alslev,4840,6,156,1917,300000.0,05-05-2015
+Stubvej 1,Nørre Alslev,4840,5,172,1827,294000.0,01-05-2015
+Baldrianvænget 7,Nørre Alslev,4840,4,129,1986,660000.0,29-04-2015
+Skovby Tværvej 24,Nørre Alslev,4840,5,180,1875,740000.0,24-04-2015
+Vigvej 85,Nørre Alslev,4840,4,116,1925,507646.0,22-04-2015
+Orehoved Vinkelvej 8,Nørre Alslev,4840,4,102,1937,400000.0,22-04-2015
+Nr Alslev Nygade 15,Nørre Alslev,4840,6,141,1925,845000.0,20-04-2015
+Nr Alslev Syrenvej 5,Nørre Alslev,4840,4,96,1973,450000.0,08-04-2015
+Nyskolevej 34,Nørre Alslev,4840,5,150,1900,394000.0,08-04-2015
+Orehoved Stationsvej 5,Nørre Alslev,4840,4,181,1974,580262.0,08-04-2015
+Steffensmindevej 3B,Nørre Alslev,4840,6,232,1900,1250000.0,04-04-2015
+Riserupvej 36,Nørre Alslev,4840,8,196,1904,466000.0,01-04-2015
+Ertebøllevej 4,Nørre Alslev,4840,4,134,2011,1735000.0,31-03-2015
+Peter Hviidsvej 8,Nørre Alslev,4840,5,99,1870,450000.0,23-03-2015
+Riserupvej 42,Nørre Alslev,4840,6,186,1905,1275000.0,18-03-2015
+Nr Alslev Nygade 22,Nørre Alslev,4840,4,95,1924,425000.0,11-03-2015
+Ulriksdalsvej 14,Nørre Alslev,4840,2,98,1888,275000.0,10-03-2015
+Anemonevej 14,Nørre Alslev,4840,3,83,1985,500000.0,09-03-2015
+Lyttehøjvej 36,Nørre Alslev,4840,3,100,1837,149000.0,06-03-2015
+Fasanvej 12,Nørre Alslev,4840,4,172,1977,845000.0,25-02-2015
+Grynsevej 8,Nørre Alslev,4840,9,201,1936,12030500.0,24-02-2015
+Stubbekøbingvej 71,Nørre Alslev,4840,8,216,1897,1100000.0,12-02-2015
+Orehoved Langgade 21,Nørre Alslev,4840,5,133,2006,466000.0,06-02-2015
+Orehoved Vestergade 3,Nørre Alslev,4840,3,76,1960,259000.0,04-02-2015
+Orehoved Langgade 33,Nørre Alslev,4840,4,85,1900,376000.0,29-01-2015
+Bogfinkevej 3,Nørre Alslev,4840,4,130,1978,685000.0,27-01-2015
+Vigvej 17,Nørre Alslev,4840,7,264,1900,695000.0,22-01-2015
+Nr Alslev Jernbanegade 9,Nørre Alslev,4840,2,139,1880,575000.0,22-01-2015
+Vigvej 37,Nørre Alslev,4840,10,329,1870,604217.0,19-01-2015
+Sølvgade 17,Nørre Alslev,4840,6,140,1916,295000.0,14-01-2015
+Kastanievej 13,Nørre Alslev,4840,5,130,1890,100000.0,13-01-2015
+Anemonevej 4,Nørre Alslev,4840,4,98,1984,293250.0,13-01-2015
+Østervej 90,Nørre Alslev,4840,4,180,1931,9967000.0,08-01-2015
+Engkærvej 5,Nørre Alslev,4840,4,140,2013,3088000.0,08-01-2015
+Nyskolevej 10,Nørre Alslev,4840,4,120,1943,126817.0,07-01-2015
+Svinget 22,Nørre Alslev,4840,5,147,1970,725000.0,05-01-2015
+Orehoved Stationsvej 1,Nørre Alslev,4840,5,167,1940,290000.0,01-01-2015
+Havnsøvej 4,Nørre Alslev,4840,4,70,1900,1224000.0,30-12-2014
+Skerne Gade 3,Nørre Alslev,4840,8,200,1911,750000.0,29-12-2014
+Gåbense Strandvej 7,Nørre Alslev,4840,4,125,1955,860000.0,21-12-2014
+Nykøbingvej 40,Nørre Alslev,4840,5,145,1896,190000.0,18-12-2014
+Nykøbingvej 72,Nørre Alslev,4840,5,127,1915,300000.0,01-12-2014
+Nyvej 13,Nørre Alslev,4840,4,112,1967,290000.0,29-11-2014
+Gyldenbjergvej 18,Nørre Alslev,4840,3,70,1957,175000.0,27-11-2014
+Nykøbingvej 68,Nørre Alslev,4840,7,157,1777,150000.0,26-11-2014
+Nr Alslev Syrenvej 2,Nørre Alslev,4840,3,72,1971,495000.0,20-11-2014
+Nr Alslev Syrenvej 11,Nørre Alslev,4840,3,81,1974,425000.0,20-11-2014
+Nr Vedby Kirkevej 18,Nørre Alslev,4840,7,375,2016,100000.0,18-11-2014
+Skovbyvej 13,Nørre Alslev,4840,3,80,1946,150000.0,18-11-2014
+Bjergvej 12,Nørre Alslev,4840,7,227,1912,1000000.0,11-11-2014
+Skerrisvej 17,Nørre Alslev,4840,4,147,1965,795000.0,03-11-2014
+"Nr Alslev Langgade 47, 1",Nørre Alslev,4840,4,72,1922,650000.0,01-11-2014
+Svinget 15,Nørre Alslev,4840,4,84,1970,250000.0,30-10-2014
+Gåbense Strandvej 4,Nørre Alslev,4840,3,116,1968,690000.0,30-10-2014
+Stubbekøbingvej 55,Nørre Alslev,4840,4,138,1850,275000.0,30-10-2014
+Østervej 86,Nørre Alslev,4840,4,173,1779,4000000.0,28-10-2014
+Bogfinkevej 2,Nørre Alslev,4840,4,159,1975,740000.0,23-10-2014
+Svinget 27,Nørre Alslev,4840,4,128,1970,410000.0,10-10-2014
+Skerne Gade 23,Nørre Alslev,4840,6,176,1912,200000.0,01-10-2014
+Skovby Tværvej 33,Nørre Alslev,4840,3,134,1999,750000.0,26-09-2014
+Skovvænget 36,Nørre Alslev,4840,4,112,1977,650000.0,16-09-2014
+Riserupvej 38,Nørre Alslev,4840,4,77,1860,120000.0,15-09-2014
+Vigvej 25,Nørre Alslev,4840,3,119,1964,344240.0,10-09-2014
+Alstrup Strandvej 9,Nørre Alslev,4840,4,76,2010,700000.0,08-09-2014
+Orenæs Skovvej 6,Nørre Alslev,4840,5,88,1877,185000.0,01-09-2014
+Knud Olsensgade 16,Nørre Alslev,4840,3,90,1967,500000.0,29-08-2014
+Skovby Tværvej 25,Nørre Alslev,4840,5,141,1827,240000.0,28-08-2014
+Nr Alslev Vestergade 25,Nørre Alslev,4840,3,144,1967,695000.0,21-08-2014
+Vigvej 71,Nørre Alslev,4840,10,314,1865,1400000.0,21-08-2014
+Orehoved Langgade 26,Nørre Alslev,4840,6,129,1900,108002.0,13-08-2014
+Havnegade 6,Nørre Alslev,4840,6,135,1901,600000.0,12-08-2014
+Lyttehøjvej 44,Nørre Alslev,4840,3,96,1960,185000.0,12-08-2014
+Strynøvænget 1,Nørre Alslev,4840,5,166,1978,895000.0,29-07-2014
+Svinget 29,Nørre Alslev,4840,4,142,1971,372000.0,21-07-2014
+Rasmus Sigvardtsvej 15,Nørre Alslev,4840,5,182,1927,1675000.0,14-07-2014
+Svinget 23,Nørre Alslev,4840,4,117,1969,370000.0,14-07-2014
+Bogfinkevej 5,Nørre Alslev,4840,4,148,1975,735000.0,10-07-2014
+Skovvej 13,Nørre Alslev,4840,4,100,1946,422000.0,09-07-2014
+Møllebankevej 2,Nørre Alslev,4840,7,180,1912,750000.0,09-07-2014
+Gåbense Strandvej 20,Nørre Alslev,4840,4,94,1910,800000.0,04-07-2014
+Havnegade 10,Nørre Alslev,4840,4,98,1877,400000.0,02-07-2014
+Strynøvænget 5,Nørre Alslev,4840,4,154,1981,620000.0,01-07-2014
+Følfodvej 11,Nørre Alslev,4840,4,140,1980,755000.0,27-06-2014
+Alstrup Strandvej 1,Nørre Alslev,4840,4,118,1900,200000.0,23-06-2014
+Nr Alslev Jernbanegade 11,Nørre Alslev,4840,10,165,1894,25000.0,20-06-2014
+Gåbensevej 17B,Nørre Alslev,4840,4,105,1890,375000.0,10-06-2014
+Stubbekøbingvej 48,Nørre Alslev,4840,8,153,1870,16866000.0,05-06-2014
+Orehoved Langgade 49,Nørre Alslev,4840,5,90,1937,700000.0,03-06-2014
+Bøstrupvej 11,Nørre Alslev,4840,4,131,1976,658475.0,26-05-2014
+Nykøbingvej 15,Nørre Alslev,4840,2,97,1949,500000.0,26-05-2014
+Nr Alslev Syrenvej 23,Nørre Alslev,4840,3,81,1975,371300.0,22-05-2014
+Gårdrækkevej 6,Nørre Alslev,4840,6,318,1877,1050000.0,07-05-2014
+Skovbyvej 18,Nørre Alslev,4840,9,286,1847,504000.0,05-05-2014
+Stubbekøbingvej 59,Nørre Alslev,4840,9,259,1980,504000.0,05-05-2014
+Skovby Tværvej 34,Nørre Alslev,4840,2,80,1900,290000.0,30-04-2014
+Løvsangervej 3,Nørre Alslev,4840,5,158,1978,1000000.0,25-04-2014
+Vigvej 40,Nørre Alslev,4840,4,75,1900,125000.0,22-04-2014
+Herbergervej 15,Nørre Alslev,4840,5,110,1923,540000.0,22-04-2014
+Gåbensevej 76,Nørre Alslev,4840,3,125,1954,108315.0,16-04-2014
+Gåbensevej 69,Nørre Alslev,4840,8,152,1937,380000.0,09-04-2014
+Ravnsevej 12,Nørre Alslev,4840,6,182,1890,1050000.0,09-04-2014
+Gåbense Strandvej 61A,Nørre Alslev,4840,3,161,2006,3000000.0,09-04-2014
+Vigvej 80,Nørre Alslev,4840,7,186,1877,925000.0,07-04-2014
+Gyldenbjergvej 22,Nørre Alslev,4840,8,359,1973,887750.0,05-04-2014
+Orehoved Langgade 2,Nørre Alslev,4840,3,110,1907,270994.0,04-04-2014
+Østervej 54,Nørre Alslev,4840,4,118,1964,390000.0,02-04-2014
+Nr Alslev Syrenvej 19,Nørre Alslev,4840,3,81,1974,590000.0,31-03-2014
+Egensevej 38,Nørre Alslev,4840,4,141,1700,395000.0,26-03-2014
+Stubbekøbingvej 69,Nørre Alslev,4840,3,131,1942,109693.0,26-03-2014
+Skovvej 23,Nørre Alslev,4840,5,136,1947,600000.0,24-03-2014
+Nyvej 6,Nørre Alslev,4840,6,148,2005,1485000.0,19-03-2014
+Riserupvej 28,Nørre Alslev,4840,6,165,1910,320000.0,19-03-2014
+Nr Alslev Jernbanegade 2,Nørre Alslev,4840,6,84,1917,330000.0,12-03-2014
+Frihedsmindevej 19,Nørre Alslev,4840,6,160,1875,2724000.0,11-03-2014
+Orehoved Langgade 17,Nørre Alslev,4840,5,160,1983,1020000.0,10-03-2014
+Orehoved Langgade 37C,Nørre Alslev,4840,4,120,1973,2300000.0,10-03-2014
+Lyttehøjvej 10,Nørre Alslev,4840,6,115,1934,400000.0,08-03-2014
+Frihedsmindevej 15,Nørre Alslev,4840,5,284,1870,595000.0,05-03-2014
+Skovvej 15,Nørre Alslev,4840,4,107,1952,169000.0,27-02-2014
+Vennerslundsvej 2,Nørre Alslev,4840,6,136,1959,194000.0,26-02-2014
+Krokusvej 11,Nørre Alslev,4840,6,204,1978,1045000.0,19-02-2014
+"Nr Alslev Langgade 2A, ST",Nørre Alslev,4840,3,102,1900,650000.0,18-02-2014
+Bjergvej 40,Nørre Alslev,4840,4,140,1912,123500.0,12-02-2014
+Vigvej 76,Nørre Alslev,4840,3,92,1956,180000.0,11-02-2014
+Anemonevej 1,Nørre Alslev,4840,3,85,1983,400000.0,04-02-2014
+Nr Alslev Parkvej 4,Nørre Alslev,4840,3,123,1959,550000.0,27-01-2014
+Alstrupvej 28,Nørre Alslev,4840,10,327,1898,350000.0,16-01-2014
+Gåbense Strandvej 37,Nørre Alslev,4840,3,177,1908,800000.0,04-01-2014
+Kippingevej 10A,Nørre Alslev,4840,3,92,1905,310000.0,02-01-2014
+Rasmus Sigvardtsvej 19,Nørre Alslev,4840,5,120,1916,900000.0,12-12-2013
+Skjoldmosevej 16,Nørre Alslev,4840,6,168,1920,7450000.0,09-12-2013
+Bjergvej 38,Nørre Alslev,4840,2,95,1917,85906.0,27-11-2013
+Riserupvej 27,Nørre Alslev,4840,7,161,1936,150000.0,24-11-2013
+Nr Alslev Vestergade 14,Nørre Alslev,4840,4,133,1964,525000.0,19-11-2013
+Skovbyvej 11,Nørre Alslev,4840,5,133,1959,475000.0,18-11-2013
+Storstrømsvej 84,Nørre Alslev,4840,4,108,1894,125000.0,01-11-2013
+Vigvej 87,Nørre Alslev,4840,5,166,1926,900000.0,31-10-2013
+Ertebøllevej 14,Nørre Alslev,4840,5,145,2006,1200000.0,30-10-2013
+Orehoved Langgade 31,Nørre Alslev,4840,4,138,1966,450000.0,24-10-2013
+Blichersvej 2,Nørre Alslev,4840,7,360,1847,6372700.0,23-10-2013
+Skovbyvej 6,Nørre Alslev,4840,5,165,1901,100000.0,21-10-2013
+Gyvelvej 4,Nørre Alslev,4840,4,151,1976,650000.0,11-10-2013
+Miljøvænget 8,Nørre Alslev,4840,5,175,2006,1500000.0,08-10-2013
+Dæmningsvej 1,Nørre Alslev,4840,5,90,1900,125000.0,30-09-2013
+Lundbyvej 46,Nørre Alslev,4840,7,296,1874,1850000.0,20-09-2013
+Frihedsmindevej 30,Nørre Alslev,4840,3,100,1964,255000.0,11-09-2013
+Gåbense Strandvej 29,Nørre Alslev,4840,4,107,1947,850000.0,09-09-2013
+Gåbensevej 26,Nørre Alslev,4840,6,148,1930,760000.0,04-09-2013
+Lyttehøjvej 38,Nørre Alslev,4840,3,90,1900,510000.0,04-09-2013
+Engkærvej 2,Nørre Alslev,4840,5,159,1897,1400000.0,03-09-2013
+Alstrup Skovvej 6,Nørre Alslev,4840,4,135,1930,25000.0,30-08-2013
+Skerrisvej 5,Nørre Alslev,4840,6,171,1967,900000.0,28-08-2013
+Skovvej 17,Nørre Alslev,4840,4,98,1957,450000.0,27-08-2013
+Gåbensevej 54,Nørre Alslev,4840,4,98,1933,275000.0,26-08-2013
+Sortkammervej 1,Nørre Alslev,4840,3,92,2000,381422.0,21-08-2013
+Spurvevej 3,Nørre Alslev,4840,4,132,1977,1125000.0,15-08-2013
+Havnsøvej 10,Nørre Alslev,4840,8,419,1928,9337000.0,14-08-2013
+Kippingevej 7,Nørre Alslev,4840,4,179,1926,638000.0,31-07-2013
+Alstrup Skovvej 38,Nørre Alslev,4840,10,274,1800,1500000.0,25-07-2013
+Ingefærvej 13,Nørre Alslev,4840,4,172,1985,1175000.0,23-07-2013
+Nr Vedbyvej 6,Nørre Alslev,4840,5,180,1880,119986.0,17-07-2013
+Frihedsmindevej 13,Nørre Alslev,4840,6,213,1920,650000.0,16-07-2013
+Knud Olsensgade 13,Nørre Alslev,4840,2,89,1913,150000.0,15-07-2013
+Skovvej 30,Nørre Alslev,4840,3,88,1961,325000.0,11-07-2013
+Bjergvej 2,Nørre Alslev,4840,7,296,1970,950000.0,01-07-2013
+Skovvænget 28,Nørre Alslev,4840,5,192,1974,1175000.0,28-06-2013
+Nykøbingvej 51,Nørre Alslev,4840,4,80,1907,100000.0,27-06-2013
+Bjergvej 5,Nørre Alslev,4840,3,130,1991,275078.0,10-06-2013
+Skovvej 36,Nørre Alslev,4840,4,110,1966,395000.0,07-06-2013
+Stubbekøbingvej 50,Nørre Alslev,4840,4,122,1932,120653.0,06-06-2013
+Nr Vedbyvej 15,Nørre Alslev,4840,10,235,1916,2650000.0,04-06-2013
+Vennerslundsvej 10,Nørre Alslev,4840,4,119,1910,1295000.0,30-05-2013
+Nr Grimmelstrupvej 12,Nørre Alslev,4840,10,305,1900,135090.0,27-05-2013
+Kippingevej 42,Nørre Alslev,4840,12,352,1880,8953971.0,01-05-2013
+Bjergvej 30,Nørre Alslev,4840,5,157,1976,722500.0,01-05-2013
+Alstrupvej 31,Nørre Alslev,4840,4,84,1920,314354.0,30-04-2013
+Ellehammersvej 34,Nørre Alslev,4840,4,132,1980,675000.0,24-04-2013
+Sølvgade 11,Nørre Alslev,4840,4,112,1967,65001.0,17-04-2013
+Gyldenbjergvej 30,Nørre Alslev,4840,5,128,1942,1900000.0,10-04-2013
+Nr Alslev Langgade 60,Nørre Alslev,4840,5,100,1910,195000.0,10-04-2013
+Havnegade 12,Nørre Alslev,4840,5,125,1915,295000.0,04-04-2013
+Riserupvej 4,Nørre Alslev,4840,9,199,1937,1025000.0,04-04-2013
+Østervej 58,Nørre Alslev,4840,2,114,1962,221042.0,01-04-2013
+Bellisvej 2,Nørre Alslev,4840,3,85,1979,475000.0,26-03-2013
+Skovvænget 26,Nørre Alslev,4840,4,120,1976,500000.0,25-03-2013
+Vigvej 91,Nørre Alslev,4840,3,55,1827,73148.0,19-03-2013
+Østervej 2,Nørre Alslev,4840,5,125,1850,249000.0,18-03-2013
+Skovby Tværvej 9,Nørre Alslev,4840,12,326,1700,22710000.0,16-03-2013
+Skovby Tværvej 11,Nørre Alslev,4840,5,174,1855,7521000.0,16-03-2013
+Gåbensevej 25,Nørre Alslev,4840,3,82,1930,210000.0,13-03-2013
+Storstrømsvej 76,Nørre Alslev,4840,3,72,1955,75000.0,12-03-2013
+Skovby Tværvej 57,Nørre Alslev,4840,5,128,1890,495000.0,18-02-2013
+Orehoved Vinkelvej 6B,Nørre Alslev,4840,3,90,1961,256279.0,13-02-2013
+Ravnse Byvej 14,Nørre Alslev,4840,5,90,1907,80000.0,06-02-2013
+Orehoved Langgade 12,Nørre Alslev,4840,3,112,1913,261825.0,06-02-2013
+Skovby Tværvej 43,Nørre Alslev,4840,5,179,1842,128058.0,27-01-2013
+Kippingevej 4,Nørre Alslev,4840,9,306,1966,350000.0,24-01-2013
+Skjoldmosevej 1,Nørre Alslev,4840,8,213,1936,900000.0,24-01-2013
+Lundbyvej 40,Nørre Alslev,4840,7,310,1902,875000.0,23-01-2013
+Bjergvej 20,Nørre Alslev,4840,3,118,1903,80000.0,15-01-2013
+Gyldenbjergvej 11,Nørre Alslev,4840,9,152,1962,300000.0,09-01-2013
+Kredsvej 5,Nørre Alslev,4840,6,130,1870,610000.0,07-01-2013
+"Nr Alslev Langgade 2B, ST",Nørre Alslev,4840,3,115,1900,700000.0,18-12-2012
+Kippingevej 52,Nørre Alslev,4840,6,192,1921,3356512.0,14-12-2012
+Gundslev Kirkevej 12,Nørre Alslev,4840,4,186,1936,715056.0,13-12-2012
+Nykøbingvej 27,Nørre Alslev,4840,5,156,1900,1850000.0,13-12-2012
+Østervej 15,Nørre Alslev,4840,6,120,1900,120000.0,12-12-2012
+Stubbekøbingvej 38,Nørre Alslev,4840,4,88,1700,250000.0,11-12-2012
+Gåbensevej 27,Nørre Alslev,4840,2,76,1949,295000.0,03-12-2012
+Steffensmindevej 12,Nørre Alslev,4840,3,147,1800,501500.0,01-12-2012
+Knud Olsensgade 18,Nørre Alslev,4840,5,138,1777,410000.0,30-11-2012
+Skerrisvej 14,Nørre Alslev,4840,4,174,1968,697500.0,21-11-2012
+Alstrup Strandvej 4,Nørre Alslev,4840,6,141,1959,450000.0,21-11-2012
+Ingefærvej 11,Nørre Alslev,4840,5,158,1986,575000.0,21-11-2012
+Nyvej 9,Nørre Alslev,4840,4,112,1975,300000.0,19-11-2012
+Steffensmindevej 10,Nørre Alslev,4840,2,80,1900,225000.0,14-11-2012
+Anemonevej 10,Nørre Alslev,4840,4,98,1984,600000.0,14-11-2012
+Nr Vedby Kirkevej 6,Nørre Alslev,4840,10,330,1900,1360000.0,09-11-2012
+Ravnse Skovvej 11,Nørre Alslev,4840,4,126,1914,648266.0,31-10-2012
+Østervej 66,Nørre Alslev,4840,6,225,1900,13195000.0,26-10-2012
+Nr Grimmelstrupvej 23,Nørre Alslev,4840,7,197,1929,1700000.0,24-10-2012
+Skovvej 11,Nørre Alslev,4840,4,112,1951,960000.0,18-10-2012
+Gåbense Strandvej 61B,Nørre Alslev,4840,5,248,2006,3200000.0,16-10-2012
+Nykøbingvej 32,Nørre Alslev,4840,5,120,1934,329567.0,05-10-2012
+Gåbense Strandvej 13,Nørre Alslev,4840,5,156,1927,475000.0,03-10-2012
+Gåbense Strandvej 45,Nørre Alslev,4840,6,200,1869,1300000.0,27-09-2012
+Østervej 94,Nørre Alslev,4840,2,163,1987,900000.0,20-09-2012
+Nr Grimmelstrupvej 13,Nørre Alslev,4840,7,397,1877,650000.0,12-09-2012
+Egelev Gade 21,Nørre Alslev,4840,10,357,1872,1121868.0,06-09-2012
+Følfodvej 10,Nørre Alslev,4840,4,127,1983,940000.0,03-09-2012
+Løvsangervej 5,Nørre Alslev,4840,4,127,1977,835000.0,30-08-2012
+Ravnse Skovvej 23,Nørre Alslev,4840,3,56,1900,350000.0,23-08-2012
+Nr Vedbyvej 5,Nørre Alslev,4840,6,220,1935,55220.0,15-08-2012
+Dæmningsvej 19,Nørre Alslev,4840,3,108,1900,60000.0,09-08-2012
+Skovvej 62,Nørre Alslev,4840,4,110,1961,425000.0,01-08-2012
+Gyldenbjergvej 49,Nørre Alslev,4840,4,162,1900,120000.0,19-07-2012
+Gåbensevej 19,Nørre Alslev,4840,8,224,1916,1455000.0,17-07-2012
+Alstrup Skovvej 28,Nørre Alslev,4840,4,91,1968,395000.0,25-06-2012
+Lundbyvej 33,Nørre Alslev,4840,4,131,1908,360000.0,13-06-2012
+Alstrup Skovvej 2,Nørre Alslev,4840,3,75,1920,216496.0,07-06-2012
+Knud Olsensgade 10,Nørre Alslev,4840,3,100,1930,500000.0,05-06-2012
+Orehoved Langgade 10,Nørre Alslev,4840,6,209,1902,796435.0,22-05-2012
+Nykøbingvej 59,Nørre Alslev,4840,4,137,2011,950000.0,09-05-2012
+Skerrisvej 3A,Nørre Alslev,4840,5,138,1971,800000.0,30-04-2012
+Alstrup Skovvej 24,Nørre Alslev,4840,3,89,1865,75000.0,24-04-2012
+Stubbekøbingvej 15,Nørre Alslev,4840,8,148,1930,778878.0,23-04-2012
+Nr Alslev Syrenvej 12,Nørre Alslev,4840,4,90,1972,440000.0,20-04-2012
+Nr Alslev Jernbanegade 5,Nørre Alslev,4840,4,128,1890,500000.0,07-04-2012
+Gårdrækkevej 2,Nørre Alslev,4840,4,128,1902,142470.0,01-04-2012
+Drosselvej 1,Nørre Alslev,4840,4,124,1974,640000.0,29-03-2012
+Ravnse Byvej 8,Nørre Alslev,4840,2,102,1800,210000.0,12-03-2012
+Vigvej 62,Nørre Alslev,4840,3,100,1877,465255.0,01-03-2012
+Svinget 26,Nørre Alslev,4840,4,161,1969,1125000.0,28-02-2012
+Kippingevej 25,Nørre Alslev,4840,3,72,1877,209000.0,22-02-2012
+Skovvej 40,Nørre Alslev,4840,3,100,1963,700000.0,16-02-2012
+Ahornvej 8,Nørre Alslev,4840,3,106,1961,425000.0,08-02-2012
+Løvsangervej 1,Nørre Alslev,4840,5,143,1978,1150000.0,03-02-2012
+Egensevej 3,Nørre Alslev,4840,5,165,2014,70000.0,02-02-2012
+Skerne Skovvej 6,Nørre Alslev,4840,4,142,1912,3030000.0,29-12-2011
+Baldrianvænget 2,Nørre Alslev,4840,4,134,1986,875900.0,18-12-2011
+Lærkevej 6,Nørre Alslev,4840,5,181,1977,800000.0,12-12-2011
+Egensevej 9,Nørre Alslev,4840,6,191,1900,600000.0,29-11-2011
+Stubbekøbingvej 54,Nørre Alslev,4840,3,86,1910,700000.0,24-11-2011
+Lundbyvej 42,Nørre Alslev,4840,9,232,1847,9882503.0,21-11-2011
+Alstrupvej 39,Nørre Alslev,4840,6,115,1890,110000.0,16-11-2011
+Gåbensevej 47,Nørre Alslev,4840,3,79,1900,500000.0,14-11-2011
+Skerne Skovvej 7,Nørre Alslev,4840,5,195,1800,600000.0,16-10-2011
+Skovby Tværvej 59,Nørre Alslev,4840,8,226,1913,1347726.0,14-10-2011
+Bøstrupvej 1,Nørre Alslev,4840,4,129,1978,1050000.0,12-10-2011
+Vålse Vesterskovvej 6,Nørre Alslev,4840,4,115,1830,635000.0,30-09-2011
+Gåbensevej 67,Nørre Alslev,4840,3,120,1900,250250.0,23-09-2011
+Præstevænget 2,Nørre Alslev,4840,3,64,1967,695000.0,16-09-2011
+Stubbekøbingvej 52,Nørre Alslev,4840,3,122,1890,375000.0,16-09-2011
+Østervej 19,Nørre Alslev,4840,3,65,1907,50000.0,08-09-2011
+Vålse Møllevej 2,Nørre Alslev,4840,3,95,1912,15001.0,08-09-2011
+Riserupvej 22,Nørre Alslev,4840,6,231,1880,1045000.0,08-09-2011
+Skerne Gade 27,Nørre Alslev,4840,5,138,1870,600000.0,31-08-2011
+Nr Alslev Vestergade 10,Nørre Alslev,4840,5,164,1968,1100000.0,19-08-2011
+Egensevej 33,Nørre Alslev,4840,5,171,1890,300000.0,03-08-2011
+Skovvænget 5,Nørre Alslev,4840,4,162,1973,429455.0,03-08-2011
+Vålse Møllevej 5,Nørre Alslev,4840,5,226,1959,685000.0,03-08-2011
+Nr Vedbyvej 2B,Nørre Alslev,4840,7,130,1877,550000.0,01-08-2011
+Orehoved Langgade 30,Nørre Alslev,4840,3,67,1921,390000.0,25-07-2011
+Skovvænget 11,Nørre Alslev,4840,6,174,1974,1025000.0,21-07-2011
+Skjoldmosevej 12,Nørre Alslev,4840,4,130,1898,466637.0,15-07-2011
+Stubbekøbingvej 75,Nørre Alslev,4840,5,130,1958,1500000.0,05-07-2011
+Nr Alslev Vestergade 4,Nørre Alslev,4840,3,104,1958,575000.0,29-06-2011
+Herbergervej 5,Nørre Alslev,4840,10,240,1912,633000.0,27-06-2011
+Gundslev Kirkevej 10,Nørre Alslev,4840,5,124,1894,750000.0,26-06-2011
+Gåbense Strandvej 6,Nørre Alslev,4840,2,114,1963,1230000.0,22-06-2011
+Ravnse Byvej 20,Nørre Alslev,4840,7,360,1872,1137500.0,17-06-2011
+Skerrisvej 13,Nørre Alslev,4840,5,161,1965,719549.0,14-06-2011
+Skovvænget 14,Nørre Alslev,4840,4,147,1973,1095000.0,31-05-2011
+Skovvej 32,Nørre Alslev,4840,3,98,1961,975000.0,30-05-2011
+Lyttehøjvej 16,Nørre Alslev,4840,4,118,1900,500000.0,19-05-2011
+Alstrup Strandvej 5,Nørre Alslev,4840,3,249,1936,3000000.0,13-05-2011
+Knud Olsensgade 14,Nørre Alslev,4840,5,71,1957,500000.0,02-05-2011
+Steffensmindevej 1,Nørre Alslev,4840,6,250,1890,1500000.0,28-04-2011
+Nyskolevej 40,Nørre Alslev,4840,4,124,1917,915000.0,20-04-2011
+Orehoved Vinkelvej 7,Nørre Alslev,4840,6,126,1929,595000.0,20-04-2011
+Skovby Tværvej 44,Nørre Alslev,4840,4,125,1910,1423000.0,19-04-2011
+Rønvej 11,Nørre Alslev,4840,5,140,1971,1075000.0,18-04-2011
+Møllegårdsvej 9,Nørre Alslev,4840,3,167,1969,900000.0,14-04-2011
+Dæmningsvej 27,Nørre Alslev,4840,9,327,1917,600000.0,06-04-2011
+Ravnse Skovvej 21,Nørre Alslev,4840,4,90,1777,730000.0,04-04-2011
+Sølvgade 6,Nørre Alslev,4840,5,105,1960,400000.0,02-04-2011
+Skerrisvej 25B,Nørre Alslev,4840,4,115,1960,700000.0,01-04-2011
+Orehoved Langgade 42,Nørre Alslev,4840,4,102,1950,340000.0,31-03-2011
+Peter Hviidsvej 1,Nørre Alslev,4840,4,146,1966,1035000.0,18-03-2011
+Kastanievej 8,Nørre Alslev,4840,3,97,1906,113843.0,07-03-2011
+Ravnsevej 28,Nørre Alslev,4840,4,125,1953,455000.0,23-02-2011
+Ertebøllevej 9,Nørre Alslev,4840,5,170,2008,2320000.0,20-02-2011
+Langesvej 4,Nørre Alslev,4840,3,96,1955,895000.0,16-02-2011
+Skovvej 61,Nørre Alslev,4840,6,261,2008,1600000.0,11-02-2011
+Lyttehøjvej 28,Nørre Alslev,4840,4,108,1912,450000.0,11-02-2011
+Grønnevejen 1,Nørre Alslev,4840,2,137,1900,443500.0,07-02-2011
+Nr Alslev Langgade 71,Nørre Alslev,4840,6,170,1906,1150000.0,05-02-2011
+Nyvej 7,Nørre Alslev,4840,3,94,1959,800000.0,02-02-2011
+Lyttehøjvej 32,Nørre Alslev,4840,5,140,1960,865000.0,31-01-2011
+Gåbensevej 68,Nørre Alslev,4840,5,119,1958,1000000.0,20-01-2011
+Gåbensevej 23,Nørre Alslev,4840,2,81,1907,255000.0,19-01-2011
+Baunehøjen 2,Nørre Alslev,4840,7,227,1907,1700000.0,18-01-2011
+Lundbyvej 49,Nørre Alslev,4840,7,223,1900,534500.0,05-01-2011
+Krokusvej 13,Nørre Alslev,4840,3,89,1978,830000.0,04-01-2011
+Sortkammervej 23,Nørre Alslev,4840,2,96,1951,397739.0,29-12-2010
+Nykøbingvej 58,Nørre Alslev,4840,5,99,1917,1600000.0,22-12-2010
+Skolegade 6,Nørre Alslev,4840,6,140,1952,1800000.0,17-12-2010
+Nr Alslev Syrenvej 22,Nørre Alslev,4840,2,73,1973,545000.0,15-12-2010
+Skerrisvej 23,Nørre Alslev,4840,6,117,1962,550000.0,08-12-2010
+Lundbyvej 47,Nørre Alslev,4840,6,157,1970,1250000.0,08-12-2010
+Borregårdsvej 5,Nørre Alslev,4840,8,243,1900,2500000.0,01-12-2010
+Stubbekøbingvej 24,Nørre Alslev,4840,7,200,1870,612124.0,01-12-2010
+Nr Alslev Langgade 22,Nørre Alslev,4840,4,120,1907,1000000.0,30-11-2010
+Gangervej 3,Nørre Alslev,4840,3,118,1890,750000.0,24-11-2010
+Tværgade 2,Nørre Alslev,4840,2,82,1927,180000.0,09-11-2010
+Sølvgade 4B,Nørre Alslev,4840,2,126,1937,860000.0,03-11-2010
+Østervej 82,Nørre Alslev,4840,3,122,1801,1095000.0,01-11-2010
+Alstrupvej 16,Nørre Alslev,4840,3,77,1890,530000.0,23-10-2010
+Borregårdsvej 9,Nørre Alslev,4840,3,94,2007,675000.0,20-10-2010
+Nr Alslev Langgade 38,Nørre Alslev,4840,5,115,1919,616000.0,06-10-2010
+Kippingevej 48,Nørre Alslev,4840,4,78,1920,511600.0,05-10-2010
+Nyskolevej 18,Nørre Alslev,4840,6,155,1930,1200000.0,28-09-2010
+Stubbekøbingvej 56,Nørre Alslev,4840,6,170,1901,4495988.0,24-09-2010
+Skerne Gade 6,Nørre Alslev,4840,2,36,1777,50000.0,22-09-2010
+Svinget 4,Nørre Alslev,4840,3,71,1969,615000.0,27-08-2010
+Frihedsmindevej 10,Nørre Alslev,4840,4,132,1900,895000.0,24-08-2010
+Svinget 3,Nørre Alslev,4840,4,84,1968,775000.0,24-08-2010
+Skerrisvej 31,Nørre Alslev,4840,3,137,1964,675000.0,23-08-2010
+Havnsøvej 3,Nørre Alslev,4840,5,120,1875,2250000.0,11-08-2010
+Nr Alslev Langgade 63,Nørre Alslev,4840,6,150,1930,1550000.0,09-08-2010
+Herthadalvej 16,Nørre Alslev,4840,3,94,1877,723000.0,05-08-2010
+Nr Grimmelstrupvej 25,Nørre Alslev,4840,6,191,1877,745000.0,21-07-2010
+Tømrervænget 1B,Nørre Alslev,4840,2,64,1990,561000.0,12-07-2010
+Skernevej 23,Nørre Alslev,4840,4,115,1925,850000.0,25-06-2010
+Rasmus Sigvardtsvej 2,Nørre Alslev,4840,8,163,1927,300000.0,23-06-2010
+Tømrervænget 2C,Nørre Alslev,4840,2,64,1991,725000.0,23-06-2010
+Vigvej 9,Nørre Alslev,4840,5,95,1910,518789.0,22-06-2010
+Nr Vedbyvej 4,Nørre Alslev,4840,10,270,1877,1495000.0,22-06-2010
+Gåbense Strandvej 61I,Nørre Alslev,4840,5,193,2006,2600000.0,21-06-2010
+Skernevej 18,Nørre Alslev,4840,3,124,1910,540000.0,18-06-2010
+Følfodvej 17,Nørre Alslev,4840,5,157,1980,1375000.0,16-06-2010
+Steffensmindevej 3A,Nørre Alslev,4840,5,136,1827,2100000.0,13-06-2010
+Nr Alslev Langgade 15,Nørre Alslev,4840,3,205,1905,1200000.0,20-05-2010
+Ertebøllevej 5,Nørre Alslev,4840,7,230,2012,330965.0,13-05-2010
+Nyskolevej 30,Nørre Alslev,4840,4,80,1949,1275000.0,11-05-2010
+Ravnsevej 1A,Nørre Alslev,4840,7,133,1948,555000.0,05-05-2010
+Skovbyvej 29,Nørre Alslev,4840,6,192,1954,435000.0,05-05-2010
+Kippingevej 11,Nørre Alslev,4840,7,206,1934,950000.0,03-05-2010
+Nr Alslev Vestergade 20,Nørre Alslev,4840,5,167,1962,1400000.0,01-05-2010
+Egensevej 7,Nørre Alslev,4840,4,128,1911,150000.0,14-04-2010
+Valnæsvej 12,Nørre Alslev,4840,4,100,1962,675000.0,10-04-2010
+Ved Stranden 7,Nørre Alslev,4840,5,94,1907,1330000.0,31-03-2010
+Gyldenbjergvej 40,Nørre Alslev,4840,7,210,1912,800000.0,28-03-2010
+Nr Alslev Langgade 77A,Nørre Alslev,4840,5,140,2010,365000.0,26-03-2010
+Skovbyvej 14,Nørre Alslev,4840,4,194,1918,1000000.0,25-03-2010
+Kippingevej 3,Nørre Alslev,4840,5,110,1921,1300000.0,23-03-2010
+Boulevarden 18,Nørre Alslev,4840,4,87,1890,5500.0,10-03-2010
+Valnæsvej 16,Nørre Alslev,4840,3,123,1837,850000.0,25-02-2010
+Skerrisvej 11,Nørre Alslev,4840,4,125,1965,900000.0,25-02-2010
+Sundbyvej 38,Nørre Alslev,4840,3,109,1987,1900000.0,19-02-2010
+Skovbyvej 23,Nørre Alslev,4840,4,140,1985,850000.0,15-02-2010
+Skerne Skovvej 11,Nørre Alslev,4840,6,128,1927,978478.0,14-02-2010
+Østervej 30,Nørre Alslev,4840,3,70,1789,125000.0,10-02-2010
+Kippingevej 18,Nørre Alslev,4840,4,102,1900,510000.0,03-02-2010
+Nr Alslev Parkvej 3,Nørre Alslev,4840,4,92,1959,850000.0,21-01-2010
+Skovvej 1,Nørre Alslev,4840,8,250,1920,1050000.0,21-01-2010
+Rasmus Sigvardtsvej 4,Nørre Alslev,4840,4,107,1906,600000.0,20-01-2010
+Orehoved Vinkelvej 12,Nørre Alslev,4840,4,118,1932,585000.0,19-01-2010
+Egelev Gade 6,Nørre Alslev,4840,4,93,1900,650000.0,13-01-2010
+Mosevej 4,Nørre Alslev,4840,4,143,1971,700000.0,12-01-2010
+Vedby Vesterskovvej 4,Nørre Alslev,4840,9,300,1887,2600000.0,11-01-2010
+Nykøbingvej 14,Nørre Alslev,4840,3,97,1910,480000.0,11-01-2010
+Dæmningsvej 10,Nørre Alslev,4840,5,158,1932,525000.0,28-12-2009
+Ved Stranden 5,Nørre Alslev,4840,4,156,1907,1800000.0,21-12-2009
+Ulriksdalsvej 4,Nørre Alslev,4840,4,78,1912,550000.0,18-12-2009
+Gåbense Strandvej 23,Nørre Alslev,4840,4,122,1909,1800000.0,08-12-2009
+Svinget 12,Nørre Alslev,4840,4,150,1968,1310000.0,27-11-2009
+Stubbekøbingvej 41,Nørre Alslev,4840,4,106,1967,7500000.0,19-11-2009
+Løvsangervej 10,Nørre Alslev,4840,5,151,1978,1500000.0,16-11-2009
+Bellisvej 1,Nørre Alslev,4840,3,84,1979,755000.0,12-11-2009
+Egensevej 30,Nørre Alslev,4840,7,212,1870,850000.0,10-11-2009
+Nykøbingvej 1,Nørre Alslev,4840,9,251,1900,350149.0,03-11-2009
+Steffensmindevej 8,Nørre Alslev,4840,3,99,1900,375000.0,26-10-2009
+Rønvej 13,Nørre Alslev,4840,6,172,1971,1400000.0,22-10-2009
+"Nr Alslev Langgade 2C, 1",Nørre Alslev,4840,3,102,1900,1650000.0,15-10-2009
+Nr Alslev Birkevej 8,Nørre Alslev,4840,4,128,1972,975000.0,13-10-2009
+Peter Hviidsvej 2,Nørre Alslev,4840,4,130,1978,1240000.0,21-09-2009
+Vennerslundsvej 5,Nørre Alslev,4840,4,69,1877,395000.0,09-09-2009
+Svinget 7,Nørre Alslev,4840,3,85,1967,725000.0,09-09-2009
+Gåbense Strandvej 61J,Nørre Alslev,4840,5,172,2008,2800000.0,02-09-2009
+Skovvej 44,Nørre Alslev,4840,5,132,1965,595000.0,02-09-2009
+Tømrervænget 2A,Nørre Alslev,4840,2,64,1991,750000.0,01-09-2009
+Orehoved Vinkelvej 1,Nørre Alslev,4840,3,114,1956,429000.0,13-08-2009
+Ertebøllevej 18,Nørre Alslev,4840,5,163,2007,2600000.0,12-08-2009
+Orehoved Langgade 45,Nørre Alslev,4840,5,90,1949,600000.0,12-08-2009
+Godthåbsvej 10,Nørre Alslev,4840,5,208,1920,1250000.0,10-08-2009
+Nr Alslev Langgade 70,Nørre Alslev,4840,3,134,1900,1035000.0,10-08-2009
+Sølvgade 24,Nørre Alslev,4840,4,118,1974,715000.0,08-08-2009
+Gåbensevej 12,Nørre Alslev,4840,5,180,1950,2150000.0,05-08-2009
+Skovvej 50,Nørre Alslev,4840,4,114,1964,1025000.0,31-07-2009
+Vigvej 74,Nørre Alslev,4840,4,77,1950,190000.0,22-07-2009
+Vålse Vesterskovvej 24,Nørre Alslev,4840,10,290,1800,1175000.0,18-07-2009
+Sundbyvej 73,Nørre Alslev,4840,4,115,1897,440000.0,15-07-2009
+"Nr Alslev Jernbanegade 15, 1",Nørre Alslev,4840,5,132,1968,1150000.0,14-07-2009
+Orehoved Vinkelvej 9,Nørre Alslev,4840,3,90,1927,710000.0,10-07-2009
+Grønnevejen 8,Nørre Alslev,4840,5,151,1895,700000.0,09-07-2009
+Orehoved Langgade 22,Nørre Alslev,4840,4,109,1915,600000.0,08-07-2009
+Nr Alslev Vestergade 16,Nørre Alslev,4840,5,215,1964,1700000.0,05-07-2009
+Krokusvej 12,Nørre Alslev,4840,4,110,1978,925000.0,29-06-2009
+Skovbyvej 12,Nørre Alslev,4840,6,139,1940,795000.0,24-06-2009
+Ellehammersvej 24B,Nørre Alslev,4840,3,79,1988,600000.0,15-06-2009
+Gåbensevej 62,Nørre Alslev,4840,4,96,1937,895000.0,15-06-2009
+Nr Alslev Langgade 49,Nørre Alslev,4840,7,110,1928,750000.0,15-06-2009
+Vigvej 79,Nørre Alslev,4840,6,115,1877,574856.0,08-06-2009
+Ellehammersvej 26A,Nørre Alslev,4840,3,79,1988,1820000.0,04-06-2009
+Ellehammersvej 26B,Nørre Alslev,4840,3,79,1988,1820000.0,04-06-2009
+Alstrup Skovvej 26,Nørre Alslev,4840,6,191,1936,350000.0,03-06-2009
+Skovvej 25,Nørre Alslev,4840,4,120,1955,1300000.0,12-05-2009
+Stubbekøbingvej 18,Nørre Alslev,4840,8,250,1897,425000.0,04-05-2009
+Farnæsvej 12,Nørre Alslev,4840,8,222,1943,6480000.0,27-04-2009
+Gåbensevej 3,Nørre Alslev,4840,14,360,1910,825000.0,26-04-2009
+Præstevænget 11,Nørre Alslev,4840,3,72,1968,775000.0,08-04-2009
+Nykøbingvej 22,Nørre Alslev,4840,4,108,1908,860000.0,06-04-2009
+Skovbyvej 20,Nørre Alslev,4840,4,187,1890,710000.0,03-04-2009
+Ulriksdalsvej 6,Nørre Alslev,4840,5,205,1912,356108.0,17-03-2009
+Grønnevejen 10,Nørre Alslev,4840,4,72,1800,400000.0,13-03-2009
+Miljøvænget 6,Nørre Alslev,4840,5,175,2009,1650000.0,07-03-2009
+Ulriksdalsvej 10,Nørre Alslev,4840,3,60,1897,275000.0,18-02-2009
+Egensevej 40,Nørre Alslev,4840,3,120,1900,1900000.0,15-02-2009
+Spurvevej 10,Nørre Alslev,4840,4,130,1977,1394364.0,13-02-2009
+Storstrømsvej 67,Nørre Alslev,4840,9,196,1931,766000.0,11-02-2009
+Skovbyvej 35,Nørre Alslev,4840,3,119,1872,1150000.0,30-01-2009
+Alstrupvej 21,Nørre Alslev,4840,5,119,1954,1100000.0,19-01-2009
+Fasanvej 4,Nørre Alslev,4840,5,136,1978,518945.0,31-12-2008
+Brovænget 6,Nørre Alslev,4840,4,94,1951,750000.0,19-12-2008
+Ved Stranden 9,Nørre Alslev,4840,5,126,1955,573500.0,17-12-2008
+Godthåbsvej 3,Nørre Alslev,4840,4,166,1980,3042500.0,17-12-2008
+Vedby Vesterskovvej 13,Nørre Alslev,4840,4,194,1864,1065100.0,16-12-2008
+Skovbyvej 30,Nørre Alslev,4840,4,126,1898,1300000.0,25-11-2008
+Vigvej 102,Nørre Alslev,4840,4,132,1942,830000.0,19-11-2008
+Orehoved Vinkelvej 4A,Nørre Alslev,4840,3,91,1962,825000.0,19-11-2008
+Boulevarden 11,Nørre Alslev,4840,5,177,1955,1495000.0,12-11-2008
+Sundbyvej 71,Nørre Alslev,4840,3,75,1900,400000.0,10-11-2008
+Ingefærvej 17,Nørre Alslev,4840,4,143,1985,1625000.0,10-11-2008
+Drosselvej 3,Nørre Alslev,4840,6,160,1976,737500.0,06-11-2008
+Ravnsevej 16,Nørre Alslev,4840,4,125,1892,765000.0,29-10-2008
+Dæmningsvej 15,Nørre Alslev,4840,4,100,1972,895000.0,27-10-2008
+Ravnse Byvej 7,Nørre Alslev,4840,5,110,1877,1099000.0,26-10-2008
+Bjergvej 8,Nørre Alslev,4840,6,159,1900,1100000.0,19-10-2008
+Vigvej 1,Nørre Alslev,4840,4,128,1906,1150000.0,14-10-2008
+Gransangervej 8,Nørre Alslev,4840,4,130,1976,1150000.0,09-10-2008
+Strynøvænget 4,Nørre Alslev,4840,6,238,1974,1825000.0,07-10-2008
+Alstrupvej 41,Nørre Alslev,4840,3,106,1900,775000.0,30-09-2008
+Bellisvej 11,Nørre Alslev,4840,3,84,1979,825000.0,24-09-2008
+Orehoved Langgade 6,Nørre Alslev,4840,5,177,1907,600000.0,11-09-2008
+Vigvej 23,Nørre Alslev,4840,8,233,1858,895000.0,03-09-2008
+Orehoved Vinkelvej 4,Nørre Alslev,4840,4,137,1934,701500.0,01-09-2008
+Gåbensevej 8A,Nørre Alslev,4840,5,139,1939,1375000.0,18-08-2008
+Kippingevej 21,Nørre Alslev,4840,3,86,1936,825000.0,15-08-2008
+Frihedsmindevej 31,Nørre Alslev,4840,4,189,1914,1200000.0,09-08-2008
+Nr Grimmelstrupvej 10,Nørre Alslev,4840,12,295,1869,4400000.0,08-08-2008
+Skovvænget 15,Nørre Alslev,4840,4,126,1978,1275000.0,06-08-2008
+Bjergvej 1,Nørre Alslev,4840,6,210,1903,915000.0,05-08-2008
+Egelev Gade 2,Nørre Alslev,4840,3,97,1918,668527.0,31-07-2008
+Bødker Alle 10,Nørre Alslev,4840,6,170,1928,6000000.0,24-07-2008
+Nr Alslev Birkevej 10,Nørre Alslev,4840,5,142,1971,1450000.0,21-07-2008
+Langesvej 8,Nørre Alslev,4840,6,140,1960,1045000.0,15-07-2008
+Brovænget 10,Nørre Alslev,4840,4,80,1951,895000.0,10-07-2008
+Nykøbingvej 2,Nørre Alslev,4840,6,171,1907,1249800.0,25-06-2008
+Møllegårdsvej 11,Nørre Alslev,4840,5,158,1968,842530.0,13-06-2008
+Storstrømsvej 68,Nørre Alslev,4840,3,75,1958,915000.0,07-06-2008
+Skovvej 12,Nørre Alslev,4840,3,133,1952,1050000.0,06-06-2008
+Nyskolevej 3,Nørre Alslev,4840,3,92,1960,910000.0,05-06-2008
+Ertebøllevej 3,Nørre Alslev,4840,6,169,2008,1530522.0,04-06-2008
+Ertebøllevej 10,Nørre Alslev,4840,4,129,2006,636822.0,31-05-2008
+Orehoved Langgade 47,Nørre Alslev,4840,4,72,1948,685000.0,29-05-2008
+Anemonevej 7,Nørre Alslev,4840,4,98,1983,950000.0,23-05-2008
+Ertebøllevej 2,Nørre Alslev,4840,6,187,2009,235911.0,22-05-2008
+Valnæsvej 8,Nørre Alslev,4840,4,150,1964,999000.0,21-05-2008
+Vigvej 92,Nørre Alslev,4840,4,100,1953,760000.0,15-05-2008
+Østervej 38,Nørre Alslev,4840,4,120,1880,610000.0,29-04-2008
+Skovvænget 18,Nørre Alslev,4840,4,140,1974,1595000.0,23-04-2008
+Tårupvej 5,Nørre Alslev,4840,5,174,1885,750000.0,22-04-2008
+Ulriksdalsvej 18,Nørre Alslev,4840,5,138,1877,875000.0,14-04-2008
+Lyttehøjvej 7,Nørre Alslev,4840,4,91,1923,730000.0,14-04-2008
+Gåbensevej 43,Nørre Alslev,4840,4,132,1896,460000.0,10-04-2008
+Tværvej 8,Nørre Alslev,4840,5,82,1902,496697.0,10-04-2008
+Gyldenbjergvej 8,Nørre Alslev,4840,4,115,1970,1000000.0,09-04-2008
+Ravnse Byvej 12,Nørre Alslev,4840,4,124,1860,335000.0,04-04-2008
+Anemonevej 8,Nørre Alslev,4840,4,98,1984,1000000.0,04-04-2008
+Nr Alslev Langgade 21,Nørre Alslev,4840,5,106,1908,2100000.0,03-04-2008
+Gåbensevej 40,Nørre Alslev,4840,4,126,1913,1400000.0,02-04-2008
+Nr Alslev Syrenvej 4,Nørre Alslev,4840,4,90,1971,1025000.0,26-03-2008
+Sortkammervej 8,Nørre Alslev,4840,4,91,1929,1700000.0,23-03-2008
+Egensevej 14,Nørre Alslev,4840,5,215,1897,1200000.0,21-03-2008
+Bellisvej 4,Nørre Alslev,4840,4,98,1979,1130000.0,18-03-2008
+Stubbekøbingvej 32,Nørre Alslev,4840,6,195,1920,1350000.0,10-03-2008
+Brovænget 1,Nørre Alslev,4840,6,282,2009,1520000.0,05-03-2008
+Lyttehøjvej 15,Nørre Alslev,4840,4,128,1904,825000.0,01-03-2008
+Kippingevej 44,Nørre Alslev,4840,13,384,1890,2100000.0,27-02-2008
+Mygget Alle 12,Nørre Alslev,4840,4,151,1877,1925000.0,20-02-2008
+Skerne Skovvej 12,Nørre Alslev,4840,10,246,1914,1022694.0,20-02-2008
+Skernevej 2,Nørre Alslev,4840,4,110,1910,995000.0,15-02-2008
+Nykøbingvej 30,Nørre Alslev,4840,3,101,1960,249182.0,11-02-2008
+Ravnsevej 17,Nørre Alslev,4840,5,97,1905,800000.0,07-02-2008
+Ravnsevej 26,Nørre Alslev,4840,6,167,1920,1505000.0,31-01-2008
+Nr Alslev Vestergade 3,Nørre Alslev,4840,7,172,1957,1395000.0,26-01-2008
+Farnæsvej 6,Nørre Alslev,4840,5,134,1907,4800000.0,28-12-2007
+Baunehøjen 7,Nørre Alslev,4840,3,107,1827,293000.0,18-12-2007
+Valnæsvej 10,Nørre Alslev,4840,5,120,1964,950000.0,18-12-2007
+Nr Alslev Jernbanegade 6,Nørre Alslev,4840,5,150,1930,850000.0,14-12-2007
+Gåbensevej 75,Nørre Alslev,4840,6,290,1917,1000000.0,01-12-2007
+Skovvænget 7,Nørre Alslev,4840,5,135,1974,1485000.0,29-11-2007
+Egelev Gade 26,Nørre Alslev,4840,13,241,1927,1150000.0,28-11-2007
+Skovbyvej 37,Nørre Alslev,4840,2,60,1900,325000.0,22-11-2007
+Bellisvej 8,Nørre Alslev,4840,4,98,1980,1250000.0,19-11-2007
+Nr Vedby Kirkevej 21,Nørre Alslev,4840,6,243,1857,72000.0,13-11-2007
+Skovvej 21,Nørre Alslev,4840,3,64,1947,815000.0,13-11-2007
+Rasmus Sigvardtsvej 5,Nørre Alslev,4840,3,64,1951,1695000.0,01-11-2007
+Gåbensevej 56,Nørre Alslev,4840,3,78,1933,820000.0,30-10-2007
+Drosselvej 11,Nørre Alslev,4840,4,120,1976,1395000.0,29-10-2007
+Bjergvej 10,Nørre Alslev,4840,8,209,1972,1799000.0,28-10-2007
+Lyttehøjvej 9,Nørre Alslev,4840,5,131,1877,875000.0,27-10-2007
+Bjergvej 15,Nørre Alslev,4840,5,134,1907,1975000.0,22-10-2007
+Østervej 17,Nørre Alslev,4840,3,111,1936,825000.0,21-10-2007
+Vigvej 77,Nørre Alslev,4840,3,102,1900,500000.0,13-10-2007
+Sundbyvej 75,Nørre Alslev,4840,6,192,1920,3463750.0,02-10-2007
+Peter Hviidsvej 4,Nørre Alslev,4840,5,147,1963,1550000.0,01-10-2007
+Nr Alslev Langgade 53,Nørre Alslev,4840,5,131,1924,1275000.0,27-09-2007
+Kippingevej 54,Nørre Alslev,4840,7,156,1922,1050000.0,17-09-2007
+Alstrup Skovvej 13,Nørre Alslev,4840,4,142,1904,1100000.0,15-09-2007
+Ravnsevej 28A,Nørre Alslev,4840,3,104,1985,1220000.0,11-09-2007
+Gåbense Strandvej 51,Nørre Alslev,4840,5,76,1800,1050000.0,03-09-2007
+Kippingevej 27,Nørre Alslev,4840,4,145,1897,61633.0,02-09-2007
+Gransangervej 4,Nørre Alslev,4840,5,179,1976,1750000.0,01-09-2007
+Skernevej 15,Nørre Alslev,4840,2,83,1890,570000.0,01-09-2007
+Gangervej 6,Nørre Alslev,4840,4,147,1920,1445000.0,30-08-2007
+Lyttehøjvej 13,Nørre Alslev,4840,4,83,1906,725000.0,30-08-2007
+Mosevej 1,Nørre Alslev,4840,3,70,1955,524324.0,29-08-2007
+Nr Vedby Kirkevej 1,Nørre Alslev,4840,4,99,1948,1145000.0,23-08-2007
+Skerrisvej 16,Nørre Alslev,4840,4,120,1965,1250000.0,18-08-2007
+Skovby Tværvej 27,Nørre Alslev,4840,4,160,1986,21754320.0,17-08-2007
+Ingefærvej 4,Nørre Alslev,4840,4,134,2009,89400.0,15-08-2007
+Stubbekøbingvej 57,Nørre Alslev,4840,2,47,1777,450000.0,13-08-2007
+Gangervej 8,Nørre Alslev,4840,4,122,1900,900000.0,08-08-2007
+Gangervej 9,Nørre Alslev,4840,5,160,1890,1200000.0,08-08-2007
+Storstrømsvej 61,Nørre Alslev,4840,4,97,1925,725000.0,28-07-2007
+Rønvej 6,Nørre Alslev,4840,4,123,1972,1550000.0,26-07-2007
+Storstrømsvej 106,Nørre Alslev,4840,5,140,1960,1150000.0,22-07-2007
+Skolegade 8,Nørre Alslev,4840,4,127,1960,1295000.0,05-07-2007
+Kippingevej 8,Nørre Alslev,4840,2,92,1900,700000.0,30-06-2007
+Skovvænget 30,Nørre Alslev,4840,5,186,1973,1995000.0,30-06-2007
+Følfodvej 7,Nørre Alslev,4840,3,119,1980,1250000.0,30-06-2007
+Skerrisvej 8,Nørre Alslev,4840,4,108,1966,850000.0,19-06-2007
+Bogfinkevej 6,Nørre Alslev,4840,5,150,1977,1670000.0,19-06-2007
+Nr Alslev Langgade 45B,Nørre Alslev,4840,3,70,1922,1700000.0,14-06-2007
+Nr Alslev Syrenvej 15,Nørre Alslev,4840,3,81,1974,940000.0,13-06-2007
+Stationspladsen 1,Nørre Alslev,4840,3,112,1908,850000.0,13-06-2007
+Nr Alslev Vestergade 2,Nørre Alslev,4840,3,95,1960,1170000.0,11-06-2007
+Præstevænget 10,Nørre Alslev,4840,3,71,1967,880000.0,08-06-2007
+Svinget 24,Nørre Alslev,4840,6,140,1969,1495000.0,06-06-2007
+Stubbekøbingvej 10,Nørre Alslev,4840,3,133,1922,1395000.0,05-06-2007
+Østervej 24,Nørre Alslev,4840,4,123,1897,875000.0,04-06-2007
+Kippingevej 24,Nørre Alslev,4840,6,198,1800,1780000.0,03-06-2007
+Gåbense Strandvej 19,Nørre Alslev,4840,7,129,1963,1600000.0,29-05-2007
+Nyskolevej 2,Nørre Alslev,4840,3,85,1930,795000.0,22-05-2007
+Frihedsmindevej 5,Nørre Alslev,4840,5,153,1965,1150000.0,20-05-2007
+Skerne Gade 14,Nørre Alslev,4840,4,84,1877,700000.0,14-05-2007
+Østervej 78,Nørre Alslev,4840,3,95,1947,965000.0,05-05-2007
+Ingefærvej 15,Nørre Alslev,4840,5,148,2006,2355000.0,04-05-2007
+Nr Alslev Langgade 30,Nørre Alslev,4840,6,106,1917,1055000.0,02-05-2007
+"Nr Alslev Nygade 11A, 2",Nørre Alslev,4840,2,64,1910,440000.0,02-05-2007
+Nykøbingvej 31,Nørre Alslev,4840,4,120,1875,925000.0,25-04-2007
+Ravnse Skovvej 4,Nørre Alslev,4840,6,230,1860,3420000.0,09-04-2007
+Nykøbingvej 78,Nørre Alslev,4840,4,141,1914,995000.0,09-04-2007
+Lundbyvej 50,Nørre Alslev,4840,5,110,1937,1250000.0,07-04-2007
+Sølvgade 34,Nørre Alslev,4840,4,136,1954,995000.0,02-04-2007
+Gåbensevej 64,Nørre Alslev,4840,5,84,1935,985000.0,28-03-2007
+Boulevarden 2,Nørre Alslev,4840,3,75,1957,625000.0,26-03-2007
+Svinget 6,Nørre Alslev,4840,6,147,1969,1375000.0,19-03-2007
+Baldrianvænget 6,Nørre Alslev,4840,4,146,2007,2034500.0,08-03-2007
+Alstrupvej 27,Nørre Alslev,4840,3,158,1750,544000.0,27-02-2007
+Nr Alslev Birkevej 9,Nørre Alslev,4840,5,159,1974,800000.0,20-02-2007
+Præstevænget 6,Nørre Alslev,4840,3,71,1967,875000.0,15-02-2007
+Tårup Skovvej 1,Nørre Alslev,4840,8,331,1877,1215000.0,13-02-2007
+Brovænget 12,Nørre Alslev,4840,3,65,1950,550000.0,12-02-2007
+Storstrømsvej 90,Nørre Alslev,4840,5,140,1956,735000.0,10-02-2007
+Skernevej 29,Nørre Alslev,4840,6,147,1900,1055000.0,08-02-2007
+Østervej 98,Nørre Alslev,4840,9,324,1911,13000000.0,08-02-2007
+Nr Alslev Nygade 16,Nørre Alslev,4840,4,118,1932,1050000.0,07-02-2007
+Egensevej 32,Nørre Alslev,4840,8,120,1910,7986000.0,06-02-2007
+Riserupvej 18,Nørre Alslev,4840,10,256,1910,9359000.0,06-02-2007
+Østervej 46,Nørre Alslev,4840,4,138,1900,748000.0,26-01-2007
+Drosselvej 6,Nørre Alslev,4840,5,110,1974,1300000.0,23-01-2007
+Skovvej 28,Nørre Alslev,4840,3,100,1960,1340000.0,17-01-2007
+Nr Alslev Nygade 3,Nørre Alslev,4840,5,126,1930,1375000.0,13-01-2007
+Ravnse Skovvej 3,Nørre Alslev,4840,8,197,1961,24625000.0,05-01-2007
+"Nr Alslev Jernbanegade 10, 1",Nørre Alslev,4840,3,128,1877,2150000.0,27-12-2006
+Skovbyvej 25,Nørre Alslev,4840,4,81,1877,850000.0,27-12-2006
+Ertebøllevej 8,Nørre Alslev,4840,6,202,2007,227791.0,20-12-2006
+Stubbekøbingvej 53,Nørre Alslev,4840,3,169,1925,985000.0,16-12-2006
+Egensevej 17,Nørre Alslev,4840,3,90,1909,850000.0,15-12-2006
+Nykøbingvej 86,Nørre Alslev,4840,9,306,1912,1650000.0,13-12-2006
+Nr Alslev Langgade 66,Nørre Alslev,4840,4,122,1906,1135000.0,27-11-2006
+Orehoved Langgade 28,Nørre Alslev,4840,6,149,1920,1225000.0,17-11-2006
+Skovvej 31,Nørre Alslev,4840,4,94,1951,1030000.0,08-11-2006
+Gyldenbjergvej 15,Nørre Alslev,4840,4,127,1967,756500.0,04-11-2006
+Engkærvej 3,Nørre Alslev,4840,9,279,1944,1660000.0,02-11-2006
+Vigvej 65,Nørre Alslev,4840,3,92,1963,825000.0,31-10-2006
+Stubbekøbingvej 26,Nørre Alslev,4840,5,176,1920,625000.0,26-10-2006
+Havnegade 8,Nørre Alslev,4840,3,103,1909,650000.0,22-10-2006
+Skernevej 20,Nørre Alslev,4840,3,119,1919,1200000.0,21-10-2006
+Skolegade 10,Nørre Alslev,4840,5,102,1961,1100000.0,20-10-2006
+Ertebøllevej 1,Nørre Alslev,4840,5,151,2007,231677.0,17-10-2006
+Nr Alslev Vestergade 17,Nørre Alslev,4840,4,113,1963,1150000.0,15-10-2006
+Storstrømsvej 70,Nørre Alslev,4840,6,104,1915,540000.0,03-10-2006
+Skerne Gade 1,Nørre Alslev,4840,7,168,1916,1995000.0,29-09-2006
+Brovænget 22,Nørre Alslev,4840,3,109,1952,865000.0,29-09-2006
+Nr Alslev Langgade 36,Nørre Alslev,4840,5,121,1902,900000.0,14-09-2006
+Krokusvej 5,Nørre Alslev,4840,5,138,1980,1487500.0,13-09-2006
+Storstrømsvej 114,Nørre Alslev,4840,8,217,1888,1200000.0,12-09-2006
+Orehoved Langgade 39,Nørre Alslev,4840,3,83,1949,805648.0,23-08-2006
+Nr Alslev Langgade 81,Nørre Alslev,4840,5,109,1928,1280000.0,23-08-2006
+Drosselvej 14,Nørre Alslev,4840,6,181,1974,825000.0,22-08-2006
+Godthåbsvej 2,Nørre Alslev,4840,4,77,1924,700000.0,15-08-2006
+Lundbyvej 48,Nørre Alslev,4840,4,100,1940,600000.0,15-08-2006
+Ravnsevej 38,Nørre Alslev,4840,3,110,1940,780000.0,31-07-2006
+Ravnse Skovvej 5,Nørre Alslev,4840,2,67,1877,725000.0,30-07-2006
+Riserupvej 25,Nørre Alslev,4840,4,100,1954,745000.0,29-07-2006
+Langesvej 5,Nørre Alslev,4840,6,157,1910,478185.0,24-07-2006
+Svinget 1,Nørre Alslev,4840,4,89,1968,365500.0,19-07-2006
+Skovby Tværvej 51,Nørre Alslev,4840,5,192,1777,1535000.0,15-07-2006
+Alstrup Skovvej 7,Nørre Alslev,4840,5,115,1949,898000.0,14-07-2006
+Ravnse Skovvej 7,Nørre Alslev,4840,3,146,1910,685000.0,14-07-2006
+Bregnevej 3,Nørre Alslev,4840,4,154,1976,1400000.0,10-07-2006
+Ravnsevej 19,Nørre Alslev,4840,5,149,1907,1306769.0,09-07-2006
+Nr Alslev Langgade 16,Nørre Alslev,4840,5,142,1909,900000.0,08-07-2006
+Gransangervej 11,Nørre Alslev,4840,5,180,1974,2225000.0,07-07-2006
+Baldrianvænget 3,Nørre Alslev,4840,3,159,1984,1575000.0,07-07-2006
+Gyldenbjergvej 4,Nørre Alslev,4840,5,100,1956,825000.0,06-07-2006
+Skovvej 63,Nørre Alslev,4840,5,248,1949,4000000.0,02-07-2006
+Brarupvej 5A,Nørre Alslev,4840,4,97,1968,995000.0,30-06-2006
+Anemonevej 11,Nørre Alslev,4840,3,85,1984,950000.0,30-06-2006
+Nr Alslev Nygade 30,Nørre Alslev,4840,6,143,1935,1175000.0,26-06-2006
+Nr Alslev Langgade 79A,Nørre Alslev,4840,5,99,1944,1180000.0,25-06-2006
+Alstrup Skovvej 5,Nørre Alslev,4840,5,219,1950,1190000.0,14-06-2006
+Ravnse Byvej 17,Nørre Alslev,4840,3,85,1890,710000.0,11-06-2006
+Skerne Gade 19,Nørre Alslev,4840,3,112,1902,950000.0,07-06-2006
+Steffensmindevej 14,Nørre Alslev,4840,8,243,1927,1975000.0,05-06-2006
+Nykøbingvej 3,Nørre Alslev,4840,5,170,1912,1612500.0,05-06-2006
+Fasanvej 7,Nørre Alslev,4840,4,123,1978,1395000.0,30-05-2006
+Langesvej 10,Nørre Alslev,4840,3,102,1960,425000.0,29-05-2006
+Stubbekøbingvej 13,Nørre Alslev,4840,5,131,1932,950000.0,29-05-2006
+Nykøbingvej 16,Nørre Alslev,4840,4,84,1930,550000.0,29-05-2006
+Nr Alslev Langgade 12,Nørre Alslev,4840,6,150,1900,1225000.0,23-05-2006
+Ertebøllevej 7,Nørre Alslev,4840,5,209,2006,232431.0,21-05-2006
+Dæmningsvej 8,Nørre Alslev,4840,6,196,1880,1395000.0,19-05-2006
+Steffensmindevej 15,Nørre Alslev,4840,8,333,1965,2100000.0,09-05-2006
+Orehoved Langgade 7,Nørre Alslev,4840,5,142,1863,640000.0,09-05-2006
+Bjergvej 36,Nørre Alslev,4840,4,141,1887,910000.0,05-05-2006
+Østervej 92,Nørre Alslev,4840,3,68,1968,760000.0,26-04-2006
+Boulevarden 9,Nørre Alslev,4840,5,157,1973,1195000.0,26-04-2006
+Alstrupvej 3,Nørre Alslev,4840,3,78,1956,400000.0,24-04-2006
+Nr Alslev Nygade 24,Nørre Alslev,4840,4,90,1952,1310000.0,24-04-2006
+Nyskolevej 1,Nørre Alslev,4840,2,50,1953,595000.0,21-04-2006
+Ellehammersvej 32,Nørre Alslev,4840,3,155,2009,87900.0,10-04-2006
+Præstevænget 7,Nørre Alslev,4840,3,72,1966,830000.0,10-04-2006
+Nr Vedby Kirkevej 2,Nørre Alslev,4840,5,136,1893,440000.0,07-04-2006
+Gåbense Strandvej 61H,Nørre Alslev,4840,5,200,2006,1817749.0,03-04-2006
+Alstrup Skovvej 10,Nørre Alslev,4840,8,220,1912,850000.0,03-04-2006
+Stubbekøbingvej 17,Nørre Alslev,4840,3,72,1912,775000.0,03-04-2006
+Svinget 31,Nørre Alslev,4840,5,185,1969,1525000.0,03-04-2006
+Frihedsmindevej 35,Nørre Alslev,4840,14,389,1868,800483.0,27-03-2006
+Tværvej 4,Nørre Alslev,4840,5,140,1906,1055000.0,27-03-2006
+Nykøbingvej 90,Nørre Alslev,4840,5,157,1934,1175000.0,24-03-2006
+Ravnse Byvej 18,Nørre Alslev,4840,10,331,1878,1735000.0,22-03-2006
+Skovby Tværvej 30,Nørre Alslev,4840,8,174,1852,1395000.0,22-03-2006
+Anisvænget 2,Nørre Alslev,4840,4,81,1827,675000.0,20-03-2006
+Orehoved Langgade 34,Nørre Alslev,4840,5,138,2008,195000.0,15-03-2006
+Ertebøllevej 20,Nørre Alslev,4840,6,171,2009,230111.0,14-03-2006
+Ertebøllevej 22,Nørre Alslev,4840,4,130,2006,230111.0,04-03-2006
+Gåbense Strandvej 41,Nørre Alslev,4840,5,206,1900,2300000.0,04-03-2006
+Vålse Vesterskovvej 28,Nørre Alslev,4840,7,275,1931,12500000.0,02-03-2006
+Orehoved Langgade 40,Nørre Alslev,4840,4,111,1922,986062.0,28-02-2006
+Nr Alslev Syrenvej 14,Nørre Alslev,4840,3,77,1972,850000.0,23-02-2006
+Rønvej 5,Nørre Alslev,4840,6,163,1972,1625000.0,20-02-2006
+Lærkevej 10,Nørre Alslev,4840,5,162,1880,1500000.0,18-02-2006
+Ellehammersvej 18B,Nørre Alslev,4840,3,79,1988,700000.0,16-02-2006
+Nr Vedby Kirkevej 8,Nørre Alslev,4840,4,100,1937,530000.0,21-01-2006
+Lundbyvej 41,Nørre Alslev,4840,2,62,1884,587000.0,20-01-2006
+Bellisvej 10,Nørre Alslev,4840,4,98,1980,995000.0,07-01-2006
+Vedby Vesterskovvej 23,Nørre Alslev,4840,8,190,1850,1445000.0,03-01-2006
+Nr Alslev Langgade 37,Nørre Alslev,4840,3,49,1900,950000.0,02-01-2006
+Orehoved Langgade 37A,Nørre Alslev,4840,3,72,1974,2800000.0,21-12-2005
+Ulriksdalsvej 1,Nørre Alslev,4840,7,234,1902,190820.0,21-12-2005
+Storstrømsvej 88,Nørre Alslev,4840,4,119,1953,975000.0,19-12-2005
+Miljøvænget 1,Nørre Alslev,4840,5,171,2006,1110000.0,19-12-2005
+Storstrømsvej 104,Nørre Alslev,4840,6,180,1877,401000.0,13-12-2005
+Skernevej 27,Nørre Alslev,4840,4,206,1935,1600000.0,12-12-2005
+Vigvej 35,Nørre Alslev,4840,5,165,1870,820000.0,09-12-2005
+Ravnse Skovvej 15,Nørre Alslev,4840,6,244,1873,1625000.0,08-12-2005
+Alstrup Skovvej 20,Nørre Alslev,4840,3,126,1877,925000.0,03-12-2005
+Peter L Jensens Vej 2,Nørre Alslev,4840,5,173,1986,3050000.0,30-11-2005
+Ertebøllevej 26,Nørre Alslev,4840,5,182,2006,228661.0,28-11-2005
+Østervej 52,Nørre Alslev,4840,5,143,1968,900000.0,25-11-2005
+Nr Alslev Langgade 73,Nørre Alslev,4840,6,143,1924,1150000.0,24-11-2005
+Storstrømsvej 91,Nørre Alslev,4840,18,161,1947,3650000.0,23-11-2005
+Stubbekøbingvej 22,Nørre Alslev,4840,5,160,1900,1075000.0,20-11-2005
+Nyskolevej 42,Nørre Alslev,4840,4,120,1964,866042.0,15-11-2005
+Gyldenbjergvej 46,Nørre Alslev,4840,7,192,1960,250000.0,14-11-2005
+Lyttehøjvej 18,Nørre Alslev,4840,5,182,1849,995000.0,10-11-2005
+Bjergvej 26,Nørre Alslev,4840,4,139,1977,1350000.0,08-11-2005
+Ravnse Skovvej 9,Nørre Alslev,4840,5,130,1913,710000.0,31-10-2005
+Ravnse Skovvej 13,Nørre Alslev,4840,6,195,1900,3000000.0,27-10-2005
+Miljøvænget 9,Nørre Alslev,4840,6,156,2006,79900.0,21-10-2005
+Nr Alslev Stationsvej 1,Nørre Alslev,4840,5,106,1870,950000.0,21-10-2005
+Nr Alslev Langgade 61,Nørre Alslev,4840,6,97,1939,1095000.0,21-10-2005
+Herbergervej 10,Nørre Alslev,4840,3,69,1909,238672.0,17-10-2005
+Smedevej 7,Nørre Alslev,4840,5,247,1827,2300000.0,07-10-2005
+Helene Strangesvej 3,Nørre Alslev,4840,6,210,1912,2200000.0,07-10-2005
+Nr Vedby Kirkevej 19,Nørre Alslev,4840,3,139,1948,700000.0,30-09-2005
+Gåbense Strandvej 63,Nørre Alslev,4840,3,55,1805,370000.0,23-09-2005
+Dæmningsvej 4,Nørre Alslev,4840,4,101,1800,400000.0,23-09-2005
+"Nr Alslev Nygade 11A, 1",Nørre Alslev,4840,3,81,1910,645000.0,22-09-2005
+Orehoved Langgade 20,Nørre Alslev,4840,3,80,1900,665000.0,21-09-2005
+Smedevej 1,Nørre Alslev,4840,4,112,1891,650000.0,19-09-2005
+Vigvej 34,Nørre Alslev,4840,4,130,1847,895000.0,15-09-2005
+Ingefærvej 6,Nørre Alslev,4840,4,138,2006,105800.0,14-09-2005
+Gåbense Strandvej 61F,Nørre Alslev,4840,5,200,2006,435000.0,13-09-2005
+Nykøbingvej 18,Nørre Alslev,4840,4,130,1907,760000.0,12-09-2005
+Egensevej 21,Nørre Alslev,4840,5,163,1900,544549.0,10-09-2005
+Østervej 40,Nørre Alslev,4840,4,156,1888,759000.0,08-09-2005
+Gåbense Strandvej 47,Nørre Alslev,4840,4,125,1897,800000.0,07-09-2005
+Vigvej 39,Nørre Alslev,4840,3,95,1857,615000.0,05-09-2005
+Følfodvej 15,Nørre Alslev,4840,5,150,1980,1251414.0,03-09-2005
+Nr Grimmelstrupvej 15,Nørre Alslev,4840,11,285,1939,2500000.0,02-09-2005
+Stubbekøbingvej 49,Nørre Alslev,4840,6,128,1900,895000.0,02-09-2005
+Svinget 25,Nørre Alslev,4840,3,173,1970,500547.0,31-08-2005
+Sortkammervej 11,Nørre Alslev,4840,4,110,1946,775000.0,30-08-2005
+Rasmus Sigvardtsvej 11,Nørre Alslev,4840,3,94,1927,850000.0,25-08-2005
+Lommelevvej 5,Nørre Alslev,4840,8,239,1880,1400000.0,19-08-2005
+Vigvej 84,Nørre Alslev,4840,6,145,1900,500000.0,19-08-2005
+Svinget 10,Nørre Alslev,4840,5,152,1971,880000.0,16-08-2005
+Lundbyvej 57,Nørre Alslev,4840,3,92,1847,510000.0,13-08-2005
+Orehoved Langgade 14,Nørre Alslev,4840,4,78,1910,470000.0,09-08-2005
+Bogfinkevej 8,Nørre Alslev,4840,5,151,1976,1200000.0,04-08-2005
+Gåbense Strandvej 61D,Nørre Alslev,4840,5,245,2006,650000.0,30-07-2005
+Skerne Skovvej 1,Nørre Alslev,4840,6,162,1918,1625000.0,24-07-2005
+Vigvej 30,Nørre Alslev,4840,4,125,1877,247500.0,22-07-2005
+Ravnsevej 20,Nørre Alslev,4840,3,98,1912,960000.0,22-07-2005
+Dæmningsvej 21,Nørre Alslev,4840,3,132,1905,999000.0,22-07-2005
+Skernevej 28,Nørre Alslev,4840,4,104,1869,450000.0,19-07-2005
+Herbergervej 12,Nørre Alslev,4840,3,75,1900,585000.0,11-07-2005
+Storstrømsvej 122,Nørre Alslev,4840,7,225,1877,480000.0,11-07-2005
+Nykøbingvej 17,Nørre Alslev,4840,4,91,1945,650000.0,04-07-2005
+Gåbense Strandvej 61E,Nørre Alslev,4840,6,308,2006,750000.0,27-06-2005
+Nykøbingvej 52,Nørre Alslev,4840,2,86,1887,826510.0,27-06-2005
+Vennerslundsvej 6,Nørre Alslev,4840,5,230,1908,1675000.0,22-06-2005
+Orehoved Vinkelvej 3,Nørre Alslev,4840,5,112,1939,780000.0,16-06-2005
+Nr Alslev Jernbanegade 7,Nørre Alslev,4840,7,241,1915,1675000.0,15-06-2005
+Gåbense Strandvej 61C,Nørre Alslev,4840,5,231,2006,1923000.0,03-06-2005
+Orehoved Stationsvej 19,Nørre Alslev,4840,4,108,1969,970000.0,31-05-2005
+Præstevænget 13,Nørre Alslev,4840,3,68,1969,795000.0,30-05-2005
+Havnsøvej 5,Nørre Alslev,4840,9,186,1941,7000000.0,30-05-2005
+Herbergervej 2,Nørre Alslev,4840,5,195,1922,1325000.0,30-05-2005
+Svinget 13,Nørre Alslev,4840,4,85,1970,795000.0,26-05-2005
+Østervej 70,Nørre Alslev,4840,4,159,1852,575000.0,25-05-2005
+Østervej 1,Nørre Alslev,4840,4,143,1912,585000.0,24-05-2005
+Præstevænget 4,Nørre Alslev,4840,2,71,1967,710000.0,20-05-2005
+Kippingevej 36,Nørre Alslev,4840,3,130,1900,423750.0,13-05-2005
+Brovænget 24,Nørre Alslev,4840,4,77,1950,620000.0,13-05-2005
+Følfodvej 3,Nørre Alslev,4840,4,135,1982,1200000.0,13-05-2005
+Kippingevej 14,Nørre Alslev,4840,4,111,1887,525000.0,12-05-2005
+Ahornvej 2A,Nørre Alslev,4840,5,194,2007,300000.0,12-05-2005
+Skovvej 14,Nørre Alslev,4840,4,112,1947,1075000.0,11-05-2005
+Sølvgade 7,Nørre Alslev,4840,5,122,1910,930000.0,08-05-2005
+Stubbekøbingvej 36,Nørre Alslev,4840,4,124,1900,510000.0,22-04-2005
+Vigvej 38,Nørre Alslev,4840,4,99,1885,450000.0,16-04-2005
+Ellehammersvej 2,Nørre Alslev,4840,4,144,2006,94800.0,12-04-2005
+Alstrup Skovvej 23,Nørre Alslev,4840,2,63,1897,380000.0,11-04-2005
+Østervej 29,Nørre Alslev,4840,3,76,1932,435000.0,01-04-2005
+Lommelevvej 12,Nørre Alslev,4840,4,100,1923,388801.0,01-04-2005
+Gåbense Strandvej 16,Nørre Alslev,4840,4,186,1964,900000.0,01-04-2005
+Vedby Vesterskovvej 17,Nørre Alslev,4840,4,153,1978,1100000.0,30-03-2005
+Følfodvej 12,Nørre Alslev,4840,4,152,1980,562500.0,30-03-2005
+Skovby Tværvej 55,Nørre Alslev,4840,3,97,1877,510000.0,29-03-2005
+Skovby Tværvej 53,Nørre Alslev,4840,5,146,1904,2350000.0,28-03-2005
+Dæmningsvej 6,Nørre Alslev,4840,4,163,1900,1155000.0,23-03-2005
+Skovvej 16,Nørre Alslev,4840,8,209,1960,1400000.0,21-03-2005
+Vennerslundsvej 7,Nørre Alslev,4840,5,139,1897,1070000.0,18-03-2005
+Vigvej 7,Nørre Alslev,4840,4,79,1936,550000.0,18-03-2005
+Egelev Gade 16,Nørre Alslev,4840,5,153,1974,885000.0,14-03-2005
+Nr Grimmelstrupvej 4,Nørre Alslev,4840,2,60,1800,235000.0,10-03-2005
+Skovby Tværvej 48,Nørre Alslev,4840,5,253,2012,3850000.0,03-03-2005
+Skovbyvej 24,Nørre Alslev,4840,11,205,1877,795000.0,28-02-2005
+Gåbense Strandvej 25,Nørre Alslev,4840,9,236,1917,2420000.0,27-02-2005
+Ellehammersvej 30,Nørre Alslev,4840,6,167,2006,87200.0,20-02-2005
+Vålse Vesterskovvej 14,Nørre Alslev,4840,8,165,1880,660000.0,20-02-2005
+Nr Alslev Parkvej 2,Nørre Alslev,4840,5,120,1962,935000.0,14-02-2005
+Krokusvej 6,Nørre Alslev,4840,4,136,1979,1037000.0,11-02-2005
+Nr Vedby Kirkevej 13,Nørre Alslev,4840,7,180,1900,1595000.0,09-02-2005
+Alstrup Skovvej 12,Nørre Alslev,4840,5,151,1940,685000.0,07-02-2005
+Skovvej 52,Nørre Alslev,4840,5,148,1963,895000.0,05-02-2005
+Nr Alslev Vestergade 5,Nørre Alslev,4840,4,138,1960,1050000.0,04-02-2005
+Nyskolevej 16,Nørre Alslev,4840,6,175,1925,1945000.0,04-02-2005
+Gåbense Strandvej 39,Nørre Alslev,4840,6,175,1908,450000.0,03-02-2005
+Gundslev Kirkevej 3,Nørre Alslev,4840,8,244,1875,100000.0,02-02-2005
+Kippingevej 5,Nørre Alslev,4840,3,111,1790,450000.0,01-02-2005
+"Gåbensevej 9, 1",Nørre Alslev,4840,3,128,1916,775000.0,24-01-2005
+Drosselvej 2,Nørre Alslev,4840,5,135,1976,1125000.0,19-01-2005
+Vigvej 10,Nørre Alslev,4840,5,112,1958,695000.0,18-01-2005
+Ravnse Byvej 6,Nørre Alslev,4840,2,90,1908,461939.0,18-01-2005
+Tværgade 4,Nørre Alslev,4840,4,90,1917,750000.0,16-01-2005
+Anemonevej 12,Nørre Alslev,4840,4,98,1984,895000.0,13-01-2005
+Skernevej 13,Nørre Alslev,4840,3,79,1900,515000.0,08-01-2005
+Brarupvej 16,Nørre Alslev,4840,6,240,1820,4890700.0,07-01-2005
+Gåbensevej 20,Nørre Alslev,4840,6,140,1920,440000.0,03-01-2005
+Orenæs Skovvej 1,Nørre Alslev,4840,7,133,1932,1650000.0,15-12-2004
+Bødker Alle 12,Nørre Alslev,4840,6,200,1913,1650000.0,15-12-2004
+Stubbekøbingvej 1,Nørre Alslev,4840,5,213,1916,1650000.0,14-12-2004
+Nr Vedbyvej 7,Nørre Alslev,4840,7,280,1916,1130000.0,10-12-2004
+Egensevej 23,Nørre Alslev,4840,8,237,1900,489034.0,08-12-2004
+Vedby Vesterskovvej 2,Nørre Alslev,4840,8,185,1900,1075000.0,08-12-2004
+Egelev Mosevej 1,Nørre Alslev,4840,6,164,1932,675000.0,03-12-2004
+Krokusvej 18,Nørre Alslev,4840,5,143,1979,1195000.0,26-11-2004
+Gåbensevej 66,Nørre Alslev,4840,3,116,1942,775000.0,24-11-2004
+Skjoldmosevej 4,Nørre Alslev,4840,7,242,1904,1800000.0,20-11-2004
+Nr Vedby Kirkevej 9,Nørre Alslev,4840,8,227,1890,4335000.0,14-11-2004
+Svinget 2A,Nørre Alslev,4840,3,71,1968,750000.0,09-11-2004
+Sølvgade 9,Nørre Alslev,4840,2,117,1908,615000.0,07-11-2004
+Stubbekøbingvej 81,Nørre Alslev,4840,3,114,1904,500000.0,29-10-2004
+Nykøbingvej 45,Nørre Alslev,4840,4,118,1898,640000.0,29-10-2004
+Gåbense Strandvej 53,Nørre Alslev,4840,4,127,1890,785000.0,25-10-2004
+Nykøbingvej 57,Nørre Alslev,4840,7,235,1947,1495000.0,20-10-2004
+Dildvænget 2,Nørre Alslev,4840,5,145,2009,99100.0,19-10-2004
+Gyldenbjergvej 16,Nørre Alslev,4840,5,159,1951,714000.0,15-10-2004
+Kredsvej 1,Nørre Alslev,4840,8,194,1950,1690000.0,14-10-2004
+Spurvevej 1,Nørre Alslev,4840,4,147,1976,995000.0,13-10-2004
+Nr Alslev Langgade 62B,Nørre Alslev,4840,7,155,1910,975000.0,07-10-2004
+Skovby Tværvej 18,Nørre Alslev,4840,3,86,1836,680000.0,06-10-2004
+Ravnsevej 30,Nørre Alslev,4840,2,25,1959,250000.0,05-10-2004
+Nr Vedby Kirkevej 11,Nørre Alslev,4840,8,147,1912,840000.0,02-09-2004
+Nr Alslev Langgade 42,Nørre Alslev,4840,5,105,1920,162500.0,23-08-2004
+Miljøvænget 7,Nørre Alslev,4840,4,115,2005,83200.0,18-08-2004
+Knud Olsensgade 6,Nørre Alslev,4840,6,140,1927,975000.0,06-08-2004
+Gransangervej 10,Nørre Alslev,4840,4,143,1975,875000.0,04-08-2004
+Orehoved Stationsvej 15,Nørre Alslev,4840,4,155,1971,925000.0,04-08-2004
+Kippingevej 33,Nørre Alslev,4840,5,192,1914,775000.0,02-08-2004
+Rasmus Sigvardtsvej 9,Nørre Alslev,4840,6,208,1949,2015000.0,27-07-2004
+Egensevej 34,Nørre Alslev,4840,3,88,1963,670000.0,23-07-2004
+Egensevej 6,Nørre Alslev,4840,4,127,1878,229831.0,21-07-2004
+Fasanvej 10,Nørre Alslev,4840,4,150,1977,970000.0,20-07-2004
+Skernevej 10,Nørre Alslev,4840,2,89,1925,300000.0,16-07-2004
+Alstrup Skovvej 25,Nørre Alslev,4840,3,68,1777,303000.0,11-07-2004
+Lommelevvej 3,Nørre Alslev,4840,4,146,1925,500000.0,08-07-2004
+Vålse Vesterskovvej 9,Nørre Alslev,4840,6,219,1850,1720000.0,07-07-2004
+Nr Alslev Birkevej 13,Nørre Alslev,4840,4,130,1972,885000.0,01-07-2004
+Gransangervej 6,Nørre Alslev,4840,4,114,1979,1095000.0,30-06-2004
+Baunehøjen 3,Nørre Alslev,4840,4,128,1907,800000.0,30-06-2004
+Dildvænget 3,Nørre Alslev,4840,5,144,2000,951536.0,28-06-2004
+Cikorievænget 3,Nørre Alslev,4840,4,171,1982,1270000.0,18-06-2004
+Skovby Tværvej 49,Nørre Alslev,4840,7,200,1850,725000.0,17-06-2004
+Drosselvej 4,Nørre Alslev,4840,3,116,1975,800000.0,13-06-2004
+Gyldenbjergvej 19,Nørre Alslev,4840,4,94,1964,800000.0,13-06-2004
+Smedevej 19,Nørre Alslev,4840,3,151,1876,435000.0,10-06-2004
+Vålse Vesterskovvej 11,Nørre Alslev,4840,7,150,1800,1346500.0,10-06-2004
+Skovvej 37,Nørre Alslev,4840,6,125,1958,885000.0,29-05-2004
+Vålse Vesterskovvej 22,Nørre Alslev,4840,6,152,1949,995000.0,26-05-2004
+Ravnse Skovvej 1,Nørre Alslev,4840,3,81,1900,432651.0,24-05-2004
+Dildvænget 4,Nørre Alslev,4840,4,116,2006,101300.0,24-05-2004
+Nyskolevej 44,Nørre Alslev,4840,5,129,1968,920000.0,21-05-2004
+Sortkammervej 25,Nørre Alslev,4840,3,92,1800,133000.0,21-05-2004
+Gåbensevej 21,Nørre Alslev,4840,12,330,1894,700000.0,20-05-2004
+Skerne Gade 11,Nørre Alslev,4840,2,65,1827,230000.0,17-05-2004
+Skerne Gade 20,Nørre Alslev,4840,5,120,1900,495000.0,10-05-2004
+Riserupvej 30,Nørre Alslev,4840,4,130,1973,825000.0,10-05-2004
+Gyldenbjergvej 6,Nørre Alslev,4840,3,94,1981,705000.0,04-05-2004
+Sortkammervej 5,Nørre Alslev,4840,5,150,1877,845000.0,03-05-2004
+Skovvænget 23,Nørre Alslev,4840,3,140,1976,1160000.0,02-05-2004
+Skerne Skovvej 13,Nørre Alslev,4840,3,77,1950,515000.0,28-04-2004
+Alstrup Skovvej 22,Nørre Alslev,4840,2,57,1877,455000.0,27-04-2004
+Nykøbingvej 6,Nørre Alslev,4840,5,210,1922,413238.0,27-04-2004
+Egensevej 42,Nørre Alslev,4840,5,157,1871,573000.0,23-04-2004
+Vedby Vesterskovvej 25,Nørre Alslev,4840,7,168,1913,3847118.0,22-04-2004
+Cikorievænget 2,Nørre Alslev,4840,6,167,2005,103500.0,21-04-2004
+Skovby Tværvej 45,Nørre Alslev,4840,7,181,1927,675000.0,14-04-2004
+Gyldenbjergvej 2,Nørre Alslev,4840,5,171,1926,700000.0,08-04-2004
+Bjergvej 22,Nørre Alslev,4840,3,85,1872,565000.0,31-03-2004
+Sortkammervej 13,Nørre Alslev,4840,3,98,1902,1263000.0,29-03-2004
+Orehoved Langgade 27,Nørre Alslev,4840,4,120,1952,272230.0,26-03-2004
+Ravnsevej 8,Nørre Alslev,4840,4,102,1877,332000.0,25-03-2004
+Vålse Vesterskovvej 19,Nørre Alslev,4840,2,88,1912,925000.0,22-03-2004
+Gyldenbjergvej 47,Nørre Alslev,4840,8,211,1938,795000.0,22-03-2004
+Gårdrækkevej 4,Nørre Alslev,4840,5,161,1857,98676.0,20-03-2004
+Herbergervej 1,Nørre Alslev,4840,5,178,1944,735000.0,18-03-2004
+Gåbense Strandvej 31,Nørre Alslev,4840,5,187,2005,650000.0,18-03-2004
+Valnæsvej 6,Nørre Alslev,4840,2,177,1967,520000.0,12-03-2004
+Lyttehøjvej 12,Nørre Alslev,4840,4,108,1940,725000.0,23-02-2004
+Skernevej 26,Nørre Alslev,4840,3,70,1900,325000.0,20-02-2004
+Nr Alslev Birkevej 14,Nørre Alslev,4840,4,129,1971,1000000.0,17-02-2004
+Vigvej 32,Nørre Alslev,4840,10,271,1827,395556.0,16-02-2004
+Følfodvej 2,Nørre Alslev,4840,4,80,1910,695000.0,13-02-2004
+Nr Alslev Langgade 35,Nørre Alslev,4840,6,105,1911,470000.0,10-02-2004
+Vedby Vesterskovvej 6,Nørre Alslev,4840,5,180,1877,1348000.0,02-02-2004
+Vigvej 70,Nørre Alslev,4840,6,186,1777,3500000.0,20-01-2004
+Langesvej 12,Nørre Alslev,4840,4,102,1962,945065.0,17-01-2004
+Nr Alslev Langgade 43,Nørre Alslev,4840,6,164,1900,925000.0,16-01-2004
+Nykøbingvej 46,Nørre Alslev,4840,4,90,1914,875000.0,09-01-2004
+Nr Alslev Nygade 29,Nørre Alslev,4840,5,137,1940,520864.0,08-01-2004
+Lyttehøjvej 22,Nørre Alslev,4840,6,190,1913,300000.0,02-01-2004
+Vigvej 56,Nørre Alslev,4840,2,70,1877,300000.0,21-12-2003
+Storstrømsvej 64,Nørre Alslev,4840,6,184,1934,1487500.0,16-12-2003
+Lyttehøjvej 20,Nørre Alslev,4840,6,196,1883,1435000.0,08-12-2003
+Skovby Tværvej 37,Nørre Alslev,4840,2,80,1912,650000.0,05-12-2003
+Gransangervej 16,Nørre Alslev,4840,4,150,1977,490000.0,03-12-2003
+Østervej 9,Nørre Alslev,4840,3,70,1954,350000.0,24-11-2003
+Knud Olsensgade 22,Nørre Alslev,4840,3,74,1900,575000.0,21-11-2003
+Spurvevej 8,Nørre Alslev,4840,4,174,1978,1300000.0,19-11-2003
+Nr Vedbyvej 13,Nørre Alslev,4840,6,223,1866,1200000.0,12-11-2003
+Egensevej 51,Nørre Alslev,4840,4,127,2002,1100000.0,01-11-2003
+Riserupvej 8,Nørre Alslev,4840,6,190,1902,650000.0,01-11-2003
+Skovvej 58,Nørre Alslev,4840,6,211,1984,1560000.0,21-10-2003
+Lommelevvej 2,Nørre Alslev,4840,5,122,1905,785000.0,19-10-2003
+Gransangervej 12,Nørre Alslev,4840,4,110,1974,977663.0,15-10-2003
+Egensevej 64,Nørre Alslev,4840,4,116,1900,600000.0,10-10-2003
+Skovby Tværvej 28,Nørre Alslev,4840,5,198,1897,580000.0,23-09-2003
+Rønvej 1,Nørre Alslev,4840,4,110,1973,825000.0,18-09-2003
+Bødker Alle 2,Nørre Alslev,4840,2,117,1900,566965.0,17-09-2003
+Gyldenbjergvej 32,Nørre Alslev,4840,7,166,1965,1315000.0,16-09-2003
+Egensevej 36,Nørre Alslev,4840,5,171,1959,1070000.0,14-09-2003
+Østervej 6,Nørre Alslev,4840,4,121,1877,382499.0,12-09-2003
+Havnegade 4,Nørre Alslev,4840,3,108,1902,775000.0,06-09-2003
+Skovbyvej 10,Nørre Alslev,4840,6,209,1850,1105000.0,04-09-2003
+Nr Alslev Nygade 14,Nørre Alslev,4840,5,109,1920,677102.0,28-08-2003
+Cikorievænget 7,Nørre Alslev,4840,5,187,2004,87800.0,27-08-2003
+Alstrupvej 25,Nørre Alslev,4840,3,89,1777,550000.0,22-08-2003
+Ved Stranden 11,Nørre Alslev,4840,4,135,1928,1500000.0,14-08-2003
+Anemonevej 3,Nørre Alslev,4840,4,98,1982,750000.0,08-08-2003
+Krokusvej 3,Nørre Alslev,4840,5,144,1981,1065000.0,02-08-2003
+Havnsøvej 8,Nørre Alslev,4840,8,224,1868,930000.0,30-07-2003
+Tværvej 2,Nørre Alslev,4840,6,131,1910,895000.0,30-07-2003
+Nr Alslev Langgade 18,Nørre Alslev,4840,5,133,1900,898000.0,22-07-2003
+Nykøbingvej 8,Nørre Alslev,4840,3,78,1900,550000.0,14-07-2003
+Steffensmindevej 18,Nørre Alslev,4840,4,125,1960,475000.0,11-07-2003
+Bjergvej 32,Nørre Alslev,4840,6,157,1913,925000.0,05-07-2003
+Østervej 23,Nørre Alslev,4840,3,86,1905,495000.0,02-07-2003
+Spurvevej 12,Nørre Alslev,4840,4,135,2002,1385000.0,02-07-2003
+Gåbense Strandvej 59A,Nørre Alslev,4840,5,196,1897,1150000.0,30-06-2003
+Bjergvej 18,Nørre Alslev,4840,3,87,1827,300000.0,25-06-2003
+Storstrømsvej 112,Nørre Alslev,4840,8,216,1898,2375000.0,25-06-2003
+Nr Alslev Syrenvej 13,Nørre Alslev,4840,4,95,1974,750000.0,20-06-2003
+Egensevej 39,Nørre Alslev,4840,5,92,1852,686338.0,16-06-2003
+Nr Grimmelstrupvej 8,Nørre Alslev,4840,4,74,1911,340000.0,14-06-2003
+Dildvænget 5,Nørre Alslev,4840,5,184,2003,115455.0,02-06-2003
+Nr Alslev Syrenvej 20,Nørre Alslev,4840,3,91,1972,740000.0,20-05-2003
+Svinget 2,Nørre Alslev,4840,3,71,1968,500000.0,20-05-2003
+Langesvej 7,Nørre Alslev,4840,10,400,1855,1195000.0,12-05-2003
+Alstrup Strandvej 17,Nørre Alslev,4840,8,245,1966,1610000.0,25-04-2003
+Bødker Alle 8,Nørre Alslev,4840,6,175,1880,720000.0,24-04-2003
+Krokusvej 14,Nørre Alslev,4840,6,175,1979,975000.0,24-04-2003
+Gåbense Strandvej 21,Nørre Alslev,4840,6,141,1909,995000.0,03-04-2003
+Mygget Alle 6,Nørre Alslev,4840,6,125,1900,775000.0,28-03-2003
+Storstrømsvej 83,Nørre Alslev,4840,5,177,1938,1300000.0,15-03-2003
+Nr Vedbyvej 11,Nørre Alslev,4840,6,178,1790,800000.0,11-03-2003
+Ravnsevej 24,Nørre Alslev,4840,3,90,1959,625000.0,11-03-2003
+Egensevej 11,Nørre Alslev,4840,6,135,1910,1103952.0,11-03-2003
+Nr Alslev Vestergade 6,Nørre Alslev,4840,3,90,1954,500000.0,07-03-2003
+Svinget 30,Nørre Alslev,4840,4,140,1973,1100000.0,06-03-2003
+Østervej 44,Nørre Alslev,4840,4,94,1932,400000.0,26-02-2003
+Vigvej 15B,Nørre Alslev,4840,5,72,1937,560000.0,26-02-2003
+Vigvej 73B,Nørre Alslev,4840,3,92,1914,300000.0,16-02-2003
+Gyldenbjergvej 10,Nørre Alslev,4840,4,108,1950,465000.0,15-02-2003
+Nr Alslev Langgade 48,Nørre Alslev,4840,5,98,1921,754000.0,14-02-2003
+Gåbensevej 22,Nørre Alslev,4840,6,136,1911,450000.0,11-02-2003
+Spurvevej 15,Nørre Alslev,4840,5,169,2004,99297.0,10-02-2003
+Nr Alslev Birkevej 3,Nørre Alslev,4840,6,153,1971,1050000.0,10-02-2003
+Nr Alslev Langgade 55,Nørre Alslev,4840,6,120,1924,900562.0,05-02-2003
+Ellehammersvej 16,Nørre Alslev,4840,3,78,1988,262500.0,31-01-2003
+Rasmus Sigvardtsvej 17,Nørre Alslev,4840,5,135,1919,487500.0,31-01-2003
+Vålse Vesterskovvej 10,Nørre Alslev,4840,5,113,1900,445000.0,29-01-2003
+Gåbensevej 71,Nørre Alslev,4840,4,105,1934,660000.0,25-01-2003
+Skovvej 67,Nørre Alslev,4840,8,170,1936,1600000.0,24-01-2003
+Herbergervej 7,Nørre Alslev,4840,5,155,1920,56000.0,20-01-2003
+Vålse Møllevej 7,Nørre Alslev,4840,7,223,1895,1721250.0,20-01-2003
+Storstrømsvej 75,Nørre Alslev,4840,8,154,1912,305000.0,16-01-2003
+Alstrup Skovvej 34,Nørre Alslev,4840,4,236,1870,622000.0,04-01-2003
+Nykøbingvej 74,Nørre Alslev,4840,5,143,1900,125000.0,01-01-2003
+"Nr Alslev Langgade 2F, 2",Nørre Alslev,4840,3,131,1900,1100000.0,30-12-2002
+Knud Olsensgade 8,Nørre Alslev,4840,3,95,1937,625000.0,27-12-2002
+Knud Olsensgade 3,Nørre Alslev,4840,5,96,1890,485000.0,19-12-2002
+Bjergvej 34,Nørre Alslev,4840,4,98,1966,495000.0,17-12-2002
+"Nr Alslev Langgade 2E, 2",Nørre Alslev,4840,3,105,1900,1100000.0,13-12-2002
+Vålse Vesterskovvej 18,Nørre Alslev,4840,3,53,1827,456000.0,12-12-2002
+Alstrup Strandvej 19,Nørre Alslev,4840,2,238,1964,700000.0,10-12-2002
+Skovvej 22,Nørre Alslev,4840,4,113,1947,840000.0,05-12-2002
+Storstrømsvej 89,Nørre Alslev,4840,4,96,1900,500000.0,29-11-2002
+Skerne Skovvej 2,Nørre Alslev,4840,4,118,1949,685000.0,20-11-2002
+Alstrup Skovvej 17,Nørre Alslev,4840,4,122,1887,600000.0,20-11-2002
+Nr Alslev Nygade 7,Nørre Alslev,4840,3,104,1986,895000.0,20-11-2002
+Krokusvej 1,Nørre Alslev,4840,4,126,1980,950000.0,19-11-2002
+Østervej 84,Nørre Alslev,4840,5,136,1949,865000.0,18-11-2002
+Baunehøjen 4,Nørre Alslev,4840,5,147,1934,580000.0,05-11-2002
+Nr Alslev Syrenvej 8,Nørre Alslev,4840,4,91,1971,730000.0,02-11-2002
+Steffensmindevej 11,Nørre Alslev,4840,4,200,1890,985400.0,02-11-2002
+Lommelevvej 17,Nørre Alslev,4840,4,95,1880,465000.0,01-11-2002
+Skerrisvej 37,Nørre Alslev,4840,4,114,1962,752586.0,30-10-2002
+Fasanvej 8,Nørre Alslev,4840,4,150,1977,1150000.0,25-10-2002
+Boulevarden 13,Nørre Alslev,4840,5,118,1955,635000.0,03-10-2002
+Skovvej 29,Nørre Alslev,4840,4,97,1956,720000.0,01-10-2002
+Grynsevej 3,Nørre Alslev,4840,4,196,1927,1050000.0,18-09-2002
+Alstrupvej 18,Nørre Alslev,4840,3,87,1865,350000.0,06-09-2002
+Gyldenbjergvej 39,Nørre Alslev,4840,2,85,1877,400000.0,04-09-2002
+Gyldenbjergvej 42,Nørre Alslev,4840,5,225,1910,1230000.0,04-09-2002
+Herbergervej 14A,Nørre Alslev,4840,4,115,1900,340000.0,27-08-2002
+Lommelevvej 13,Nørre Alslev,4840,6,172,1900,535000.0,26-08-2002
+Kippingevej 37,Nørre Alslev,4840,3,160,1900,348537.0,13-08-2002
+Skerrisvej 3,Nørre Alslev,4840,3,112,1970,413554.0,09-08-2002
+Gåbense Strandvej 22,Nørre Alslev,4840,5,155,1906,1951980.0,05-08-2002
+Storstrømsvej 59,Nørre Alslev,4840,5,138,1900,710000.0,01-08-2002
+Nr Alslev Langgade 9,Nørre Alslev,4840,5,115,1890,624673.0,31-07-2002
+Herbergervej 11,Nørre Alslev,4840,6,105,1880,544000.0,18-07-2002
+Vigvej 50,Nørre Alslev,4840,7,204,1850,1495000.0,09-07-2002
+Nr Kirkebyvej 5,Nørre Alslev,4840,7,250,1869,230000.0,03-07-2002
+Vigvej 43,Nørre Alslev,4840,9,238,1890,443430.0,01-07-2002
+Nr Alslev Langgade 7,Nørre Alslev,4840,4,132,1920,690998.0,24-06-2002
+Alstrupvej 9,Nørre Alslev,4840,3,91,1850,313211.0,20-06-2002
+Spurvevej 19,Nørre Alslev,4840,6,161,2003,106623.0,17-06-2002
+Tværgade 5,Nørre Alslev,4840,4,104,1912,785000.0,15-06-2002
+Sortkammervej 17,Nørre Alslev,4840,3,82,1880,475000.0,11-06-2002
+Nykøbingvej 26,Nørre Alslev,4840,4,100,1920,510000.0,10-06-2002
+Spurvevej 2,Nørre Alslev,4840,5,139,1976,800000.0,06-06-2002
+Skerrisvej 1,Nørre Alslev,4840,4,140,1971,927265.0,04-06-2002
+Lyttehøjvej 4,Nørre Alslev,4840,5,103,1943,635000.0,03-06-2002
+Sortkammervej 15,Nørre Alslev,4840,3,43,1962,261084.0,28-05-2002
+Nr Vedby Kirkevej 4,Nørre Alslev,4840,6,260,1948,995000.0,16-05-2002
+Orehoved Langgade 8,Nørre Alslev,4840,3,102,1907,615000.0,29-04-2002
+Nyvej 18,Nørre Alslev,4840,4,85,1969,508918.0,25-04-2002
+Gåbensevej 41,Nørre Alslev,4840,7,340,1917,798000.0,22-04-2002
+Skerne Gade 25,Nørre Alslev,4840,7,281,1884,1158640.0,12-04-2002
+Farnæsvej 4,Nørre Alslev,4840,4,141,1940,701000.0,08-04-2002
+Gyldenbjergvej 5,Nørre Alslev,4840,5,112,1921,749000.0,04-04-2002
+Østervej 76,Nørre Alslev,4840,5,91,1924,420000.0,01-04-2002
+Østervej 96,Nørre Alslev,4840,4,152,1877,510000.0,01-04-2002
+Alstrup Skovvej 27,Nørre Alslev,4840,5,73,1940,292735.0,31-03-2002
+Orehoved Stationsvej 2,Nørre Alslev,4840,4,113,1953,560697.0,28-03-2002
+Fasanvej 18,Nørre Alslev,4840,4,141,1978,1025000.0,21-03-2002
+Stubvej 3,Nørre Alslev,4840,6,150,1890,106817.0,14-03-2002
+Spurvevej 21,Nørre Alslev,4840,4,123,2003,100683.0,13-03-2002
+Egensevej 24,Nørre Alslev,4840,4,153,1948,695000.0,08-03-2002
+Ravnsevej 9,Nørre Alslev,4840,6,142,1898,585000.0,08-03-2002
+Skerne Gade 17,Nørre Alslev,4840,3,64,1827,400000.0,26-02-2002
+Vedby Vesterskovvej 15,Nørre Alslev,4840,7,204,1977,955000.0,20-02-2002
+Østervej 20,Nørre Alslev,4840,2,94,1850,440000.0,15-02-2002
+Nykøbingvej 4,Nørre Alslev,4840,3,76,1877,350000.0,13-02-2002
+Præstevænget 3,Nørre Alslev,4840,2,71,1965,594925.0,08-02-2002
+Kredsvej 9,Nørre Alslev,4840,8,240,1920,2732500.0,07-02-2002
+Skovvænget 17,Nørre Alslev,4840,4,141,1973,760000.0,06-02-2002
+Østervej 88,Nørre Alslev,4840,4,156,1900,1186000.0,25-01-2002
+Nr Alslev Jernbanegade 8,Nørre Alslev,4840,5,128,1936,535000.0,24-01-2002
+Skovvej 33,Nørre Alslev,4840,6,144,1917,650000.0,18-01-2002
+Farnæsvej 8,Nørre Alslev,4840,3,117,1959,992105.0,07-01-2002
+Herbergervej 13,Nørre Alslev,4840,2,86,1887,230000.0,28-12-2001
+Østervej 34C,Nørre Alslev,4840,3,92,2003,60000.0,11-12-2001
+Vigvej 45,Nørre Alslev,4840,8,175,1890,190138.0,26-11-2001
+Riserupvej 50,Nørre Alslev,4840,4,122,1877,441755.0,21-11-2001
+Vedby Vesterskovvej 19,Nørre Alslev,4840,4,141,1976,700000.0,11-11-2001
+Miljøvænget 11,Nørre Alslev,4840,4,147,2002,77500.0,07-11-2001
+Gåbensevej 38,Nørre Alslev,4840,4,300,1908,5600000.0,25-10-2001
+Kippingevej 32,Nørre Alslev,4840,6,145,1872,1214838.0,22-10-2001
+Vigvej 96,Nørre Alslev,4840,5,125,1870,510000.0,20-10-2001
+Nr Alslev Langgade 17,Nørre Alslev,4840,7,160,1902,521121.0,16-10-2001
+Riserupvej 3,Nørre Alslev,4840,9,330,1900,4700000.0,15-10-2001
+Peter Hviidsvej 3,Nørre Alslev,4840,7,171,1971,919000.0,08-10-2001
+Vigvej 3,Nørre Alslev,4840,4,137,1913,699000.0,03-10-2001
+Fasanvej 2,Nørre Alslev,4840,4,131,1978,341117.0,01-10-2001
+Alstrupvej 23,Nørre Alslev,4840,6,174,1949,250000.0,01-10-2001
+Borregårdsvej 2,Nørre Alslev,4840,5,168,1892,745000.0,28-09-2001
+Præstevænget 8,Nørre Alslev,4840,2,72,1967,480000.0,27-09-2001
+Smedevej 17,Nørre Alslev,4840,7,168,1900,2250000.0,13-09-2001
+Østervej 18,Nørre Alslev,4840,4,114,1850,526000.0,12-09-2001
+Sortkammervej 29,Nørre Alslev,4840,4,105,1900,460000.0,10-09-2001
+Anemonevej 6,Nørre Alslev,4840,4,98,1984,685000.0,09-09-2001
+Østervej 34A,Nørre Alslev,4840,3,92,2006,30000.0,03-09-2001
+Anemonevej 9,Nørre Alslev,4840,4,98,1983,700000.0,14-08-2001
+Gåbense Strandvej 43,Nørre Alslev,4840,5,145,1910,1535000.0,10-08-2001
+Gyldenbjergvej 9,Nørre Alslev,4840,3,95,1955,420000.0,31-07-2001
+Nr Kirkebyvej 1,Nørre Alslev,4840,11,333,1897,1491000.0,25-07-2001
+Gyldenbjergvej 28,Nørre Alslev,4840,2,116,1890,339399.0,18-07-2001
+Kippingevej 15,Nørre Alslev,4840,6,124,1913,365833.0,11-07-2001
+Orehoved Langgade 52,Nørre Alslev,4840,4,87,1957,694000.0,10-07-2001
+Skovbyvej 39,Nørre Alslev,4840,3,88,1903,550000.0,05-07-2001
+Alstrupvej 20,Nørre Alslev,4840,4,95,1900,375000.0,19-06-2001
+Nr Alslev Nygade 18,Nørre Alslev,4840,4,86,1926,465000.0,13-06-2001
+Orehoved Langgade 48,Nørre Alslev,4840,4,112,1959,600000.0,12-06-2001
+Lundbyvej 37,Nørre Alslev,4840,4,126,1930,600000.0,30-05-2001
+Gåbense Strandvej 35,Nørre Alslev,4840,4,159,1910,1450000.0,27-05-2001
+Knud Olsensgade 5,Nørre Alslev,4840,2,60,1900,240000.0,16-05-2001
+Nr Alslev Syrenvej 7,Nørre Alslev,4840,3,81,1973,633000.0,14-05-2001
+Vedby Vesterskovvej 5,Nørre Alslev,4840,6,180,1894,1101000.0,09-05-2001
+Vigvej 100,Nørre Alslev,4840,3,70,1947,411000.0,08-05-2001
+Præstevænget 14,Nørre Alslev,4840,3,71,1968,534000.0,23-04-2001
+Ellehammersvej 12,Nørre Alslev,4840,4,101,1980,685000.0,19-04-2001
+Stubbekøbingvej 2,Nørre Alslev,4840,3,120,1920,450000.0,18-04-2001
+Valnæsvej 1,Nørre Alslev,4840,5,176,1892,3067500.0,17-04-2001
+Valnæsvej 3,Nørre Alslev,4840,6,235,1880,2932500.0,17-04-2001
+Frihedsmindevej 17,Nørre Alslev,4840,5,115,1906,245098.0,13-04-2001
+Nr Alslev Langgade 44,Nørre Alslev,4840,4,74,1937,510000.0,11-04-2001
+Brarupvej 14,Nørre Alslev,4840,7,247,1884,6000000.0,11-04-2001
+Nyskolevej 9,Nørre Alslev,4840,3,110,1900,579000.0,29-03-2001
+Gyldenbjergvej 33,Nørre Alslev,4840,6,154,1906,475000.0,26-03-2001
+Kippingevej 30,Nørre Alslev,4840,7,132,1949,806000.0,23-03-2001
+Skovvænget 38,Nørre Alslev,4840,5,141,1977,875000.0,21-03-2001
+Fasanvej 20,Nørre Alslev,4840,4,126,1978,920000.0,11-03-2001
+Vålse Vesterskovvej 17,Nørre Alslev,4840,4,140,1932,1001000.0,24-02-2001
+Østervej 5,Nørre Alslev,4840,3,75,1909,230000.0,12-02-2001
+Skovvej 2,Nørre Alslev,4840,6,145,1938,750000.0,06-02-2001
+Fasanvej 9,Nørre Alslev,4840,5,179,1977,1027900.0,05-02-2001
+Vigvej 61,Nørre Alslev,4840,5,158,1898,601380.0,04-02-2001
+Nr Alslev Birkevej 7,Nørre Alslev,4840,4,150,1972,830000.0,28-01-2001
+Ellehammersvej 28,Nørre Alslev,4840,6,170,1980,676000.0,23-01-2001
+Skerne Skovvej 9,Nørre Alslev,4840,3,90,1877,180000.0,14-12-2000
+Riserupvej 58,Nørre Alslev,4840,12,363,1872,600000.0,12-12-2000
+Riserupvej 6,Nørre Alslev,4840,5,124,1905,552630.0,11-12-2000
+Gransangervej 14,Nørre Alslev,4840,4,156,1975,980000.0,10-12-2000
+Grynsevej 6,Nørre Alslev,4840,7,180,1872,1600000.0,08-12-2000
+Sølvgade 18,Nørre Alslev,4840,4,114,1973,169845.0,08-12-2000
+Rønvej 3,Nørre Alslev,4840,4,114,1971,104728.0,08-12-2000
+Vigvej 59,Nørre Alslev,4840,3,111,1877,250000.0,15-11-2000
+Skovbyvej 8,Nørre Alslev,4840,4,94,1912,570000.0,10-11-2000
+Orehoved Langgade 44,Nørre Alslev,4840,4,105,1948,575140.0,06-11-2000
+Nr Alslev Langgade 27,Nørre Alslev,4840,8,164,1902,837150.0,28-10-2000
+Orehoved Langgade 25,Nørre Alslev,4840,4,164,1941,677778.0,27-10-2000
+Sølvgade 20,Nørre Alslev,4840,4,117,1968,683000.0,19-10-2000
+Nr Alslev Nygade 13,Nørre Alslev,4840,4,135,1925,712024.0,18-10-2000
+Alstrup Skovvej 4,Nørre Alslev,4840,4,87,1897,220000.0,17-10-2000
+Skovvej 64,Nørre Alslev,4840,8,200,1880,1128899.0,16-10-2000
+Hans Rasmussensvej 1,Nørre Alslev,4840,7,183,1980,789000.0,26-09-2000
+Gåbense Strandvej 12,Nørre Alslev,4840,3,90,1963,649000.0,25-09-2000
+Nr Alslev Nygade 27,Nørre Alslev,4840,6,93,1935,985325.0,20-09-2000
+Ellehammersvej 6,Nørre Alslev,4840,4,125,2000,75000.0,18-09-2000
+Tværgade 8,Nørre Alslev,4840,6,292,1912,984000.0,18-09-2000
+Følfodvej 18,Nørre Alslev,4840,5,176,1980,1050000.0,18-09-2000
+Grynsevej 1,Nørre Alslev,4840,7,135,1927,527000.0,15-09-2000
+Nr Alslev Nygade 9,Nørre Alslev,4840,6,160,1921,775000.0,12-09-2000
+Gåbensevej 45,Nørre Alslev,4840,3,126,1877,478741.0,07-09-2000
+Krokusvej 22,Nørre Alslev,4840,8,264,1978,944000.0,03-09-2000
+Nr Alslev Syrenvej 10,Nørre Alslev,4840,2,71,1972,325000.0,30-08-2000
+Sortkammervej 6,Nørre Alslev,4840,7,175,1928,500000.0,28-08-2000
+Spurvevej 14,Nørre Alslev,4840,6,178,2000,75000.0,24-08-2000
+Mygget Alle 8,Nørre Alslev,4840,5,147,1908,720000.0,21-08-2000
+Rasmus Sigvardtsvej 3,Nørre Alslev,4840,4,133,1904,268000.0,17-08-2000
+Storstrømsvej 86,Nørre Alslev,4840,3,84,1900,386000.0,02-08-2000
+Stubbekøbingvej 45,Nørre Alslev,4840,7,232,1800,700000.0,21-07-2000
+Bjergvej 11,Nørre Alslev,4840,8,250,1897,660000.0,19-07-2000
+Lommelevvej 7,Nørre Alslev,4840,4,102,1901,568000.0,18-07-2000
+Storstrømsvej 53,Nørre Alslev,4840,3,127,1946,400000.0,17-07-2000
+Stubvej 9,Nørre Alslev,4840,5,181,1827,500000.0,11-07-2000
+Alstrup Skovvej 46,Nørre Alslev,4840,3,93,1879,180000.0,11-07-2000
+Gåbensevej 7,Nørre Alslev,4840,3,86,1912,483000.0,07-07-2000
+Egensevej 31,Nørre Alslev,4840,5,180,1918,717000.0,06-07-2000
+Alstrup Strandvej 2A,Nørre Alslev,4840,3,117,1940,444571.0,28-06-2000
+Skovbyvej 3,Nørre Alslev,4840,4,159,1906,368637.0,28-06-2000
+Brarupvej 11,Nørre Alslev,4840,3,96,1961,556000.0,15-06-2000
+Nr Alslev Syrenvej 1,Nørre Alslev,4840,6,150,1973,650000.0,14-06-2000
+Ravnse Byvej 5,Nørre Alslev,4840,8,174,1910,480000.0,13-06-2000
+Svinget 18,Nørre Alslev,4840,5,155,1969,1013000.0,09-06-2000
+Nr Kirkebyvej 10,Nørre Alslev,4840,6,120,1927,468000.0,24-05-2000
+Svinget 17,Nørre Alslev,4840,3,85,1970,559200.0,19-05-2000
+Skovvænget 10,Nørre Alslev,4840,3,140,1974,796084.0,14-05-2000
+Farnæsvej 16,Nørre Alslev,4840,4,108,1922,726000.0,05-04-2000
+Nykøbingvej 25,Nørre Alslev,4840,4,149,1940,539000.0,05-04-2000
+Ellehammersvej 24A,Nørre Alslev,4840,3,79,1988,625000.0,04-04-2000
+Gåbensevej 36,Nørre Alslev,4840,7,178,1914,610000.0,01-04-2000
+Nr Vedby Kirkevej 3,Nørre Alslev,4840,5,186,1900,500000.0,31-03-2000
+Nykøbingvej 84,Nørre Alslev,4840,4,120,1912,207112.0,21-03-2000
+Ravnsevej 18,Nørre Alslev,4840,4,110,1902,372000.0,14-03-2000
+Anemonevej 5,Nørre Alslev,4840,4,98,1982,667000.0,14-03-2000
+Alstrupvej 1,Nørre Alslev,4840,5,106,1854,534771.0,07-03-2000
+Gangervej 4,Nørre Alslev,4840,5,120,1875,825000.0,03-03-2000
+Frihedsmindevej 6,Nørre Alslev,4840,4,130,1901,456000.0,02-03-2000
+Egensevej 54,Nørre Alslev,4840,3,72,1892,195000.0,07-02-2000
+Brovænget 8,Nørre Alslev,4840,6,91,1951,485000.0,20-01-2000
+Bjergvej 14,Nørre Alslev,4840,8,215,1911,95340.0,19-01-2000
+Østervej 27,Nørre Alslev,4840,3,122,1944,860000.0,19-12-1999
+Egensevej 35,Nørre Alslev,4840,9,418,1887,875000.0,17-12-1999
+Vedby Vesterskovvej 8,Nørre Alslev,4840,3,103,1935,299000.0,16-12-1999
+Skerne Skovvej 3,Nørre Alslev,4840,5,250,1850,799000.0,14-12-1999
+Nr Alslev Nygade 31,Nørre Alslev,4840,2,88,1945,770000.0,13-12-1999
+Nr Alslev Parkvej 8,Nørre Alslev,4840,3,124,1961,686660.0,01-12-1999
+Egelev Gade 15,Nørre Alslev,4840,3,121,1900,235071.0,19-11-1999
+Smedevej 13,Nørre Alslev,4840,5,190,1892,700000.0,28-10-1999
+Nr Alslev Syrenvej 9,Nørre Alslev,4840,3,95,1973,600000.0,13-10-1999
+Bogfinkevej 7,Nørre Alslev,4840,4,121,1974,796534.0,09-10-1999
+Følfodvej 14,Nørre Alslev,4840,5,176,1980,991925.0,05-10-1999
+Lundbyvej 39,Nørre Alslev,4840,2,88,1877,578718.0,27-09-1999
+Svinget 28,Nørre Alslev,4840,4,137,1972,775000.0,20-09-1999
+Svinget 9,Nørre Alslev,4840,2,84,1970,565000.0,10-09-1999
+Nr Alslev Nygade 19A,Nørre Alslev,4840,4,84,1920,442000.0,03-09-1999
+Skovvænget 16,Nørre Alslev,4840,4,143,1973,760000.0,26-08-1999
+Lommelevvej 9,Nørre Alslev,4840,4,129,1862,194943.0,09-08-1999
+Kippingevej 9,Nørre Alslev,4840,6,146,1908,615285.0,30-07-1999
+Østervej 36,Nørre Alslev,4840,3,80,1897,450000.0,30-07-1999
+Vålse Vesterskovvej 20,Nørre Alslev,4840,6,218,1902,84000.0,30-06-1999
+Rønvej 4,Nørre Alslev,4840,4,136,1971,718000.0,17-06-1999
+Damgårdsvej 2,Nørre Alslev,4840,6,146,1912,2009885.0,15-06-1999
+Skernevej 7,Nørre Alslev,4840,3,99,1900,159540.0,12-06-1999
+Knud Olsensgade 19,Nørre Alslev,4840,4,129,1967,909773.0,10-06-1999
+Nr Alslev Langgade 65,Nørre Alslev,4840,10,311,1911,1240000.0,08-06-1999
+Skovvej 34,Nørre Alslev,4840,3,91,1964,525500.0,22-05-1999
+Alstrupvej 5,Nørre Alslev,4840,5,139,1876,250000.0,19-05-1999
+Nykøbingvej 49,Nørre Alslev,4840,9,220,1890,312871.0,19-05-1999
+Nyvej 24,Nørre Alslev,4840,5,121,1973,706000.0,16-05-1999
+Bjergvej 6,Nørre Alslev,4840,7,331,1872,485000.0,05-05-1999
+Østervej 80,Nørre Alslev,4840,8,258,1877,2613957.0,29-04-1999
+Frihedsmindevej 14,Nørre Alslev,4840,3,136,1827,238000.0,26-04-1999
+Nykøbingvej 88,Nørre Alslev,4840,4,121,1912,447484.0,21-04-1999
+Engkærvej 4,Nørre Alslev,4840,8,255,1750,1200000.0,18-04-1999
+Mygget Alle 4,Nørre Alslev,4840,7,202,1900,610000.0,14-04-1999
+Tanningvej 1,Nørre Alslev,4840,6,202,2004,2082500.0,12-04-1999
+Skerrisvej 35,Nørre Alslev,4840,3,112,1965,710000.0,12-04-1999
+Bregnevej 5,Nørre Alslev,4840,4,146,1977,918472.0,09-04-1999
+Vigvej 33,Nørre Alslev,4840,4,103,1950,445610.0,08-04-1999
+Bjergvej 23,Nørre Alslev,4840,5,142,1897,501000.0,02-04-1999
+Følfodvej 9,Nørre Alslev,4840,6,216,1980,1199037.0,23-03-1999
+Skerne Skovvej 5,Nørre Alslev,4840,8,120,1880,600000.0,20-03-1999
+Skovbyvej 17,Nørre Alslev,4840,6,190,1912,650000.0,19-03-1999
+Skovby Tværvej 17,Nørre Alslev,4840,2,67,1969,341000.0,14-03-1999
+Orehoved Vestergade 7,Nørre Alslev,4840,6,140,1948,125000.0,13-03-1999
+Ravnse Skovvej 19,Nørre Alslev,4840,4,84,1898,370000.0,06-03-1999
+Sølvgade 13,Nørre Alslev,4840,4,126,1902,400000.0,04-02-1999
+Nykøbingvej 53,Nørre Alslev,4840,7,305,1884,912672.0,26-01-1999
+Følfodvej 13,Nørre Alslev,4840,4,121,1980,846682.0,25-01-1999
+Mosevej 2,Nørre Alslev,4840,4,106,1940,594519.0,15-01-1999
+Skernevej 25,Nørre Alslev,4840,10,220,1918,670000.0,29-11-1998
+Bjergvej 16,Nørre Alslev,4840,4,197,1936,709000.0,23-11-1998
+Orehoved Langgade 29,Nørre Alslev,4840,6,192,1948,752703.0,11-11-1998
+Skovby Tværvej 26,Nørre Alslev,4840,2,60,1900,242187.0,09-11-1998
+Valnæsvej 2,Nørre Alslev,4840,4,137,1908,250000.0,30-10-1998
+Nr Alslev Vestergade 24,Nørre Alslev,4840,3,120,1964,484394.0,30-10-1998
+Skovvej 5,Nørre Alslev,4840,3,96,1948,560000.0,29-10-1998
+Bregnevej 7,Nørre Alslev,4840,4,129,1973,700000.0,29-10-1998
+Nykøbingvej 7,Nørre Alslev,4840,6,168,1950,2100000.0,26-10-1998
+Boulevarden 5,Nørre Alslev,4840,6,154,1975,845460.0,22-10-1998
+Løvsangervej 2,Nørre Alslev,4840,4,128,1978,750000.0,21-10-1998
+Ravnsevej 13,Nørre Alslev,4840,5,121,1905,537000.0,13-10-1998
+Skovby Tværvej 4,Nørre Alslev,4840,3,97,1918,459787.0,03-10-1998
+Vålse Vesterskovvej 7B,Nørre Alslev,4840,4,135,1980,550000.0,25-09-1998
+Sortkammervej 4,Nørre Alslev,4840,3,114,1954,430603.0,24-09-1998
+Knud Olsensgade 7,Nørre Alslev,4840,2,69,1827,360735.0,22-09-1998
+Spurvevej 9,Nørre Alslev,4840,7,248,1867,757749.0,15-09-1998
+Egelev Gade 3,Nørre Alslev,4840,5,151,1930,119035.0,24-08-1998
+Nr Alslev Vestergade 7,Nørre Alslev,4840,8,183,1958,587000.0,20-08-1998
+Møllestien 2,Nørre Alslev,4840,4,288,1877,50000.0,18-08-1998
+Gåbensevej 32,Nørre Alslev,4840,3,82,1908,361218.0,14-08-1998
+Brarupvej 19,Nørre Alslev,4840,5,174,1850,530872.0,13-08-1998
+Skovby Tværvej 46,Nørre Alslev,4840,5,239,1900,849000.0,24-07-1998
+Clematisvej 2,Nørre Alslev,4840,4,157,1932,465440.0,21-07-1998
+Storstrømsvej 80,Nørre Alslev,4840,3,95,1887,260000.0,20-07-1998
+Kippingevej 39,Nørre Alslev,4840,9,120,1939,700000.0,13-07-1998
+Egensevej 44,Nørre Alslev,4840,4,208,1870,1250000.0,10-07-1998
+Langesvej 1,Nørre Alslev,4840,3,128,1912,370000.0,01-07-1998
+Farnæsvej 10,Nørre Alslev,4840,8,266,1896,724460.0,01-07-1998
+Skerrisvej 27,Nørre Alslev,4840,4,115,1960,746987.0,01-07-1998
+Egelev Gade 24,Nørre Alslev,4840,6,158,1909,347000.0,30-06-1998
+Nr Vedby Kirkevej 14,Nørre Alslev,4840,3,127,1950,910413.0,29-05-1998
+Vigvej 55,Nørre Alslev,4840,4,125,1877,420000.0,25-05-1998
+Stubbekøbingvej 3,Nørre Alslev,4840,5,88,1920,375000.0,08-05-1998
+Egelev Gade 11,Nørre Alslev,4840,5,154,1900,460000.0,29-04-1998
+Alstrup Skovvej 18,Nørre Alslev,4840,7,344,1897,412600.0,20-04-1998
+Nr Alslev Nygade 34,Nørre Alslev,4840,6,108,1927,350000.0,19-04-1998
+Østervej 48,Nørre Alslev,4840,3,65,1850,226803.0,06-04-1998
+Lommelevvej 19,Nørre Alslev,4840,4,100,1900,329687.0,05-04-1998
+Nr Alslev Vestergade 8,Nørre Alslev,4840,4,100,1947,304000.0,13-03-1998
+Bødker Alle 4,Nørre Alslev,4840,3,121,1939,518500.0,12-03-1998
+Vålse Vesterskovvej 30,Nørre Alslev,4840,7,214,1925,725731.0,10-03-1998
+Herbergervej 17,Nørre Alslev,4840,7,193,1850,3290000.0,07-03-1998
+Nyskolevej 32,Nørre Alslev,4840,2,123,1850,714773.0,06-03-1998
+Vedby Vesterskovvej 1,Nørre Alslev,4840,7,258,1900,935000.0,13-02-1998
+Nykøbingvej 39,Nørre Alslev,4840,5,132,1897,380000.0,05-02-1998
+Skovvej 8,Nørre Alslev,4840,5,90,1934,440000.0,28-01-1998
+Borregårdsvej 7,Nørre Alslev,4840,4,151,1920,395000.0,16-01-1998
+Frihedsmindevej 25,Nørre Alslev,4840,3,76,1928,440450.0,08-01-1998
+Storstrømsvej 66,Nørre Alslev,4840,4,140,1873,370000.0,22-12-1997
+Dæmningsvej 23,Nørre Alslev,4840,5,192,1939,200000.0,22-12-1997
+Vigvej 31,Nørre Alslev,4840,9,237,1909,489208.0,15-12-1997
+Nr Vedbyvej 12,Nørre Alslev,4840,4,220,1908,400000.0,11-12-1997
+Ulriksdalsvej 8,Nørre Alslev,4840,6,258,1964,332822.0,09-12-1997
+Vålse Vesterskovvej 12,Nørre Alslev,4840,4,112,1890,305000.0,02-12-1997
+Stubvej 4,Nørre Alslev,4840,3,76,1900,195000.0,28-11-1997
+Skolegade 2,Nørre Alslev,4840,4,108,1962,553852.0,11-11-1997
+Vigvej 44,Nørre Alslev,4840,5,190,2011,479023.0,09-11-1997
+Riserupvej 54,Nørre Alslev,4840,3,111,1877,543025.0,03-11-1997
+Riserupvej 12,Nørre Alslev,4840,5,159,1967,550000.0,30-10-1997
+Egelev Gade 8,Nørre Alslev,4840,3,122,1957,495000.0,28-10-1997
+Riserupvej 46,Nørre Alslev,4840,8,250,1886,723000.0,27-10-1997
+Gyldenbjergvej 55,Nørre Alslev,4840,11,258,1886,450000.0,24-10-1997
+Skovby Tværvej 7,Nørre Alslev,4840,4,118,1946,416581.0,17-10-1997
+Orehoved Langgade 24,Nørre Alslev,4840,4,172,1920,396000.0,11-10-1997
+Følfodvej 4,Nørre Alslev,4840,5,152,1980,835459.0,10-10-1997
+Skovbyvej 5,Nørre Alslev,4840,3,123,1800,472723.0,05-10-1997
+Gåbensevej 72,Nørre Alslev,4840,3,103,1937,535000.0,29-09-1997
+Ravnse Byvej 3,Nørre Alslev,4840,6,122,1912,434941.0,29-09-1997
+Stubbekøbingvej 63,Nørre Alslev,4840,4,101,1877,262203.0,29-09-1997
+Nykøbingvej 70,Nørre Alslev,4840,5,120,1802,462000.0,29-09-1997
+Stubvej 7,Nørre Alslev,4840,2,85,1896,189136.0,18-09-1997
+Vigvej 41,Nørre Alslev,4840,10,100,1900,470000.0,18-09-1997
+"Nr Alslev Langgade 64, 1",Nørre Alslev,4840,3,105,1927,595000.0,16-09-1997
+Tårup Skovvej 2,Nørre Alslev,4840,8,205,1880,834516.0,05-09-1997
+Riserupvej 16,Nørre Alslev,4840,5,173,1941,586000.0,03-09-1997
+Grynsevej 2,Nørre Alslev,4840,4,120,1896,417379.0,02-09-1997
+Krokusvej 4,Nørre Alslev,4840,4,136,1979,700000.0,26-08-1997
+Svinget 32,Nørre Alslev,4840,4,160,1974,795000.0,25-08-1997
+Bødker Alle 1,Nørre Alslev,4840,5,186,1960,630000.0,18-08-1997
+Skovby Tværvej 20,Nørre Alslev,4840,4,278,1896,677059.0,16-08-1997
+Skovbyvej 19,Nørre Alslev,4840,3,105,1800,100000.0,07-08-1997
+Gåbensevej 53,Nørre Alslev,4840,7,280,1936,759211.0,05-08-1997
+Nykøbingvej 28,Nørre Alslev,4840,4,85,1960,280000.0,03-08-1997
+Orehoved Langgade 3,Nørre Alslev,4840,3,143,1880,260000.0,30-07-1997
+Alstrupvej 4,Nørre Alslev,4840,4,96,1880,350000.0,23-07-1997
+Gåbense Strandvej 14,Nørre Alslev,4840,5,129,1965,420000.0,30-06-1997
+Tårupvej 2,Nørre Alslev,4840,7,134,1777,272876.0,24-06-1997
+Frihedsmindevej 26,Nørre Alslev,4840,6,197,1877,808995.0,23-06-1997
+Ulriksdalsvej 12,Nørre Alslev,4840,3,70,1901,159539.0,09-06-1997
+Knud Olsensgade 15,Nørre Alslev,4840,5,161,1980,855194.0,28-05-1997
+Vigvej 66,Nørre Alslev,4840,3,73,1850,250000.0,26-05-1997
+Egensevej 12,Nørre Alslev,4840,4,130,1934,400000.0,23-05-1997
+Skovbyvej 28,Nørre Alslev,4840,5,147,1930,330000.0,15-05-1997
+Vigvej 88,Nørre Alslev,4840,3,72,1943,270000.0,28-04-1997
+Stubbekøbingvej 30,Nørre Alslev,4840,7,176,1879,908020.0,21-04-1997
+Lærkevej 8,Nørre Alslev,4840,3,146,1976,851295.0,19-04-1997
+Stubbekøbingvej 46,Nørre Alslev,4840,4,116,1972,440000.0,16-04-1997
+Orehoved Langgade 9,Nørre Alslev,4840,3,114,1890,282800.0,07-04-1997
+Gåbensevej 58,Nørre Alslev,4840,6,142,1936,468000.0,03-04-1997
+Clematisvej 1,Nørre Alslev,4840,3,118,1822,165000.0,03-04-1997
+Brarupvej 17,Nørre Alslev,4840,7,191,1917,465000.0,22-03-1997
+Østervej 50,Nørre Alslev,4840,4,114,1914,309000.0,03-03-1997
+Nr Alslev Vestergade 9,Nørre Alslev,4840,4,104,1963,450000.0,19-02-1997
+Vigvej 98,Nørre Alslev,4840,4,114,1900,8841.0,08-02-1997
+Skernevej 3,Nørre Alslev,4840,4,148,2011,70000.0,07-02-1997
+Nr Alslev Langgade 72,Nørre Alslev,4840,7,168,1912,525000.0,07-02-1997
+Orehoved Stationsvej 4,Nørre Alslev,4840,9,226,1951,277681.0,03-02-1997
+Nr Alslev Parkvej 20,Nørre Alslev,4840,4,108,1962,470000.0,27-01-1997
+Godthåbsvej 13,Nørre Alslev,4840,3,132,1908,220000.0,27-01-1997
+Skernevej 12,Nørre Alslev,4840,5,126,1937,460600.0,14-01-1997
+Steffensmindevej 5,Nørre Alslev,4840,3,58,1937,200540.0,13-01-1997
+Alstrup Skovvej 39,Nørre Alslev,4840,5,174,1862,1880000.0,20-12-1996
+Lærkevej 2,Nørre Alslev,4840,5,112,1977,548379.0,11-12-1996
+Skerne Gade 13,Nørre Alslev,4840,5,160,1830,375900.0,10-12-1996
+Vigvej 49,Nørre Alslev,4840,7,105,1800,312000.0,10-12-1996
+Langesvej 3,Nørre Alslev,4840,3,188,1800,393373.0,10-12-1996
+Svinget 34,Nørre Alslev,4840,4,152,1977,680466.0,10-12-1996
+Egensevej 58,Nørre Alslev,4840,3,84,1927,233676.0,02-12-1996
+Nr Alslev Syrenvej 25,Nørre Alslev,4840,3,95,1976,488000.0,29-11-1996
+Nr Alslev Birkevej 6,Nørre Alslev,4840,4,130,1970,661000.0,16-11-1996
+Orehoved Langgade 19,Nørre Alslev,4840,6,202,1969,760000.0,11-11-1996
+Nyskolevej 22,Nørre Alslev,4840,5,128,1912,340087.0,08-11-1996
+Sundbyvej 44,Nørre Alslev,4840,5,151,1900,437000.0,01-11-1996
+Kastanievej 3,Nørre Alslev,4840,5,150,1827,255000.0,25-10-1996
+Nykøbingvej 29,Nørre Alslev,4840,3,63,1912,272000.0,07-10-1996
+Bjergvej 7,Nørre Alslev,4840,4,96,1850,275000.0,05-10-1996
+Lyttehøjvej 8,Nørre Alslev,4840,4,199,1959,440000.0,03-10-1996
+Skovvej 7,Nørre Alslev,4840,4,158,1946,550000.0,23-09-1996
+Skerne Gade 8,Nørre Alslev,4840,5,145,1930,525000.0,17-09-1996
+Skernevej 8,Nørre Alslev,4840,6,198,1910,347961.0,16-09-1996
+Gyldenbjergvej 14,Nørre Alslev,4840,4,128,1932,375000.0,16-09-1996
+Gangervej 7,Nørre Alslev,4840,5,192,1931,460000.0,05-09-1996
+Lommelevvej 8,Nørre Alslev,4840,7,180,1840,266867.0,02-09-1996
+Ravnsevej 34,Nørre Alslev,4840,4,123,1942,347700.0,31-08-1996
+Steffensmindevej 9,Nørre Alslev,4840,4,141,2013,245549.0,28-08-1996
+Lundbyvej 53A,Nørre Alslev,4840,7,217,1900,525960.0,27-08-1996
+Alstrupvej 13,Nørre Alslev,4840,3,100,1900,130000.0,23-08-1996
+Nykøbingvej 9,Nørre Alslev,4840,8,130,1906,513000.0,16-08-1996
+Kippingevej 22A,Nørre Alslev,4840,3,88,1870,295000.0,14-08-1996
+Nr Vedbyvej 26,Nørre Alslev,4840,8,220,1864,584000.0,23-07-1996
+Følfodvej 16,Nørre Alslev,4840,4,140,1983,690000.0,15-07-1996
+Kippingevej 56,Nørre Alslev,4840,7,170,1800,150000.0,12-07-1996
+Sølvgade 8,Nørre Alslev,4840,6,172,1975,430000.0,08-07-1996
+Skernevej 6,Nørre Alslev,4840,6,172,1973,754000.0,29-06-1996
+Baunehøjen 15,Nørre Alslev,4840,4,81,1897,210000.0,23-06-1996
+Lundbyvej 56,Nørre Alslev,4840,5,185,1900,100000.0,06-06-1996
+Vålse Vesterskovvej 32,Nørre Alslev,4840,4,150,1925,821601.0,17-05-1996
+Nyskolevej 6,Nørre Alslev,4840,5,165,1913,586357.0,13-05-1996
+Skovbyvej 21,Nørre Alslev,4840,4,148,1827,249913.0,26-04-1996
+Skovvej 46,Nørre Alslev,4840,3,85,1964,527000.0,23-04-1996
+Nr Alslev Syrenvej 26,Nørre Alslev,4840,3,91,1971,350000.0,14-03-1996
+Skovvej 38,Nørre Alslev,4840,4,124,1964,486432.0,28-02-1996
+Lundbyvej 58,Nørre Alslev,4840,5,126,1918,352204.0,12-02-1996
+Nr Alslev Birkevej 4,Nørre Alslev,4840,5,155,1977,624600.0,29-01-1996
+Godthåbsvej 15,Nørre Alslev,4840,5,144,1909,311283.0,22-01-1996
+Nr Alslev Nygade 1,Nørre Alslev,4840,4,120,1935,384200.0,15-01-1996
+Skerne Skovvej 8,Nørre Alslev,4840,7,156,1866,683390.0,03-01-1996
+Sølvgade 12,Nørre Alslev,4840,4,114,1971,540000.0,03-01-1996
+Herbergervej 8B,Nørre Alslev,4840,2,90,1945,105000.0,02-01-1996
+Baldrianvænget 1,Nørre Alslev,4840,6,152,1984,700000.0,21-12-1995
+Nr Grimmelstrupvej 11,Nørre Alslev,4840,5,190,1900,533461.0,05-12-1995
+Skovby Tværvej 5,Nørre Alslev,4840,3,77,1917,225000.0,04-12-1995
+Herthadalvej 20,Nørre Alslev,4840,4,146,1877,563000.0,29-11-1995
+Gyldenbjergvej 13,Nørre Alslev,4840,1,49,1965,251504.0,24-11-1995
+Vigvej 97,Nørre Alslev,4840,4,167,1877,470930.0,04-11-1995
+Orehoved Vestergade 2,Nørre Alslev,4840,5,232,1932,423916.0,30-10-1995
+Bøstrupvej 13,Nørre Alslev,4840,4,116,1976,505000.0,23-10-1995
+Alstrup Strandvej 8,Nørre Alslev,4840,7,275,1877,825000.0,16-10-1995
+Sølvgade 3,Nørre Alslev,4840,3,93,1942,123151.0,16-10-1995
+Kredsvej 7,Nørre Alslev,4840,8,233,1800,696500.0,12-10-1995
+Nr Alslev Syrenvej 16,Nørre Alslev,4840,4,91,1972,385000.0,02-10-1995
+Vennerslundsvej 3,Nørre Alslev,4840,5,94,1900,175000.0,19-09-1995
+Herbergervej 4,Nørre Alslev,4840,7,250,1917,475000.0,17-09-1995
+Dæmningsvej 25,Nørre Alslev,4840,4,132,1900,400000.0,14-09-1995
+Gåbensevej 8B,Nørre Alslev,4840,3,73,1877,149000.0,12-09-1995
+Vigvej 16,Nørre Alslev,4840,5,112,1965,426600.0,04-09-1995
+Ravnsevej 7,Nørre Alslev,4840,3,89,1898,389579.0,29-08-1995
+Kippingevej 34,Nørre Alslev,4840,5,132,1939,243669.0,08-08-1995
+Nr Kirkebyvej 4,Nørre Alslev,4840,4,109,1907,107471.0,02-08-1995
+Alstrupvej 14,Nørre Alslev,4840,5,159,1917,290000.0,31-07-1995
+Sortkammervej 2,Nørre Alslev,4840,3,112,1864,285000.0,24-07-1995
+Vigvej 48,Nørre Alslev,4840,3,118,1910,289300.0,10-07-1995
+Alstrupvej 19,Nørre Alslev,4840,8,210,1912,152356.0,07-07-1995
+Havnsø Tværvej 3,Nørre Alslev,4840,3,140,1906,240000.0,10-06-1995
+Gåbense Strandvej 30,Nørre Alslev,4840,4,274,1867,926200.0,10-06-1995
+Vennerslundsvej 8,Nørre Alslev,4840,4,138,1908,261800.0,15-05-1995
+Bjergvej 9,Nørre Alslev,4840,5,186,1909,585589.0,14-05-1995
+Skovvej 4,Nørre Alslev,4840,5,128,1948,400000.0,11-05-1995
+Gåbense Strandvej 1,Nørre Alslev,4840,4,57,1934,130000.0,03-05-1995
+Skovbyvej 9,Nørre Alslev,4840,3,100,1957,225000.0,03-05-1995
+Lundbyvej 59,Nørre Alslev,4840,4,92,1906,250000.0,02-05-1995
+Skovvænget 34,Nørre Alslev,4840,4,142,1973,550000.0,01-05-1995
+Gåbense Strandvej 55,Nørre Alslev,4840,3,105,1827,385000.0,09-04-1995
+Farnæsvej 18,Nørre Alslev,4840,8,224,1942,613331.0,31-03-1995
+Lyttehøjvej 6,Nørre Alslev,4840,4,155,1954,415410.0,14-02-1995
+Damgårdsvej 1,Nørre Alslev,4840,7,224,1915,471000.0,01-02-1995
+Vålse Vesterskovvej 13,Nørre Alslev,4840,6,174,1972,1800000.0,04-01-1995
+Kippingevej 50,Nørre Alslev,4840,2,158,1921,225000.0,12-12-1994
+Sortkammervej 3,Nørre Alslev,4840,4,85,1877,225000.0,09-11-1994
+Egelev Mosevej 2,Nørre Alslev,4840,3,94,1850,216369.0,09-11-1994
+Gåbensevej 18,Nørre Alslev,4840,3,135,1909,460000.0,07-11-1994
+Vedby Vesterskovvej 7,Nørre Alslev,4840,5,159,1876,110000.0,21-10-1994
+Lommelevvej 10,Nørre Alslev,4840,5,119,1953,540000.0,19-10-1994
+Skovbyvej 15,Nørre Alslev,4840,3,90,1957,395000.0,05-10-1994
+Orehoved Vinkelvej 10,Nørre Alslev,4840,5,178,1967,265000.0,26-09-1994
+Nr Vedbyvej 22,Nørre Alslev,4840,5,224,1949,375000.0,23-08-1994
+Nr Alslev Langgade 77B,Nørre Alslev,4840,6,134,1895,301000.0,12-08-1994
+Vigvej 42,Nørre Alslev,4840,3,88,1880,315000.0,09-08-1994
+Gåbensevej 70,Nørre Alslev,4840,5,153,1939,225000.0,05-07-1994
+Gangervej 1,Nørre Alslev,4840,3,100,1860,433000.0,03-07-1994
+Knud Olsensgade 1,Nørre Alslev,4840,6,161,1900,480000.0,30-06-1994
+Bjergvej 3,Nørre Alslev,4840,9,220,1903,250000.0,23-06-1994
+Alstrup Skovvej 21,Nørre Alslev,4840,5,107,1895,175000.0,22-06-1994
+Riserupvej 48,Nørre Alslev,4840,4,126,1905,385000.0,16-06-1994
+Nr Alslev Langgade 34,Nørre Alslev,4840,7,114,1913,345000.0,06-06-1994
+Vigvej 29,Nørre Alslev,4840,3,88,1870,168000.0,31-05-1994
+Lundbyvej 43,Nørre Alslev,4840,4,143,1964,260000.0,30-05-1994
+Frihedsmindevej 28,Nørre Alslev,4840,7,260,1900,620860.0,19-05-1994
+Bellisvej 6,Nørre Alslev,4840,4,98,1980,480000.0,18-05-1994
+Bregnevej 1,Nørre Alslev,4840,6,172,1973,668000.0,01-05-1994
+Vennerslundsvej 12,Nørre Alslev,4840,3,91,1900,252000.0,28-04-1994
+Alstrup Skovvej 44,Nørre Alslev,4840,5,151,1900,425000.0,15-04-1994
+Vigvej 46,Nørre Alslev,4840,5,158,1908,340000.0,12-04-1994
+Lundbyvej 60,Nørre Alslev,4840,6,105,1917,275000.0,27-03-1994
+Gyldenbjergvej 21,Nørre Alslev,4840,4,116,1963,491673.0,25-03-1994
+Stubbekøbingvej 28,Nørre Alslev,4840,4,122,1904,625000.0,21-03-1994
+Østervej 28,Nørre Alslev,4840,3,67,1827,266500.0,06-03-1994
+Nr Alslev Nygade 17,Nørre Alslev,4840,5,167,1928,425000.0,03-02-1994
+Østervej 3,Nørre Alslev,4840,6,318,1880,705000.0,16-12-1993
+Orehoved Langgade 11,Nørre Alslev,4840,6,151,1927,460000.0,20-11-1993
+Gåbensevej 16,Nørre Alslev,4840,4,110,1938,315000.0,17-11-1993
+Stubbekøbingvej 89,Nørre Alslev,4840,4,130,1900,297657.0,02-11-1993
+Nr Grimmelstrupvej 1,Nørre Alslev,4840,3,96,1960,95000.0,30-10-1993
+Nr Alslev Vestergade 23,Nørre Alslev,4840,5,131,1965,510000.0,29-10-1993
+Nr Alslev Langgade 67,Nørre Alslev,4840,9,198,1870,270000.0,29-10-1993
+Stubbekøbingvej 42,Nørre Alslev,4840,3,124,1800,154400.0,29-10-1993
+Skovvej 9,Nørre Alslev,4840,4,93,1958,540000.0,27-09-1993
+Vigvej 82,Nørre Alslev,4840,7,153,1957,374000.0,13-09-1993
+Nr Alslev Langgade 39,Nørre Alslev,4840,8,131,1918,170000.0,08-09-1993
+Stubbekøbingvej 85,Nørre Alslev,4840,5,123,1900,225000.0,04-09-1993
+Gyvelvej 3,Nørre Alslev,4840,5,177,1974,585000.0,02-09-1993
+Alstrup Skovvej 32,Nørre Alslev,4840,3,107,1965,300000.0,28-08-1993
+Skerrisvej 7,Nørre Alslev,4840,4,126,1968,500000.0,19-08-1993
+Kippingevej 35,Nørre Alslev,4840,3,60,1777,180000.0,10-08-1993
+Damgårdsvej 3,Nørre Alslev,4840,5,160,1916,430000.0,10-08-1993
+Skovvej 18,Nørre Alslev,4840,4,104,1951,395000.0,06-08-1993
+Nr Alslev Langgade 78,Nørre Alslev,4840,4,100,1901,325000.0,17-07-1993
+Gransangervej 9,Nørre Alslev,4840,4,135,1976,518250.0,16-07-1993
+Vigvej 90,Nørre Alslev,4840,3,111,1945,470000.0,15-07-1993
+Nr Alslev Syrenvej 6,Nørre Alslev,4840,3,93,1972,380000.0,08-07-1993
+Godthåbsvej 16,Nørre Alslev,4840,12,207,1909,1170000.0,08-07-1993
+Gåbensevej 65,Nørre Alslev,4840,3,92,1907,200000.0,07-07-1993
+Vigvej 51,Nørre Alslev,4840,8,210,1784,275000.0,07-07-1993
+Løvsangervej 6,Nørre Alslev,4840,4,125,1978,560000.0,02-07-1993
+Skovby Tværvej 39,Nørre Alslev,4840,3,105,1827,180000.0,20-06-1993
+Godthåbsvej 14,Nørre Alslev,4840,4,132,1850,125000.0,14-06-1993
+Skovby Tværvej 6,Nørre Alslev,4840,2,60,1900,110000.0,14-06-1993
+Skovby Tværvej 2,Nørre Alslev,4840,4,132,1902,118000.0,31-05-1993
+Havnsøvej 6,Nørre Alslev,4840,7,213,1946,178500.0,13-04-1993
+Gåbensevej 17A,Nørre Alslev,4840,3,115,1896,325000.0,30-03-1993
+Knud Olsensgade 26,Nørre Alslev,4840,5,116,1900,220000.0,20-03-1993
+Stubvej 5,Nørre Alslev,4840,5,103,1800,220000.0,18-03-1993
+Gåbensevej 15,Nørre Alslev,4840,2,115,1807,265291.0,08-03-1993
+Skovby Tværvej 42,Nørre Alslev,4840,5,226,1920,375000.0,15-02-1993
+Farnæsvej 2,Nørre Alslev,4840,6,203,2008,253000.0,07-02-1993
+Orehoved Langgade 54,Nørre Alslev,4840,4,72,1948,200000.0,18-01-1993
+Rasmus Sigvardtsvej 8,Nørre Alslev,4840,5,140,1928,280000.0,10-01-1993
+Bregnevej 4,Nørre Alslev,4840,5,146,1973,480000.0,17-12-1992
+Skernevej 32,Nørre Alslev,4840,4,146,1962,300000.0,09-11-1992
+Alstrupvej 12,Nørre Alslev,4840,3,100,1900,100000.0,02-11-1992
+Nr Alslev Nygade 23,Nørre Alslev,4840,10,133,1955,828400.0,22-10-1992
+Ravnse Byvej 9,Nørre Alslev,4840,3,88,1880,87847.0,20-10-1992
+Lundbyvej 51A,Nørre Alslev,4840,4,111,1980,295000.0,19-10-1992
+Storstrømsvej 85,Nørre Alslev,4840,3,76,1948,290550.0,11-10-1992
+Tværgade 6,Nørre Alslev,4840,4,134,1912,340000.0,05-10-1992
+Steffensmindevej 13,Nørre Alslev,4840,6,246,1900,600000.0,28-09-1992
+Vigvej 13,Nørre Alslev,4840,4,147,1916,190000.0,14-09-1992
+Skovvænget 8,Nørre Alslev,4840,4,120,1973,400000.0,10-09-1992
+Nr Alslev Nygade 4,Nørre Alslev,4840,5,143,1917,250000.0,10-08-1992
+Nr Vedby Kirkevej 15,Nørre Alslev,4840,7,207,1883,650000.0,03-08-1992
+Skerrisvej 21,Nørre Alslev,4840,3,100,1965,340000.0,23-07-1992
+Egelev Gade 7,Nørre Alslev,4840,2,50,1873,125000.0,17-07-1992
+Stubbekøbingvej 34,Nørre Alslev,4840,3,74,1914,279384.0,10-06-1992
+Kippingevej 6,Nørre Alslev,4840,6,148,1955,266000.0,08-06-1992
+"Nr Alslev Jernbanegade 4, 1",Nørre Alslev,4840,4,123,1920,920000.0,04-06-1992
+Gåbensevej 44,Nørre Alslev,4840,8,275,1863,1210000.0,25-05-1992
+Nr Alslev Langgade 59,Nørre Alslev,4840,2,66,1934,350000.0,18-05-1992
+Baunehøjen 1,Nørre Alslev,4840,8,240,1888,1523000.0,12-05-1992
+Storstrømsvej 116,Nørre Alslev,4840,6,241,1800,800000.0,11-05-1992
+Gåbensevej 10,Nørre Alslev,4840,4,102,1967,400000.0,01-05-1992
+Gangervej 5,Nørre Alslev,4840,4,164,1890,85000.0,01-05-1992
+Tårupvej 3,Nørre Alslev,4840,3,225,1900,580000.0,10-04-1992
+Nr Alslev Nygade 10,Nørre Alslev,4840,8,178,1920,680000.0,06-04-1992
+Vålse Vesterskovvej 5,Nørre Alslev,4840,3,98,1845,380000.0,01-04-1992
+Nykøbingvej 66,Nørre Alslev,4840,4,195,1920,190000.0,30-03-1992
+Kippingevej 46,Nørre Alslev,4840,4,66,1921,515000.0,12-03-1992
+Vigvej 58,Nørre Alslev,4840,3,96,1900,270000.0,20-02-1992
+Skovvænget 9,Nørre Alslev,4840,4,130,1974,558000.0,14-02-1992
+Skerrisvej 20,Nørre Alslev,4840,6,138,1972,310000.0,05-02-1992
+Vigvej 93,Nørre Alslev,4840,4,137,1907,360000.0,14-01-1992
+Frihedsmindevej 7,Nørre Alslev,4840,4,120,1902,415000.0,08-01-1992
+Gyldenbjergvej 59,Nørre Alslev,4840,3,87,1910,255000.0,06-01-1992

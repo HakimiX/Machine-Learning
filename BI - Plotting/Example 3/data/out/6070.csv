@@ -1,0 +1,1448 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Birkevej 33,Christiansfeld,6070,3,90,1958,795000.0,27-04-2017
+Langforte 60,Christiansfeld,6070,5,161,1935,800000.0,07-04-2017
+Borgmestervej 4,Christiansfeld,6070,5,112,1972,800000.0,06-04-2017
+Kirke Alle 6,Christiansfeld,6070,5,142,1959,1235000.0,28-03-2017
+10. Juli Vej 14,Christiansfeld,6070,4,162,1970,700500.0,27-03-2017
+Birkevej 18,Christiansfeld,6070,6,136,1957,656500.0,27-03-2017
+Nygade 13,Christiansfeld,6070,5,148,1961,675000.0,17-03-2017
+Steenbjerg 16,Christiansfeld,6070,5,157,2014,2275000.0,17-03-2017
+Højrup Landevej 26,Christiansfeld,6070,6,253,1979,1970000.0,16-03-2017
+Stubbum Landevej 54,Christiansfeld,6070,4,155,1949,475000.0,13-03-2017
+10. Juli Vej 18,Christiansfeld,6070,4,144,1969,1345000.0,23-02-2017
+Nørreskovvej 8,Christiansfeld,6070,7,128,1901,695000.0,16-02-2017
+Præstegaardsvej 5,Christiansfeld,6070,11,277,1960,1995000.0,16-02-2017
+Buen 1,Christiansfeld,6070,6,123,1846,377000.0,14-02-2017
+Steenbjerg 2,Christiansfeld,6070,4,176,2016,2600000.0,13-02-2017
+Haderslevvej 43,Christiansfeld,6070,4,147,1850,1220000.0,08-02-2017
+Vestervang 27,Christiansfeld,6070,4,109,1963,1200000.0,02-02-2017
+Torningvej 29,Christiansfeld,6070,6,153,1940,1750000.0,01-02-2017
+Haderslevvej 12,Christiansfeld,6070,5,158,1913,625000.0,31-01-2017
+Vestermarksvej 5,Christiansfeld,6070,5,181,1954,1050000.0,30-01-2017
+Skovvænget 4,Christiansfeld,6070,4,105,1961,725000.0,29-01-2017
+Frørup Landevej 21,Christiansfeld,6070,8,249,1851,3700000.0,29-01-2017
+Kongensgade 80,Christiansfeld,6070,5,230,1852,1550000.0,25-01-2017
+Luneparken 13,Christiansfeld,6070,6,140,1986,1455000.0,24-01-2017
+Kirkegårds Alle 4,Christiansfeld,6070,12,414,1908,2350000.0,07-01-2017
+Ødisvej 46,Christiansfeld,6070,5,160,1827,1495000.0,04-01-2017
+10. Februar Vej 9,Christiansfeld,6070,3,98,1966,646000.0,31-12-2016
+Tjørnevænget 3,Christiansfeld,6070,4,112,1975,685000.0,22-12-2016
+Tjørnevænget 17,Christiansfeld,6070,3,185,1980,1195000.0,19-12-2016
+Skovrupvej 9,Christiansfeld,6070,5,169,1857,675000.0,09-12-2016
+N.J. Holms Park 27,Christiansfeld,6070,5,155,1974,1070000.0,05-12-2016
+Skolevej 6,Christiansfeld,6070,4,90,1960,825000.0,02-12-2016
+Steenbjerg 25,Christiansfeld,6070,6,177,2008,1085500.0,30-11-2016
+Vestermarksvej 11,Christiansfeld,6070,6,258,1870,14260000.0,24-11-2016
+Steenbjerg 54,Christiansfeld,6070,7,182,2009,2475000.0,21-11-2016
+Bjerndrupgårdvej 30,Christiansfeld,6070,5,159,1959,1800000.0,15-11-2016
+Kolstrup Bygade 1,Christiansfeld,6070,6,235,1887,1140000.0,15-11-2016
+Luneparken 58,Christiansfeld,6070,6,163,1999,1850000.0,10-11-2016
+Banckesvej 13,Christiansfeld,6070,4,110,1967,725000.0,07-11-2016
+Anderup Skovvej 31,Christiansfeld,6070,4,115,1936,960000.0,07-11-2016
+Højrup Landevej 28,Christiansfeld,6070,3,104,1892,210000.0,11-10-2016
+Vestergade 10,Christiansfeld,6070,4,169,1930,750000.0,11-10-2016
+Skovvænget 11,Christiansfeld,6070,4,131,1963,1000000.0,05-10-2016
+Virkelystvej 5,Christiansfeld,6070,3,130,1959,650000.0,30-09-2016
+Ødisvej 31,Christiansfeld,6070,5,140,1972,558746.0,22-09-2016
+Skovvænget 12,Christiansfeld,6070,5,140,1965,1010000.0,21-09-2016
+Skovvænget 14,Christiansfeld,6070,4,100,1964,830000.0,21-09-2016
+"Borgmestervej 7, 1. TV",Christiansfeld,6070,5,115,1970,935000.0,19-09-2016
+Kampesmose 29,Christiansfeld,6070,5,162,2008,2050000.0,07-09-2016
+Koldingvej 78,Christiansfeld,6070,6,146,1908,600000.0,30-08-2016
+Steenbjerg 10,Christiansfeld,6070,7,202,2015,2399000.0,30-08-2016
+Kær Møllevej 2,Christiansfeld,6070,8,379,1879,2350000.0,26-08-2016
+Birkevej 19,Christiansfeld,6070,4,130,1964,1350000.0,26-08-2016
+Ødisvej 34,Christiansfeld,6070,3,101,1917,658335.0,08-08-2016
+Gl. Allervej 4,Christiansfeld,6070,2,115,1940,1700000.0,29-07-2016
+Jernbanegade 5,Christiansfeld,6070,6,245,1943,1117847.0,26-07-2016
+Vestergade 4,Christiansfeld,6070,5,144,1975,815000.0,22-07-2016
+Tingvej 5,Christiansfeld,6070,6,155,1967,1495000.0,18-07-2016
+Birkevej 7,Christiansfeld,6070,5,116,1959,420000.0,05-07-2016
+Carstensvej 5,Christiansfeld,6070,4,105,1969,350000.0,04-07-2016
+Thorsvej 19,Christiansfeld,6070,5,138,1973,1000000.0,30-06-2016
+10. Februar Vej 3,Christiansfeld,6070,4,150,1965,1300000.0,30-06-2016
+Åstorpvej 82,Christiansfeld,6070,5,120,1875,385000.0,27-06-2016
+Jernbanegade 12,Christiansfeld,6070,5,184,1971,1060000.0,20-06-2016
+Hvinderupvej 2,Christiansfeld,6070,12,353,1913,1712500.0,13-06-2016
+Langforte 14,Christiansfeld,6070,6,170,1937,2080100.0,08-06-2016
+Damgårdsparken 27,Christiansfeld,6070,5,124,1978,1195000.0,25-05-2016
+Humlefægyde 8,Christiansfeld,6070,8,246,1900,1920000.0,21-05-2016
+Luneparken 3,Christiansfeld,6070,5,141,1997,1460000.0,13-05-2016
+Steenbjerg 19,Christiansfeld,6070,5,178,2008,1492500.0,11-05-2016
+Favstrupvej 9,Christiansfeld,6070,4,110,1964,675000.0,11-05-2016
+Vejstruprødvej 60,Christiansfeld,6070,4,92,1847,750000.0,28-04-2016
+Gildesager 25,Christiansfeld,6070,4,141,1970,1460000.0,19-04-2016
+Frørupvej 47,Christiansfeld,6070,6,138,1920,900000.0,13-04-2016
+Langforte 20,Christiansfeld,6070,3,121,1958,462500.0,06-04-2016
+Staalsvej 3,Christiansfeld,6070,4,99,1968,875000.0,01-04-2016
+Brabækvej 3,Christiansfeld,6070,13,374,1861,1716846.0,22-03-2016
+Favrvrå Bygade 21,Christiansfeld,6070,8,210,1874,300620.0,19-03-2016
+Industrivej 7,Christiansfeld,6070,6,205,1980,900000.0,16-03-2016
+Skovrupvej 22,Christiansfeld,6070,6,190,1923,615000.0,09-03-2016
+Bojskov Byvej 1,Christiansfeld,6070,5,125,1907,390000.0,09-03-2016
+Gl. Kongevej 8,Christiansfeld,6070,5,117,1941,635000.0,09-03-2016
+Birkevej 20,Christiansfeld,6070,5,111,1956,1225000.0,04-03-2016
+Frejasvej 2,Christiansfeld,6070,4,130,1972,980000.0,02-03-2016
+Kampesmose 40,Christiansfeld,6070,5,149,2004,1900000.0,29-02-2016
+Kokærvej 41,Christiansfeld,6070,6,177,1978,800000.0,26-02-2016
+Christian VII Vej 6,Christiansfeld,6070,4,121,1968,1070000.0,24-02-2016
+Tingvej 22,Christiansfeld,6070,6,196,1973,1550000.0,11-02-2016
+Jomfrugang 1,Christiansfeld,6070,3,146,1852,220000.0,10-02-2016
+Ødisvej 11,Christiansfeld,6070,5,178,1909,1130000.0,09-02-2016
+Damgårdsparken 42,Christiansfeld,6070,5,119,1979,900000.0,01-02-2016
+Kampesmose 21,Christiansfeld,6070,6,238,2006,2325000.0,29-01-2016
+Sofievej 2,Christiansfeld,6070,8,225,1827,786000.0,28-01-2016
+Damgårdsparken 39,Christiansfeld,6070,6,144,1977,1365000.0,25-01-2016
+Vestergade 6,Christiansfeld,6070,3,96,1967,590000.0,21-01-2016
+Taps Stationsvej 21,Christiansfeld,6070,7,164,1962,732500.0,21-01-2016
+Bjerndrup Bygade 16,Christiansfeld,6070,7,199,1850,365000.0,13-01-2016
+Ødisvej 1,Christiansfeld,6070,7,187,1880,375000.0,07-01-2016
+Kobberstedvej 5,Christiansfeld,6070,6,199,1966,652381.0,20-12-2015
+Stenskrovej 57,Christiansfeld,6070,7,234,1800,528077.0,18-12-2015
+"Borgmestervej 7, ST. TV",Christiansfeld,6070,5,120,1970,1050000.0,30-11-2015
+Langforte 51,Christiansfeld,6070,4,92,1800,60000.0,23-11-2015
+Præstegaardsvej 12,Christiansfeld,6070,3,152,1931,1800000.0,21-11-2015
+Kongensgade 55,Christiansfeld,6070,4,138,1931,844500.0,17-11-2015
+Hjerndrup Kirkevej 2,Christiansfeld,6070,4,168,1914,365000.0,16-11-2015
+Luneparken 38,Christiansfeld,6070,3,126,1998,1300000.0,15-11-2015
+Taps Stationsvej 2,Christiansfeld,6070,5,163,1916,1160000.0,11-11-2015
+Steenbjerg 82,Christiansfeld,6070,5,163,2016,495000.0,09-11-2015
+Gl. Kongevej 14,Christiansfeld,6070,4,110,1877,400000.0,29-10-2015
+N.J. Holms Park 3,Christiansfeld,6070,4,124,1974,1325000.0,29-10-2015
+Torningvej 33,Christiansfeld,6070,7,231,1934,1750000.0,09-10-2015
+Hjerndrupvej 126,Christiansfeld,6070,4,205,1905,690000.0,03-10-2015
+Seggelund Hovedvej 28,Christiansfeld,6070,3,110,1880,250000.0,01-10-2015
+Luneparken 10,Christiansfeld,6070,4,136,1985,1565000.0,30-09-2015
+Lille Skovvej 1,Christiansfeld,6070,6,150,1969,145000.0,24-09-2015
+Vestermarksvej 4,Christiansfeld,6070,7,147,1954,1500000.0,11-09-2015
+Favstrupvej 37,Christiansfeld,6070,6,180,1827,1550000.0,04-09-2015
+Langforte 122,Christiansfeld,6070,8,274,1877,8967500.0,01-09-2015
+Favstrupvej 22,Christiansfeld,6070,4,109,1960,725000.0,28-08-2015
+Terkeltoft 7,Christiansfeld,6070,3,105,1840,1760000.0,27-08-2015
+Seggelundvej 113,Christiansfeld,6070,8,228,1928,1925000.0,25-08-2015
+Steenbjerg 11,Christiansfeld,6070,5,170,2009,2200000.0,22-08-2015
+10. Juli Vej 3,Christiansfeld,6070,4,129,1970,1629000.0,20-08-2015
+Mengvej 9,Christiansfeld,6070,4,112,1969,930000.0,14-08-2015
+Skovrødvej 2,Christiansfeld,6070,6,206,1877,255000.0,06-08-2015
+Aller Møllevej 6,Christiansfeld,6070,4,100,1964,425000.0,05-08-2015
+Frederiksdalparken 54,Christiansfeld,6070,6,165,1978,1350000.0,28-07-2015
+Vejstruprødvej 88,Christiansfeld,6070,5,200,1900,5634580.0,24-07-2015
+Vejstruprødvej 89,Christiansfeld,6070,6,190,1845,4067720.0,24-07-2015
+Christian X Vej 17,Christiansfeld,6070,5,150,1967,977500.0,15-07-2015
+10. Juli Vej 15,Christiansfeld,6070,4,99,1969,1145000.0,10-07-2015
+Damgårdsparken 18,Christiansfeld,6070,7,179,1978,1600000.0,08-07-2015
+Gl. Kongevej 22,Christiansfeld,6070,4,126,1976,1000000.0,08-07-2015
+Stagagervej 4,Christiansfeld,6070,6,118,1928,1147000.0,03-07-2015
+"Borgmestervej 13, 1. TV",Christiansfeld,6070,2,75,1972,450000.0,29-06-2015
+"Borgmestervej 11, 1. TH",Christiansfeld,6070,2,73,1972,500000.0,29-06-2015
+Gl. Allervej 1,Christiansfeld,6070,6,237,2007,3760000.0,25-06-2015
+Steenbjerg 14,Christiansfeld,6070,5,208,2016,425000.0,18-06-2015
+Dahlsvænget 17,Christiansfeld,6070,2,102,2008,875000.0,12-06-2015
+Birkevej 38,Christiansfeld,6070,6,173,1954,1715000.0,02-06-2015
+Birkevej 32,Christiansfeld,6070,4,110,1967,500000.0,22-05-2015
+Vestergade 32,Christiansfeld,6070,3,134,1973,575000.0,19-05-2015
+Tjørnevænget 43,Christiansfeld,6070,5,170,1996,800000.0,11-05-2015
+Tværvej 2,Christiansfeld,6070,4,118,1961,850000.0,11-05-2015
+Åkærvej 16,Christiansfeld,6070,6,163,1877,2400000.0,09-05-2015
+Odinsvej 7,Christiansfeld,6070,3,130,1972,457296.0,07-05-2015
+Åstorpvej 115,Christiansfeld,6070,5,154,1978,1500000.0,23-04-2015
+Damgårdsparken 81,Christiansfeld,6070,4,126,1978,1295000.0,23-04-2015
+Skovrupvej 43,Christiansfeld,6070,7,160,1935,1150000.0,20-04-2015
+Vojumvej 27,Christiansfeld,6070,5,214,1959,1100000.0,16-04-2015
+Koldingvej 56,Christiansfeld,6070,7,225,1900,600000.0,16-04-2015
+Damgårdsparken 32,Christiansfeld,6070,4,122,1978,1000000.0,11-04-2015
+Hjerndrup Stadsvej 35,Christiansfeld,6070,4,104,1927,830000.0,09-04-2015
+Haderslevvej 42,Christiansfeld,6070,11,259,1862,595000.0,08-04-2015
+Borgmestervej 14,Christiansfeld,6070,5,164,1971,400000.0,05-04-2015
+Luneparken 15,Christiansfeld,6070,5,144,1981,1400000.0,31-03-2015
+Hjerndrup Landevej 42,Christiansfeld,6070,9,214,1928,305000.0,23-03-2015
+Steenbjerg 24,Christiansfeld,6070,5,157,2008,1950000.0,20-03-2015
+Vojumvej 2,Christiansfeld,6070,5,217,1880,127000.0,18-03-2015
+"Borgmestervej 7, ST. TH",Christiansfeld,6070,4,103,1970,500000.0,16-03-2015
+Lindegade 51,Christiansfeld,6070,7,172,1890,550000.0,13-03-2015
+"Kongensgade 7, 2",Christiansfeld,6070,4,128,1935,3350000.0,11-03-2015
+Seggelund Hovedvej 32,Christiansfeld,6070,4,96,1937,795000.0,06-03-2015
+Christian VII Vej 22,Christiansfeld,6070,5,207,1971,1245000.0,25-02-2015
+Birkevej 26,Christiansfeld,6070,4,120,1973,875000.0,23-02-2015
+Banckesvej 11,Christiansfeld,6070,4,124,1967,900000.0,19-02-2015
+Steenbjerg 38,Christiansfeld,6070,6,169,2015,475000.0,16-02-2015
+Nygade 15,Christiansfeld,6070,5,121,1962,566581.0,11-02-2015
+Steenbjerg 18,Christiansfeld,6070,5,165,2015,475000.0,11-02-2015
+Favstrupgårdvej 4,Christiansfeld,6070,4,112,1970,400000.0,04-02-2015
+Steenbjerg 50,Christiansfeld,6070,5,184,2016,495000.0,04-02-2015
+Frørupvej 36,Christiansfeld,6070,4,163,1900,1295000.0,02-02-2015
+Gammel Egebjergvej 14,Christiansfeld,6070,4,102,1840,115000.0,28-01-2015
+Virkelystvej 8,Christiansfeld,6070,6,195,1968,1095000.0,24-01-2015
+Steenbjerg 12,Christiansfeld,6070,5,165,2015,340000.0,07-01-2015
+N.J. Holms Park 17,Christiansfeld,6070,5,142,1974,900000.0,19-12-2014
+Langforte 84,Christiansfeld,6070,3,117,1928,1460000.0,12-12-2014
+Skovrupvej 19,Christiansfeld,6070,3,155,1922,1290000.0,09-12-2014
+Skovrupvej 21,Christiansfeld,6070,9,376,1932,1720000.0,08-12-2014
+Kongensgade 51,Christiansfeld,6070,4,187,1870,340000.0,04-12-2014
+Aller Møllevej 34,Christiansfeld,6070,12,300,1915,1500000.0,03-12-2014
+Luneparken 33,Christiansfeld,6070,8,166,1987,1585000.0,27-11-2014
+Steenbjerg 20,Christiansfeld,6070,5,173,2009,2095000.0,20-11-2014
+Dahlsvænget 25,Christiansfeld,6070,7,175,2004,754000.0,11-11-2014
+Skovvænget 8,Christiansfeld,6070,6,200,1965,1460000.0,08-11-2014
+Præstegaardsvej 35,Christiansfeld,6070,5,99,1963,650000.0,17-10-2014
+Steenbjerg 76,Christiansfeld,6070,6,170,2016,495000.0,08-10-2014
+Præstegaardsvej 37,Christiansfeld,6070,5,114,1963,850000.0,29-09-2014
+Menggårdvej 21,Christiansfeld,6070,7,279,1847,4125000.0,26-09-2014
+Damgårdsparken 33,Christiansfeld,6070,4,121,1978,1300000.0,21-09-2014
+Toftegårdsvej 18,Christiansfeld,6070,7,191,1900,1995000.0,19-09-2014
+Dahlsvænget 16,Christiansfeld,6070,7,151,1984,1285000.0,13-09-2014
+Kokærvej 2,Christiansfeld,6070,6,97,1880,250000.0,07-09-2014
+Gildesager 19,Christiansfeld,6070,4,111,1968,730000.0,05-09-2014
+Taps Stationsvej 15,Christiansfeld,6070,7,177,1977,600000.0,05-09-2014
+Damgårdsparken 63,Christiansfeld,6070,5,151,1977,1010000.0,01-09-2014
+Seggelundvej 99,Christiansfeld,6070,5,162,1928,1120000.0,20-08-2014
+Åbrinken 17,Christiansfeld,6070,6,149,1988,1290000.0,30-07-2014
+Koldingvej 3,Christiansfeld,6070,5,127,1900,950000.0,25-07-2014
+Steenbjerg 13,Christiansfeld,6070,5,163,2008,2380000.0,17-07-2014
+Bjerndrup Bygade 6,Christiansfeld,6070,4,144,1970,155000.0,08-07-2014
+Ødisvej 95,Christiansfeld,6070,5,178,1901,254000.0,03-07-2014
+Birkevej 11,Christiansfeld,6070,4,103,1964,730000.0,24-06-2014
+Skovrupvej 58,Christiansfeld,6070,6,104,1935,1519700.0,19-06-2014
+Vestergade 34,Christiansfeld,6070,7,234,1974,975000.0,04-06-2014
+Skovrup Nørrevej 14,Christiansfeld,6070,9,274,1850,219640.0,03-06-2014
+Birkevej 39,Christiansfeld,6070,4,122,1959,725000.0,02-06-2014
+Ødisvej 113,Christiansfeld,6070,5,134,1897,95000.0,08-05-2014
+Præstegaardsvej 39,Christiansfeld,6070,5,108,1963,695000.0,28-04-2014
+Staalsvej 7,Christiansfeld,6070,4,132,1968,700000.0,22-04-2014
+Haderslevvej 40,Christiansfeld,6070,5,114,1948,1100000.0,19-04-2014
+Frederiksdalparken 56,Christiansfeld,6070,5,153,1977,1375000.0,19-04-2014
+Kærfort 8,Christiansfeld,6070,5,147,1938,130000.0,10-04-2014
+Damgårdsparken 45,Christiansfeld,6070,4,120,1978,1165000.0,05-04-2014
+Damgårdsparken 79,Christiansfeld,6070,5,130,1978,1100000.0,02-04-2014
+Tingskovhedevej 21,Christiansfeld,6070,4,105,1862,1170000.0,23-03-2014
+N.J. Holms Park 20,Christiansfeld,6070,4,117,1974,800000.0,17-03-2014
+Buen 9,Christiansfeld,6070,5,208,1877,950000.0,11-03-2014
+Kokær Søndervej 32,Christiansfeld,6070,7,301,1840,359230.0,04-03-2014
+Vestervang 13,Christiansfeld,6070,5,130,1963,820000.0,03-03-2014
+Haderslevvej 26,Christiansfeld,6070,4,146,1977,810000.0,24-01-2014
+10. Juli Vej 12,Christiansfeld,6070,4,120,1973,900000.0,21-01-2014
+Thorsvej 5,Christiansfeld,6070,4,126,1972,1230000.0,15-01-2014
+Steenbjerg 56,Christiansfeld,6070,4,122,2009,1775000.0,16-12-2013
+"Jernbanegade 1, 1",Christiansfeld,6070,3,149,1899,1200000.0,25-11-2013
+10. Juli Vej 1,Christiansfeld,6070,4,182,1971,1850000.0,19-11-2013
+Nefgårdvej 10,Christiansfeld,6070,3,96,1880,330000.0,13-11-2013
+Frørupvej 3,Christiansfeld,6070,5,133,1963,680000.0,07-11-2013
+Skolevej 3,Christiansfeld,6070,6,156,1917,912635.0,07-11-2013
+Skovrupvej 3,Christiansfeld,6070,12,275,1850,3080000.0,07-11-2013
+Bjerndrup Landevej 11,Christiansfeld,6070,7,255,2014,450000.0,21-10-2013
+N.J. Holms Park 11,Christiansfeld,6070,5,155,1975,1150000.0,16-10-2013
+Frørupvej 18,Christiansfeld,6070,5,180,1979,1050000.0,04-10-2013
+Hjerndrupvej 198,Christiansfeld,6070,9,234,1852,1125000.0,20-09-2013
+Heisselvej 35,Christiansfeld,6070,4,114,2004,750000.0,04-09-2013
+Skovrupvej 123,Christiansfeld,6070,5,171,1971,700000.0,03-09-2013
+Christian X Vej 13,Christiansfeld,6070,4,162,1971,935000.0,31-08-2013
+Kær Møllevej 9,Christiansfeld,6070,6,231,1979,2200000.0,31-08-2013
+Åstorpvej 120,Christiansfeld,6070,4,112,1951,374132.0,29-08-2013
+Steenbjerg 58,Christiansfeld,6070,6,181,2014,450000.0,22-08-2013
+10. Juli Vej 8,Christiansfeld,6070,5,145,1971,1325000.0,08-08-2013
+Vojumvej 45,Christiansfeld,6070,4,145,1850,75000.0,08-08-2013
+Tågerupvej 18,Christiansfeld,6070,9,249,1931,2000000.0,23-07-2013
+Koldingvej 127,Christiansfeld,6070,5,144,1943,1195000.0,22-07-2013
+Dahlsvænget 8,Christiansfeld,6070,4,124,1982,1050000.0,15-07-2013
+Nefgårdvej 15,Christiansfeld,6070,5,135,1930,625000.0,19-06-2013
+Ødisvej 155,Christiansfeld,6070,6,184,1933,795000.0,13-06-2013
+Ødisvej 53,Christiansfeld,6070,7,180,1867,2020000.0,10-06-2013
+Taps Stationsvej 7,Christiansfeld,6070,4,175,1934,575000.0,01-06-2013
+Favstrupgårdvej 22,Christiansfeld,6070,10,317,1727,400000.0,01-06-2013
+Koldingvej 69,Christiansfeld,6070,4,130,1855,1750000.0,30-05-2013
+Nis Thuesensvej 21,Christiansfeld,6070,4,171,1938,2325000.0,25-05-2013
+Kampesmose 37,Christiansfeld,6070,6,226,2007,2250000.0,23-05-2013
+Gildesager 3,Christiansfeld,6070,3,89,1953,820000.0,07-05-2013
+Bojskov Byvej 20,Christiansfeld,6070,4,120,1933,450000.0,24-04-2013
+Tøndervej 12,Christiansfeld,6070,8,185,1939,1120000.0,23-04-2013
+Stenevadvej 11,Christiansfeld,6070,8,207,1877,1350000.0,20-04-2013
+Spangvej 15,Christiansfeld,6070,3,119,1931,575000.0,13-04-2013
+Ødisvej 80,Christiansfeld,6070,7,354,1827,925000.0,11-04-2013
+Hjerndrupvej 7,Christiansfeld,6070,4,157,1965,512091.0,09-04-2013
+Bruhnsmindevej 4,Christiansfeld,6070,8,249,1820,1450000.0,04-04-2013
+Damgårdsparken 73,Christiansfeld,6070,6,181,1926,1950000.0,24-03-2013
+Frørup Landevej 25,Christiansfeld,6070,4,105,1961,467500.0,21-03-2013
+Vestervang 28,Christiansfeld,6070,3,91,1962,800000.0,15-03-2013
+Kampesmose 44,Christiansfeld,6070,6,201,2002,2525000.0,12-03-2013
+Lindetoften 12,Christiansfeld,6070,4,120,2007,675000.0,06-03-2013
+Nygade 14,Christiansfeld,6070,8,194,1965,490000.0,26-02-2013
+Hjerndrup Kirkevej 4,Christiansfeld,6070,5,105,1827,287500.0,07-02-2013
+"Kongensgade 4, 1",Christiansfeld,6070,3,141,1920,1950000.0,04-02-2013
+Frørup Skovvej 7,Christiansfeld,6070,4,172,1923,795000.0,01-02-2013
+Buen 2,Christiansfeld,6070,4,170,1750,575000.0,17-01-2013
+"Borgmestervej 13, ST. TV",Christiansfeld,6070,2,75,1972,450000.0,25-12-2012
+Lindegade 6,Christiansfeld,6070,4,117,1820,563029.0,20-12-2012
+Kokær Søndervej 25,Christiansfeld,6070,5,229,1852,1495000.0,17-12-2012
+Kampesmose 7,Christiansfeld,6070,5,161,2007,1895000.0,12-12-2012
+Tyrstrup Vestervej 1,Christiansfeld,6070,4,160,1877,738694.0,03-12-2012
+Kær Møllevej 30,Christiansfeld,6070,5,144,1897,1345000.0,16-11-2012
+Dahlsvænget 14,Christiansfeld,6070,6,147,1986,1475000.0,10-11-2012
+Nørreskovvej 15A,Christiansfeld,6070,6,222,1980,10100000.0,09-11-2012
+Ødisvej 45,Christiansfeld,6070,2,119,2013,1175000.0,08-11-2012
+Torningvej 13,Christiansfeld,6070,4,127,1940,1425000.0,02-11-2012
+Gildesager 26,Christiansfeld,6070,6,181,1969,1295000.0,29-10-2012
+Frørupvej 10,Christiansfeld,6070,5,190,1909,762500.0,25-10-2012
+Virkelystvej 10,Christiansfeld,6070,3,103,1963,790000.0,18-10-2012
+Virkelystvej 3,Christiansfeld,6070,3,107,1954,760000.0,17-10-2012
+Gl. Præstegårdsvej 5,Christiansfeld,6070,7,229,2014,325000.0,15-10-2012
+Buen 3,Christiansfeld,6070,5,172,1928,875000.0,05-10-2012
+Hjerndrupvej 178,Christiansfeld,6070,7,147,1929,600000.0,02-10-2012
+10. Februar Vej 4,Christiansfeld,6070,6,168,1967,985000.0,28-09-2012
+Kampesmose 17,Christiansfeld,6070,6,183,2007,2825000.0,28-09-2012
+Torningvej 19,Christiansfeld,6070,4,140,1972,1275000.0,19-09-2012
+Vestervang 20,Christiansfeld,6070,3,122,1965,1095000.0,07-09-2012
+Vestermosevej 6,Christiansfeld,6070,8,266,1832,1600000.0,05-09-2012
+Koldingvej 1,Christiansfeld,6070,17,350,1577,150100.0,05-09-2012
+Smedeforte 5,Christiansfeld,6070,6,170,1870,500000.0,31-08-2012
+Favstrupgårdvej 20,Christiansfeld,6070,6,152,1877,448143.0,29-08-2012
+Damgårdsparken 58,Christiansfeld,6070,5,133,1978,1325000.0,24-08-2012
+Fjællebrovej 50,Christiansfeld,6070,10,334,1846,500000.0,21-08-2012
+Birkevej 16,Christiansfeld,6070,4,103,1960,650000.0,16-08-2012
+Vestervang 22,Christiansfeld,6070,5,120,1967,695000.0,14-08-2012
+Præstegaardsvej 22,Christiansfeld,6070,5,133,1937,950000.0,08-08-2012
+Hjerndrupvej 129,Christiansfeld,6070,6,157,1939,530000.0,02-08-2012
+Skovrup Nørrevej 21,Christiansfeld,6070,4,94,1936,810000.0,12-07-2012
+Koldingvej 64,Christiansfeld,6070,6,172,1905,535000.0,21-06-2012
+Vejstruprødvej 67,Christiansfeld,6070,5,165,1897,1245000.0,18-06-2012
+Vestermosevej 9,Christiansfeld,6070,5,94,1942,830000.0,18-06-2012
+Bjerndrup Landevej 15,Christiansfeld,6070,9,253,1917,995000.0,08-06-2012
+Hjerndrup Nørrevej 13,Christiansfeld,6070,3,78,1959,650000.0,08-06-2012
+Kongevej 21,Christiansfeld,6070,4,169,1827,1950000.0,08-06-2012
+Steenbjerg 29,Christiansfeld,6070,5,170,2010,1800000.0,08-06-2012
+Havevej 1,Christiansfeld,6070,3,92,1964,905000.0,31-05-2012
+Søndre Alle 41B,Christiansfeld,6070,6,173,2001,1175000.0,31-05-2012
+Borgmestervej 2,Christiansfeld,6070,5,170,1972,1465000.0,30-05-2012
+Sandagervej 19,Christiansfeld,6070,5,130,1899,925000.0,29-05-2012
+Steenbjerg 52,Christiansfeld,6070,7,186,2012,428000.0,29-05-2012
+Dahlsvænget 18,Christiansfeld,6070,6,142,2000,1375000.0,17-05-2012
+Åstorpvej 121,Christiansfeld,6070,5,250,1960,977500.0,01-05-2012
+10. Februar Vej 12,Christiansfeld,6070,3,107,1967,850000.0,27-04-2012
+Damgårdsparken 67,Christiansfeld,6070,5,144,1977,1500000.0,19-04-2012
+Steenbjerg 66,Christiansfeld,6070,6,223,2014,460000.0,18-04-2012
+10. Februar Vej 13,Christiansfeld,6070,4,104,1966,760000.0,17-04-2012
+Bjerndrupgårdvej 11,Christiansfeld,6070,10,241,1904,3093000.0,13-04-2012
+Søndre Alle 3,Christiansfeld,6070,10,200,1903,590000.0,19-03-2012
+Hjerndrupvej 131,Christiansfeld,6070,4,90,1867,350000.0,10-03-2012
+Stenevadvej 7,Christiansfeld,6070,6,253,1856,5277500.0,09-03-2012
+Ødisvej 24,Christiansfeld,6070,5,139,1962,1000000.0,23-02-2012
+Frejasvej 10,Christiansfeld,6070,4,130,1973,960000.0,17-02-2012
+Høgsgårdvej 3,Christiansfeld,6070,3,135,1973,500000.0,09-02-2012
+10. Februar Vej 15,Christiansfeld,6070,4,116,1968,985000.0,07-02-2012
+Frejasvej 23,Christiansfeld,6070,4,196,1973,1600000.0,05-01-2012
+"Borgmestervej 11, 1. TV",Christiansfeld,6070,2,73,1972,500000.0,03-01-2012
+Åbrinken 7,Christiansfeld,6070,2,138,1973,900000.0,29-12-2011
+Kær Møllevej 34,Christiansfeld,6070,4,130,1870,50000.0,20-12-2011
+Nygade 10,Christiansfeld,6070,8,218,1965,1145000.0,19-12-2011
+Lindetoften 8,Christiansfeld,6070,4,120,2008,1375000.0,30-11-2011
+Favstrupvej 6,Christiansfeld,6070,3,80,1955,775000.0,21-11-2011
+10. Juli Vej 5,Christiansfeld,6070,5,190,1970,712500.0,18-11-2011
+Hjerndrupvej 59,Christiansfeld,6070,6,174,2013,220000.0,17-11-2011
+Skovvænget 9,Christiansfeld,6070,3,99,1963,800000.0,29-10-2011
+Hjerndrup Stadsvej 36,Christiansfeld,6070,4,115,1979,1590000.0,21-10-2011
+Toftegårdsvej 17,Christiansfeld,6070,6,246,2009,3900000.0,28-09-2011
+Koldingvej 71,Christiansfeld,6070,4,136,1855,437500.0,27-09-2011
+Kampesmose 50,Christiansfeld,6070,5,150,2004,1900000.0,26-09-2011
+Kærfort 15,Christiansfeld,6070,7,280,1936,2375000.0,25-09-2011
+Tingvej 3,Christiansfeld,6070,7,159,1954,1750000.0,20-09-2011
+Damgårdsparken 55,Christiansfeld,6070,4,148,1979,1450000.0,08-09-2011
+Kokærvej 65,Christiansfeld,6070,5,160,1877,2140000.0,07-09-2011
+Odinsvej 29,Christiansfeld,6070,5,141,1972,1200000.0,30-08-2011
+N.J. Holms Park 26,Christiansfeld,6070,7,199,1975,836000.0,26-08-2011
+Enevoldsvej 11,Christiansfeld,6070,8,269,1908,2040000.0,25-08-2011
+Anderup Skovvej 40,Christiansfeld,6070,7,231,1936,1025000.0,24-08-2011
+Industrivej 28,Christiansfeld,6070,6,180,1980,1250000.0,23-08-2011
+Åstorpvej 100,Christiansfeld,6070,4,99,1893,795000.0,16-08-2011
+Nygade 6,Christiansfeld,6070,4,112,1965,650000.0,12-08-2011
+Allervej 135,Christiansfeld,6070,13,392,1885,11105000.0,12-08-2011
+Hjerndrupvej 199,Christiansfeld,6070,8,296,1985,2750000.0,22-07-2011
+Skovhusevej 24,Christiansfeld,6070,3,64,1912,750000.0,21-07-2011
+Kokobbelvej 9,Christiansfeld,6070,10,186,1830,235000.0,11-07-2011
+Humlefægyde 32,Christiansfeld,6070,7,271,1875,15734144.0,11-07-2011
+Tjørnevænget 1,Christiansfeld,6070,5,144,1976,1050000.0,08-07-2011
+Frørup Østervej 11,Christiansfeld,6070,4,104,1877,150000.0,08-07-2011
+Hjerndrupvej 133,Christiansfeld,6070,4,110,1961,500000.0,01-07-2011
+Højrup Overskovvej 2,Christiansfeld,6070,7,225,1900,1280000.0,28-06-2011
+Kongensgade 43,Christiansfeld,6070,6,208,1964,580000.0,22-06-2011
+Højrup Overskovvej 32,Christiansfeld,6070,4,102,1955,675000.0,19-06-2011
+Toftegårdsvej 8A,Christiansfeld,6070,5,140,2011,1603000.0,11-06-2011
+Favstrupgårdvej 6,Christiansfeld,6070,4,115,1965,605000.0,07-06-2011
+Allervej 148,Christiansfeld,6070,7,254,1902,1850000.0,25-05-2011
+Præstegaardsvej 10,Christiansfeld,6070,6,157,1926,988125.0,17-05-2011
+Steenbjerg 26,Christiansfeld,6070,5,160,2012,350000.0,04-05-2011
+Tjørnevænget 35,Christiansfeld,6070,7,183,1981,1120000.0,26-04-2011
+Staalsvej 11,Christiansfeld,6070,4,130,1971,1130000.0,14-04-2011
+Hørregårdvej 4,Christiansfeld,6070,11,413,1912,1886486.0,11-04-2011
+Ødisvej 61,Christiansfeld,6070,10,390,1854,10469852.0,11-04-2011
+Favstrupvej 17,Christiansfeld,6070,4,136,1963,1275000.0,06-04-2011
+Spangvej 24,Christiansfeld,6070,4,162,1867,7120000.0,05-04-2011
+Anderup Skovvej 18,Christiansfeld,6070,6,191,1936,310852.0,01-04-2011
+Birkevej 23,Christiansfeld,6070,6,126,1957,627500.0,31-03-2011
+Kongensgade 74,Christiansfeld,6070,8,180,1961,799264.0,29-03-2011
+Lindegade 3,Christiansfeld,6070,5,169,1891,1375000.0,28-03-2011
+Præstegaardsvej 6,Christiansfeld,6070,7,202,1928,1150000.0,28-03-2011
+10. Februar Vej 1,Christiansfeld,6070,4,151,1966,1100000.0,25-03-2011
+Højrup Landevej 50,Christiansfeld,6070,3,80,1877,520000.0,20-03-2011
+Skovrupvej 49,Christiansfeld,6070,6,223,1935,1800000.0,17-03-2011
+Vestergade 7,Christiansfeld,6070,5,105,1952,220000.0,08-03-2011
+Aller Møllevej 36,Christiansfeld,6070,6,140,1972,629000.0,04-03-2011
+Steenbjerg 27,Christiansfeld,6070,6,192,2008,2750000.0,22-02-2011
+Taps Stationsvej 23,Christiansfeld,6070,5,163,1912,680000.0,14-02-2011
+Steenbjerg 84,Christiansfeld,6070,6,164,2011,450000.0,14-02-2011
+Tjørnevænget 51,Christiansfeld,6070,3,79,1982,690000.0,11-02-2011
+Lindegade 49,Christiansfeld,6070,3,143,1921,760000.0,10-02-2011
+Hjerndrup Nørrevej 3,Christiansfeld,6070,6,147,1900,700000.0,07-02-2011
+Buen 5,Christiansfeld,6070,3,100,1948,450000.0,01-02-2011
+Steenbjerg 68,Christiansfeld,6070,6,154,2011,450000.0,01-02-2011
+Anderup Søndervej 10,Christiansfeld,6070,7,203,1860,1350000.0,27-01-2011
+Toftegårdsvej 2,Christiansfeld,6070,6,146,1877,785000.0,26-01-2011
+Langforte 1,Christiansfeld,6070,4,146,1800,500000.0,26-01-2011
+N.J. Holms Park 9,Christiansfeld,6070,5,164,1974,1300000.0,18-01-2011
+Koldingvej 58,Christiansfeld,6070,10,211,1904,80000.0,14-01-2011
+Koldingvej 128,Christiansfeld,6070,6,122,1907,625000.0,14-01-2011
+Staalsvej 4,Christiansfeld,6070,6,150,1968,1075000.0,13-01-2011
+Mengvej 7,Christiansfeld,6070,4,104,1963,515000.0,13-01-2011
+Dahlsvænget 6,Christiansfeld,6070,3,116,1986,600000.0,03-01-2011
+Steenbjerg 43,Christiansfeld,6070,6,220,2012,450000.0,23-12-2010
+Hjerndrupvej 136,Christiansfeld,6070,5,151,1847,350000.0,22-12-2010
+Steenbjerg 36,Christiansfeld,6070,6,169,2011,450000.0,22-12-2010
+Banckesvej 6,Christiansfeld,6070,4,87,1966,525000.0,16-12-2010
+Ødisvej 119,Christiansfeld,6070,3,150,1913,675000.0,16-12-2010
+Birkevej 1,Christiansfeld,6070,5,128,1954,729169.0,14-12-2010
+Aller Møllevej 5,Christiansfeld,6070,4,163,1777,1350000.0,14-12-2010
+Steenbjerg 33,Christiansfeld,6070,7,235,2011,450000.0,14-12-2010
+Mølbrovej 1,Christiansfeld,6070,3,90,1964,725000.0,02-12-2010
+Kolstrup Landevej 17,Christiansfeld,6070,7,204,1860,1475000.0,15-11-2010
+Skolevej 7,Christiansfeld,6070,6,155,1930,747732.0,12-11-2010
+Ødisvej 86,Christiansfeld,6070,4,100,1877,400000.0,08-11-2010
+Åbrinken 11,Christiansfeld,6070,5,137,2001,1637500.0,08-11-2010
+Frørup Landevej 26,Christiansfeld,6070,6,180,1907,580000.0,28-10-2010
+Vestervang 17,Christiansfeld,6070,4,105,1964,1045000.0,26-10-2010
+Steenbjerg 39,Christiansfeld,6070,6,168,2010,450000.0,26-10-2010
+Toftegårdsvej 8,Christiansfeld,6070,5,140,2011,330000.0,12-10-2010
+Vestervang 9,Christiansfeld,6070,3,105,1962,1070000.0,12-10-2010
+Kirke Alle 8,Christiansfeld,6070,5,149,1954,1000000.0,06-10-2010
+Hjerndrupvej 150,Christiansfeld,6070,7,145,1951,500000.0,29-09-2010
+Gl. Præstegårdsvej 10,Christiansfeld,6070,5,149,1877,1445000.0,29-09-2010
+Nefgårdvej 9,Christiansfeld,6070,6,145,1877,1200000.0,24-09-2010
+Dahlsvænget 21,Christiansfeld,6070,6,150,2006,961500.0,23-09-2010
+Steenbjerg 35,Christiansfeld,6070,6,171,2011,450000.0,21-09-2010
+Torning Møllevej 3,Christiansfeld,6070,4,129,1972,1368000.0,16-09-2010
+Dahlsvænget 20,Christiansfeld,6070,6,153,1985,1340000.0,02-09-2010
+Lindegade 4,Christiansfeld,6070,6,118,1826,1500000.0,27-08-2010
+Ødisvej 123,Christiansfeld,6070,5,120,1904,730000.0,17-08-2010
+Præstegaardsvej 49,Christiansfeld,6070,5,103,1963,975000.0,16-08-2010
+Sønderskovvej 17,Christiansfeld,6070,5,179,1877,225000.0,16-08-2010
+Frørupvej 11,Christiansfeld,6070,5,199,1937,520000.0,12-08-2010
+Præstegaardsvej 41,Christiansfeld,6070,5,108,1963,700000.0,11-08-2010
+Steenbjerg 80,Christiansfeld,6070,5,155,2010,450000.0,06-08-2010
+Seggelund Hovedvej 11,Christiansfeld,6070,4,170,1900,757500.0,05-08-2010
+Carstensvej 1,Christiansfeld,6070,7,160,1969,1260000.0,03-08-2010
+Vadsbrovej 20,Christiansfeld,6070,5,166,1980,2245000.0,02-08-2010
+Kokærvej 99,Christiansfeld,6070,4,100,1943,445000.0,22-07-2010
+Skovrupvej 119,Christiansfeld,6070,7,248,2014,775000.0,15-07-2010
+Kongensgade 41,Christiansfeld,6070,5,128,1961,950000.0,12-07-2010
+Seggelund Hovedvej 9,Christiansfeld,6070,6,187,1900,757500.0,09-07-2010
+Steenbjerg 3,Christiansfeld,6070,6,181,2015,365000.0,05-07-2010
+Luneparken 25,Christiansfeld,6070,8,205,1989,1995000.0,01-07-2010
+Frørupvej 37,Christiansfeld,6070,4,133,1934,570000.0,28-06-2010
+Staalsvej 5,Christiansfeld,6070,4,102,1967,1075000.0,11-06-2010
+Luneparken 36,Christiansfeld,6070,5,135,1997,1575000.0,11-06-2010
+Åbrinken 5,Christiansfeld,6070,5,152,1973,1050000.0,10-06-2010
+Aller Møllevej 17,Christiansfeld,6070,8,150,1800,1550000.0,10-06-2010
+Skovvænget 13,Christiansfeld,6070,4,100,1959,1345000.0,09-06-2010
+Steenbjerg 37,Christiansfeld,6070,5,201,2010,450000.0,03-06-2010
+Odinsvej 15,Christiansfeld,6070,4,120,1972,1185000.0,01-06-2010
+Kolstrup Bygade 6,Christiansfeld,6070,8,205,1877,1075000.0,19-05-2010
+Steenbjerg 1,Christiansfeld,6070,4,139,2017,362000.0,18-05-2010
+Carstensvej 6,Christiansfeld,6070,6,162,1968,1520000.0,11-05-2010
+Banckesvej 3,Christiansfeld,6070,4,128,1967,800000.0,04-05-2010
+Tingvej 28,Christiansfeld,6070,6,216,1973,1630000.0,28-04-2010
+Blindgyden 5,Christiansfeld,6070,6,184,1931,2000000.0,27-04-2010
+Favstrupvej 38,Christiansfeld,6070,6,275,2013,2131950.0,21-04-2010
+Steenbjerg 9,Christiansfeld,6070,6,157,2010,365000.0,19-04-2010
+Vestergade 26,Christiansfeld,6070,4,136,1971,750000.0,15-04-2010
+Nørre Alle 18,Christiansfeld,6070,3,100,1850,410000.0,12-04-2010
+N.J. Holms Park 28,Christiansfeld,6070,4,125,1975,1100000.0,09-04-2010
+Vojumvej 34,Christiansfeld,6070,6,148,1859,490000.0,16-03-2010
+Vestergade 19,Christiansfeld,6070,6,125,1777,575000.0,16-03-2010
+Søndre Alle 9,Christiansfeld,6070,7,192,1930,1600000.0,21-02-2010
+Ryttervej 17,Christiansfeld,6070,8,215,1877,2095000.0,20-02-2010
+Skovrødvej 15,Christiansfeld,6070,3,147,1870,350000.0,14-02-2010
+Frederiksdalparken 58,Christiansfeld,6070,5,193,1981,1089500.0,09-02-2010
+Industrivej 24,Christiansfeld,6070,8,199,1978,1600000.0,21-01-2010
+Lindegade 8,Christiansfeld,6070,8,255,1813,2475000.0,13-01-2010
+Steenbjerg 47,Christiansfeld,6070,5,195,2009,2610000.0,12-01-2010
+Skovrupvej 101,Christiansfeld,6070,5,100,1959,780000.0,11-01-2010
+Kobberstedvej 66,Christiansfeld,6070,6,205,1978,1350000.0,30-12-2009
+Ødisvej 26,Christiansfeld,6070,4,150,1968,1230000.0,22-12-2009
+Odinsvej 21,Christiansfeld,6070,6,159,1973,1475000.0,30-11-2009
+Birkevej 3A,Christiansfeld,6070,7,314,1966,2600000.0,25-11-2009
+Christian VII Vej 8,Christiansfeld,6070,7,220,1968,120500.0,20-11-2009
+Koldingvej 115,Christiansfeld,6070,3,109,1907,418750.0,09-11-2009
+Christiansfeldvej 9,Christiansfeld,6070,4,119,1972,650000.0,09-11-2009
+Koldingvej 11,Christiansfeld,6070,8,304,1973,2357500.0,21-10-2009
+Koldingvej 124,Christiansfeld,6070,3,130,1912,795000.0,20-10-2009
+Søndre Alle 47,Christiansfeld,6070,9,295,1870,650000.0,06-10-2009
+Damgårdsparken 35,Christiansfeld,6070,4,123,1978,980000.0,02-10-2009
+Møllegade 7,Christiansfeld,6070,6,147,1920,682500.0,01-10-2009
+10. Februar Vej 5,Christiansfeld,6070,4,160,1966,1000000.0,30-09-2009
+Ødisvej 97,Christiansfeld,6070,4,80,1904,250000.0,21-09-2009
+Banckesvej 1,Christiansfeld,6070,3,134,1968,750000.0,18-09-2009
+Rudevej 18,Christiansfeld,6070,6,176,1900,1595000.0,17-09-2009
+Åbrinken 13,Christiansfeld,6070,5,141,1998,1895000.0,17-09-2009
+Rudevej 20,Christiansfeld,6070,6,195,2010,50000.0,15-09-2009
+Jernbanegade 8,Christiansfeld,6070,4,112,1963,1250000.0,31-08-2009
+Favstrupvej 69,Christiansfeld,6070,6,159,1900,1495000.0,25-08-2009
+Skovrupvej 121,Christiansfeld,6070,4,112,1968,100000.0,18-08-2009
+Tjørnevænget 69,Christiansfeld,6070,6,201,1988,1540000.0,07-08-2009
+Ødisvej 4,Christiansfeld,6070,5,180,1905,935000.0,07-08-2009
+Kongensgade 27,Christiansfeld,6070,6,157,1935,650000.0,17-07-2009
+Allervej 160,Christiansfeld,6070,4,89,1941,1250000.0,12-07-2009
+Genvej 7,Christiansfeld,6070,4,103,1962,700000.0,06-07-2009
+Kampesmose 30,Christiansfeld,6070,4,137,2000,1650000.0,17-06-2009
+Skovrupvej 91,Christiansfeld,6070,4,92,1959,585000.0,15-06-2009
+Seggelundvej 105,Christiansfeld,6070,3,86,1986,600000.0,11-06-2009
+Tingvej 12,Christiansfeld,6070,3,93,1950,1050000.0,10-06-2009
+Nørre Alle 20,Christiansfeld,6070,3,145,1890,675000.0,19-05-2009
+Kokærvej 10,Christiansfeld,6070,8,217,1850,1645000.0,18-05-2009
+Kampesmose 1,Christiansfeld,6070,5,150,2008,2125000.0,18-05-2009
+Torningvej 9,Christiansfeld,6070,6,204,1942,837375.0,17-05-2009
+10. Juli Vej 13,Christiansfeld,6070,3,126,1970,1300000.0,13-05-2009
+Skovrupvej 42,Christiansfeld,6070,7,226,1934,2435000.0,03-05-2009
+Allervej 146,Christiansfeld,6070,4,154,2010,330000.0,01-05-2009
+Seggelundvej 9,Christiansfeld,6070,6,149,1968,1175000.0,27-04-2009
+Præstegaardsvej 43,Christiansfeld,6070,5,99,1963,900000.0,17-04-2009
+Tjørnevænget 31,Christiansfeld,6070,4,135,1976,940000.0,08-04-2009
+Frederiksdalparken 4,Christiansfeld,6070,3,120,1977,1200000.0,07-04-2009
+Ravnbjerg 4,Christiansfeld,6070,10,293,1830,7455050.0,03-04-2009
+Nørregade 23,Christiansfeld,6070,3,109,1983,700000.0,01-04-2009
+Gl. Præstegårdsvej 11,Christiansfeld,6070,12,345,1899,1000000.0,30-03-2009
+Humlefægyde 30,Christiansfeld,6070,6,216,1937,1317500.0,29-03-2009
+Vestervang 23,Christiansfeld,6070,3,100,1962,1000000.0,17-03-2009
+Tjørnevænget 55,Christiansfeld,6070,3,93,1985,685000.0,24-02-2009
+Højrup Landevej 30,Christiansfeld,6070,3,98,1878,300000.0,18-02-2009
+Damgårdsparken 13,Christiansfeld,6070,5,124,1978,1275000.0,17-02-2009
+10. Februar Vej 2,Christiansfeld,6070,7,176,1968,1395000.0,14-02-2009
+Højrup Overskovvej 11,Christiansfeld,6070,9,284,1878,8172950.0,11-02-2009
+Birkevej 14A,Christiansfeld,6070,4,100,1965,735000.0,09-02-2009
+Bjerndrup Bygade 12,Christiansfeld,6070,8,198,1841,1933750.0,05-02-2009
+Hjerndrupvej 136A,Christiansfeld,6070,3,155,1980,1200000.0,30-01-2009
+Damgårdsparken 6,Christiansfeld,6070,5,139,1980,1350000.0,29-01-2009
+Taps Stationsvej 12,Christiansfeld,6070,5,120,1964,955000.0,15-01-2009
+Kampesmose 52,Christiansfeld,6070,6,140,2005,1960000.0,09-01-2009
+Bruhnsmindevej 5,Christiansfeld,6070,5,110,1921,410000.0,18-12-2008
+Vestergade 3,Christiansfeld,6070,3,84,1870,880000.0,16-12-2008
+Lindetoften 1,Christiansfeld,6070,4,120,2007,1206677.0,08-12-2008
+Christian X Vej 5,Christiansfeld,6070,4,154,1970,1395000.0,02-12-2008
+Nygade 16,Christiansfeld,6070,7,194,1967,1250000.0,24-11-2008
+Åbrinken 15,Christiansfeld,6070,6,135,1997,1695000.0,10-11-2008
+Steenbjerg 64,Christiansfeld,6070,5,156,2009,450000.0,31-10-2008
+Kampesmose 24,Christiansfeld,6070,5,121,2000,1825000.0,26-10-2008
+Tjørnevænget 57,Christiansfeld,6070,3,95,1985,700000.0,21-10-2008
+Kobberstedvej 4,Christiansfeld,6070,4,106,1970,925000.0,06-10-2008
+Tingskovhedevej 39,Christiansfeld,6070,7,168,1877,357716.0,24-09-2008
+Frederiksdalparken 50,Christiansfeld,6070,5,157,1976,1320000.0,18-09-2008
+Steenbjerg 46,Christiansfeld,6070,6,152,2009,450000.0,15-09-2008
+Frørup Landevej 18,Christiansfeld,6070,8,212,1937,1795000.0,03-09-2008
+Brabækvej 4,Christiansfeld,6070,4,133,1957,500000.0,01-09-2008
+Brabækvej 5,Christiansfeld,6070,6,158,1929,571712.0,01-09-2008
+Lindetoften 7,Christiansfeld,6070,4,98,2009,1460000.0,01-09-2008
+Genvej 3,Christiansfeld,6070,4,74,1955,900000.0,07-08-2008
+10. Juli Vej 2,Christiansfeld,6070,5,154,1969,1450000.0,04-08-2008
+Kongensgade 39,Christiansfeld,6070,7,220,1954,1450000.0,29-07-2008
+Damgårdsparken 34,Christiansfeld,6070,7,190,1979,1775000.0,28-07-2008
+Frederiksdalparken 60,Christiansfeld,6070,6,185,1977,847500.0,21-07-2008
+Kobberstedvej 64,Christiansfeld,6070,4,130,1913,800000.0,15-07-2008
+Gildesager 7,Christiansfeld,6070,4,117,1960,830000.0,11-07-2008
+Kær Møllevej 13,Christiansfeld,6070,8,213,1856,2350000.0,11-07-2008
+Aller Møllevej 39,Christiansfeld,6070,9,282,1886,93400.0,11-07-2008
+Koldingvej 181,Christiansfeld,6070,2,112,1927,925000.0,10-07-2008
+Kobbelvej 4,Christiansfeld,6070,5,170,1877,1250000.0,07-07-2008
+Skovhusevej 30,Christiansfeld,6070,7,243,1938,2895000.0,02-07-2008
+Ødisvej 39,Christiansfeld,6070,4,143,1929,1650000.0,28-06-2008
+Hjerndrupvej 147,Christiansfeld,6070,8,330,1840,13000000.0,23-06-2008
+Taps Stationsvej 9,Christiansfeld,6070,5,147,1926,2000000.0,23-06-2008
+Hjerndrupvej 140,Christiansfeld,6070,3,94,1900,800000.0,21-06-2008
+Steenbjerg 78,Christiansfeld,6070,5,192,2009,450000.0,15-06-2008
+Jomfrugang 5,Christiansfeld,6070,5,156,1930,895000.0,09-06-2008
+"Kongensgade 19, 1. TV",Christiansfeld,6070,2,52,1900,390000.0,05-06-2008
+Steenbjerg 48,Christiansfeld,6070,6,237,2010,450000.0,04-06-2008
+Bojskov Byvej 40,Christiansfeld,6070,9,190,1938,1176400.0,28-05-2008
+Kampesmose 35,Christiansfeld,6070,6,171,2007,977500.0,23-05-2008
+Kolstrup Bygade 4,Christiansfeld,6070,7,166,1960,525000.0,21-05-2008
+Lindetoften 3,Christiansfeld,6070,3,98,2008,1550000.0,20-05-2008
+Kongensgade 56,Christiansfeld,6070,6,157,1874,1295000.0,19-05-2008
+Steenbjerg 72,Christiansfeld,6070,5,160,2009,450000.0,17-05-2008
+Lindegade 10A,Christiansfeld,6070,2,47,1789,445000.0,16-05-2008
+Søndre Alle 21,Christiansfeld,6070,7,172,1947,1400000.0,13-05-2008
+Haderslevvej 39,Christiansfeld,6070,5,113,1956,895000.0,10-05-2008
+Fjællebrovej 49,Christiansfeld,6070,2,171,2009,500000.0,08-05-2008
+Mengvej 60,Christiansfeld,6070,4,182,2003,2225000.0,05-05-2008
+Lille Skovvej 5,Christiansfeld,6070,5,206,2010,100000.0,05-05-2008
+Langforte 64,Christiansfeld,6070,7,335,1855,7803478.0,03-05-2008
+Kolstrup Landevej 12,Christiansfeld,6070,6,192,1870,629873.0,29-04-2008
+Christian VII Vej 18,Christiansfeld,6070,6,186,1970,1540000.0,28-04-2008
+Kongensgade 59,Christiansfeld,6070,5,113,1951,1300000.0,12-04-2008
+Kampesmose 11,Christiansfeld,6070,4,165,2008,225280.0,11-04-2008
+Seggelundvej 4,Christiansfeld,6070,5,157,1967,1125000.0,11-04-2008
+Frørupvej 17,Christiansfeld,6070,5,151,1987,1525000.0,07-04-2008
+Frørup Landevej 34,Christiansfeld,6070,7,301,1856,6000000.0,06-04-2008
+Nørregade 4,Christiansfeld,6070,4,171,1777,1192971.0,05-04-2008
+Kolstrup Bygade 11,Christiansfeld,6070,5,247,1850,5047000.0,02-04-2008
+Hjerndrup Kirkevej 12,Christiansfeld,6070,4,93,1957,515000.0,01-04-2008
+N.J. Holms Park 47,Christiansfeld,6070,6,162,1976,1400000.0,17-03-2008
+Steenbjerg 70,Christiansfeld,6070,6,200,2009,451000.0,17-03-2008
+Lillegårdsvej 12,Christiansfeld,6070,6,148,1900,650000.0,14-03-2008
+Vestermosevej 12,Christiansfeld,6070,8,203,1972,14200000.0,03-03-2008
+Frørupvej 42,Christiansfeld,6070,7,210,1850,4300000.0,01-03-2008
+Lindetoften 4,Christiansfeld,6070,4,118,2008,1695000.0,25-02-2008
+Skovforte 10,Christiansfeld,6070,5,156,1936,2950000.0,18-02-2008
+Genvej 6,Christiansfeld,6070,3,112,1962,1145000.0,07-02-2008
+Vestervang 12,Christiansfeld,6070,3,97,1955,437005.0,04-02-2008
+Steenbjerg 74,Christiansfeld,6070,5,199,2009,450000.0,03-02-2008
+Haderslevvej 22A,Christiansfeld,6070,5,153,1987,1595000.0,31-01-2008
+Vestervang 25,Christiansfeld,6070,4,108,1965,1165000.0,25-01-2008
+Præstegaardsvej 45,Christiansfeld,6070,5,113,1963,1045000.0,24-01-2008
+Luneparken 42,Christiansfeld,6070,5,147,1998,2283099.0,22-01-2008
+Hjerndrup Landevej 24,Christiansfeld,6070,7,192,1927,1375000.0,18-01-2008
+Kongensgade 54,Christiansfeld,6070,4,116,1900,1375000.0,14-01-2008
+Banckesvej 16,Christiansfeld,6070,6,145,1966,775000.0,09-01-2008
+Domænevej 16,Christiansfeld,6070,5,205,1850,338774.0,20-12-2007
+Heisselvej 31,Christiansfeld,6070,7,224,1865,1865000.0,20-12-2007
+Kobberstedvej 3,Christiansfeld,6070,6,154,1963,765000.0,19-12-2007
+"Borgmestervej 13, 1. TH",Christiansfeld,6070,2,73,1972,595000.0,19-12-2007
+Skovrupvej 23,Christiansfeld,6070,7,185,1925,1430000.0,18-12-2007
+Ryttervej 5,Christiansfeld,6070,6,180,1850,360000.0,17-12-2007
+Ødisvej 122,Christiansfeld,6070,7,170,1937,300771.0,12-12-2007
+Langforte 46,Christiansfeld,6070,4,110,1967,995000.0,12-12-2007
+Bruhnsmindevej 3,Christiansfeld,6070,4,95,1877,595000.0,10-12-2007
+Kokær Søndervej 33,Christiansfeld,6070,6,150,1800,2057000.0,09-12-2007
+Præstegaardsvej 9,Christiansfeld,6070,3,97,1955,800000.0,26-11-2007
+Høgsgårdvej 5,Christiansfeld,6070,7,328,1852,19413539.0,20-11-2007
+Taps Stationsvej 11,Christiansfeld,6070,4,123,1974,800000.0,16-11-2007
+Felskovvej 5,Christiansfeld,6070,4,120,1857,1000000.0,15-11-2007
+Koldingvej 141,Christiansfeld,6070,5,156,1978,1300000.0,14-11-2007
+Bjerndrup Bygade 17,Christiansfeld,6070,4,160,1935,310250.0,13-11-2007
+Tingskovhedevej 26,Christiansfeld,6070,5,149,1903,470051.0,10-11-2007
+Steenbjerg 7,Christiansfeld,6070,5,153,2008,425000.0,09-11-2007
+"Lindegade 10, 1. TH",Christiansfeld,6070,3,106,1789,920000.0,06-11-2007
+Vestervang 29,Christiansfeld,6070,4,110,1965,1225000.0,06-11-2007
+Kampesmose 18,Christiansfeld,6070,6,210,1999,2800000.0,29-10-2007
+Lindegade 48A,Christiansfeld,6070,5,172,1783,2400000.0,26-10-2007
+Nørre Alle 6,Christiansfeld,6070,3,100,1966,830000.0,19-10-2007
+Vejstruprødvej 95,Christiansfeld,6070,3,78,1877,400000.0,07-10-2007
+Vojumvej 58,Christiansfeld,6070,8,231,1987,1225000.0,06-10-2007
+Højrup Landevej 8,Christiansfeld,6070,5,136,1931,650000.0,28-09-2007
+Steenbjerg 23,Christiansfeld,6070,5,169,2008,441300.0,24-09-2007
+Hjerndrupvej 128,Christiansfeld,6070,6,178,2008,337500.0,17-09-2007
+Steenbjerg 5,Christiansfeld,6070,5,153,2008,425000.0,12-09-2007
+Ødisvej 23,Christiansfeld,6070,6,220,1971,1800000.0,11-09-2007
+Steenbjerg 17,Christiansfeld,6070,5,164,2008,487000.0,10-09-2007
+Banckesvej 9,Christiansfeld,6070,4,121,1968,1575000.0,07-09-2007
+"Borgmestervej 11, ST. TH",Christiansfeld,6070,2,73,1972,565000.0,04-09-2007
+Højrup Overskovvej 1,Christiansfeld,6070,3,295,1887,2550000.0,30-08-2007
+Hjerndrupvej 137,Christiansfeld,6070,4,118,1933,795000.0,30-08-2007
+Steenbjerg 15,Christiansfeld,6070,5,182,2008,425000.0,29-08-2007
+Nørre Alle 11,Christiansfeld,6070,4,120,1960,495000.0,27-08-2007
+Højgårdvej 5,Christiansfeld,6070,3,75,1960,520000.0,23-08-2007
+Vestergade 24,Christiansfeld,6070,3,112,1968,845000.0,22-08-2007
+Lindetoften 6,Christiansfeld,6070,3,98,2008,1425000.0,22-08-2007
+Spangvej 11,Christiansfeld,6070,8,221,1944,1225000.0,10-08-2007
+Birkevej 17,Christiansfeld,6070,4,141,1964,630000.0,10-08-2007
+Hjerndrupvej 168,Christiansfeld,6070,4,102,1947,650000.0,03-08-2007
+Birkevej 37,Christiansfeld,6070,4,145,1958,1270000.0,30-07-2007
+Luneparken 5,Christiansfeld,6070,4,127,1999,1945000.0,13-07-2007
+Brosbjergvej 15,Christiansfeld,6070,4,130,1972,1495000.0,06-07-2007
+Lindetoften 2,Christiansfeld,6070,3,98,2008,1425000.0,04-07-2007
+Gildesager 15,Christiansfeld,6070,7,126,1954,757000.0,28-06-2007
+Hjerndrup Landevej 36,Christiansfeld,6070,5,163,1927,700000.0,26-06-2007
+N.J. Holms Park 25,Christiansfeld,6070,6,181,1975,1725000.0,21-06-2007
+Staalsvej 6,Christiansfeld,6070,4,176,1968,1925000.0,21-06-2007
+Frørupvej 15,Christiansfeld,6070,7,230,1987,1945000.0,20-06-2007
+Taps Stationsvej 6,Christiansfeld,6070,5,180,1963,1498000.0,15-06-2007
+Damgårdsparken 31,Christiansfeld,6070,4,124,1978,1480000.0,11-06-2007
+Nørregade 21,Christiansfeld,6070,7,244,2000,1615000.0,06-06-2007
+Banckesvej 7,Christiansfeld,6070,3,118,1967,1162500.0,29-05-2007
+Kongensgade 32,Christiansfeld,6070,7,122,1950,950000.0,25-05-2007
+Seggelund Hovedvej 52,Christiansfeld,6070,5,154,1858,1200000.0,23-05-2007
+Industrivej 30,Christiansfeld,6070,7,161,1989,2200000.0,10-05-2007
+Åbrinken 6,Christiansfeld,6070,4,152,1973,1300000.0,10-05-2007
+Nygade 4,Christiansfeld,6070,4,110,1965,600000.0,03-05-2007
+"Lindegade 10, ST. TH",Christiansfeld,6070,3,66,1789,670000.0,03-05-2007
+Hjerndrupvej 49,Christiansfeld,6070,6,210,1856,2385000.0,30-04-2007
+Kongensgade 73,Christiansfeld,6070,4,118,1929,1475000.0,18-04-2007
+Frørupvej 21,Christiansfeld,6070,3,152,1893,945000.0,13-04-2007
+Tjørnevænget 33,Christiansfeld,6070,8,204,1977,1375000.0,10-04-2007
+Præstegaardsvej 28,Christiansfeld,6070,4,100,1959,825000.0,04-04-2007
+Højgårdvej 6,Christiansfeld,6070,11,244,1872,1700000.0,29-03-2007
+Frørupvej 29,Christiansfeld,6070,5,120,1877,745000.0,26-03-2007
+Kærfort 25,Christiansfeld,6070,9,263,1948,2275000.0,23-03-2007
+Kampesmose 27,Christiansfeld,6070,5,162,2008,325000.0,22-03-2007
+Rudevej 58,Christiansfeld,6070,6,145,1880,951000.0,19-03-2007
+Favstrupvej 26,Christiansfeld,6070,6,199,2005,3400000.0,18-03-2007
+Åstorpvej 118,Christiansfeld,6070,4,122,1952,1350000.0,18-03-2007
+Højrup Landevej 37,Christiansfeld,6070,4,172,1903,830000.0,07-03-2007
+Haderslevvej 2,Christiansfeld,6070,5,164,1932,2495000.0,28-02-2007
+Museumsgade 7,Christiansfeld,6070,8,180,1794,1400000.0,28-02-2007
+Frejasvej 17,Christiansfeld,6070,4,138,1974,1615000.0,27-02-2007
+Haderslevvej 15,Christiansfeld,6070,6,132,1877,1435000.0,23-02-2007
+Frørupvej 26,Christiansfeld,6070,4,132,1970,930000.0,14-02-2007
+Luneparken 21,Christiansfeld,6070,5,146,1982,1570000.0,06-02-2007
+Anderup Skovvej 67,Christiansfeld,6070,4,140,2015,1564000.0,05-02-2007
+Koldingvej 76,Christiansfeld,6070,3,130,1917,1145000.0,05-02-2007
+Hjerndrup Landevej 2,Christiansfeld,6070,6,160,1939,1500000.0,28-01-2007
+Præstegaardsvej 7,Christiansfeld,6070,3,97,1955,800000.0,25-01-2007
+Favstrupvej 7,Christiansfeld,6070,4,125,1939,357000.0,24-01-2007
+Gildesager 34,Christiansfeld,6070,6,149,1971,1585000.0,19-01-2007
+Kær Møllevej 36,Christiansfeld,6070,4,112,1777,675000.0,19-01-2007
+Forbindelsesvejen 9,Christiansfeld,6070,9,316,1858,4507400.0,18-01-2007
+Vestervang 6,Christiansfeld,6070,3,97,1955,765000.0,18-01-2007
+Vestervang 8,Christiansfeld,6070,3,97,1955,800000.0,10-01-2007
+Rudevej 10,Christiansfeld,6070,7,172,2001,150000.0,01-01-2007
+Luneparken 8,Christiansfeld,6070,7,185,1988,2100000.0,01-01-2007
+Bojskov Byvej 31,Christiansfeld,6070,7,170,1877,430000.0,20-12-2006
+Kokærvej 71,Christiansfeld,6070,7,156,1887,865000.0,19-12-2006
+Kampesmose 5,Christiansfeld,6070,5,147,2008,252780.0,18-12-2006
+Præstegaardsvej 31,Christiansfeld,6070,5,108,1963,700000.0,15-12-2006
+Nygade 8,Christiansfeld,6070,6,137,1965,1095000.0,22-11-2006
+Gl. Kongevej 6,Christiansfeld,6070,5,180,1963,1525000.0,21-11-2006
+Holbækgårdvej 2,Christiansfeld,6070,8,229,1858,2900000.0,04-11-2006
+Kongensgade 72,Christiansfeld,6070,5,84,1945,800000.0,30-10-2006
+Nørregade 22,Christiansfeld,6070,6,148,1929,1465000.0,25-10-2006
+N.J. Holms Park 29,Christiansfeld,6070,5,142,1976,1535000.0,23-10-2006
+Torningvej 12,Christiansfeld,6070,5,120,1967,518500.0,21-10-2006
+Torningvej 14,Christiansfeld,6070,14,315,1859,7651000.0,21-10-2006
+Vejstruprødvej 116,Christiansfeld,6070,4,120,1887,660000.0,19-10-2006
+Kobbelvej 9,Christiansfeld,6070,4,100,1827,350000.0,10-10-2006
+Lillevej 2,Christiansfeld,6070,4,127,1923,935000.0,09-10-2006
+Christiansfeldvej 13,Christiansfeld,6070,4,100,1955,1294021.0,06-10-2006
+Enevoldsvej 24,Christiansfeld,6070,6,181,1857,3600000.0,03-10-2006
+Kongensgade 23,Christiansfeld,6070,4,141,1937,1595000.0,01-10-2006
+Birkevej 3,Christiansfeld,6070,4,108,1958,927500.0,29-09-2006
+Allervej 140,Christiansfeld,6070,4,170,1969,1150000.0,29-09-2006
+Frørupvej 32,Christiansfeld,6070,4,109,1880,495000.0,27-09-2006
+Odinsvej 13,Christiansfeld,6070,4,129,1972,1039000.0,21-09-2006
+Nørregade 20,Christiansfeld,6070,4,87,1951,1435000.0,07-09-2006
+Tjørnevænget 15,Christiansfeld,6070,4,146,1979,550000.0,28-08-2006
+Frørupvej 2,Christiansfeld,6070,6,183,1927,1092000.0,25-08-2006
+Koldingvej 122,Christiansfeld,6070,8,220,1950,1000000.0,25-08-2006
+Favstrupvej 3,Christiansfeld,6070,3,73,1947,800000.0,18-08-2006
+Gildesager 11,Christiansfeld,6070,6,147,1959,1340000.0,16-08-2006
+"Borgmestervej 7, 1. TH",Christiansfeld,6070,4,103,1970,650000.0,10-08-2006
+Heisselvej 14,Christiansfeld,6070,4,165,1800,775000.0,28-07-2006
+Koldingvej 82,Christiansfeld,6070,11,250,1920,1200000.0,18-07-2006
+Domænevej 1,Christiansfeld,6070,5,142,1964,400000.0,18-07-2006
+Skovvænget 7,Christiansfeld,6070,4,126,1963,1100000.0,13-07-2006
+Kolstrup Landevej 37,Christiansfeld,6070,5,131,1890,40000.0,10-07-2006
+Tapsøre Vestergade 5,Christiansfeld,6070,5,184,1921,1135000.0,05-07-2006
+Frørup Landevej 8,Christiansfeld,6070,9,381,1930,824500.0,29-06-2006
+Stubbum Landevej 64,Christiansfeld,6070,8,250,1886,4505600.0,28-06-2006
+Christiansfeldvej 40,Christiansfeld,6070,8,284,1910,1265300.0,25-06-2006
+Tjørnevænget 19,Christiansfeld,6070,4,114,1977,975000.0,21-06-2006
+Kampesmose 15,Christiansfeld,6070,7,169,2007,235620.0,19-06-2006
+Gl. Kongevej 15,Christiansfeld,6070,4,168,2007,800000.0,14-06-2006
+Højskovgårdvej 25,Christiansfeld,6070,6,196,1860,545480.0,12-06-2006
+Kampesmose 13,Christiansfeld,6070,6,153,2007,225060.0,07-06-2006
+N.J. Holms Park 21,Christiansfeld,6070,5,171,1974,1510000.0,06-06-2006
+Skovvænget 16,Christiansfeld,6070,4,105,1964,1165000.0,28-05-2006
+Kampesmose 2,Christiansfeld,6070,6,148,2007,164500.0,24-05-2006
+Frejasvej 12,Christiansfeld,6070,4,163,1974,1170000.0,24-05-2006
+N.J. Holms Park 4,Christiansfeld,6070,6,150,1976,1150000.0,23-05-2006
+Vestervang 4,Christiansfeld,6070,3,97,1955,300000.0,22-05-2006
+Favstrupvej 24,Christiansfeld,6070,6,131,1997,1600000.0,19-05-2006
+Vestervang 3,Christiansfeld,6070,2,62,1961,310000.0,19-05-2006
+Hjerndrup Landevej 28,Christiansfeld,6070,5,184,1927,1250000.0,18-05-2006
+Kampesmose 3,Christiansfeld,6070,5,154,2007,233640.0,16-05-2006
+Luneparken 56,Christiansfeld,6070,7,176,1997,1850000.0,15-05-2006
+Skovrupvej 20,Christiansfeld,6070,6,145,1935,800000.0,11-05-2006
+Præstegaardsvej 18,Christiansfeld,6070,3,85,1953,885000.0,08-05-2006
+Ødisvej 21,Christiansfeld,6070,7,150,1935,558140.0,07-05-2006
+"Lindegade 10, 2",Christiansfeld,6070,2,98,1789,660000.0,29-04-2006
+Kampesmose 9,Christiansfeld,6070,6,156,2007,203280.0,26-04-2006
+Kampesmose 19,Christiansfeld,6070,5,155,2006,195800.0,25-04-2006
+Højgårdvej 9,Christiansfeld,6070,10,285,1850,3600000.0,22-04-2006
+Allervej 137,Christiansfeld,6070,9,209,1904,1150000.0,21-04-2006
+Haderslevvej 46,Christiansfeld,6070,5,201,1861,853322.0,12-04-2006
+Kolstrup Landevej 35,Christiansfeld,6070,4,223,2008,335755.0,29-03-2006
+Ødisvej 10,Christiansfeld,6070,3,80,1964,485000.0,24-03-2006
+Kampesmose 39,Christiansfeld,6070,6,157,2007,198000.0,15-03-2006
+"Nørregade 10, 1",Christiansfeld,6070,4,116,1800,740000.0,15-03-2006
+Haderslevvej 47,Christiansfeld,6070,5,144,1868,877500.0,14-03-2006
+Heisselvej 11,Christiansfeld,6070,6,155,1827,1085000.0,14-03-2006
+Frederiksdalparken 9,Christiansfeld,6070,4,168,1977,1595000.0,06-03-2006
+Kongensgade 93,Christiansfeld,6070,4,119,1946,785000.0,23-02-2006
+Kampesmose 46,Christiansfeld,6070,7,204,2007,287040.0,23-02-2006
+Seggelund Hovedvej 51,Christiansfeld,6070,4,103,1938,595000.0,17-02-2006
+Bruhnsmindevej 2,Christiansfeld,6070,5,151,1900,835000.0,13-02-2006
+Skovrødvej 1,Christiansfeld,6070,5,100,1827,325000.0,04-02-2006
+Torningvej 32,Christiansfeld,6070,5,126,1940,6520.0,30-01-2006
+Bojskov Byvej 30,Christiansfeld,6070,6,169,1952,3000000.0,24-01-2006
+Kampesmose 54,Christiansfeld,6070,6,142,2006,179144.0,17-01-2006
+Haderslevvej 34,Christiansfeld,6070,6,250,1877,1500000.0,12-01-2006
+Hjerndrupvej 110,Christiansfeld,6070,5,180,1924,900000.0,11-01-2006
+Kobbelvej 5,Christiansfeld,6070,3,124,1827,445000.0,10-01-2006
+Frørupvej 38,Christiansfeld,6070,3,107,1910,400000.0,09-01-2006
+Tingskovhedevej 20,Christiansfeld,6070,3,106,1900,350000.0,02-01-2006
+Tågerupvej 25,Christiansfeld,6070,4,171,1927,885000.0,16-12-2005
+Koldingvej 175,Christiansfeld,6070,7,210,1935,1250000.0,16-12-2005
+Stubbumgårdvej 15,Christiansfeld,6070,4,90,1964,500000.0,07-12-2005
+Stubbumgårdvej 17,Christiansfeld,6070,7,322,1890,12000000.0,07-12-2005
+Kongensgade 1,Christiansfeld,6070,8,180,1928,1775000.0,03-12-2005
+Kongensgade 61,Christiansfeld,6070,4,112,1900,885000.0,03-12-2005
+Seggelund Hovedvej 50,Christiansfeld,6070,7,222,1928,557487.0,22-11-2005
+Jomfruled 1,Christiansfeld,6070,4,138,1961,1050000.0,15-11-2005
+Frørupvej 24,Christiansfeld,6070,4,213,2008,775411.0,09-11-2005
+Taps Stationsvej 14,Christiansfeld,6070,4,102,1964,819042.0,04-11-2005
+Bojskov Byvej 25,Christiansfeld,6070,5,118,1827,350000.0,01-11-2005
+Nørre Alle 7,Christiansfeld,6070,6,200,1932,848750.0,26-10-2005
+Toftegårdsvej 40,Christiansfeld,6070,4,131,1917,690000.0,24-10-2005
+Hjerndrup Nørrevej 10,Christiansfeld,6070,3,112,1900,730000.0,08-10-2005
+Torningvej 25,Christiansfeld,6070,7,142,1940,1110000.0,06-10-2005
+Dahlsvænget 23,Christiansfeld,6070,6,208,2007,63600.0,29-09-2005
+Møllegade 1,Christiansfeld,6070,6,112,1907,637500.0,29-09-2005
+Birkevej 13,Christiansfeld,6070,4,146,1964,992000.0,28-09-2005
+Kampesmose 34,Christiansfeld,6070,5,147,2006,165228.0,26-09-2005
+Kongensgade 35,Christiansfeld,6070,6,134,1933,1095000.0,26-09-2005
+Koldingvej 119,Christiansfeld,6070,4,97,1964,880000.0,20-09-2005
+Borgmestervej 10,Christiansfeld,6070,5,155,1972,1350000.0,15-09-2005
+Frørup Landevej 19,Christiansfeld,6070,5,144,1938,585000.0,09-09-2005
+Frejasvej 8,Christiansfeld,6070,5,158,1973,1200000.0,07-09-2005
+Åstorpvej 111,Christiansfeld,6070,4,115,1969,860000.0,05-09-2005
+"Kongensgade 20, 1",Christiansfeld,6070,6,105,1956,1075000.0,05-09-2005
+Åbrinken 4,Christiansfeld,6070,4,145,1975,1250000.0,05-09-2005
+Åstorpvej 107,Christiansfeld,6070,4,130,1800,785000.0,01-09-2005
+Seggelundvej 12,Christiansfeld,6070,8,291,1777,595000.0,31-08-2005
+Dahlsvænget 19,Christiansfeld,6070,5,116,2006,98750.0,24-08-2005
+Koldingvej 111,Christiansfeld,6070,3,92,1909,540000.0,24-08-2005
+Favstrupvej 2,Christiansfeld,6070,7,173,1942,441982.0,18-08-2005
+Dahlsvænget 4,Christiansfeld,6070,4,97,1981,885000.0,17-08-2005
+Vestermosevej 13,Christiansfeld,6070,11,300,1914,2200000.0,17-08-2005
+Jomfrugang 7,Christiansfeld,6070,3,76,1877,566679.0,14-08-2005
+Dahlsvænget 13A,Christiansfeld,6070,4,170,2005,1595000.0,12-08-2005
+Møllegade 2,Christiansfeld,6070,4,138,1912,1350000.0,08-08-2005
+Åstorpvej 101,Christiansfeld,6070,5,168,1901,1676000.0,26-07-2005
+Nørregade 24,Christiansfeld,6070,6,154,1900,760000.0,25-07-2005
+Kampesmose 28,Christiansfeld,6070,6,132,2006,158900.0,18-07-2005
+Humlefægyde 18,Christiansfeld,6070,6,254,1827,1400000.0,14-07-2005
+Kampesmose 48,Christiansfeld,6070,4,148,2003,1848000.0,14-07-2005
+Seggelundvej 19,Christiansfeld,6070,4,120,1800,1060000.0,12-07-2005
+Thorsvej 17,Christiansfeld,6070,5,158,1972,1175000.0,11-07-2005
+Rudevej 14,Christiansfeld,6070,8,243,1977,1750000.0,10-07-2005
+Ødisvej 69,Christiansfeld,6070,7,171,1891,470000.0,06-07-2005
+Langforte 32,Christiansfeld,6070,11,330,1867,3422600.0,04-07-2005
+Bojskov Byvej 39,Christiansfeld,6070,9,156,1777,845000.0,30-06-2005
+Kær Møllevej 5,Christiansfeld,6070,11,426,1873,1990000.0,25-06-2005
+Nørre Alle 36,Christiansfeld,6070,4,96,1955,750000.0,23-06-2005
+Stagagervej 2,Christiansfeld,6070,6,170,1877,850000.0,23-06-2005
+Luneparken 16,Christiansfeld,6070,6,172,1986,1465000.0,17-06-2005
+Haderslevvej 38,Christiansfeld,6070,4,100,1947,650000.0,16-06-2005
+Koldingvej 74,Christiansfeld,6070,6,177,1908,590000.0,16-06-2005
+Haderslevvej 36,Christiansfeld,6070,4,90,1948,685000.0,09-06-2005
+Frørup Landevej 36,Christiansfeld,6070,9,296,1841,1080000.0,07-06-2005
+Kongensgade 69,Christiansfeld,6070,5,188,1900,1220000.0,06-06-2005
+Langforte 54,Christiansfeld,6070,10,378,1847,1775000.0,02-06-2005
+Langforte 42,Christiansfeld,6070,4,119,1885,695000.0,01-06-2005
+Kampesmose 38,Christiansfeld,6070,4,145,2004,1980000.0,27-05-2005
+Frørup Østervej 2,Christiansfeld,6070,7,205,1992,2225000.0,26-05-2005
+Haderslevvej 19,Christiansfeld,6070,3,108,1877,590000.0,23-05-2005
+Frederiksdalparken 16,Christiansfeld,6070,5,148,1977,1495000.0,23-05-2005
+Christian VII Vej 2,Christiansfeld,6070,6,204,1969,1300000.0,13-05-2005
+Gl. Præstegårdsvej 8,Christiansfeld,6070,3,120,1840,1030000.0,13-05-2005
+Allervej 156,Christiansfeld,6070,5,121,1932,1075000.0,09-05-2005
+Nørreskovvej 2,Christiansfeld,6070,4,78,1827,365750.0,02-05-2005
+Ødisvej 28,Christiansfeld,6070,4,104,1900,725000.0,01-05-2005
+Nørre Alle 32,Christiansfeld,6070,3,94,1840,760000.0,28-04-2005
+Damgårdsparken 17,Christiansfeld,6070,6,196,1979,1275000.0,26-04-2005
+Kampesmose 33,Christiansfeld,6070,7,181,2006,193140.0,04-04-2005
+Kampesmose 31,Christiansfeld,6070,6,161,2006,191400.0,02-04-2005
+Luneparken 4,Christiansfeld,6070,6,192,1989,1400000.0,01-04-2005
+Kampesmose 23,Christiansfeld,6070,7,190,2005,263425.0,31-03-2005
+Kampesmose 32,Christiansfeld,6070,7,176,2005,169505.0,31-03-2005
+Kampesmose 25,Christiansfeld,6070,7,187,2006,242420.0,28-03-2005
+Bjerndrupgårdvej 14,Christiansfeld,6070,6,235,1777,3240000.0,23-03-2005
+Haderslevvej 45A,Christiansfeld,6070,5,148,1975,1035000.0,22-03-2005
+Jomfrugang 3,Christiansfeld,6070,10,211,1745,1300000.0,21-03-2005
+Bruhnsmindevej 1,Christiansfeld,6070,5,132,1898,475000.0,15-03-2005
+Koldingvej 66,Christiansfeld,6070,5,139,1905,757000.0,11-03-2005
+Christian VII Vej 12,Christiansfeld,6070,4,132,1967,875000.0,03-03-2005
+Kongensgade 89,Christiansfeld,6070,3,105,1880,545000.0,03-03-2005
+Kongensgade 17,Christiansfeld,6070,7,230,1882,575000.0,02-03-2005
+Haderslevvej 16,Christiansfeld,6070,8,184,1902,700000.0,28-02-2005
+Brabækvej 2,Christiansfeld,6070,3,99,1940,330000.0,23-02-2005
+Damgårdsparken 61,Christiansfeld,6070,5,131,1978,915000.0,22-02-2005
+Seggelund Hovedvej 2,Christiansfeld,6070,12,305,1900,2720000.0,18-02-2005
+Bruhnsmindevej 13,Christiansfeld,6070,4,137,1917,1147500.0,04-02-2005
+Damgårdsparken 9,Christiansfeld,6070,6,165,1978,1045000.0,01-02-2005
+Tøndervej 23,Christiansfeld,6070,6,205,1912,1000000.0,10-01-2005
+"Borgmestervej 5, ST. TV",Christiansfeld,6070,2,73,1970,400000.0,03-01-2005
+"Kongensgade 19, ST. TV",Christiansfeld,6070,2,70,1900,480947.0,23-12-2004
+"Kongensgade 19, ST. TH",Christiansfeld,6070,3,68,1900,359697.0,23-12-2004
+"Kongensgade 19, 1. TH",Christiansfeld,6070,2,57,1900,338390.0,23-12-2004
+Koldingvej 137,Christiansfeld,6070,2,100,1912,329936.0,23-12-2004
+Seggelund Hovedvej 15,Christiansfeld,6070,6,153,1948,560000.0,22-12-2004
+Frejasvej 9,Christiansfeld,6070,4,141,1973,995000.0,22-12-2004
+"Borgmestervej 5, 1. TH",Christiansfeld,6070,3,85,1970,450000.0,11-12-2004
+Frørupvej 40,Christiansfeld,6070,4,110,1850,480000.0,06-12-2004
+Tapsøre Vestergade 13,Christiansfeld,6070,5,150,1900,600000.0,06-12-2004
+Lillevej 4,Christiansfeld,6070,6,180,1862,1150000.0,30-11-2004
+Kampesmose 4,Christiansfeld,6070,5,145,2005,175000.0,30-11-2004
+Koldingvej 145,Christiansfeld,6070,5,138,1907,530000.0,26-11-2004
+Seggelundvej 110,Christiansfeld,6070,5,145,1928,694116.0,24-11-2004
+Kampesmose 56,Christiansfeld,6070,6,165,2006,203840.0,23-11-2004
+N.J. Holms Park 10,Christiansfeld,6070,5,117,1975,965000.0,22-11-2004
+Stubbumgårdvej 5,Christiansfeld,6070,6,177,1979,1200000.0,12-11-2004
+Seggelund Hovedvej 70,Christiansfeld,6070,5,131,1929,900000.0,29-10-2004
+Damgårdsparken 69,Christiansfeld,6070,8,194,1978,1475000.0,28-10-2004
+Stenskrovej 3,Christiansfeld,6070,5,242,1907,860000.0,18-10-2004
+Haderslevvej 14,Christiansfeld,6070,5,197,1897,800000.0,11-10-2004
+Søndre Alle 28,Christiansfeld,6070,4,96,1937,645000.0,10-10-2004
+Hjerndrupvej 130,Christiansfeld,6070,7,208,1930,1100000.0,07-10-2004
+Frørup Landevej 16,Christiansfeld,6070,5,131,1877,1105000.0,07-10-2004
+Favstrupvej 30,Christiansfeld,6070,10,232,1997,469480.0,05-10-2004
+Frederiksdalparken 17,Christiansfeld,6070,4,149,1977,900000.0,30-09-2004
+Tjørnevænget 65,Christiansfeld,6070,6,180,2006,61550.0,10-09-2004
+Nygade 11,Christiansfeld,6070,5,130,1960,735000.0,30-08-2004
+Kampesmose 6,Christiansfeld,6070,7,175,2006,179375.0,18-08-2004
+Luneparken 2,Christiansfeld,6070,5,145,1987,1350000.0,05-08-2004
+Langforte 124,Christiansfeld,6070,4,104,1966,635000.0,04-08-2004
+Langforte 110,Christiansfeld,6070,7,196,1967,775000.0,28-07-2004
+Koldingvej 106,Christiansfeld,6070,2,108,1870,200000.0,27-07-2004
+Præstegaardsvej 21,Christiansfeld,6070,5,99,1963,690000.0,23-07-2004
+Favrvrå Bygade 5,Christiansfeld,6070,8,200,1870,3067000.0,24-06-2004
+Gl. Kongevej 13,Christiansfeld,6070,4,108,1627,355315.0,22-06-2004
+N.J. Holms Park 24,Christiansfeld,6070,5,160,1976,1400000.0,17-06-2004
+Luneparken 12,Christiansfeld,6070,6,177,1985,1452500.0,14-06-2004
+Højrup Landevej 22,Christiansfeld,6070,3,92,1870,600000.0,07-06-2004
+Terkeltoft 2,Christiansfeld,6070,3,70,1956,328500.0,19-05-2004
+Kær Møllevej 11,Christiansfeld,6070,6,184,1969,765000.0,16-05-2004
+Lillegårdsvej 3,Christiansfeld,6070,9,174,1854,775000.0,06-05-2004
+Luneparken 40,Christiansfeld,6070,5,148,1996,1245000.0,29-04-2004
+Kongevej 30,Christiansfeld,6070,7,304,2005,250000.0,28-04-2004
+Frørup Landevej 27,Christiansfeld,6070,10,351,1920,1875000.0,17-04-2004
+Haderslevvej 28,Christiansfeld,6070,4,96,1961,670000.0,05-04-2004
+Krogagervej 12,Christiansfeld,6070,6,152,1827,540000.0,31-03-2004
+Blindgyden 6,Christiansfeld,6070,3,182,1887,820000.0,30-03-2004
+Heisselvej 16,Christiansfeld,6070,5,143,1827,1100000.0,25-03-2004
+Taps Stationsvej 17,Christiansfeld,6070,4,125,1956,700000.0,25-03-2004
+Birkevej 15,Christiansfeld,6070,5,138,1964,750000.0,23-03-2004
+N.J. Holms Park 49,Christiansfeld,6070,7,156,1976,900000.0,25-02-2004
+Rudevej 3,Christiansfeld,6070,14,241,1913,650000.0,28-01-2004
+Hvinderupvej 3,Christiansfeld,6070,8,378,1855,10527917.0,28-01-2004
+10. Juli Vej 17,Christiansfeld,6070,4,121,1969,875000.0,15-01-2004
+Frejasvej 6,Christiansfeld,6070,4,160,1973,1050000.0,30-12-2003
+Torning Møllevej 24,Christiansfeld,6070,7,195,1877,295000.0,20-12-2003
+Hjerndrup Stadsvej 31,Christiansfeld,6070,13,300,1927,435000.0,17-12-2003
+Frejasvej 4,Christiansfeld,6070,6,170,1973,1075000.0,02-12-2003
+Sønderskovvej 9,Christiansfeld,6070,3,98,1890,356000.0,28-11-2003
+Koldingvej 50,Christiansfeld,6070,4,95,1965,675000.0,27-11-2003
+Vestergade 22,Christiansfeld,6070,4,106,1966,275000.0,18-11-2003
+Frørup Landevej 22,Christiansfeld,6070,7,202,1949,810000.0,11-11-2003
+Haderslevvej 55,Christiansfeld,6070,5,172,1934,940000.0,08-11-2003
+Koldingvej 5,Christiansfeld,6070,7,138,1852,1250000.0,04-11-2003
+Frejasvej 25,Christiansfeld,6070,6,190,1974,1205000.0,01-11-2003
+Langforte 43,Christiansfeld,6070,7,210,1860,2450000.0,24-10-2003
+Christiansfeldvej 8,Christiansfeld,6070,4,140,2003,28800.0,24-10-2003
+Ødisvej 140,Christiansfeld,6070,12,333,1862,3900000.0,15-10-2003
+Damgårdsparken 26,Christiansfeld,6070,5,140,1980,900000.0,09-10-2003
+Høgsgårdvej 1,Christiansfeld,6070,4,125,1985,700000.0,09-10-2003
+"Borgmestervej 9, ST. TV",Christiansfeld,6070,2,73,1972,470000.0,02-10-2003
+Christiansfeldvej 15,Christiansfeld,6070,6,128,1948,330000.0,30-09-2003
+Torningvej 30,Christiansfeld,6070,4,210,1948,1110000.0,22-09-2003
+Luneparken 18,Christiansfeld,6070,5,137,1986,1070000.0,14-09-2003
+Damgårdsparken 83,Christiansfeld,6070,6,150,1977,1095000.0,12-09-2003
+Skovrupvej 56,Christiansfeld,6070,4,132,1935,1400000.0,11-09-2003
+Kolstrup Landevej 47,Christiansfeld,6070,11,320,1777,938398.0,10-09-2003
+Hjerndrupvej 158,Christiansfeld,6070,4,98,1947,682329.0,08-09-2003
+Frørupvej 28,Christiansfeld,6070,5,106,1900,285000.0,21-08-2003
+Koldingvej 157,Christiansfeld,6070,5,187,1900,625000.0,31-07-2003
+Carstensvej 3,Christiansfeld,6070,3,107,1969,725000.0,31-07-2003
+Favstrupvej 50,Christiansfeld,6070,5,166,1945,1150000.0,30-07-2003
+Favstrupvej 95,Christiansfeld,6070,8,180,1827,1299000.0,29-07-2003
+Langforte 50,Christiansfeld,6070,8,177,1876,541500.0,28-07-2003
+Søndre Alle 43,Christiansfeld,6070,4,130,1877,220000.0,11-07-2003
+Kongensgade 52,Christiansfeld,6070,3,110,1944,570000.0,03-07-2003
+Bojskov Byvej 22,Christiansfeld,6070,14,400,1844,9456000.0,20-06-2003
+Vestergade 18,Christiansfeld,6070,7,176,1966,752000.0,20-06-2003
+Nygade 12,Christiansfeld,6070,4,102,1965,565000.0,13-06-2003
+Gl. Allervej 19,Christiansfeld,6070,8,227,1965,451129.0,03-06-2003
+Vestergade 12,Christiansfeld,6070,7,192,1795,1180000.0,27-05-2003
+Luneparken 28,Christiansfeld,6070,5,166,1997,1430000.0,07-05-2003
+Haderslevvej 17,Christiansfeld,6070,2,87,1870,425000.0,29-04-2003
+Smedeholmsvej 7,Christiansfeld,6070,6,108,1860,297500.0,29-04-2003
+Ødisvej 7,Christiansfeld,6070,5,198,1971,309678.0,29-04-2003
+Vadsbrovej 30,Christiansfeld,6070,5,171,1857,397521.0,25-04-2003
+Taps Stationsvej 13,Christiansfeld,6070,7,291,1910,825000.0,23-04-2003
+Kampesmose 42,Christiansfeld,6070,4,143,2004,167972.0,20-04-2003
+Højrup Landevej 2,Christiansfeld,6070,5,141,1950,1050000.0,15-04-2003
+Skovrup Nørrevej 20,Christiansfeld,6070,4,80,1936,580000.0,13-04-2003
+N.J. Holms Park 33,Christiansfeld,6070,5,178,1976,1325000.0,08-04-2003
+Ødisvej 126,Christiansfeld,6070,5,99,1887,400000.0,06-04-2003
+Tapsøre Vestergade 1,Christiansfeld,6070,5,174,1927,448496.0,06-04-2003
+Åstorpvej 89,Christiansfeld,6070,6,265,1857,1275000.0,31-03-2003
+Buen 7,Christiansfeld,6070,8,213,1877,850000.0,28-03-2003
+Bjerndrup Landevej 23,Christiansfeld,6070,6,117,1914,133000.0,13-03-2003
+Hjerndrupvej 162,Christiansfeld,6070,4,97,1947,350000.0,05-03-2003
+Aller Møllevej 40,Christiansfeld,6070,4,150,1965,570000.0,25-02-2003
+Anderup Skovvej 47,Christiansfeld,6070,10,250,1972,870000.0,22-02-2003
+Rudevej 50,Christiansfeld,6070,7,245,1845,1215000.0,05-02-2003
+Allervej 138,Christiansfeld,6070,4,130,1943,350000.0,03-02-2003
+Kongensgade 77,Christiansfeld,6070,8,204,1928,1035000.0,02-02-2003
+Stubbumgårdvej 23,Christiansfeld,6070,7,145,1688,316716.0,22-01-2003
+Birkevej 34,Christiansfeld,6070,3,100,1965,732513.0,13-01-2003
+Anderup Skovvej 66,Christiansfeld,6070,8,263,1877,170000.0,07-01-2003
+Kokærvej 90,Christiansfeld,6070,7,288,1999,5100000.0,23-12-2002
+N.J. Holms Park 1,Christiansfeld,6070,6,152,1975,543750.0,19-12-2002
+Odinsvej 11,Christiansfeld,6070,5,160,1972,985000.0,13-12-2002
+Damgårdsparken 56,Christiansfeld,6070,5,135,1980,483314.0,12-12-2002
+Langforte 72,Christiansfeld,6070,7,173,1940,895000.0,10-12-2002
+Frederiksdalparken 7,Christiansfeld,6070,6,177,1976,940000.0,26-11-2002
+Staalsvej 8,Christiansfeld,6070,4,111,1968,850000.0,22-11-2002
+Sønderskovvej 13,Christiansfeld,6070,7,163,1827,1350000.0,08-11-2002
+Bakkegårdsvej 11,Christiansfeld,6070,8,183,1940,1037500.0,07-11-2002
+Vestervang 7,Christiansfeld,6070,3,84,1962,670000.0,07-11-2002
+Frederiksdalparken 1,Christiansfeld,6070,4,141,1978,868000.0,05-11-2002
+Birkevej 35,Christiansfeld,6070,4,110,1957,710000.0,14-10-2002
+Præstegaardsvej 17,Christiansfeld,6070,5,114,1963,775000.0,09-10-2002
+Højrup Overskovvej 6,Christiansfeld,6070,5,138,1800,375000.0,03-10-2002
+Torning Møllevej 22,Christiansfeld,6070,3,99,1800,1000000.0,20-09-2002
+Thorsvej 3,Christiansfeld,6070,4,147,1973,1133000.0,03-09-2002
+Damgårdsparken 36,Christiansfeld,6070,4,121,1979,825000.0,16-08-2002
+Dahlsvænget 3,Christiansfeld,6070,4,150,1981,1050000.0,10-08-2002
+Kobberstedvej 60,Christiansfeld,6070,5,168,1883,2544932.0,07-08-2002
+Skovrupvej 4,Christiansfeld,6070,4,112,1967,430655.0,01-08-2002
+"Lindegade 10, ST. TV",Christiansfeld,6070,2,61,1789,545000.0,06-07-2002
+Luneparken 9,Christiansfeld,6070,4,124,1984,1256000.0,22-06-2002
+Skovrupvej 7,Christiansfeld,6070,4,113,1920,507000.0,20-06-2002
+Koldingvej 139,Christiansfeld,6070,7,179,1947,925000.0,07-06-2002
+Ødisvej 13,Christiansfeld,6070,4,183,1890,815000.0,31-05-2002
+Åstorpvej 108,Christiansfeld,6070,4,96,1962,675000.0,27-05-2002
+Favstrupvej 19,Christiansfeld,6070,12,272,2004,815000.0,06-05-2002
+Kolstrup Landevej 53,Christiansfeld,6070,7,169,1800,2835000.0,08-04-2002
+Hjerndrup Landevej 45,Christiansfeld,6070,6,151,1927,1449837.0,21-03-2002
+Tingskovhedevej 42,Christiansfeld,6070,5,140,1827,1150000.0,20-03-2002
+Heisselvej 2,Christiansfeld,6070,5,167,1979,641600.0,13-03-2002
+Vestergade 20,Christiansfeld,6070,4,109,1966,583000.0,08-03-2002
+Lindegade 12B,Christiansfeld,6070,3,113,1813,660000.0,21-02-2002
+Virkelystvej 12,Christiansfeld,6070,6,236,1969,1100000.0,18-02-2002
+Haderslevvej 45C,Christiansfeld,6070,5,150,1974,936811.0,18-02-2002
+Kampesmose 36,Christiansfeld,6070,5,137,2002,167776.0,06-02-2002
+Gildesager 5,Christiansfeld,6070,3,88,1960,520000.0,14-01-2002
+Nefgårdvej 19,Christiansfeld,6070,9,395,1986,560000.0,31-12-2001
+Gammel Egebjergvej 20,Christiansfeld,6070,5,162,1938,370000.0,21-12-2001
+Favrvrå Bygade 7,Christiansfeld,6070,3,70,1877,225000.0,12-12-2001
+Seggelundvej 11,Christiansfeld,6070,7,185,1967,650000.0,28-11-2001
+Koldingvej 54,Christiansfeld,6070,8,174,1898,54900.0,13-11-2001
+Bjerndrup Bygade 1,Christiansfeld,6070,5,162,1847,724666.0,10-11-2001
+Skovrup Nørrevej 9,Christiansfeld,6070,9,320,1845,1814600.0,05-11-2001
+Kobberstedvej 2,Christiansfeld,6070,4,114,1969,595000.0,05-11-2001
+Kampesmose 20,Christiansfeld,6070,6,168,2004,148750.0,17-10-2001
+Damgårdsparken 75,Christiansfeld,6070,6,203,1980,1064283.0,23-09-2001
+Nørregade 30,Christiansfeld,6070,6,169,1933,1215000.0,17-09-2001
+Haderslevvej 27,Christiansfeld,6070,6,158,1948,909064.0,07-09-2001
+Seggelund Hovedvej 55,Christiansfeld,6070,9,289,1964,2550000.0,24-08-2001
+Aller Møllevej 1A,Christiansfeld,6070,5,125,2002,35525.0,22-08-2001
+Højrup Overskovvej 10,Christiansfeld,6070,5,144,1930,300000.0,16-08-2001
+Præstegaardsvej 33,Christiansfeld,6070,5,108,1963,707000.0,15-08-2001
+Tyrstrup Vestervej 6,Christiansfeld,6070,19,150,1750,2450000.0,05-08-2001
+Damgårdsparken 43,Christiansfeld,6070,6,163,1978,1065000.0,07-07-2001
+Tjørnevænget 39,Christiansfeld,6070,7,172,1980,835000.0,06-07-2001
+Hjerndrupvej 171,Christiansfeld,6070,7,290,1872,9109000.0,29-06-2001
+Præstegaardsvej 2,Christiansfeld,6070,4,148,1969,932285.0,22-06-2001
+Tingvej 14,Christiansfeld,6070,5,139,1877,480000.0,19-06-2001
+Præstegaardsvej 29,Christiansfeld,6070,5,108,1963,672105.0,18-06-2001
+Tingvej 2,Christiansfeld,6070,6,148,1964,644962.0,13-06-2001
+Åstorpvej 70,Christiansfeld,6070,7,201,1916,769641.0,24-05-2001
+Hjerndrup Landevej 14,Christiansfeld,6070,7,230,1927,700000.0,03-05-2001
+Vestermarksvej 9,Christiansfeld,6070,5,117,1964,391000.0,03-05-2001
+Vestermarksvej 8,Christiansfeld,6070,5,140,1953,3963600.0,03-05-2001
+Højrup Overskovvej 13,Christiansfeld,6070,7,274,1905,1678500.0,30-04-2001
+Frørup Landevej 9,Christiansfeld,6070,6,166,1950,933064.0,27-04-2001
+Torning Møllevej 25,Christiansfeld,6070,8,156,1827,1425000.0,30-03-2001
+Tågerupvej 19,Christiansfeld,6070,8,245,1931,1040000.0,09-03-2001
+Krogagervej 1,Christiansfeld,6070,5,141,2002,212500.0,12-02-2001
+Christian X Vej 7,Christiansfeld,6070,4,109,1970,805000.0,05-02-2001
+Frørupvej 14,Christiansfeld,6070,6,260,1833,90000.0,24-01-2001
+Frejasvej 3,Christiansfeld,6070,5,152,1973,850000.0,21-01-2001
+"Borgmestervej 13, ST. TH",Christiansfeld,6070,2,73,1972,480000.0,19-01-2001
+Langforte 98,Christiansfeld,6070,7,186,1886,3250000.0,08-01-2001
+Hjerndrupvej 65,Christiansfeld,6070,4,120,1870,436830.0,06-12-2000
+Nørre Alle 15,Christiansfeld,6070,5,180,1965,795000.0,23-11-2000
+"Kongensgade 12, 1",Christiansfeld,6070,4,78,1929,492574.0,22-11-2000
+Haderslevvej 33,Christiansfeld,6070,4,143,1877,737497.0,21-11-2000
+Hjerndrupvej 144,Christiansfeld,6070,4,140,1850,205000.0,20-11-2000
+Museumsgade 5,Christiansfeld,6070,4,150,1780,787500.0,17-11-2000
+Lindegade 14,Christiansfeld,6070,5,150,1794,740000.0,16-11-2000
+Tågerupvej 12,Christiansfeld,6070,6,174,2001,350000.0,26-10-2000
+Kampesmose 8,Christiansfeld,6070,5,164,2001,189700.0,12-10-2000
+Nørreskovvej 4,Christiansfeld,6070,5,151,1913,370000.0,07-10-2000
+Koldingvej 107,Christiansfeld,6070,4,111,1902,499000.0,28-09-2000
+Skolevej 5,Christiansfeld,6070,5,132,1929,1181680.0,26-09-2000
+Kampesmose 22,Christiansfeld,6070,6,151,2001,154700.0,25-09-2000
+Ryttervej 3,Christiansfeld,6070,6,270,1858,218700.0,15-09-2000
+Ødisvej 8,Christiansfeld,6070,4,120,1904,638902.0,12-09-2000
+Luneparken 22,Christiansfeld,6070,5,141,1986,1285000.0,12-09-2000
+Torningvej 28,Christiansfeld,6070,6,215,1948,1400000.0,05-09-2000
+N.J. Holms Park 16,Christiansfeld,6070,6,134,1974,870000.0,11-08-2000
+Skovrup Nørrevej 5,Christiansfeld,6070,6,240,1850,3170000.0,04-08-2000
+Koldingvej 117,Christiansfeld,6070,5,112,1910,886000.0,03-08-2000
+Damgårdsparken 57,Christiansfeld,6070,5,156,1978,995000.0,01-08-2000
+Frørupvej 8,Christiansfeld,6070,10,540,1860,250000.0,21-07-2000
+Søndre Alle 19,Christiansfeld,6070,7,186,1938,575000.0,12-07-2000
+Hjerndrup Nørrevej 11,Christiansfeld,6070,4,104,1965,438850.0,06-07-2000
+Koldingvej 169,Christiansfeld,6070,6,163,1860,880000.0,05-07-2000
+Damgårdsparken 47,Christiansfeld,6070,4,132,1978,1237000.0,27-06-2000
+Hjerndrup Nørrevej 36,Christiansfeld,6070,9,287,1939,760000.0,23-06-2000
+Kampesmose 62,Christiansfeld,6070,6,139,2001,163975.0,19-06-2000
+Tingskovhedevej 48,Christiansfeld,6070,4,162,1877,774941.0,15-06-2000
+Nørreskovvej 9,Christiansfeld,6070,3,109,2000,265000.0,15-06-2000
+Dahlsvænget 15,Christiansfeld,6070,5,137,2001,151025.0,14-06-2000
+Kær Møllevej 28,Christiansfeld,6070,6,248,2006,549064.0,26-05-2000
+N.J. Holms Park 14,Christiansfeld,6070,6,178,1974,1157000.0,23-05-2000
+Nørre Alle 16,Christiansfeld,6070,6,236,1909,1200000.0,16-05-2000
+Koldingvej 132,Christiansfeld,6070,7,270,1940,910175.0,15-05-2000
+Nørre Alle 30,Christiansfeld,6070,3,92,1867,250000.0,12-05-2000
+Genvej 4,Christiansfeld,6070,3,100,1957,416500.0,28-04-2000
+Skovhusevej 21,Christiansfeld,6070,6,196,1998,2100000.0,15-04-2000
+Bojskov Markvej 3,Christiansfeld,6070,4,177,1971,1155000.0,31-03-2000
+Frørupvej 9,Christiansfeld,6070,4,170,1900,500000.0,27-03-2000
+Præstegaardsvej 1,Christiansfeld,6070,8,201,1853,982000.0,16-03-2000
+Spangvej 36,Christiansfeld,6070,4,152,1938,1690000.0,29-02-2000
+Favstrupvej 13,Christiansfeld,6070,3,102,1965,771436.0,07-02-2000
+Favstrupvej 43,Christiansfeld,6070,8,286,1906,850224.0,16-01-2000
+Gl. Kongevej 5,Christiansfeld,6070,4,105,1961,725000.0,28-12-1999
+Tingskovhedevej 44,Christiansfeld,6070,6,178,1877,895000.0,16-12-1999
+Bojskov Markvej 19,Christiansfeld,6070,5,135,1988,892500.0,02-12-1999
+Nørre Alle 25,Christiansfeld,6070,9,251,1933,141031.0,23-11-1999
+Møllegade 3,Christiansfeld,6070,5,124,1908,470000.0,16-11-1999
+Ødisvej 109,Christiansfeld,6070,4,172,1897,740000.0,05-11-1999
+Luneparken 29,Christiansfeld,6070,4,117,1983,969082.0,09-10-1999
+Åstorpvej 81,Christiansfeld,6070,6,186,1827,1200000.0,06-10-1999
+Frørup Landevej 40,Christiansfeld,6070,5,112,1943,295700.0,29-09-1999
+Frørupvej 20,Christiansfeld,6070,6,214,1877,570000.0,21-09-1999
+Vestervang 1,Christiansfeld,6070,4,100,1961,575000.0,06-09-1999
+Højrup Landevej 25,Christiansfeld,6070,5,166,1934,440000.0,03-08-1999
+Favstrupvej 5,Christiansfeld,6070,4,130,1960,817081.0,23-07-1999
+Kokærvej 40,Christiansfeld,6070,6,162,1847,889909.0,07-07-1999
+Koldingvej 65,Christiansfeld,6070,4,164,1897,540340.0,03-07-1999
+Kobberstedvej 1,Christiansfeld,6070,8,223,1945,600000.0,25-06-1999
+Hjerndrupvej 70,Christiansfeld,6070,5,194,1931,1005000.0,21-06-1999
+Kampesmose 10,Christiansfeld,6070,5,130,2000,162575.0,17-06-1999
+Torning Møllevej 16,Christiansfeld,6070,4,154,2010,65000.0,16-06-1999
+Jernbanegade 14,Christiansfeld,6070,3,112,1968,750000.0,05-06-1999
+"Borgmestervej 5, ST. TH",Christiansfeld,6070,3,85,1970,450000.0,25-05-1999
+Frørupvej 6,Christiansfeld,6070,3,98,1965,491198.0,21-05-1999
+Birkevej 36,Christiansfeld,6070,4,106,1954,745740.0,06-05-1999
+Tapsøre Vestergade 19,Christiansfeld,6070,4,105,1877,463000.0,05-05-1999
+Thorsvej 23,Christiansfeld,6070,4,144,1973,1094996.0,23-04-1999
+Birkevej 5,Christiansfeld,6070,4,133,1963,725000.0,23-04-1999
+Torningvej 37,Christiansfeld,6070,3,85,1877,190000.0,21-04-1999
+Frejasvej 5,Christiansfeld,6070,4,131,1973,810000.0,21-04-1999
+Favstrupvej 14,Christiansfeld,6070,5,140,1962,710000.0,21-04-1999
+Kampesmose 12,Christiansfeld,6070,6,154,2000,156275.0,19-04-1999
+Gl. Allervej 17,Christiansfeld,6070,7,208,1966,376537.0,06-04-1999
+Thorsvej 9,Christiansfeld,6070,5,150,1973,1108092.0,02-04-1999
+Kampesmose 26,Christiansfeld,6070,6,160,1999,162050.0,31-03-1999
+Skovrupvej 6,Christiansfeld,6070,10,300,1950,1250000.0,29-03-1999
+Nørre Alle 14,Christiansfeld,6070,7,200,1891,150000.0,19-03-1999
+Kampesmose 60,Christiansfeld,6070,6,151,1999,149625.0,16-03-1999
+Østerled 5,Christiansfeld,6070,4,112,1827,550000.0,15-03-1999
+Tapsøre Vestergade 12,Christiansfeld,6070,5,103,1911,400167.0,13-03-1999
+Højrup Landevej 6,Christiansfeld,6070,7,168,1931,400025.0,12-03-1999
+Virkelystvej 6,Christiansfeld,6070,3,84,1961,626000.0,01-03-1999
+"Borgmestervej 5, 1. MF",Christiansfeld,6070,2,62,1970,327058.0,27-02-1999
+Søndre Alle 12,Christiansfeld,6070,6,168,1929,447000.0,17-02-1999
+Thorsvej 11,Christiansfeld,6070,6,214,1973,1250000.0,05-02-1999
+Skovvænget 1,Christiansfeld,6070,5,132,1962,779000.0,13-01-1999
+Frørup Landevej 24,Christiansfeld,6070,5,129,1854,605000.0,06-01-1999
+"Kongensgade 3, 1",Christiansfeld,6070,6,84,1928,1050000.0,01-01-1999
+Rodsellevej 20,Christiansfeld,6070,10,175,1877,1405000.0,18-12-1998
+Ødisvej 116,Christiansfeld,6070,9,293,1984,370608.0,10-12-1998
+Bjerndrup Bygade 18,Christiansfeld,6070,5,165,1820,461000.0,16-11-1998
+Rodsellevej 10,Christiansfeld,6070,6,169,1877,700000.0,14-11-1998
+Seggelund Hovedvej 34,Christiansfeld,6070,6,169,1800,316000.0,10-11-1998
+Genvej 5,Christiansfeld,6070,5,157,1958,788000.0,24-10-1998
+Menggårdvej 12,Christiansfeld,6070,12,272,1803,50000.0,19-10-1998
+Søndre Alle 25,Christiansfeld,6070,6,186,1968,1042220.0,09-10-1998
+Christian X Vej 9,Christiansfeld,6070,3,104,1969,653000.0,06-10-1998
+Seggelund Hovedvej 20,Christiansfeld,6070,3,101,1998,764000.0,30-09-1998
+Nørregade 18,Christiansfeld,6070,6,185,1934,1134000.0,21-09-1998
+Hjerndrup Nørrevej 4,Christiansfeld,6070,4,92,1877,174000.0,18-09-1998
+Kongensgade 70,Christiansfeld,6070,3,90,1943,525000.0,11-09-1998
+Heisselvej 14A,Christiansfeld,6070,6,182,1999,100000.0,10-09-1998
+Birkevej 25,Christiansfeld,6070,5,113,1950,510000.0,07-09-1998
+Torning Møllevej 19,Christiansfeld,6070,3,148,1969,1006000.0,05-09-1998
+Hjerndrupvej 124,Christiansfeld,6070,4,90,1946,550000.0,20-08-1998
+Seggelundvej 6,Christiansfeld,6070,8,175,1965,440000.0,30-06-1998
+Taps Stationsvej 25,Christiansfeld,6070,6,146,1996,1000000.0,11-06-1998
+N.J. Holms Park 2,Christiansfeld,6070,9,219,1976,1175000.0,09-06-1998
+Skolevej 12,Christiansfeld,6070,8,205,1955,1166540.0,02-06-1998
+Højrup Landevej 49,Christiansfeld,6070,3,108,1976,465000.0,25-05-1998
+Anderup Skovvej 39,Christiansfeld,6070,6,274,1936,1100000.0,15-05-1998
+Hjerndrupvej 197,Christiansfeld,6070,5,115,1928,735360.0,29-04-1998
+Ødisvej 32,Christiansfeld,6070,6,165,1956,953160.0,31-03-1998
+Damgårdsparken 71,Christiansfeld,6070,5,132,1977,932000.0,21-03-1998
+Skovrødvej 30,Christiansfeld,6070,6,156,1900,380000.0,16-03-1998
+Damgårdsparken 16,Christiansfeld,6070,4,132,1980,950000.0,13-03-1998
+Damgårdsparken 22,Christiansfeld,6070,4,112,1978,862997.0,11-03-1998
+"Lindegade 10, 1. TV",Christiansfeld,6070,1,55,1789,280707.0,08-03-1998
+Vadsbrovej 12,Christiansfeld,6070,6,201,1924,180000.0,04-03-1998
+Nørre Alle 23,Christiansfeld,6070,3,112,1998,100000.0,26-02-1998
+Anderup Søndervej 33,Christiansfeld,6070,8,198,1900,134900.0,05-02-1998
+Luneparken 46,Christiansfeld,6070,6,165,1998,115000.0,02-02-1998
+Åstorpvej 71,Christiansfeld,6070,4,176,1887,800297.0,01-02-1998
+Hjerndrup Nørrevej 1,Christiansfeld,6070,3,93,1800,150609.0,27-01-1998
+Frederiksdalparken 42,Christiansfeld,6070,4,153,1977,963000.0,19-01-1998
+Kongensgade 67,Christiansfeld,6070,4,100,1967,406000.0,30-12-1997
+Luneparken 44,Christiansfeld,6070,6,162,1998,1270720.0,30-12-1997
+Haderslevvej 30,Christiansfeld,6070,7,236,1760,1400000.0,23-12-1997
+Industrivej 22,Christiansfeld,6070,7,175,1978,1376071.0,21-12-1997
+Mengvej 50,Christiansfeld,6070,9,300,1890,1520000.0,09-12-1997
+Hjerndrupvej 132,Christiansfeld,6070,4,97,1800,347000.0,28-11-1997
+Tjørnevænget 23,Christiansfeld,6070,5,132,1998,58750.0,27-11-1997
+Tingskovhedevej 16,Christiansfeld,6070,5,162,1850,60000.0,22-10-1997
+Anderup Skovvej 26,Christiansfeld,6070,7,154,1936,425000.0,06-10-1997
+Hvinderupvej 16,Christiansfeld,6070,7,237,1872,665664.0,25-09-1997
+Kongensgade 31,Christiansfeld,6070,6,132,1944,781000.0,23-09-1997
+Nørregade 15,Christiansfeld,6070,5,120,1961,824900.0,15-09-1997
+Præstegaardsvej 47,Christiansfeld,6070,5,99,1963,558000.0,29-08-1997
+Tapsøre Vestergade 10,Christiansfeld,6070,2,60,1920,234480.0,27-08-1997
+Kobbelvej 2,Christiansfeld,6070,6,223,1827,309000.0,12-08-1997
+Tjørnevænget 67,Christiansfeld,6070,6,160,1998,54550.0,06-08-1997
+Sofievej 6,Christiansfeld,6070,4,250,1923,1018000.0,05-08-1997
+Luneparken 60,Christiansfeld,6070,6,141,1998,97750.0,01-08-1997
+Ryttervej 1,Christiansfeld,6070,6,247,1885,1772483.0,29-07-1997
+Vadsbrovej 19,Christiansfeld,6070,4,152,1924,678266.0,24-07-1997
+Stenskrovej 6,Christiansfeld,6070,8,164,1933,283709.0,19-07-1997
+Kærfort 11,Christiansfeld,6070,5,127,1900,700000.0,01-07-1997
+Seggelundvej 94,Christiansfeld,6070,12,236,1928,1504999.0,26-06-1997
+Christiansfeldvej 1,Christiansfeld,6070,7,357,1936,1423000.0,26-06-1997
+Heisselvej 10,Christiansfeld,6070,7,191,1992,425000.0,25-06-1997
+Vadsbrovej 6,Christiansfeld,6070,14,505,1920,10350000.0,19-06-1997
+Kær Møllevej 49,Christiansfeld,6070,9,270,1976,930000.0,19-06-1997
+Koldingvej 140,Christiansfeld,6070,7,209,1900,480000.0,18-06-1997
+Tjørnevænget 61,Christiansfeld,6070,6,171,1998,75000.0,09-06-1997
+Kokærvej 93,Christiansfeld,6070,4,113,1967,532000.0,02-06-1997
+Frederiksdalparken 30,Christiansfeld,6070,4,128,1977,892000.0,27-05-1997
+Vestergade 33,Christiansfeld,6070,7,182,1877,988000.0,20-05-1997
+Hjerndrup Landevej 29,Christiansfeld,6070,4,153,1870,625000.0,15-05-1997
+Forbindelsesvejen 1,Christiansfeld,6070,14,412,1930,1551640.0,14-05-1997
+Luneparken 50,Christiansfeld,6070,6,156,1998,118250.0,09-05-1997
+10. Juli Vej 11,Christiansfeld,6070,3,163,1972,1190000.0,06-05-1997
+Luneparken 54,Christiansfeld,6070,6,150,1997,115250.0,04-05-1997
+Luneparken 48,Christiansfeld,6070,6,143,1998,110750.0,02-05-1997
+Gl. Allervej 23,Christiansfeld,6070,12,437,1890,874200.0,23-04-1997
+Sandagervej 23,Christiansfeld,6070,4,107,1850,465000.0,08-04-1997
+Favstrupvej 65,Christiansfeld,6070,14,395,1907,4326639.0,21-03-1997
+Gildesager 13,Christiansfeld,6070,7,208,1961,537768.0,21-03-1997
+Tjørnevænget 41,Christiansfeld,6070,6,145,1997,47950.0,13-03-1997
+Tjørnevænget 63,Christiansfeld,6070,8,200,1997,48150.0,12-03-1997
+"Borgmestervej 9, 1. TH",Christiansfeld,6070,4,75,1972,240000.0,25-02-1997
+Damgårdsparken 24,Christiansfeld,6070,4,93,1979,708000.0,19-02-1997
+"Borgmestervej 9, 1. TV",Christiansfeld,6070,2,73,1972,240000.0,14-02-1997
+Luneparken 52,Christiansfeld,6070,6,135,1998,156575.0,10-02-1997
+Tjørnevænget 13,Christiansfeld,6070,4,123,1980,420000.0,31-01-1997
+Taps Stationsvej 27,Christiansfeld,6070,5,161,1977,730000.0,22-01-1997
+Banckesvej 5,Christiansfeld,6070,4,111,1967,340000.0,21-01-1997
+Åbrinken 21,Christiansfeld,6070,5,125,1997,40650.0,21-01-1997
+Luneparken 26,Christiansfeld,6070,6,140,1997,93887.0,20-01-1997
+Christiansfeldvej 14,Christiansfeld,6070,5,150,1860,1349600.0,15-01-1997
+Birkevej 31,Christiansfeld,6070,5,157,1971,825000.0,19-12-1996
+Birkevej 43,Christiansfeld,6070,3,111,1961,300000.0,16-12-1996
+Torningvej 27,Christiansfeld,6070,5,110,1940,610000.0,20-11-1996
+Christian VII Vej 14,Christiansfeld,6070,8,253,1969,1050000.0,12-11-1996
+Dahlsvænget 9,Christiansfeld,6070,5,143,1986,900000.0,11-11-1996
+Bjerndrup Landevej 21,Christiansfeld,6070,6,160,1850,562000.0,08-11-1996
+Hjerndrup Stadsvej 52,Christiansfeld,6070,4,126,1860,1147619.0,21-10-1996
+Hjerndrup Stadsvej 25,Christiansfeld,6070,5,165,1927,680000.0,20-10-1996
+Favrvrå Bygade 25,Christiansfeld,6070,4,164,1920,501000.0,07-10-1996
+Mølbrovej 20,Christiansfeld,6070,9,489,2009,125000.0,16-09-1996
+Åstorpvej 95,Christiansfeld,6070,5,152,1902,275000.0,16-09-1996
+Finksvej 5,Christiansfeld,6070,6,182,1827,692000.0,16-08-1996
+Favstrupvej 17A,Christiansfeld,6070,8,246,1900,1563607.0,25-07-1996
+Damgårdsparken 30,Christiansfeld,6070,5,144,1981,767302.0,25-07-1996
+Åstorpvej 84,Christiansfeld,6070,4,152,1877,357000.0,18-07-1996
+Skovrupvej 57,Christiansfeld,6070,4,121,1936,575000.0,16-07-1996
+Stubbum Landevej 50,Christiansfeld,6070,12,250,1955,1402500.0,11-07-1996
+Seggelund Hovedvej 22,Christiansfeld,6070,2,72,1855,330000.0,28-06-1996
+Luneparken 34,Christiansfeld,6070,6,156,1996,93012.0,28-06-1996
+Damgårdsparken 77,Christiansfeld,6070,5,156,1978,831000.0,24-06-1996
+Hjerndrup Stadsvej 51,Christiansfeld,6070,3,136,1927,750000.0,18-06-1996
+Birkevej 9,Christiansfeld,6070,4,117,1965,576000.0,17-06-1996
+Skovrupvej 48,Christiansfeld,6070,4,172,1937,1500000.0,13-06-1996
+Åstorpvej 103,Christiansfeld,6070,3,90,1827,322648.0,06-06-1996
+Hjerndrup Landevej 37,Christiansfeld,6070,6,151,1927,1040000.0,29-05-1996
+Luneparken 24,Christiansfeld,6070,7,150,1996,85137.0,07-05-1996
+Søndre Alle 37,Christiansfeld,6070,3,80,1870,280000.0,25-04-1996
+Damgårdsparken 12,Christiansfeld,6070,5,160,1979,248560.0,23-04-1996
+Anderup Skovvej 28,Christiansfeld,6070,3,155,1936,1560544.0,17-04-1996
+Hjerndrup Nørrevej 9,Christiansfeld,6070,5,134,1968,382000.0,07-04-1996
+Damgårdsparken 38,Christiansfeld,6070,4,130,1978,730000.0,29-03-1996
+Damgårdsparken 25,Christiansfeld,6070,4,94,1978,651000.0,25-03-1996
+Luneparken 30,Christiansfeld,6070,5,135,1996,83937.0,25-03-1996
+Christian VII Vej 4,Christiansfeld,6070,6,152,1969,662000.0,08-03-1996
+Smedeforte 13,Christiansfeld,6070,5,205,1899,458000.0,07-03-1996
+Frørup Østervej 5,Christiansfeld,6070,6,127,1860,165000.0,06-03-1996
+Tjørnevænget 37,Christiansfeld,6070,6,162,1980,480000.0,06-03-1996
+Kolstrup Landevej 2,Christiansfeld,6070,7,178,1750,325000.0,04-03-1996
+Nygade 2,Christiansfeld,6070,5,140,1996,40000.0,28-02-1996
+Frørup Skovvej 18,Christiansfeld,6070,4,159,1922,735000.0,22-02-1996
+Birkevej 12,Christiansfeld,6070,4,99,1961,430000.0,13-02-1996
+Nørre Alle 28,Christiansfeld,6070,4,96,1940,250000.0,07-02-1996
+Præstegaardsvej 8,Christiansfeld,6070,7,195,1924,540000.0,01-02-1996
+10. Juli Vej 10,Christiansfeld,6070,4,141,1969,640000.0,27-12-1995
+Tingvej 8,Christiansfeld,6070,4,129,1975,697000.0,18-12-1995
+Vestergade 9,Christiansfeld,6070,7,222,1956,467500.0,17-12-1995
+Frederiksdalparken 25,Christiansfeld,6070,6,180,1978,600000.0,16-11-1995
+Højrup Landevej 14,Christiansfeld,6070,3,156,1840,147310.0,06-11-1995
+Favstrupvej 16,Christiansfeld,6070,4,130,1962,500000.0,20-10-1995
+"Borgmestervej 5, ST. MF",Christiansfeld,6070,2,62,1970,224000.0,12-10-1995
+Stubbum Landevej 56,Christiansfeld,6070,9,226,1895,350000.0,30-09-1995
+Gildesager 27,Christiansfeld,6070,6,235,1975,800000.0,21-09-1995
+Carstensvej 4,Christiansfeld,6070,6,140,1966,610000.0,17-09-1995
+Frederiksdalparken 32,Christiansfeld,6070,3,100,1977,630000.0,12-09-1995
+Hjerndrupvej 11,Christiansfeld,6070,8,297,1800,1614000.0,07-09-1995
+Torning Møllevej 14,Christiansfeld,6070,7,203,1828,228399.0,01-09-1995
+Menggårdvej 10,Christiansfeld,6070,3,122,1887,125000.0,31-08-1995
+Præstegaardsvej 20,Christiansfeld,6070,7,216,1936,640000.0,28-08-1995
+Vestergade 1,Christiansfeld,6070,4,132,1870,258000.0,28-08-1995
+Kær Møllevej 25,Christiansfeld,6070,6,192,1827,585000.0,14-08-1995
+10. Februar Vej 17,Christiansfeld,6070,4,110,1966,375000.0,04-08-1995
+Tågerupvej 15,Christiansfeld,6070,6,112,1892,351000.0,12-07-1995
+Skovrødvej 25,Christiansfeld,6070,8,299,1907,850000.0,10-07-1995
+Anderup Søndervej 32,Christiansfeld,6070,4,170,1857,2050000.0,07-07-1995
+Seggelundvej 10,Christiansfeld,6070,3,75,1860,60000.0,07-07-1995
+Borgmestervej 12,Christiansfeld,6070,5,147,1971,625780.0,04-07-1995
+Seggelund Hovedvej 29,Christiansfeld,6070,5,138,2016,810000.0,22-06-1995
+Christiansfeldvej 11,Christiansfeld,6070,5,118,1965,400000.0,22-06-1995
+Seggelund Hovedvej 64,Christiansfeld,6070,5,112,1928,662500.0,01-06-1995
+Anderup Skovvej 51,Christiansfeld,6070,6,229,1877,1000000.0,31-05-1995
+Seggelundvej 7,Christiansfeld,6070,6,157,1995,49850.0,30-05-1995
+Tågerupvej 14,Christiansfeld,6070,4,134,1931,750000.0,30-05-1995
+Damgårdsparken 8,Christiansfeld,6070,4,121,1980,763000.0,26-05-1995
+Brosbjergvej 11,Christiansfeld,6070,6,178,1827,875000.0,23-05-1995
+Frederiksdalparken 24,Christiansfeld,6070,5,172,1977,890000.0,22-05-1995
+Damgårdsparken 21,Christiansfeld,6070,4,124,1977,595000.0,17-05-1995
+Gl. Kongevej 11,Christiansfeld,6070,4,183,1830,450000.0,05-05-1995
+Brosbjergvej 9,Christiansfeld,6070,3,137,1867,420000.0,01-05-1995
+Bjerndrup Bygade 2,Christiansfeld,6070,5,195,1856,619600.0,28-04-1995
+Vestervang 31,Christiansfeld,6070,3,118,1964,400000.0,26-04-1995
+Torningvej 22,Christiansfeld,6070,3,149,1949,675000.0,25-04-1995
+Taps Stationsvej 1,Christiansfeld,6070,6,180,1949,525000.0,14-04-1995
+Lille Skovvej 6,Christiansfeld,6070,7,157,1890,90000.0,10-04-1995
+Luneparken 6,Christiansfeld,6070,5,151,1986,1014919.0,10-04-1995
+10. Februar Vej 7,Christiansfeld,6070,4,140,1966,595000.0,06-04-1995
+Præstegaardsvej 26,Christiansfeld,6070,5,129,1959,297500.0,01-04-1995
+10. Februar Vej 11,Christiansfeld,6070,3,113,1967,500000.0,25-03-1995
+10. Juli Vej 6,Christiansfeld,6070,3,114,1971,350000.0,24-03-1995
+Frederiksdalparken 21,Christiansfeld,6070,7,188,1976,700000.0,23-02-1995
+Kolstrup Landevej 10,Christiansfeld,6070,4,174,1928,460000.0,21-02-1995
+Vestergade 28,Christiansfeld,6070,6,147,1973,490000.0,16-02-1995
+Damgårdsparken 1B,Christiansfeld,6070,4,116,1979,645000.0,14-02-1995
+Kongensgade 87,Christiansfeld,6070,6,134,1875,361460.0,07-02-1995
+Taps Stationsvej 4,Christiansfeld,6070,3,119,1959,410000.0,27-01-1995
+Præstegaardsvej 19,Christiansfeld,6070,5,108,1963,387128.0,18-01-1995
+Koldingvej 200,Christiansfeld,6070,7,259,1939,650000.0,20-12-1994
+N.J. Holms Park 45,Christiansfeld,6070,6,184,1975,890000.0,08-12-1994
+Tjørnevænget 21,Christiansfeld,6070,5,203,1979,246500.0,17-11-1994
+Frederiksdalparken 12,Christiansfeld,6070,4,149,1977,668000.0,11-11-1994
+Frørupvej 51,Christiansfeld,6070,6,170,1907,188000.0,09-11-1994
+Åbrinken 19,Christiansfeld,6070,5,136,1995,75300.0,01-11-1994
+Tingvej 6A,Christiansfeld,6070,6,148,1973,700000.0,25-10-1994
+Gildesager 1,Christiansfeld,6070,7,140,1910,420000.0,18-09-1994
+Stubbum Landevej 81,Christiansfeld,6070,6,146,1947,235692.0,13-09-1994
+Tingskovhedevej 11,Christiansfeld,6070,7,252,1827,325000.0,12-09-1994
+Vojumvej 16,Christiansfeld,6070,9,200,1895,1350000.0,05-09-1994
+Haderslevvej 18,Christiansfeld,6070,6,153,1918,450000.0,29-08-1994
+Koldingvej 80,Christiansfeld,6070,6,155,1908,330000.0,29-08-1994
+Vestermosevej 3,Christiansfeld,6070,5,94,1900,240000.0,17-08-1994
+Birkevej 28,Christiansfeld,6070,5,123,1985,842500.0,17-08-1994
+Allervej 139,Christiansfeld,6070,6,210,1833,460000.0,15-08-1994
+Nygade 7,Christiansfeld,6070,4,148,1968,445000.0,05-08-1994
+Møllegade 5,Christiansfeld,6070,4,140,1909,435000.0,29-07-1994
+Luneparken 32,Christiansfeld,6070,6,135,1994,103625.0,26-07-1994
+Frørupvej 23,Christiansfeld,6070,5,150,1976,505000.0,18-07-1994
+Torningvej 15,Christiansfeld,6070,5,167,1940,715000.0,16-07-1994
+Thorsvej 25,Christiansfeld,6070,5,162,1973,735000.0,07-07-1994
+Stubbumgårdvej 1,Christiansfeld,6070,4,131,1928,468963.0,10-06-1994
+Koldingvej 49,Christiansfeld,6070,7,246,1965,6180000.0,09-06-1994
+Seggelundvej 2,Christiansfeld,6070,8,184,1964,416500.0,30-05-1994
+Christian X Vej 15,Christiansfeld,6070,4,110,1968,368000.0,21-05-1994
+Torningvej 40,Christiansfeld,6070,6,152,1940,658000.0,10-05-1994
+Frederiksdalparken 46,Christiansfeld,6070,5,129,1977,610000.0,26-04-1994
+Tågerupvej 24,Christiansfeld,6070,6,135,1931,300000.0,25-04-1994
+Kongensgade 33,Christiansfeld,6070,3,92,1946,425000.0,22-04-1994
+Luneparken 19,Christiansfeld,6070,4,160,1995,115000.0,22-04-1994
+Brabækvej 10,Christiansfeld,6070,6,205,1844,945000.0,18-04-1994
+"Haderslevvej 25, 1",Christiansfeld,6070,3,115,1937,640000.0,13-04-1994
+Haderslevvej 45B,Christiansfeld,6070,7,228,1977,900000.0,12-04-1994
+Spangvej 33,Christiansfeld,6070,4,121,1959,830000.0,06-04-1994
+Favstrupvej 63,Christiansfeld,6070,4,145,1986,380000.0,25-03-1994
+Toftegårdsvej 4,Christiansfeld,6070,7,121,1946,253000.0,14-03-1994
+Luneparken 14,Christiansfeld,6070,6,172,1986,1045000.0,15-02-1994
+Birkevej 29,Christiansfeld,6070,5,147,1985,880000.0,15-02-1994
+Luneparken 23,Christiansfeld,6070,5,126,1982,445000.0,30-01-1994
+"Kongensgade 38, 1",Christiansfeld,6070,6,165,1960,1100000.0,17-01-1994
+Haderslevvej 53,Christiansfeld,6070,4,84,1941,335000.0,10-01-1994
+Kongensgade 25,Christiansfeld,6070,5,128,1958,510000.0,06-12-1993
+Vestervang 11,Christiansfeld,6070,4,108,1962,340000.0,27-11-1993
+Birkevej 10,Christiansfeld,6070,4,96,1960,240000.0,12-11-1993
+Kongevej 11,Christiansfeld,6070,6,144,1850,657750.0,28-10-1993
+Ødisvej 36,Christiansfeld,6070,9,285,1835,2290000.0,18-10-1993
+Koldingvej 159,Christiansfeld,6070,5,164,1951,320000.0,12-10-1993
+Gildesager 17,Christiansfeld,6070,6,150,1968,635000.0,04-10-1993
+Gildesager 32,Christiansfeld,6070,4,107,1968,300000.0,24-09-1993
+Gildesager 9,Christiansfeld,6070,4,112,1959,200000.0,21-09-1993
+Åstorpvej 123,Christiansfeld,6070,3,100,1921,375000.0,23-08-1993
+Skovvænget 3,Christiansfeld,6070,6,137,1962,550000.0,17-08-1993
+Vestervang 2,Christiansfeld,6070,3,86,1959,160000.0,20-07-1993
+Præstegaardsvej 23,Christiansfeld,6070,5,99,1963,390000.0,07-07-1993
+Frederiksdalparken 36,Christiansfeld,6070,5,135,1978,595000.0,05-07-1993
+Hjerndrup Kirkevej 14,Christiansfeld,6070,8,259,1777,1120000.0,25-06-1993
+Søndre Alle 8,Christiansfeld,6070,8,207,1912,375000.0,22-06-1993
+Vestermarksvej 7,Christiansfeld,6070,3,108,1953,350000.0,03-06-1993
+Damgårdsparken 28,Christiansfeld,6070,6,166,1980,571000.0,24-05-1993
+Nørre Alle 34,Christiansfeld,6070,4,145,1806,1000000.0,13-05-1993
+Brosbjergvej 12,Christiansfeld,6070,4,77,1877,192000.0,04-05-1993
+Nørregade 26,Christiansfeld,6070,7,168,1930,695000.0,03-05-1993
+Frederiksdalparken 20,Christiansfeld,6070,5,153,1977,603000.0,21-04-1993
+Favrvrå Bygade 8,Christiansfeld,6070,8,225,1743,875000.0,03-04-1993
+Dahlsvænget 13,Christiansfeld,6070,5,137,1912,370000.0,25-03-1993
+"Borgmestervej 11, ST. TV",Christiansfeld,6070,2,73,1972,265000.0,25-03-1993
+Haderslevvej 24,Christiansfeld,6070,5,150,1977,560000.0,08-03-1993
+Aller Møllevej 12,Christiansfeld,6070,4,94,1931,280000.0,25-01-1993
+Vojumvej 42,Christiansfeld,6070,10,186,1850,400000.0,21-12-1992
+Frederiksdalparken 40,Christiansfeld,6070,5,142,1977,530000.0,14-11-1992
+Frørupvej 27,Christiansfeld,6070,4,114,1874,400000.0,27-10-1992
+Bjerndrup Bygade 4,Christiansfeld,6070,6,176,1800,430000.0,23-10-1992
+Skovvænget 15,Christiansfeld,6070,5,100,1961,360000.0,19-10-1992
+Nygade 9,Christiansfeld,6070,3,104,1966,310000.0,13-10-1992
+Koldingvej 23,Christiansfeld,6070,5,144,1827,525000.0,15-09-1992
+Dahlsvænget 5,Christiansfeld,6070,6,165,1981,640000.0,10-09-1992
+Gildesager 23,Christiansfeld,6070,4,141,1970,554718.0,10-09-1992
+Kirke Alle 10,Christiansfeld,6070,6,155,1955,320000.0,09-09-1992
+Bjerndrup Skolevej 9,Christiansfeld,6070,5,238,1825,350000.0,07-09-1992
+Allervej 161,Christiansfeld,6070,5,120,1871,407000.0,20-08-1992
+Høgsgårdvej 16,Christiansfeld,6070,7,230,1823,2300000.0,02-08-1992
+Ødisvej 121,Christiansfeld,6070,5,154,1887,325000.0,31-07-1992
+Hjerndrupvej 122,Christiansfeld,6070,7,155,1933,450000.0,18-07-1992
+Hjerndrup Nørrevej 45,Christiansfeld,6070,6,162,1860,245000.0,16-07-1992
+Christian VII Vej 16,Christiansfeld,6070,7,228,1971,735000.0,13-07-1992
+Torningvej 42,Christiansfeld,6070,6,209,1870,606750.0,07-07-1992
+Frederiksdalparken 38,Christiansfeld,6070,5,171,1977,635000.0,26-06-1992
+Skovhusevej 22,Christiansfeld,6070,13,359,1912,555400.0,17-06-1992
+Tingvej 24,Christiansfeld,6070,6,142,1972,610000.0,14-06-1992
+Frørup Østervej 7,Christiansfeld,6070,4,195,1802,300000.0,07-04-1992
+Enghavevej 10,Christiansfeld,6070,7,195,1999,348500.0,02-04-1992
+Åbrinken 3,Christiansfeld,6070,6,181,1974,412000.0,18-03-1992
+Kobberstedvej 41,Christiansfeld,6070,5,193,1877,205307.0,13-03-1992
+Kirke Alle 4,Christiansfeld,6070,4,105,1954,450000.0,13-03-1992
+Kokær Søndervej 1,Christiansfeld,6070,8,193,1852,187805.0,07-03-1992
+Seggelundvej 3,Christiansfeld,6070,5,194,1777,510000.0,06-03-1992
+Søndre Alle 17,Christiansfeld,6070,7,179,1937,350000.0,03-03-1992
+Langforte 16,Christiansfeld,6070,8,264,1895,225000.0,23-02-1992
+Anderup Skovvej 25,Christiansfeld,6070,5,195,1936,450000.0,21-02-1992
+Tingskovhedevej 10,Christiansfeld,6070,7,183,1845,715000.0,17-02-1992
+Højrup Landevej 27,Christiansfeld,6070,7,141,1910,187000.0,03-02-1992
+Søndre Alle 46,Christiansfeld,6070,7,211,1965,2300000.0,01-02-1992
+N.J. Holms Park 53,Christiansfeld,6070,5,179,1975,690000.0,23-01-1992
+Skovrupvej 117,Christiansfeld,6070,6,151,1852,230000.0,20-01-1992

@@ -1,0 +1,1224 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Lindevej 25,Store Fuglede,4480,3,104,1969,700000.0,23-05-2017
+Østvej 10,Store Fuglede,4480,4,46,1960,100000.0,17-05-2017
+Hyrdehusvej 23,Store Fuglede,4480,3,47,1960,240000.0,04-05-2017
+Vestervang 1,Store Fuglede,4480,3,40,1950,425000.0,01-05-2017
+Søndervang 32,Store Fuglede,4480,3,40,1960,450000.0,27-04-2017
+Odinsvej Vest 8,Store Fuglede,4480,3,64,1968,831000.0,26-04-2017
+Østre Ågårdsvej 13,Store Fuglede,4480,3,60,1973,820000.0,24-04-2017
+Lyngsvinget 10,Store Fuglede,4480,4,64,1966,895000.0,19-04-2017
+Modinsvej Øst 9,Store Fuglede,4480,4,87,1982,1600000.0,19-04-2017
+Holmevej 24,Store Fuglede,4480,4,72,1981,800000.0,11-04-2017
+Fugledevej 25,Store Fuglede,4480,5,140,1917,18310000.0,07-04-2017
+Hjertegræsvej 14,Store Fuglede,4480,3,48,1987,200000.0,23-03-2017
+Fredskovens Engvej 10,Store Fuglede,4480,3,66,1966,731000.0,22-03-2017
+Fredskovens Gyvelvej 5,Store Fuglede,4480,3,63,1985,1080000.0,18-03-2017
+Lindevej 64,Store Fuglede,4480,5,50,1967,510000.0,17-03-2017
+Østvej 21,Store Fuglede,4480,2,62,1963,600000.0,16-03-2017
+Hjertegræsvej 5,Store Fuglede,4480,3,37,1967,275000.0,16-03-2017
+Absalonsvej 4,Store Fuglede,4480,3,47,1966,200000.0,13-03-2017
+Solkrogen 14,Store Fuglede,4480,3,72,2003,745000.0,08-03-2017
+Østre Egevej 1,Store Fuglede,4480,3,40,1966,835000.0,05-03-2017
+Frødammen 31,Store Fuglede,4480,3,60,1968,675000.0,04-03-2017
+Fredskovens Lyngvej 1,Store Fuglede,4480,6,92,1963,495000.0,24-02-2017
+Kanalvej 4,Store Fuglede,4480,2,37,1972,360000.0,21-02-2017
+Træskostien 5,Store Fuglede,4480,4,50,1963,814800.0,17-02-2017
+Frødammen 2,Store Fuglede,4480,4,52,1976,400000.0,16-02-2017
+Bakkendrupvej 42,Store Fuglede,4480,4,148,1892,7900000.0,15-02-2017
+Pilemosevej 5,Store Fuglede,4480,3,48,1963,530000.0,13-02-2017
+Kanalvej 12,Store Fuglede,4480,4,96,2009,1495000.0,03-02-2017
+Hyrdehusvej 16,Store Fuglede,4480,2,55,1958,295000.0,30-01-2017
+Hyrdehusvej 12,Store Fuglede,4480,3,73,1973,695000.0,25-01-2017
+Flinterupvej 10,Store Fuglede,4480,7,287,1885,963500.0,24-01-2017
+Fyrrestien Vest 19,Store Fuglede,4480,3,56,1963,400000.0,23-01-2017
+Skolelodden 16,Store Fuglede,4480,2,102,1970,650000.0,20-01-2017
+Nyvej 6,Store Fuglede,4480,3,55,1959,880000.0,11-01-2017
+Duevej 1,Store Fuglede,4480,3,48,1969,345000.0,06-01-2017
+Flinterup Mark 13,Store Fuglede,4480,3,90,1877,98304.0,04-01-2017
+Fredskovens Åvej 1,Store Fuglede,4480,6,103,1973,1020000.0,20-12-2016
+Femvejen 5,Store Fuglede,4480,3,55,1970,510000.0,18-12-2016
+Hjertegræsvej 11,Store Fuglede,4480,5,108,1994,1175000.0,18-12-2016
+Hyrdehusvej 32,Store Fuglede,4480,2,45,1938,692250.0,09-12-2016
+Strandlodsvej 4,Store Fuglede,4480,4,105,1966,550000.0,07-12-2016
+Urhøjvej 32,Store Fuglede,4480,7,127,1957,960000.0,06-12-2016
+Kanalvej 8,Store Fuglede,4480,3,67,1973,688500.0,28-11-2016
+Havnemarken 32,Store Fuglede,4480,6,85,1951,355000.0,16-11-2016
+Lindevej 86,Store Fuglede,4480,5,174,1963,500000.0,15-11-2016
+Solkrogen 25,Store Fuglede,4480,3,55,1982,444000.0,03-11-2016
+Flinterupvej 48,Store Fuglede,4480,1,62,1929,601221.0,28-10-2016
+Duelodsvej 7,Store Fuglede,4480,2,40,1950,300000.0,29-09-2016
+Duelodsvej 5,Store Fuglede,4480,2,40,1950,220000.0,27-09-2016
+Fyrrestien Øst 10,Store Fuglede,4480,3,100,1976,830000.0,19-09-2016
+Jernhøj 10,Store Fuglede,4480,10,177,1888,1204375.0,12-09-2016
+Bjergevang 14,Store Fuglede,4480,3,68,1984,585000.0,08-09-2016
+Nyvej 11,Store Fuglede,4480,3,52,1958,475000.0,22-08-2016
+Fyrrebakken 9,Store Fuglede,4480,2,59,1962,575000.0,22-08-2016
+Solkrogen 5,Store Fuglede,4480,2,42,1984,300000.0,22-08-2016
+Egevej 2,Store Fuglede,4480,2,54,1958,360000.0,20-08-2016
+Lindevej 10,Store Fuglede,4480,2,30,1971,445000.0,17-08-2016
+Egevej 9,Store Fuglede,4480,3,38,1962,600000.0,16-08-2016
+Filipsdalvej 3,Store Fuglede,4480,4,127,1915,498000.0,04-08-2016
+Vestre Birkevej 11,Store Fuglede,4480,3,75,1978,1070000.0,02-08-2016
+Lyngsvinget 14,Store Fuglede,4480,3,60,1966,325000.0,31-07-2016
+Mosevænget 11,Store Fuglede,4480,5,104,1975,958000.0,29-07-2016
+Flinterupvej 5,Store Fuglede,4480,4,86,1937,350000.0,24-07-2016
+Havnemarken 17,Store Fuglede,4480,4,97,2005,975000.0,22-07-2016
+Enghavevej 6,Store Fuglede,4480,2,50,1969,450000.0,18-07-2016
+Filipsdalvej 12,Store Fuglede,4480,4,110,1905,1395000.0,08-07-2016
+Schousbovej 4,Store Fuglede,4480,3,68,2009,830000.0,08-07-2016
+Absalonsvej 11,Store Fuglede,4480,3,67,1973,880000.0,28-06-2016
+Østvej 2,Store Fuglede,4480,4,69,1967,670000.0,20-06-2016
+Blåmunkevej 13,Store Fuglede,4480,3,50,1967,580000.0,15-06-2016
+Vedbyvej 30,Store Fuglede,4480,3,87,2004,892500.0,02-06-2016
+Fredskovens Åvej 9,Store Fuglede,4480,4,78,1974,915000.0,30-05-2016
+Havnemarken 3,Store Fuglede,4480,9,233,1911,1950000.0,28-05-2016
+Flinterupvej 50,Store Fuglede,4480,6,174,1940,380000.0,26-05-2016
+Hasselstien 2,Store Fuglede,4480,4,63,1998,835000.0,25-05-2016
+Vognmandsvej 4,Store Fuglede,4480,3,99,1972,895000.0,19-05-2016
+Flinterupvej 60,Store Fuglede,4480,5,201,1900,1470000.0,19-05-2016
+Bjerge Byvej 29,Store Fuglede,4480,4,128,1915,730500.0,18-05-2016
+Lyngsvinget 21,Store Fuglede,4480,4,81,1967,735000.0,18-05-2016
+Havnemarken 34,Store Fuglede,4480,2,29,1932,410000.0,17-05-2016
+Askevej 2,Store Fuglede,4480,4,77,1965,680000.0,10-05-2016
+Østvej 35,Store Fuglede,4480,5,65,1974,250000.0,09-05-2016
+Lyngvænget 9,Store Fuglede,4480,3,50,1973,350000.0,26-04-2016
+Modinsvej Vest 1,Store Fuglede,4480,4,61,1964,1100000.0,19-04-2016
+Frødammen 23,Store Fuglede,4480,3,66,1973,695000.0,18-04-2016
+Frødammen 13,Store Fuglede,4480,3,66,1979,695000.0,13-04-2016
+Tystrupvej 7,Store Fuglede,4480,4,142,1942,995000.0,13-04-2016
+Flinterup Mark 15,Store Fuglede,4480,5,143,1931,695000.0,06-04-2016
+Kobjældevej 4,Store Fuglede,4480,4,56,1964,575000.0,05-04-2016
+Maderne 10,Store Fuglede,4480,3,87,1877,200000.0,01-04-2016
+Bøgelunden 10,Store Fuglede,4480,3,55,1961,350000.0,22-03-2016
+Fredskovens Søvej 7,Store Fuglede,4480,3,50,1969,1150000.0,22-03-2016
+Blåmunkevej 12,Store Fuglede,4480,3,50,1965,195000.0,18-03-2016
+Tystrupvej 28,Store Fuglede,4480,6,125,1887,1860000.0,18-03-2016
+Fredskovens Engvej 7,Store Fuglede,4480,4,60,1974,895000.0,12-03-2016
+Fredskovvej Øst 2,Store Fuglede,4480,5,71,1966,770000.0,10-03-2016
+Hybenvej Vest 10,Store Fuglede,4480,3,65,1970,729800.0,09-03-2016
+Birkeholmvænget 12,Store Fuglede,4480,3,56,1965,575000.0,19-02-2016
+Tystrupvej 4,Store Fuglede,4480,4,150,1976,495000.0,17-02-2016
+Holmevej 19,Store Fuglede,4480,3,72,1976,525000.0,16-02-2016
+Poppelhegnet 16,Store Fuglede,4480,2,52,1961,289000.0,15-02-2016
+Søvang 7,Store Fuglede,4480,6,216,1870,5337500.0,29-01-2016
+Flinterupvej 71,Store Fuglede,4480,3,93,1800,205162.0,28-01-2016
+Flinterupvej 74,Store Fuglede,4480,7,105,1928,553750.0,24-01-2016
+Flinterupvej 58,Store Fuglede,4480,5,131,1902,310000.0,22-01-2016
+Hyrdehusvej 13,Store Fuglede,4480,3,50,1960,550000.0,20-01-2016
+Tystrupvej 23,Store Fuglede,4480,3,107,1938,613750.0,13-01-2016
+Fyrrehegnet 22,Store Fuglede,4480,3,46,1966,335000.0,04-01-2016
+Lyngsandet 12,Store Fuglede,4480,4,62,1965,300000.0,30-12-2015
+Blåmunkevej 26,Store Fuglede,4480,3,50,1960,1700000.0,30-12-2015
+Fyrrehegnet 25,Store Fuglede,4480,3,45,1968,240000.0,20-12-2015
+Tystrupvej 17,Store Fuglede,4480,2,119,1910,450000.0,16-12-2015
+Ingeborgs Alle 12,Store Fuglede,4480,3,95,2013,380000.0,11-12-2015
+Flinterupvej 17,Store Fuglede,4480,4,132,1912,550000.0,10-12-2015
+Egernvej 13,Store Fuglede,4480,2,68,1962,650000.0,26-11-2015
+Frødammen 21,Store Fuglede,4480,2,42,1975,552500.0,23-11-2015
+Osvejen 7B,Store Fuglede,4480,6,168,1938,553500.0,19-11-2015
+Urhøjvej 36,Store Fuglede,4480,2,58,1935,148000.0,11-11-2015
+Fyrrebakken 26,Store Fuglede,4480,5,61,1960,697000.0,10-11-2015
+Lyngparken 10,Store Fuglede,4480,4,71,1974,860000.0,04-11-2015
+Lyngsvinget 2,Store Fuglede,4480,2,28,1965,100000.0,29-10-2015
+Fyllavej 13,Store Fuglede,4480,3,53,1973,220000.0,29-10-2015
+Bjerge Byvej 2,Store Fuglede,4480,3,90,1926,245000.0,26-10-2015
+Hasselstien 1,Store Fuglede,4480,2,30,1950,52993.0,30-09-2015
+Holmekrogen 3,Store Fuglede,4480,2,41,1966,345000.0,29-09-2015
+Duelodsvej 8,Store Fuglede,4480,2,30,1960,109429.0,28-09-2015
+Hasselstien 3,Store Fuglede,4480,2,30,1950,49227.0,25-09-2015
+Duelodsvej 1,Store Fuglede,4480,3,50,1950,79463.0,24-09-2015
+Fredskovens Birkevej 1,Store Fuglede,4480,2,43,1966,350000.0,21-09-2015
+Fredskovens Lyngvej 8,Store Fuglede,4480,4,64,1967,617900.0,07-09-2015
+Frejasvej 12,Store Fuglede,4480,5,129,1999,1500000.0,06-09-2015
+Odinsvej Øst 15,Store Fuglede,4480,6,100,1966,820000.0,01-09-2015
+Lindevej 89,Store Fuglede,4480,2,39,1965,233000.0,30-08-2015
+Rønnevej 20,Store Fuglede,4480,4,66,1965,700000.0,28-08-2015
+Frejasvej 17,Store Fuglede,4480,4,136,1967,525000.0,27-08-2015
+Bjerge Byvej 18,Store Fuglede,4480,4,136,1974,1205000.0,21-08-2015
+Fyrrebakken 25,Store Fuglede,4480,2,36,1960,400000.0,14-08-2015
+Fyrrestien Vest 6,Store Fuglede,4480,4,82,1957,850000.0,10-08-2015
+Fyrrestien Vest 16,Store Fuglede,4480,4,69,1967,824500.0,06-08-2015
+Tystrupvej 1,Store Fuglede,4480,4,88,1917,400000.0,02-08-2015
+Enghavevej 7,Store Fuglede,4480,3,67,1962,310000.0,30-07-2015
+Modinsvej Øst 13,Store Fuglede,4480,5,90,1970,590000.0,29-07-2015
+Frødammen 32,Store Fuglede,4480,4,48,1969,660000.0,23-07-2015
+Stenlodsvej 23,Store Fuglede,4480,4,62,1997,1045000.0,16-07-2015
+Tystrupvej 43,Store Fuglede,4480,4,120,1942,1190000.0,13-07-2015
+Modinsvej Øst 11,Store Fuglede,4480,5,119,2013,1600000.0,08-07-2015
+Lyngsandet 8,Store Fuglede,4480,4,38,1971,320000.0,29-06-2015
+Krokusvej 3,Store Fuglede,4480,4,113,2008,885150.0,26-06-2015
+Banevej 7,Store Fuglede,4480,5,110,1903,200000.0,16-06-2015
+Strandlodsvej 13,Store Fuglede,4480,4,66,1972,875000.0,14-06-2015
+Nørrevang 1,Store Fuglede,4480,10,186,1950,449000.0,29-05-2015
+Odinsvej Øst 7,Store Fuglede,4480,4,110,1970,566053.0,20-05-2015
+Fyllavej 8,Store Fuglede,4480,4,70,1980,640000.0,16-05-2015
+Nørrevang 3,Store Fuglede,4480,6,250,1970,1550000.0,06-05-2015
+Flinterupvej 62E,Store Fuglede,4480,4,117,1900,3770260.0,28-04-2015
+Krokusvej 22,Store Fuglede,4480,4,77,2005,860000.0,16-04-2015
+Åmarksvej 35,Store Fuglede,4480,4,76,2002,1100000.0,03-04-2015
+Odinsvej Øst 2,Store Fuglede,4480,3,66,1993,665000.0,02-04-2015
+Nyvej 14,Store Fuglede,4480,3,66,1962,550000.0,12-03-2015
+Østre Ågårdsvej 8,Store Fuglede,4480,5,111,2002,100000.0,05-03-2015
+Flinterupvej 68,Store Fuglede,4480,6,158,1928,425000.0,04-03-2015
+Lyngsvinget 23,Store Fuglede,4480,3,56,2011,840000.0,25-02-2015
+Fyrrebakken 17,Store Fuglede,4480,3,49,1961,580000.0,24-02-2015
+Fyrrebakken 11,Store Fuglede,4480,4,82,2015,300000.0,23-02-2015
+Eckbohusvej 4,Store Fuglede,4480,4,115,1900,550000.0,04-02-2015
+Østvej 33,Store Fuglede,4480,4,57,1983,700000.0,03-02-2015
+Nørrevang 30,Store Fuglede,4480,4,51,1976,575000.0,14-01-2015
+Tystrupvej 12,Store Fuglede,4480,3,105,1987,785000.0,14-01-2015
+Østre Ågårdsvej 15,Store Fuglede,4480,3,91,2016,235000.0,11-01-2015
+Hybenvej Vest 4,Store Fuglede,4480,3,45,1953,150000.0,08-01-2015
+Lyngparken 11,Store Fuglede,4480,3,56,1970,570000.0,19-12-2014
+Fyrrestien Øst 4,Store Fuglede,4480,4,100,1971,950000.0,18-12-2014
+Sandstien 3,Store Fuglede,4480,4,93,1966,1491750.0,16-12-2014
+Lyngsvinget 31,Store Fuglede,4480,3,35,1965,218750.0,04-12-2014
+Banevej 25,Store Fuglede,4480,3,100,1957,750000.0,25-11-2014
+Elmelunden 10,Store Fuglede,4480,2,89,1999,500000.0,13-11-2014
+Søndervang 27,Store Fuglede,4480,8,293,1957,917500.0,03-11-2014
+Frødammen 25,Store Fuglede,4480,2,88,1972,412500.0,31-10-2014
+Stubbevej 4,Store Fuglede,4480,4,60,1974,337500.0,29-10-2014
+Tjørnevænget 6,Store Fuglede,4480,4,63,1971,800000.0,16-10-2014
+Fredskovens Birkevej 3,Store Fuglede,4480,4,60,1974,775000.0,02-10-2014
+Lyngsvinget 18,Store Fuglede,4480,5,60,1963,600000.0,01-10-2014
+Lynglodsvej 13,Store Fuglede,4480,3,38,1971,94392.0,29-09-2014
+Lynglodsvej 19,Store Fuglede,4480,4,54,1950,127033.0,29-09-2014
+Lynglodsvej 41,Store Fuglede,4480,2,40,1960,79272.0,29-09-2014
+Lynglodsvej 39,Store Fuglede,4480,3,50,1991,82663.0,29-09-2014
+Stubbevej 14,Store Fuglede,4480,4,84,1962,119968.0,29-09-2014
+Lindevej 33,Store Fuglede,4480,3,74,1967,465000.0,29-09-2014
+Tremandsmarken 7,Store Fuglede,4480,3,49,2002,1850000.0,27-09-2014
+Havnemarken 27,Store Fuglede,4480,1,275,1941,4100000.0,26-09-2014
+Holmekrogen 15,Store Fuglede,4480,2,37,1960,400000.0,23-09-2014
+Kobjældevej 3,Store Fuglede,4480,4,43,1964,435000.0,19-09-2014
+Blåmunkevej 10,Store Fuglede,4480,3,23,1967,314500.0,17-09-2014
+Fyllavej 3,Store Fuglede,4480,5,105,1973,775000.0,11-09-2014
+Vestre Birkevej 18,Store Fuglede,4480,3,59,2011,500000.0,27-08-2014
+Lindevej 32,Store Fuglede,4480,1,18,1969,595000.0,19-08-2014
+Lyngbuen 10,Store Fuglede,4480,3,50,1965,595000.0,19-08-2014
+Stenlodsvej 9,Store Fuglede,4480,3,53,1956,415000.0,17-08-2014
+Lyngsvinget 1,Store Fuglede,4480,4,94,1979,738300.0,01-08-2014
+Lyngsvinget 24,Store Fuglede,4480,3,52,1966,700000.0,29-07-2014
+Johannevej 8,Store Fuglede,4480,5,50,1958,495000.0,25-07-2014
+Mosevænget 5,Store Fuglede,4480,5,97,1972,925000.0,23-07-2014
+Lindevej 44,Store Fuglede,4480,2,36,1962,285000.0,16-07-2014
+Hyrdehusvej 5,Store Fuglede,4480,3,40,1959,422300.0,14-07-2014
+Birkeholmvænget 11,Store Fuglede,4480,4,88,1970,600000.0,02-07-2014
+Fyrrebakken 4,Store Fuglede,4480,3,50,1973,200000.0,01-07-2014
+Flinterupvej 127,Store Fuglede,4480,4,182,1901,140000.0,17-06-2014
+Tjørnelunden 11,Store Fuglede,4480,2,50,1972,150000.0,10-06-2014
+Lindevej 56,Store Fuglede,4480,3,56,1980,570000.0,03-06-2014
+Solkrogen 2,Store Fuglede,4480,3,61,1973,450000.0,02-06-2014
+Vestre Birkevej 16,Store Fuglede,4480,3,65,1952,970000.0,23-05-2014
+Tystrupvej 31,Store Fuglede,4480,6,171,2017,43750.0,22-05-2014
+Fyllavej 9,Store Fuglede,4480,3,42,2004,550000.0,21-05-2014
+Rønnevej 3,Store Fuglede,4480,3,72,1970,850000.0,07-05-2014
+Voldstien 1,Store Fuglede,4480,5,100,1965,2495000.0,23-04-2014
+Østre Ågårdsvej 21,Store Fuglede,4480,3,55,1970,645000.0,16-04-2014
+Fyllavej 5A,Store Fuglede,4480,2,42,1965,300000.0,11-04-2014
+Elmelunden 13,Store Fuglede,4480,3,96,1962,1025000.0,11-04-2014
+Åmarksvej 17,Store Fuglede,4480,3,70,2014,165000.0,04-04-2014
+Lyngsvinget 42,Store Fuglede,4480,4,60,2014,420000.0,01-04-2014
+Modinsvej Øst 12,Store Fuglede,4480,4,78,1973,735000.0,19-03-2014
+Vestre Ågårdsvej 3,Store Fuglede,4480,3,50,1964,540000.0,14-03-2014
+Fredskovvej Vest 15,Store Fuglede,4480,7,181,1963,2070000.0,06-03-2014
+Elmelunden 4,Store Fuglede,4480,3,39,1975,629000.0,27-02-2014
+Elmelunden 2,Store Fuglede,4480,4,59,1965,412500.0,25-02-2014
+Flinterupvej 23,Store Fuglede,4480,3,81,1898,292000.0,30-01-2014
+Vognmandsvej 3,Store Fuglede,4480,4,140,1900,775000.0,24-01-2014
+Søndervang 52,Store Fuglede,4480,3,45,1947,945100.0,16-01-2014
+Fugledevej 42,Store Fuglede,4480,3,101,1910,150000.0,14-01-2014
+Tystrupvej 40,Store Fuglede,4480,4,137,1918,473550.0,20-12-2013
+Schousbovej 6,Store Fuglede,4480,5,80,1972,425000.0,16-12-2013
+Duelodsvej 10,Store Fuglede,4480,3,55,1993,200000.0,16-12-2013
+Hyrdehusvej 19,Store Fuglede,4480,2,51,1962,495000.0,26-11-2013
+Urhøjvej 7,Store Fuglede,4480,5,130,1900,825000.0,19-11-2013
+Jernhøj 3,Store Fuglede,4480,3,95,1897,800000.0,07-11-2013
+Flinterupvej 117,Store Fuglede,4480,3,114,1877,110000.0,06-11-2013
+Tjørnelunden 32,Store Fuglede,4480,5,69,1969,365000.0,30-10-2013
+Hyrdehusvej 14,Store Fuglede,4480,3,63,1971,500000.0,28-10-2013
+Østre Egevej 12,Store Fuglede,4480,6,110,1972,1000000.0,24-10-2013
+Kæruldsvej 7,Store Fuglede,4480,5,85,1963,650000.0,13-10-2013
+Tjørnelunden 7,Store Fuglede,4480,4,75,1991,745000.0,10-10-2013
+Flinterupvej 65,Store Fuglede,4480,4,218,1905,695623.0,03-10-2013
+Tystrupvej 37,Store Fuglede,4480,5,208,1900,1400000.0,27-09-2013
+Tystrupvej 11,Store Fuglede,4480,7,150,1777,1200000.0,11-09-2013
+Frødammen 39,Store Fuglede,4480,3,56,1968,450000.0,04-09-2013
+Fredskovens Gyvelvej 4,Store Fuglede,4480,6,98,1970,575000.0,03-09-2013
+Fredskovens Engvej 16,Store Fuglede,4480,5,63,1965,880000.0,22-08-2013
+Nyboderstien 11,Store Fuglede,4480,3,54,1965,145000.0,21-08-2013
+Eckbohusvej 2,Store Fuglede,4480,3,131,1992,550000.0,10-08-2013
+Kobjældevej 16,Store Fuglede,4480,4,64,1962,600000.0,03-08-2013
+Hjertegræsvej 13,Store Fuglede,4480,2,24,1965,320000.0,03-08-2013
+Østvej 34,Store Fuglede,4480,4,65,1962,550000.0,30-07-2013
+Østre Egevej 24,Store Fuglede,4480,3,84,1985,500000.0,29-07-2013
+Hjertegræsvej 4,Store Fuglede,4480,2,28,1963,250000.0,29-07-2013
+Kobjældevej 15,Store Fuglede,4480,3,63,2013,165000.0,26-07-2013
+Østvej 40,Store Fuglede,4480,3,90,1968,530000.0,12-07-2013
+Træskostien 3,Store Fuglede,4480,4,70,1965,892500.0,04-07-2013
+Østvej 22,Store Fuglede,4480,3,63,1963,75000.0,03-07-2013
+Eckbohusvej 10,Store Fuglede,4480,4,59,1979,1100000.0,21-06-2013
+Flinterupvej 11,Store Fuglede,4480,2,55,1936,95000.0,03-06-2013
+Ved Kanalen 3,Store Fuglede,4480,3,101,2006,2300000.0,27-05-2013
+Keldsvej 1,Store Fuglede,4480,3,135,1932,500000.0,24-05-2013
+Vedbyvej 4,Store Fuglede,4480,4,70,1996,800000.0,15-05-2013
+Fredskovens Engvej 5,Store Fuglede,4480,3,70,1972,775000.0,02-05-2013
+Rønnevej 6,Store Fuglede,4480,2,57,1967,900000.0,28-04-2013
+Kanalvej 18,Store Fuglede,4480,3,50,1972,530000.0,14-04-2013
+Strandlodsvej 5,Store Fuglede,4480,4,79,1980,645800.0,14-04-2013
+Hjertegræsvej 9,Store Fuglede,4480,3,80,1977,425000.0,10-04-2013
+Bakkendrupvej 30,Store Fuglede,4480,5,225,1910,950000.0,08-04-2013
+Østre Egevej 15,Store Fuglede,4480,5,87,1975,945000.0,07-03-2013
+Østvej 36,Store Fuglede,4480,4,66,1963,350000.0,06-03-2013
+Flinterupvej 13,Store Fuglede,4480,3,80,1900,80000.0,14-02-2013
+Femvejen 7,Store Fuglede,4480,4,67,1976,310000.0,11-02-2013
+Ingeborgs Alle 4,Store Fuglede,4480,2,50,1953,714000.0,04-02-2013
+Havnemarken 11,Store Fuglede,4480,2,35,1930,450000.0,22-01-2013
+Hyrdehusvej 7,Store Fuglede,4480,3,90,1961,575000.0,21-01-2013
+Havnemarken 8,Store Fuglede,4480,2,115,1942,1070000.0,21-01-2013
+Johannevej 18,Store Fuglede,4480,4,80,1978,876300.0,10-01-2013
+Frejasvej 20,Store Fuglede,4480,5,63,1966,578800.0,19-12-2012
+Hybenvej Vest 22,Store Fuglede,4480,1,45,1940,1105000.0,19-12-2012
+Enghavevej 8,Store Fuglede,4480,1,50,1940,418100.0,17-12-2012
+Kobjældevej 21,Store Fuglede,4480,1,28,1986,382500.0,27-11-2012
+Voldstien 9,Store Fuglede,4480,3,60,1972,762500.0,02-11-2012
+Odinsvej Øst 6,Store Fuglede,4480,4,90,1976,1045000.0,31-10-2012
+Stenlodsvej 31,Store Fuglede,4480,2,65,2015,350000.0,23-10-2012
+Bakkendrupvej 32,Store Fuglede,4480,5,180,1898,750000.0,11-10-2012
+Søndervang 36,Store Fuglede,4480,3,79,2014,625000.0,26-09-2012
+Blåmunkevej 22,Store Fuglede,4480,4,74,1960,552500.0,17-09-2012
+Flinterupvej 78,Store Fuglede,4480,6,130,1965,575000.0,14-09-2012
+Odinsvej Vest 2,Store Fuglede,4480,3,70,1964,537500.0,10-09-2012
+Lyngsvinget 38,Store Fuglede,4480,3,60,1964,750000.0,31-08-2012
+Holmekrogen 5,Store Fuglede,4480,2,41,1955,425000.0,29-08-2012
+Vedbyvej 24,Store Fuglede,4480,3,51,1935,448000.0,23-08-2012
+Johannevej 4,Store Fuglede,4480,2,40,1957,350000.0,17-08-2012
+Stubbevej 10,Store Fuglede,4480,3,54,1957,800000.0,09-08-2012
+Askevej 1,Store Fuglede,4480,3,42,1968,210000.0,08-08-2012
+Holmekrogen 7,Store Fuglede,4480,2,83,1965,300000.0,03-08-2012
+Nyvej 26,Store Fuglede,4480,4,94,1974,510000.0,30-07-2012
+Frøkær 4,Store Fuglede,4480,3,58,1971,500000.0,10-07-2012
+Blåmunkevej 20,Store Fuglede,4480,3,55,1966,830000.0,05-07-2012
+Hjertegræsvej 10,Store Fuglede,4480,4,55,1968,825000.0,28-06-2012
+Eckbohusvej 6,Store Fuglede,4480,4,85,1980,895000.0,21-06-2012
+Odinsvej Øst 1,Store Fuglede,4480,3,57,1967,525000.0,20-06-2012
+Osvejen 62,Store Fuglede,4480,3,45,1965,650000.0,20-06-2012
+Hyrdehusvej 34,Store Fuglede,4480,2,45,1933,375000.0,04-06-2012
+Flinterupvej 116,Store Fuglede,4480,8,245,1887,1600000.0,20-05-2012
+Østre Egevej 9,Store Fuglede,4480,3,78,2013,300000.0,08-05-2012
+Stenlodsvej 15,Store Fuglede,4480,3,46,1960,475000.0,04-05-2012
+Filipsdalvej 4,Store Fuglede,4480,6,183,1900,2000000.0,02-05-2012
+Østvej 6,Store Fuglede,4480,4,77,1980,500000.0,10-04-2012
+Flinterupvej 3,Store Fuglede,4480,5,120,1939,600000.0,04-04-2012
+Østvej 42,Store Fuglede,4480,2,46,1950,375000.0,03-04-2012
+Strandlodsvej 30,Store Fuglede,4480,2,48,2010,500000.0,29-03-2012
+Stenlodsvej 41,Store Fuglede,4480,2,59,1933,164093.0,24-02-2012
+Stenlodsvej 39,Store Fuglede,4480,2,30,1938,117810.0,23-02-2012
+Stenlodsvej 25,Store Fuglede,4480,4,68,2011,117109.0,22-02-2012
+Stenlodsvej 29,Store Fuglede,4480,2,40,2006,79709.0,22-02-2012
+Stenlodsvej 35,Store Fuglede,4480,2,43,1950,145159.0,22-02-2012
+Stenlodsvej 37,Store Fuglede,4480,2,50,1934,136978.0,22-02-2012
+Stenlodsvej 5,Store Fuglede,4480,3,56,2004,95136.0,21-02-2012
+Stenlodsvej 13,Store Fuglede,4480,2,47,1950,100746.0,21-02-2012
+Stenlodsvej 21,Store Fuglede,4480,3,28,1960,116641.0,21-02-2012
+Stenlodsvej 17,Store Fuglede,4480,5,78,2010,122251.0,21-02-2012
+Fredskovens Åvej 8,Store Fuglede,4480,3,54,1963,500000.0,19-02-2012
+Stenlodsvej 1,Store Fuglede,4480,3,40,1947,97006.0,08-02-2012
+Fredskovens Lyngvej 10,Store Fuglede,4480,5,65,1980,531250.0,08-02-2012
+Hasselstien 4,Store Fuglede,4480,4,78,1983,970000.0,07-02-2012
+Fredskovvej Vest 2,Store Fuglede,4480,3,89,1994,1200000.0,06-02-2012
+Østvej 11,Store Fuglede,4480,6,88,1960,310000.0,25-01-2012
+Flinterupvej 63,Store Fuglede,4480,4,121,1938,300000.0,12-12-2011
+Fredskovens Birkevej 5,Store Fuglede,4480,3,50,1965,571900.0,01-12-2011
+Østre Ågårdsvej 1,Store Fuglede,4480,5,76,1973,912500.0,23-11-2011
+Birkeholmvænget 7,Store Fuglede,4480,4,66,1965,445130.0,23-11-2011
+Kanalvej 10,Store Fuglede,4480,4,94,2004,1400000.0,22-11-2011
+Nyvej 12,Store Fuglede,4480,4,70,1957,450000.0,18-11-2011
+Hybenvej Vest 2,Store Fuglede,4480,2,54,1957,345000.0,01-11-2011
+Odinsvej Vest 10,Store Fuglede,4480,5,117,1966,1600000.0,19-10-2011
+Enghavevej 9,Store Fuglede,4480,3,58,1965,430000.0,27-09-2011
+Klokkevej 2,Store Fuglede,4480,4,89,1973,420000.0,21-09-2011
+Lyngsvinget 27,Store Fuglede,4480,5,104,1966,298000.0,17-09-2011
+Åmarksvej 24,Store Fuglede,4480,3,45,1980,430000.0,09-09-2011
+Flinterupvej 107,Store Fuglede,4480,4,123,1900,30000.0,29-08-2011
+Hjertegræsvej 23,Store Fuglede,4480,4,40,1960,1225000.0,23-08-2011
+Frødammen 8,Store Fuglede,4480,2,63,1975,525000.0,15-08-2011
+Kobjældevej 11,Store Fuglede,4480,5,93,1982,965000.0,11-08-2011
+Enghavevej 13,Store Fuglede,4480,4,67,1965,445000.0,24-07-2011
+Bøgelunden 4,Store Fuglede,4480,5,88,1996,715000.0,21-07-2011
+Osvejen 80,Store Fuglede,4480,4,105,2013,400000.0,26-06-2011
+Duevej 17B,Store Fuglede,4480,4,114,2007,3300000.0,23-06-2011
+Banevej 15,Store Fuglede,4480,5,191,1928,200000.0,08-06-2011
+Bjergevang 17,Store Fuglede,4480,4,100,2012,1375000.0,23-05-2011
+Flinterupvej 102,Store Fuglede,4480,6,136,1920,1195000.0,16-05-2011
+Flinterupvej 1,Store Fuglede,4480,3,110,1969,440000.0,04-05-2011
+Tjørnelunden 22,Store Fuglede,4480,3,108,2005,1550000.0,20-04-2011
+Bjerge Byvej 17,Store Fuglede,4480,5,124,1910,700000.0,18-04-2011
+Strandlodsvej 32,Store Fuglede,4480,3,68,2004,450000.0,28-03-2011
+Tystrupvej 41,Store Fuglede,4480,2,84,1901,686802.0,22-03-2011
+Flinterupvej 81,Store Fuglede,4480,4,151,1904,200000.0,21-03-2011
+Frødammen 17,Store Fuglede,4480,3,55,1978,560000.0,20-03-2011
+Pilemosevej 2,Store Fuglede,4480,4,74,1970,550000.0,19-03-2011
+Odinsvej Øst 16,Store Fuglede,4480,4,96,1968,1105000.0,11-03-2011
+Tystrupvej 36,Store Fuglede,4480,5,127,1911,700000.0,09-03-2011
+Skolelodden 5,Store Fuglede,4480,3,115,1972,630000.0,28-02-2011
+Maderne 6,Store Fuglede,4480,2,96,1852,1170000.0,21-02-2011
+Osvejen 79,Store Fuglede,4480,4,93,1972,700000.0,17-02-2011
+Nålestien 32,Store Fuglede,4480,1,16,1955,555000.0,02-02-2011
+Solkrogen 23,Store Fuglede,4480,3,82,2005,1180000.0,30-01-2011
+Pilemosevej 6,Store Fuglede,4480,4,62,1963,200000.0,26-01-2011
+Flinterupvej 52,Store Fuglede,4480,4,127,1930,1600000.0,18-01-2011
+Kanalvej 16,Store Fuglede,4480,4,60,1975,810000.0,14-01-2011
+Hjertegræsvej 21,Store Fuglede,4480,5,71,1961,1300000.0,29-12-2010
+Sandstien 1,Store Fuglede,4480,5,87,1970,1752600.0,22-12-2010
+Birkeholmvænget 13,Store Fuglede,4480,3,49,1966,1000000.0,20-12-2010
+Fugledevej 29,Store Fuglede,4480,2,84,1874,1000000.0,18-12-2010
+Nålestien 34,Store Fuglede,4480,3,52,2012,400000.0,14-12-2010
+Absalonsvej 3,Store Fuglede,4480,3,60,2006,977500.0,10-12-2010
+Strandlodsvej 2,Store Fuglede,4480,2,33,1975,75000.0,01-12-2010
+Fredskovens Engvej 11,Store Fuglede,4480,3,100,1971,1700000.0,24-11-2010
+Johannevej 1,Store Fuglede,4480,3,37,1985,1725000.0,22-11-2010
+Flinterupvej 46,Store Fuglede,4480,3,94,1966,700000.0,18-11-2010
+Gærdestien 6,Store Fuglede,4480,3,96,1943,1650000.0,16-11-2010
+Vestre Birkevej 13,Store Fuglede,4480,3,65,1959,900000.0,09-11-2010
+Lindevej 50,Store Fuglede,4480,4,44,1961,682500.0,02-11-2010
+Østre Egevej 7,Store Fuglede,4480,4,85,1970,1000000.0,22-10-2010
+Flinterupvej 76,Store Fuglede,4480,5,131,1900,820000.0,12-10-2010
+Frejasvej 7,Store Fuglede,4480,5,105,1970,1350000.0,06-10-2010
+Vognmandsvej 6,Store Fuglede,4480,3,133,1957,675000.0,30-09-2010
+Fredskovens Søvej 5,Store Fuglede,4480,6,80,1969,1500000.0,24-09-2010
+Modinsvej Vest 13,Store Fuglede,4480,3,92,2007,3380000.0,18-09-2010
+Fyllavej 1,Store Fuglede,4480,3,99,1970,275000.0,15-09-2010
+Jernhøj 11,Store Fuglede,4480,3,86,1902,775000.0,24-08-2010
+Frøkær 3,Store Fuglede,4480,3,79,2011,240000.0,23-08-2010
+Fyrrestien Vest 3,Store Fuglede,4480,4,75,1962,1100000.0,05-08-2010
+Kobjældevej 26,Store Fuglede,4480,3,43,1960,1800000.0,31-07-2010
+Flinterup Mark 14,Store Fuglede,4480,7,210,1877,1400000.0,23-07-2010
+Lyngsvinget 6,Store Fuglede,4480,5,60,1965,892500.0,12-07-2010
+Bjergevang 9,Store Fuglede,4480,5,104,1971,900000.0,01-07-2010
+Egevej 3,Store Fuglede,4480,3,78,2008,589443.0,28-06-2010
+Flinterupvej 85,Store Fuglede,4480,3,140,1922,140000.0,17-06-2010
+Fredskovens Gyvelvej 8,Store Fuglede,4480,4,78,1963,1850000.0,08-06-2010
+Flinterupvej 83,Store Fuglede,4480,7,292,1927,462000.0,31-05-2010
+Lindevej 62,Store Fuglede,4480,4,64,1966,835000.0,28-05-2010
+Keldsvej 6,Store Fuglede,4480,4,140,1900,50000.0,25-05-2010
+Hybenvej Vest 16,Store Fuglede,4480,2,48,1951,765000.0,12-05-2010
+Osvejen 90,Store Fuglede,4480,4,66,1970,630000.0,12-05-2010
+Birkeholmvænget 5,Store Fuglede,4480,3,64,1960,731000.0,12-05-2010
+Holmevej 17,Store Fuglede,4480,4,102,1994,800000.0,10-05-2010
+Osvejen 70,Store Fuglede,4480,3,56,1968,970000.0,04-05-2010
+Bjerge Byvej 37,Store Fuglede,4480,4,126,1908,1350000.0,29-04-2010
+Flinterupvej 62C,Store Fuglede,4480,6,298,2012,150000.0,29-04-2010
+Hjertegræsvej 16,Store Fuglede,4480,2,21,1961,425000.0,16-04-2010
+Åmarksvej 33,Store Fuglede,4480,4,70,1961,545000.0,06-04-2010
+Hybenvej Øst 7,Store Fuglede,4480,4,66,2006,1100000.0,12-02-2010
+Femvejen 3,Store Fuglede,4480,3,43,1969,330000.0,12-02-2010
+Åmarksvej 34,Store Fuglede,4480,2,32,1960,184000.0,13-01-2010
+Hjertegræsvej 15,Store Fuglede,4480,5,102,2004,1310000.0,22-12-2009
+Flinterupvej 54,Store Fuglede,4480,5,198,1903,1250000.0,17-12-2009
+Østvej 20,Store Fuglede,4480,4,67,1961,795000.0,16-12-2009
+Blåmunkevej 11,Store Fuglede,4480,4,77,1993,722500.0,14-12-2009
+Schousbovej 2,Store Fuglede,4480,3,49,1950,180000.0,02-12-2009
+Modinsvej Øst 2,Store Fuglede,4480,4,62,1962,525000.0,15-11-2009
+Holmevej 7,Store Fuglede,4480,4,108,2011,325000.0,11-10-2009
+Hyrdehusvej 6,Store Fuglede,4480,3,62,1955,590000.0,05-10-2009
+Odinsvej Øst 4,Store Fuglede,4480,4,81,1972,1060000.0,18-09-2009
+Hybenvej Vest 12,Store Fuglede,4480,4,118,1962,1700000.0,06-09-2009
+Lindevej 12,Store Fuglede,4480,4,60,1979,950000.0,25-08-2009
+Lynglodsvej 5,Store Fuglede,4480,3,49,1949,600000.0,22-08-2009
+Vedbyvej 6,Store Fuglede,4480,2,65,1950,700000.0,18-08-2009
+Ingeborgs Alle 10,Store Fuglede,4480,2,50,1957,560000.0,07-08-2009
+Hyrdehusvej 10,Store Fuglede,4480,4,54,1981,1065000.0,29-07-2009
+Lyngsvinget 11,Store Fuglede,4480,2,32,1964,360000.0,28-07-2009
+Lyngsvinget 17,Store Fuglede,4480,4,82,1975,500000.0,15-07-2009
+Fredskovens Engvej 21,Store Fuglede,4480,3,49,1967,650000.0,23-06-2009
+Åmarksvej 23,Store Fuglede,4480,3,72,2007,1450000.0,12-06-2009
+Osvejen 72,Store Fuglede,4480,5,100,1967,680000.0,27-05-2009
+Søndervang 5,Store Fuglede,4480,4,130,1895,265000.0,06-05-2009
+Risengen 8,Store Fuglede,4480,2,48,1972,530000.0,30-04-2009
+Flinterupvej 61,Store Fuglede,4480,7,254,1965,1298000.0,25-04-2009
+Sandstien 2,Store Fuglede,4480,3,47,1964,800000.0,08-03-2009
+Lindevej 57,Store Fuglede,4480,3,62,1962,400000.0,05-03-2009
+Hybenvej Øst 6,Store Fuglede,4480,3,62,1969,800000.0,24-01-2009
+Egernvej 21,Store Fuglede,4480,3,102,2009,1600000.0,09-12-2008
+Urhøjvej 4,Store Fuglede,4480,3,223,1912,64000.0,27-11-2008
+Flinterup Mark 12,Store Fuglede,4480,4,102,1876,1000000.0,28-10-2008
+Frejasvej 22,Store Fuglede,4480,4,77,1968,1020000.0,06-10-2008
+Fyrrebakken 12,Store Fuglede,4480,3,46,1971,1000000.0,01-09-2008
+Flinterup Mark 5,Store Fuglede,4480,4,165,1918,1250000.0,28-08-2008
+Åbrinken 1,Store Fuglede,4480,4,33,1986,480000.0,28-08-2008
+Johannevej 11,Store Fuglede,4480,4,72,1974,1300000.0,27-08-2008
+Kanalvej 6,Store Fuglede,4480,5,86,1975,1105000.0,25-08-2008
+Nålestien 16,Store Fuglede,4480,2,26,1978,645000.0,10-08-2008
+Holmevej 13,Store Fuglede,4480,3,60,1962,800000.0,28-07-2008
+Jernhøj 8,Store Fuglede,4480,4,128,1900,3800000.0,21-07-2008
+Fyrrestien Vest 5,Store Fuglede,4480,3,54,1960,650000.0,15-07-2008
+Vognmandsvej 1,Store Fuglede,4480,2,91,1880,810000.0,12-07-2008
+Fredskovens Birkevej 8,Store Fuglede,4480,4,75,1968,1019402.0,10-07-2008
+Strandlodsvej 11,Store Fuglede,4480,3,40,1970,865000.0,29-06-2008
+Søndervang 40,Store Fuglede,4480,3,38,1960,640000.0,25-06-2008
+Flinterupvej 93,Store Fuglede,4480,6,185,1960,738149.0,25-06-2008
+Fredskovens Gyvelvej 6,Store Fuglede,4480,4,53,1963,1020000.0,24-06-2008
+Søndervang 34,Store Fuglede,4480,3,51,1959,760000.0,21-06-2008
+Risengen 2,Store Fuglede,4480,5,57,1964,1095000.0,30-05-2008
+Gærdestien 2,Store Fuglede,4480,2,62,1963,1635000.0,21-05-2008
+Voldstien 11,Store Fuglede,4480,5,90,1964,1285000.0,09-05-2008
+Fredskovvej Øst 5,Store Fuglede,4480,4,62,1963,1095000.0,08-05-2008
+Nålestien 26,Store Fuglede,4480,2,25,1959,545000.0,24-04-2008
+Frødammen 30,Store Fuglede,4480,3,60,1966,705000.0,11-04-2008
+Flinterupvej 27,Store Fuglede,4480,5,120,1900,1275000.0,03-04-2008
+Lindevej 35,Store Fuglede,4480,4,114,1974,1495000.0,28-03-2008
+Fredskovens Søvej 3,Store Fuglede,4480,4,79,1963,977500.0,26-03-2008
+Piletoften 6,Store Fuglede,4480,3,48,1961,300000.0,25-03-2008
+Flinterup Mark 18,Store Fuglede,4480,4,132,1974,6500000.0,15-03-2008
+Banevej 11,Store Fuglede,4480,3,140,1908,700000.0,12-03-2008
+Vestervang 22,Store Fuglede,4480,4,57,2005,1450000.0,08-02-2008
+Hybenvej Vest 18,Store Fuglede,4480,3,42,1960,561000.0,10-01-2008
+Fyrrestien Vest 4,Store Fuglede,4480,2,121,1958,1700000.0,02-01-2008
+Krokusvej 12,Store Fuglede,4480,3,52,1967,637500.0,02-01-2008
+Hjertegræsvej 18,Store Fuglede,4480,2,32,1966,620500.0,01-01-2008
+Åmarksvej 19,Store Fuglede,4480,3,74,1971,1181500.0,27-12-2007
+Lindevej 111,Store Fuglede,4480,4,82,2005,1495000.0,15-12-2007
+Nyvej 20,Store Fuglede,4480,4,62,1958,486251.0,14-12-2007
+Fredskovvej Vest 13,Store Fuglede,4480,5,90,1969,510000.0,12-12-2007
+Fyrrebakken 22,Store Fuglede,4480,3,65,1950,800000.0,05-12-2007
+Lindevej 36,Store Fuglede,4480,3,80,1965,800000.0,04-12-2007
+Østre Ågårdsvej 9,Store Fuglede,4480,3,69,1979,900000.0,25-11-2007
+Maderne 12,Store Fuglede,4480,3,80,1900,825000.0,24-11-2007
+Modinsvej Vest 18,Store Fuglede,4480,5,110,1932,1785000.0,15-11-2007
+Johannevej 7,Store Fuglede,4480,4,82,2010,773500.0,15-11-2007
+Østvej 18,Store Fuglede,4480,5,76,1964,765000.0,05-11-2007
+Lindevej 77,Store Fuglede,4480,4,54,1968,845000.0,18-10-2007
+Nyvej 18,Store Fuglede,4480,3,54,1960,697000.0,15-10-2007
+Vedbyvej 15,Store Fuglede,4480,3,48,1954,200000.0,14-10-2007
+Fyrrebakken 21,Store Fuglede,4480,3,59,1959,1300000.0,14-10-2007
+Poppelhegnet 12,Store Fuglede,4480,4,40,1960,275000.0,12-10-2007
+Bjergevang 30,Store Fuglede,4480,4,92,2008,850000.0,20-09-2007
+Hybenvej Øst 3,Store Fuglede,4480,3,70,1950,720000.0,18-09-2007
+Østvej 23,Store Fuglede,4480,2,32,1960,510000.0,15-09-2007
+Vedbyvej 20,Store Fuglede,4480,4,71,2013,612000.0,14-09-2007
+Flinterupvej 42,Store Fuglede,4480,6,115,1912,2200000.0,13-09-2007
+Havnemarken 24,Store Fuglede,4480,1,40,1950,850000.0,30-08-2007
+Klokkevej 5,Store Fuglede,4480,6,128,1973,1550000.0,28-08-2007
+Søndervang 48,Store Fuglede,4480,2,30,1951,841500.0,26-08-2007
+Bjergevang 19,Store Fuglede,4480,2,50,1961,697000.0,16-08-2007
+Risengen 4,Store Fuglede,4480,3,50,1965,825000.0,27-07-2007
+Roskildevej 13,Store Fuglede,4480,4,60,1959,400000.0,26-07-2007
+Frødammen 5A,Store Fuglede,4480,4,134,1975,1600000.0,08-07-2007
+Hybenvej Øst 9,Store Fuglede,4480,3,50,1958,675000.0,06-07-2007
+Østre Ågårdsvej 10,Store Fuglede,4480,3,55,1969,1410000.0,05-07-2007
+Flinterupvej 98,Store Fuglede,4480,3,90,1947,995000.0,04-07-2007
+Flinterupvej 112,Store Fuglede,4480,3,140,1969,1225000.0,28-06-2007
+Tjørnelunden 24,Store Fuglede,4480,3,55,1974,850000.0,23-06-2007
+Nyvej 16,Store Fuglede,4480,3,58,1958,1100000.0,14-06-2007
+Havnemarken 6,Store Fuglede,4480,7,174,1908,1795000.0,14-06-2007
+Åmarksvej 41,Store Fuglede,4480,3,58,1962,860000.0,12-06-2007
+Fredskovvej Øst 1,Store Fuglede,4480,5,80,1966,357022.0,07-06-2007
+Kanalvej 1,Store Fuglede,4480,3,69,1968,835000.0,25-05-2007
+Lyngsvinget 44,Store Fuglede,4480,3,48,1967,799000.0,20-05-2007
+Tystrupvej 34,Store Fuglede,4480,7,232,1911,1250000.0,20-05-2007
+Lindevej 18,Store Fuglede,4480,3,32,1967,720000.0,17-05-2007
+Tjørnelunden 8,Store Fuglede,4480,3,61,1969,800000.0,02-05-2007
+Solkrogen 16,Store Fuglede,4480,3,70,2006,1340000.0,01-05-2007
+Lynglodsvej 27,Store Fuglede,4480,3,51,1960,568400.0,30-04-2007
+Lynglodsvej 33,Store Fuglede,4480,2,32,1948,192693.0,22-04-2007
+Vestre Birkevej 10,Store Fuglede,4480,1,37,1940,527000.0,19-04-2007
+Bjerge Byvej 39,Store Fuglede,4480,7,183,1907,2100000.0,05-04-2007
+Flinterupvej 96,Store Fuglede,4480,3,98,1953,1395000.0,26-03-2007
+Tystrupvej 8,Store Fuglede,4480,5,162,1920,1345000.0,10-03-2007
+Egevej 12,Store Fuglede,4480,3,28,1960,960000.0,21-02-2007
+Søndervang 31,Store Fuglede,4480,5,94,1977,2300000.0,19-02-2007
+Duevej 8,Store Fuglede,4480,3,65,1968,1195000.0,10-02-2007
+Flinterup Mark 16,Store Fuglede,4480,5,123,1880,900000.0,09-02-2007
+Fyrrebakken 14,Store Fuglede,4480,2,42,1991,705500.0,27-01-2007
+Banevej 13,Store Fuglede,4480,5,110,1913,1125000.0,26-01-2007
+Krokusvej 18,Store Fuglede,4480,3,88,1988,1240000.0,25-01-2007
+Fyrrestien Vest 17,Store Fuglede,4480,3,73,2008,578000.0,19-01-2007
+Fredskovens Åvej 10,Store Fuglede,4480,3,50,1968,727000.0,18-01-2007
+Frødammen 35,Store Fuglede,4480,2,63,2007,400000.0,11-01-2007
+Fredskovens Engvej 1,Store Fuglede,4480,4,101,2004,1974800.0,10-01-2007
+Lindevej 29,Store Fuglede,4480,3,76,1981,1900000.0,09-01-2007
+Urhøjvej 28,Store Fuglede,4480,6,182,1880,11000000.0,09-01-2007
+Træskostien 8,Store Fuglede,4480,3,116,1965,2677500.0,26-12-2006
+Absalonsvej 8,Store Fuglede,4480,4,83,2008,467500.0,11-12-2006
+Havnemarken 19,Store Fuglede,4480,3,75,2009,705500.0,11-12-2006
+Pilemosevej 4,Store Fuglede,4480,5,75,1963,730000.0,08-12-2006
+Nålestien 22,Store Fuglede,4480,2,28,1961,650000.0,02-12-2006
+Hjertegræsvej 26,Store Fuglede,4480,5,114,2008,196000.0,13-10-2006
+Lindevej 40,Store Fuglede,4480,2,30,1962,425000.0,12-10-2006
+Lindevej 53,Store Fuglede,4480,3,78,2006,1375000.0,11-10-2006
+Blåmunkevej 5,Store Fuglede,4480,3,49,1969,654500.0,29-09-2006
+Vestre Ågårdsvej 4,Store Fuglede,4480,4,77,1971,892500.0,16-09-2006
+Klokkevej 7,Store Fuglede,4480,4,128,1975,1050000.0,12-09-2006
+Lindevej 87,Store Fuglede,4480,3,70,1966,890715.0,31-08-2006
+Åmarksvej 9,Store Fuglede,4480,4,63,1940,854000.0,28-08-2006
+Flinterupvej 56,Store Fuglede,4480,5,133,1820,895000.0,28-08-2006
+Fugledevej 40,Store Fuglede,4480,4,96,1908,1595000.0,23-08-2006
+Bjerge Landevej 7,Store Fuglede,4480,5,187,1906,1850000.0,17-08-2006
+Strandlodsvej 10,Store Fuglede,4480,5,101,2001,988125.0,14-08-2006
+Absalonsvej 7,Store Fuglede,4480,2,42,1969,1065000.0,11-08-2006
+Fredskovvej Øst 10,Store Fuglede,4480,3,32,1964,625000.0,01-08-2006
+Tystrupvej 30,Store Fuglede,4480,4,109,1925,875000.0,29-07-2006
+Holmevej 23,Store Fuglede,4480,3,74,1965,1137500.0,20-07-2006
+Flinterupvej 53A,Store Fuglede,4480,6,110,1939,895000.0,04-07-2006
+Fyllavej 20,Store Fuglede,4480,3,66,1998,1295000.0,03-07-2006
+Søndervej 30,Store Fuglede,4480,2,50,1959,1510000.0,29-06-2006
+Flinterup Mark 26,Store Fuglede,4480,3,118,1897,1625000.0,26-06-2006
+Flinterupvej 9,Store Fuglede,4480,3,80,1940,893000.0,23-06-2006
+Flinterupvej 14,Store Fuglede,4480,5,87,1981,253000.0,22-06-2006
+Klokkevej 11,Store Fuglede,4480,4,146,2009,170000.0,15-06-2006
+Duevej 14,Store Fuglede,4480,4,47,1960,603500.0,08-06-2006
+Fredskovens Engvej 26,Store Fuglede,4480,3,55,1965,1230000.0,04-06-2006
+Tjørnelunden 30,Store Fuglede,4480,2,67,1993,1000000.0,25-05-2006
+Søndervang 9,Store Fuglede,4480,4,110,1900,680000.0,22-05-2006
+Tremandsmarken 5,Store Fuglede,4480,2,48,1962,374000.0,22-05-2006
+Flinterupvej 19,Store Fuglede,4480,5,147,1889,722843.0,22-05-2006
+Vestre Ågårdsvej 9,Store Fuglede,4480,4,130,1965,595000.0,22-05-2006
+Skolestien 4,Store Fuglede,4480,3,257,1907,827500.0,22-05-2006
+Åengsvej 6,Store Fuglede,4480,4,76,1965,790000.0,22-05-2006
+Hyrdehusvej 1,Store Fuglede,4480,3,88,2009,250000.0,22-05-2006
+Solkrogen 19,Store Fuglede,4480,3,39,1988,306000.0,22-05-2006
+Banevej 19,Store Fuglede,4480,4,125,1950,454011.0,09-05-2006
+Østre Ågårdsvej 14,Store Fuglede,4480,1,58,1966,1050000.0,08-05-2006
+Vestervang 10,Store Fuglede,4480,3,75,1980,975000.0,01-05-2006
+Flinterupvej 16,Store Fuglede,4480,5,96,1937,810000.0,30-04-2006
+Egevej 15,Store Fuglede,4480,2,51,1970,660000.0,18-04-2006
+Flinterupvej 77,Store Fuglede,4480,5,154,1905,915000.0,15-04-2006
+Lindevej 113,Store Fuglede,4480,3,53,1970,735000.0,09-04-2006
+Birke Alle 5,Store Fuglede,4480,2,20,1960,390000.0,05-04-2006
+Flinterupvej 110,Store Fuglede,4480,3,78,1905,895000.0,31-03-2006
+Fredskovens Åvej 15,Store Fuglede,4480,4,60,1966,1165000.0,30-03-2006
+Poppelhegnet 3,Store Fuglede,4480,4,52,1966,850000.0,20-03-2006
+Kobjældevej 27,Store Fuglede,4480,5,153,2007,3750000.0,18-03-2006
+Birkeholmvænget 10,Store Fuglede,4480,3,84,1969,760000.0,10-03-2006
+Lyngsandet 6,Store Fuglede,4480,4,70,1986,1600000.0,06-03-2006
+Flinterupvej 73,Store Fuglede,4480,3,126,1900,1500000.0,13-02-2006
+Åengsvej 3,Store Fuglede,4480,3,85,1996,1649000.0,06-02-2006
+Vedbyvej 21,Store Fuglede,4480,3,38,1938,340000.0,20-12-2005
+Duevej 5,Store Fuglede,4480,4,64,1961,1120000.0,19-12-2005
+Åmarksvej 13A,Store Fuglede,4480,3,78,1982,795000.0,16-12-2005
+Fredskovvej Vest 17,Store Fuglede,4480,2,70,1965,2800000.0,15-12-2005
+Flinterupvej 82,Store Fuglede,4480,3,100,1900,670000.0,15-12-2005
+Søvang 5,Store Fuglede,4480,5,151,1930,875000.0,01-12-2005
+Bjerge Byvej 25,Store Fuglede,4480,5,186,1967,1238289.0,28-11-2005
+Fyrrestien Vest 1,Store Fuglede,4480,2,80,1960,400000.0,28-11-2005
+Poppelhegnet 8,Store Fuglede,4480,3,38,1957,745000.0,21-11-2005
+Stubbevej 12,Store Fuglede,4480,2,55,1961,725000.0,17-11-2005
+Fyrrestien Vest 15,Store Fuglede,4480,2,35,1935,795000.0,12-11-2005
+Vestervang 29,Store Fuglede,4480,3,56,1969,1425000.0,30-10-2005
+Vognmandsvej 7,Store Fuglede,4480,5,176,1935,1075000.0,25-10-2005
+Frøkær 6,Store Fuglede,4480,4,55,1967,800000.0,18-10-2005
+Flinterupvej 67A,Store Fuglede,4480,5,166,1925,1095000.0,18-10-2005
+Skolelodden 10,Store Fuglede,4480,5,167,1969,1045000.0,17-10-2005
+Flinterupvej 39,Store Fuglede,4480,2,81,1900,740000.0,13-10-2005
+Sandstien 4,Store Fuglede,4480,4,76,2006,300000.0,09-10-2005
+Åmarksvej 49,Store Fuglede,4480,2,76,1966,900000.0,21-09-2005
+Nålestien 2,Store Fuglede,4480,2,27,1960,410000.0,05-09-2005
+Johannevej 9,Store Fuglede,4480,2,42,1959,940000.0,29-08-2005
+Hjertegræsvej 2,Store Fuglede,4480,3,84,2013,240000.0,10-08-2005
+Bjerge Byvej 23,Store Fuglede,4480,5,103,1920,1040000.0,09-08-2005
+Egevej 7,Store Fuglede,4480,4,57,1961,798000.0,26-07-2005
+Flinterupvej 109,Store Fuglede,4480,3,90,1958,840000.0,22-07-2005
+Åmarksvej 10,Store Fuglede,4480,4,65,1976,995000.0,11-07-2005
+Lyngvænget 3,Store Fuglede,4480,3,54,2007,410000.0,11-07-2005
+Lindevej 5,Store Fuglede,4480,3,56,1966,750000.0,11-07-2005
+Nyboderstien 1,Store Fuglede,4480,3,43,1960,645000.0,06-07-2005
+Lindevej 59,Store Fuglede,4480,4,82,1965,767300.0,05-07-2005
+Solkrogen 29,Store Fuglede,4480,3,60,1970,785000.0,27-06-2005
+Johannevej 3,Store Fuglede,4480,3,30,1959,297500.0,26-06-2005
+Vestre Ågårdsvej 1,Store Fuglede,4480,2,57,1991,1065000.0,16-06-2005
+Kæruldsvej 9,Store Fuglede,4480,3,79,1970,890000.0,31-05-2005
+Kobjældevej 18,Store Fuglede,4480,3,66,2005,1525000.0,27-05-2005
+Flinterupvej 47,Store Fuglede,4480,3,90,1900,241445.0,26-05-2005
+Lynglodsvej 1,Store Fuglede,4480,4,103,2006,875000.0,20-05-2005
+Lindevej 92,Store Fuglede,4480,4,120,2007,395000.0,20-05-2005
+Hyrdehusvej 31,Store Fuglede,4480,2,19,1950,300000.0,14-05-2005
+Johannevej 14,Store Fuglede,4480,3,48,1957,133875.0,13-05-2005
+Søvang 2,Store Fuglede,4480,5,150,1902,800000.0,11-05-2005
+Lyngvænget 7,Store Fuglede,4480,3,70,2011,325000.0,02-05-2005
+Violvænget 12,Store Fuglede,4480,4,71,1978,900000.0,30-04-2005
+Elmelunden 11,Store Fuglede,4480,3,42,1969,195000.0,29-04-2005
+Vedbyvej 2,Store Fuglede,4480,3,55,1970,825000.0,22-04-2005
+Hjertegræsvej 25,Store Fuglede,4480,5,99,1962,8625006.0,15-04-2005
+Lindevej 67,Store Fuglede,4480,2,40,1964,685000.0,12-04-2005
+Maderne 8,Store Fuglede,4480,3,131,1915,1118000.0,03-04-2005
+Åbrinken 10,Store Fuglede,4480,4,93,1970,975000.0,02-04-2005
+Violvænget 11,Store Fuglede,4480,4,120,2012,298000.0,17-03-2005
+Østvej 15,Store Fuglede,4480,4,55,1963,565000.0,07-03-2005
+Frejasvej 15,Store Fuglede,4480,4,142,1969,1050000.0,21-02-2005
+Modinsvej Vest 9,Store Fuglede,4480,3,86,1960,620500.0,21-02-2005
+Frøkær 7,Store Fuglede,4480,4,76,2006,175000.0,10-02-2005
+Bøgelunden 11,Store Fuglede,4480,3,72,1963,975000.0,30-01-2005
+Fyllavej 12,Store Fuglede,4480,3,60,1994,830000.0,24-01-2005
+Duevej 11,Store Fuglede,4480,3,88,1961,850000.0,22-01-2005
+Søndervej 18,Store Fuglede,4480,3,26,1967,144500.0,28-12-2004
+Åmarksvej 25,Store Fuglede,4480,3,80,1978,433500.0,22-12-2004
+Rønnevej 11,Store Fuglede,4480,4,55,1979,1185000.0,10-12-2004
+Fyrrestien Vest 21,Store Fuglede,4480,2,105,2006,132444.0,06-12-2004
+Krokusvej 24,Store Fuglede,4480,4,58,1968,565000.0,06-12-2004
+Modinsvej Øst 6,Store Fuglede,4480,6,58,1971,760000.0,06-12-2004
+Modinsvej Vest 4,Store Fuglede,4480,3,55,1960,400000.0,24-11-2004
+Fredskovens Lyngvej 7B,Store Fuglede,4480,5,95,1968,569550.0,04-11-2004
+Kobjældevej 6,Store Fuglede,4480,3,40,1964,495000.0,01-11-2004
+Kobjældevej 23,Store Fuglede,4480,3,85,1965,995000.0,01-11-2004
+Blåmunkevej 1,Store Fuglede,4480,3,91,1950,500000.0,01-11-2004
+Østvej 9,Store Fuglede,4480,4,61,1971,250000.0,01-11-2004
+Modinsvej Øst 7,Store Fuglede,4480,3,56,1978,416500.0,01-11-2004
+Holmevej 3,Store Fuglede,4480,3,62,2007,192000.0,01-11-2004
+Fredskovvej Øst 7,Store Fuglede,4480,4,67,1965,765000.0,21-10-2004
+Elmelunden 8,Store Fuglede,4480,4,70,1967,530000.0,15-10-2004
+Hyrdehusvej 29,Store Fuglede,4480,4,83,1967,869000.0,14-10-2004
+Skolelodden 6,Store Fuglede,4480,4,134,1971,1100000.0,04-10-2004
+Fyrrebakken 28,Store Fuglede,4480,3,43,1961,330000.0,29-09-2004
+Hyrdehusvej 2,Store Fuglede,4480,3,57,1983,650000.0,20-09-2004
+Lindevej 71,Store Fuglede,4480,4,54,1993,1095000.0,13-09-2004
+Vedbyvej 26,Store Fuglede,4480,4,50,1943,314500.0,02-09-2004
+Nyvej 17,Store Fuglede,4480,3,72,2007,370000.0,28-08-2004
+Østre Ågårdsvej 17,Store Fuglede,4480,4,79,1971,525000.0,15-08-2004
+Vestervang 26,Store Fuglede,4480,2,47,1940,350000.0,27-07-2004
+Tystrupvej 42,Store Fuglede,4480,8,196,1933,1385000.0,22-07-2004
+Egernvej 3,Store Fuglede,4480,3,49,1961,262426.0,15-07-2004
+Tystrupvej 13,Store Fuglede,4480,8,279,1900,1900000.0,14-07-2004
+Vestre Birkevej 12,Store Fuglede,4480,4,87,1946,1495000.0,07-07-2004
+Keldsvej 8,Store Fuglede,4480,4,110,1920,900000.0,05-07-2004
+Stubbevej 6,Store Fuglede,4480,4,54,1959,357000.0,01-07-2004
+Hyrdehusvej 4,Store Fuglede,4480,3,70,1800,350805.0,30-06-2004
+Maderne 2,Store Fuglede,4480,6,242,1900,1181000.0,20-06-2004
+Lindevej 65,Store Fuglede,4480,3,45,1967,550000.0,13-06-2004
+Fyrrehegnet 20,Store Fuglede,4480,2,35,2006,204000.0,12-06-2004
+Rønnevej 12,Store Fuglede,4480,4,70,1983,510000.0,09-06-2004
+Solkrogen 6,Store Fuglede,4480,4,92,2011,150000.0,06-06-2004
+Fyrrestien Vest 24,Store Fuglede,4480,3,50,2009,300000.0,05-06-2004
+Duevej 13,Store Fuglede,4480,3,42,1962,550000.0,28-05-2004
+Flinterupvej 97,Store Fuglede,4480,4,117,1907,410088.0,16-05-2004
+Flinterupvej 38,Store Fuglede,4480,5,109,1900,560280.0,10-05-2004
+Birkeholmvænget 6,Store Fuglede,4480,3,75,1976,675000.0,16-04-2004
+Pilemosevej 1,Store Fuglede,4480,3,48,1986,545000.0,14-04-2004
+Fyllavej 5B,Store Fuglede,4480,4,101,2005,280000.0,26-03-2004
+Solkrogen 27,Store Fuglede,4480,4,71,1985,875000.0,26-03-2004
+Blåmunkevej 6,Store Fuglede,4480,3,60,1964,351403.0,22-03-2004
+Flinterup Mark 10,Store Fuglede,4480,5,165,1830,700000.0,10-03-2004
+Modinsvej Vest 11,Store Fuglede,4480,3,70,2015,195500.0,08-03-2004
+Fyrrebakken 10,Store Fuglede,4480,5,64,1961,485000.0,02-03-2004
+Bjergevang 16,Store Fuglede,4480,3,55,1971,697000.0,26-02-2004
+Søvang 3,Store Fuglede,4480,4,115,1883,565000.0,24-02-2004
+Enghavevej 21,Store Fuglede,4480,3,50,1976,215000.0,24-02-2004
+Lindevej 55,Store Fuglede,4480,3,78,2004,992000.0,19-02-2004
+Kæruldsvej 19,Store Fuglede,4480,4,63,1976,300000.0,17-02-2004
+Flinterupvej 125,Store Fuglede,4480,3,139,1896,635000.0,12-02-2004
+Voldstien 4,Store Fuglede,4480,3,65,1969,490000.0,06-02-2004
+Søndervang 46,Store Fuglede,4480,3,61,2015,357000.0,05-02-2004
+Tystrupvej 32,Store Fuglede,4480,7,157,1907,1550000.0,29-01-2004
+Lindevej 16,Store Fuglede,4480,2,40,1973,480000.0,26-01-2004
+Modinsvej Vest 2,Store Fuglede,4480,4,148,1960,1155000.0,26-01-2004
+Birkeholmvænget 1,Store Fuglede,4480,2,65,1960,623000.0,20-01-2004
+Bjerge Landevej 12,Store Fuglede,4480,2,77,1900,695000.0,12-01-2004
+Tjørnelunden 15,Store Fuglede,4480,4,79,1979,700000.0,12-01-2004
+Bjerge Byvej 15,Store Fuglede,4480,3,108,1900,695000.0,07-01-2004
+Nyvej 10,Store Fuglede,4480,3,57,1958,495000.0,29-12-2003
+Jernhøj 6,Store Fuglede,4480,6,253,1916,247942.0,29-12-2003
+Fyrrehegnet 18,Store Fuglede,4480,4,60,1925,730000.0,23-12-2003
+Flinterupvej 70,Store Fuglede,4480,3,173,1900,1195000.0,18-12-2003
+Elmelunden 12,Store Fuglede,4480,3,42,1966,500000.0,15-12-2003
+Frøkær 5,Store Fuglede,4480,4,96,2012,105000.0,06-12-2003
+Osvejen 92,Store Fuglede,4480,3,54,1974,175000.0,05-12-2003
+Åmarksvej 42,Store Fuglede,4480,3,70,1963,419000.0,18-11-2003
+Bjergevang 15,Store Fuglede,4480,4,92,2013,700000.0,16-11-2003
+Flinterupvej 101,Store Fuglede,4480,3,90,1961,792000.0,07-11-2003
+Stubbevej 2,Store Fuglede,4480,3,61,1952,595000.0,31-10-2003
+Nyvej 24,Store Fuglede,4480,3,56,1974,375000.0,26-10-2003
+Tjørnelunden 10,Store Fuglede,4480,4,86,1979,645000.0,22-10-2003
+Bøgelunden 3,Store Fuglede,4480,5,71,1960,485000.0,20-10-2003
+Skolestien 3,Store Fuglede,4480,3,84,1931,260000.0,14-10-2003
+Bjergevang 32,Store Fuglede,4480,3,50,1955,140000.0,09-10-2003
+Vedbyvej 3,Store Fuglede,4480,3,80,1962,540000.0,01-10-2003
+Frejasvej 6,Store Fuglede,4480,4,102,1967,745000.0,27-09-2003
+Kobjældevej 22,Store Fuglede,4480,5,91,1966,690000.0,21-09-2003
+Bjerge Byvej 41,Store Fuglede,4480,3,99,1900,600000.0,02-09-2003
+Fredskovens Engvej 3,Store Fuglede,4480,3,62,1969,287500.0,01-09-2003
+Osvejen 64,Store Fuglede,4480,3,55,1965,675000.0,27-08-2003
+Kobjældevej 7,Store Fuglede,4480,4,50,1963,450000.0,24-07-2003
+Søvang 1,Store Fuglede,4480,2,92,1777,500000.0,18-07-2003
+Fredskovens Birkevej 10,Store Fuglede,4480,4,90,1973,710000.0,09-07-2003
+Bøgelunden 12,Store Fuglede,4480,4,96,1979,1186224.0,09-07-2003
+Strandlodsvej 20,Store Fuglede,4480,3,53,1960,315000.0,03-07-2003
+Nålestien 8,Store Fuglede,4480,4,20,1959,312500.0,24-06-2003
+Lindevej 27,Store Fuglede,4480,4,75,2004,195000.0,23-06-2003
+Blåmunkevej 18,Store Fuglede,4480,4,72,1961,719359.0,20-06-2003
+Åengsvej 12,Store Fuglede,4480,3,48,1990,275000.0,17-06-2003
+Østre Ågårdsvej 7,Store Fuglede,4480,4,90,1973,320000.0,14-06-2003
+Solkrogen 12,Store Fuglede,4480,4,72,1984,585000.0,11-06-2003
+Kanalvej 3,Store Fuglede,4480,3,68,1970,790000.0,05-06-2003
+Odinsvej Øst 3,Store Fuglede,4480,4,97,1967,280000.0,04-06-2003
+Østre Egevej 16,Store Fuglede,4480,5,93,1973,1010000.0,24-05-2003
+Lyngparken 5,Store Fuglede,4480,3,87,1976,880000.0,11-05-2003
+Urhøjvej 22,Store Fuglede,4480,4,112,1912,1426002.0,05-05-2003
+Duelodsvej 22,Store Fuglede,4480,3,53,1978,664844.0,29-04-2003
+Femvejen 9,Store Fuglede,4480,3,54,1969,333456.0,27-04-2003
+Nålestien 12,Store Fuglede,4480,3,20,1960,220000.0,27-04-2003
+Osvejen 86,Store Fuglede,4480,5,78,1971,605000.0,24-04-2003
+Birke Alle 9,Store Fuglede,4480,2,25,1960,100000.0,22-04-2003
+Flinterupvej 32,Store Fuglede,4480,7,173,1975,1185317.0,16-04-2003
+Bjergevang 6,Store Fuglede,4480,3,66,1967,515000.0,12-04-2003
+Fyllavej 10,Store Fuglede,4480,3,64,1992,615000.0,31-03-2003
+Østre Egevej 14,Store Fuglede,4480,4,85,1973,921965.0,31-03-2003
+Jernhøj 13,Store Fuglede,4480,5,160,1934,1620000.0,28-03-2003
+Lindevej 52,Store Fuglede,4480,5,70,1972,701000.0,27-03-2003
+Østvej 7,Store Fuglede,4480,4,76,1963,595000.0,21-03-2003
+Åmarksvej 29,Store Fuglede,4480,4,70,1972,563018.0,15-03-2003
+Søndervej 20,Store Fuglede,4480,3,48,1950,290000.0,13-03-2003
+Fredskovens Birkevej 2,Store Fuglede,4480,4,59,1966,357000.0,02-03-2003
+Åmarksvej 36,Store Fuglede,4480,4,94,1979,795000.0,28-02-2003
+Lyngparken 9,Store Fuglede,4480,4,63,1964,750000.0,25-02-2003
+Lyngbuen 5,Store Fuglede,4480,3,50,1967,355000.0,12-02-2003
+Bjerge Byvej 6,Store Fuglede,4480,9,250,1827,1070000.0,10-02-2003
+Vestervang 11,Store Fuglede,4480,4,80,2012,180000.0,07-02-2003
+Absalonsvej 13,Store Fuglede,4480,4,70,1959,757012.0,21-01-2003
+Jernhøj 2,Store Fuglede,4480,5,170,1877,1090014.0,02-01-2003
+Fredskovens Åvej 17,Store Fuglede,4480,4,59,1969,865000.0,30-12-2002
+Skolestien 1,Store Fuglede,4480,4,136,1930,986837.0,30-12-2002
+Fredskovens Engvej 13,Store Fuglede,4480,3,53,1965,180000.0,30-12-2002
+Fredskovens Åvej 6,Store Fuglede,4480,3,97,1965,685000.0,19-12-2002
+Osvejen 100,Store Fuglede,4480,3,74,1967,715000.0,14-12-2002
+Ved Kanalen 7,Store Fuglede,4480,3,92,1965,1180000.0,14-11-2002
+Holmevej 22,Store Fuglede,4480,4,102,2014,445000.0,06-11-2002
+Havnemarken 13,Store Fuglede,4480,3,50,1968,565000.0,31-10-2002
+Åmarksvej 15,Store Fuglede,4480,3,55,1980,348500.0,23-10-2002
+Flinterupvej 72,Store Fuglede,4480,5,100,1939,600000.0,16-10-2002
+Åmarksvej 47,Store Fuglede,4480,4,66,1998,135000.0,13-10-2002
+Poppelhegnet 4,Store Fuglede,4480,4,77,1962,399500.0,09-10-2002
+Elmelunden 14,Store Fuglede,4480,2,60,1964,430000.0,03-10-2002
+Vestervang 16,Store Fuglede,4480,2,40,1959,170000.0,03-10-2002
+Rønnevej 5,Store Fuglede,4480,4,40,1961,425000.0,27-09-2002
+Åmarksvej 31,Store Fuglede,4480,2,57,1968,290000.0,23-09-2002
+Skolestien 10,Store Fuglede,4480,4,138,1968,990000.0,05-09-2002
+Rønnevej 10,Store Fuglede,4480,4,100,1966,520000.0,19-08-2002
+Østre Birkevej 7,Store Fuglede,4480,2,45,1964,256562.0,16-08-2002
+Bjergevang 2,Store Fuglede,4480,2,63,1966,423000.0,12-08-2002
+Østre Birkevej 9,Store Fuglede,4480,5,99,1964,225000.0,12-08-2002
+Nyboderstien 9,Store Fuglede,4480,3,75,1963,176258.0,12-08-2002
+Frødammen 37,Store Fuglede,4480,3,47,1968,395000.0,11-08-2002
+Fyrrebakken 24,Store Fuglede,4480,3,68,2017,525000.0,05-08-2002
+Fredskovens Engvej 20,Store Fuglede,4480,4,77,1967,765000.0,05-08-2002
+Birke Alle 7,Store Fuglede,4480,2,27,2007,80000.0,29-07-2002
+Nyboderstien 3,Store Fuglede,4480,3,57,1971,245000.0,25-07-2002
+Nyvej 21,Store Fuglede,4480,3,40,1958,246500.0,23-07-2002
+Østvej 17,Store Fuglede,4480,4,85,1960,595000.0,17-07-2002
+Frødammen 6,Store Fuglede,4480,5,117,1985,690000.0,08-07-2002
+Modinsvej Øst 14,Store Fuglede,4480,3,80,1969,670000.0,20-06-2002
+Flinterupvej 51,Store Fuglede,4480,9,236,1939,675000.0,11-06-2002
+Frejasvej 8,Store Fuglede,4480,3,97,1967,530000.0,04-06-2002
+Rypevej 3,Store Fuglede,4480,3,50,1960,180000.0,30-05-2002
+Fredskovvej Vest 1,Store Fuglede,4480,5,105,1970,710000.0,29-05-2002
+Fredskovens Engvej 23,Store Fuglede,4480,4,105,1967,645000.0,20-05-2002
+Bjergevang 13,Store Fuglede,4480,3,56,1961,360000.0,15-05-2002
+Krokusvej 6,Store Fuglede,4480,3,72,1969,785000.0,11-05-2002
+Flinterup Mark 2,Store Fuglede,4480,6,176,1930,950000.0,06-05-2002
+Poppelhegnet 5,Store Fuglede,4480,5,100,1965,421000.0,16-04-2002
+Fredskovens Engvej 18,Store Fuglede,4480,4,67,1969,750000.0,14-04-2002
+Poppelhegnet 18,Store Fuglede,4480,4,47,1966,425000.0,02-04-2002
+Fredskovens Åvej 11,Store Fuglede,4480,3,35,1960,325000.0,19-03-2002
+Fredskovens Engvej 6,Store Fuglede,4480,4,50,1965,550000.0,19-03-2002
+Lynglodsvej 25,Store Fuglede,4480,4,85,1960,300000.0,18-03-2002
+Banevej 23,Store Fuglede,4480,6,102,1951,725000.0,12-03-2002
+Flinterupvej 35,Store Fuglede,4480,10,223,1927,1425000.0,07-03-2002
+Osvejen 3,Store Fuglede,4480,4,78,1925,340000.0,04-03-2002
+Bjerge Byvej 5,Store Fuglede,4480,5,136,1914,823943.0,01-03-2002
+Lynglodsvej 29,Store Fuglede,4480,4,61,1954,365000.0,15-02-2002
+Havnemarken 14,Store Fuglede,4480,4,83,1973,230000.0,07-01-2002
+Frøkær 2,Store Fuglede,4480,5,76,1994,540000.0,30-12-2001
+Fredskovvej Vest 19,Store Fuglede,4480,3,45,1960,215000.0,27-12-2001
+Stubbevej 8,Store Fuglede,4480,3,46,1959,255000.0,15-12-2001
+Østre Egevej 18,Store Fuglede,4480,3,54,1978,237500.0,14-12-2001
+Østvej 38,Store Fuglede,4480,3,25,1964,20000.0,12-12-2001
+Lyngbuen 8,Store Fuglede,4480,3,40,1964,300000.0,12-11-2001
+Fyrrebakken 27,Store Fuglede,4480,4,94,2005,270000.0,06-11-2001
+Hjertegræsvej 3,Store Fuglede,4480,3,40,1963,138592.0,03-11-2001
+Fredskovens Åvej 13,Store Fuglede,4480,3,55,1966,530000.0,02-11-2001
+Hyrdehusvej 12B,Store Fuglede,4480,3,88,2007,130000.0,01-11-2001
+Vestervang 30,Store Fuglede,4480,3,39,1969,270000.0,01-11-2001
+Nyboderstien 5,Store Fuglede,4480,4,68,1972,431622.0,16-10-2001
+Rypevej 4,Store Fuglede,4480,4,90,1957,270000.0,07-10-2001
+Piletoften 4,Store Fuglede,4480,3,40,1960,80000.0,05-10-2001
+Holmevej 18,Store Fuglede,4480,3,44,1967,374000.0,01-10-2001
+Frødammen 10,Store Fuglede,4480,6,80,1970,215000.0,01-10-2001
+Filipsdalvej 9,Store Fuglede,4480,7,180,1965,641986.0,24-09-2001
+Lindevej 1,Store Fuglede,4480,3,85,2008,600000.0,19-09-2001
+Flinterupvej 108,Store Fuglede,4480,8,249,1908,2293557.0,11-09-2001
+Åmarksvej 7,Store Fuglede,4480,3,50,1979,136500.0,24-08-2001
+Tjørnelunden 5,Store Fuglede,4480,3,78,2008,320000.0,20-08-2001
+Lyngparken 12,Store Fuglede,4480,3,60,1981,540040.0,09-08-2001
+Havnemarken 38,Store Fuglede,4480,3,57,1998,493000.0,02-08-2001
+Lyngsvinget 28,Store Fuglede,4480,3,69,1960,250000.0,01-08-2001
+Vestervang 15,Store Fuglede,4480,2,46,1959,80000.0,23-07-2001
+Tystrupvej 25,Store Fuglede,4480,12,259,1898,143000.0,13-07-2001
+Østvej 27,Store Fuglede,4480,4,90,1965,425000.0,11-07-2001
+Birkeholmvænget 3,Store Fuglede,4480,3,69,1962,357925.0,01-07-2001
+Urhøjvej 2,Store Fuglede,4480,4,147,1900,750000.0,21-06-2001
+Østvej 12,Store Fuglede,4480,4,75,1976,475000.0,08-06-2001
+Fyrrebakken 6,Store Fuglede,4480,3,35,1960,90000.0,01-06-2001
+Skolelodden 14,Store Fuglede,4480,2,104,1974,695000.0,31-05-2001
+Flinterupvej 7,Store Fuglede,4480,2,91,1909,220000.0,30-05-2001
+Filipsdalvej 14,Store Fuglede,4480,3,99,1907,1700000.0,29-05-2001
+Lyngsvinget 3,Store Fuglede,4480,4,59,1975,485000.0,26-05-2001
+Søndervej 26,Store Fuglede,4480,5,125,2009,478208.0,26-05-2001
+Urhøjvej 14,Store Fuglede,4480,3,70,1991,7000000.0,22-05-2001
+Blåmunkevej 24,Store Fuglede,4480,4,83,1964,300000.0,21-05-2001
+Askevej 3,Store Fuglede,4480,3,70,1969,230000.0,29-04-2001
+Tjørnelunden 13,Store Fuglede,4480,3,52,1969,378000.0,25-04-2001
+Hybenvej Vest 14,Store Fuglede,4480,3,60,1953,280000.0,20-04-2001
+Kobjældevej 20,Store Fuglede,4480,2,30,1961,305000.0,19-04-2001
+Lindevej 42,Store Fuglede,4480,3,99,2003,245834.0,11-04-2001
+Nyvej 1,Store Fuglede,4480,3,74,1960,190000.0,06-04-2001
+Hjertegræsvej 8,Store Fuglede,4480,3,94,1967,90000.0,01-04-2001
+Lykkevej 3,Store Fuglede,4480,3,57,1960,93000.0,18-03-2001
+Flinterupvej 66,Store Fuglede,4480,2,88,1972,540000.0,12-03-2001
+Flinterupvej 4,Store Fuglede,4480,3,79,1962,285702.0,26-02-2001
+Strandlodsvej 22,Store Fuglede,4480,3,72,1997,459000.0,23-02-2001
+Vestre Birkevej 3,Store Fuglede,4480,3,40,1969,200000.0,19-02-2001
+Tystrupvej 3B,Store Fuglede,4480,5,161,1977,416000.0,16-01-2001
+Fyrrehegnet 27,Store Fuglede,4480,4,40,1954,120000.0,11-01-2001
+Flinterupvej 103,Store Fuglede,4480,6,138,1961,515000.0,21-12-2000
+Fredskovens Gyvelvej 1,Store Fuglede,4480,3,50,1966,246500.0,20-12-2000
+Havnemarken 4,Store Fuglede,4480,8,188,1850,1070015.0,19-12-2000
+Fredskovens Lyngvej 4,Store Fuglede,4480,4,95,1974,445000.0,14-12-2000
+Tjørnevænget 4,Store Fuglede,4480,4,71,1974,534032.0,03-12-2000
+Fyrrebakken 20,Store Fuglede,4480,3,49,1960,300000.0,27-11-2000
+Tjørnelunden 4,Store Fuglede,4480,2,54,1982,255734.0,17-11-2000
+Vedbyvej 18,Store Fuglede,4480,3,45,2008,161500.0,31-10-2000
+Klokkevej 9,Store Fuglede,4480,4,144,1974,820000.0,25-10-2000
+Nyvej 2,Store Fuglede,4480,4,74,1958,485000.0,23-10-2000
+Havnemarken 10,Store Fuglede,4480,3,107,1957,382500.0,10-10-2000
+Søndervang 42,Store Fuglede,4480,3,60,1956,450000.0,09-10-2000
+Tystrupvej 38,Store Fuglede,4480,6,170,1910,312000.0,21-09-2000
+Enghavevej 4,Store Fuglede,4480,4,40,1965,308000.0,18-09-2000
+Duelodsvej 18,Store Fuglede,4480,3,46,1979,287200.0,15-09-2000
+Banevej 9,Store Fuglede,4480,4,149,1910,597000.0,13-09-2000
+Bjerge Byvej 27,Store Fuglede,4480,7,243,1900,911878.0,09-09-2000
+Søndervang 17,Store Fuglede,4480,2,35,1965,235000.0,31-08-2000
+Elmelunden 5,Store Fuglede,4480,3,50,1963,260000.0,27-08-2000
+Frejasvej 1,Store Fuglede,4480,3,72,1984,528361.0,25-08-2000
+Bakkendrupvej 22,Store Fuglede,4480,11,341,1877,141488.0,23-08-2000
+Tjørnevænget 1,Store Fuglede,4480,4,67,1967,527065.0,22-08-2000
+Tjørnelunden 1,Store Fuglede,4480,3,55,1969,315000.0,18-08-2000
+Østvej 46,Store Fuglede,4480,2,50,2005,72500.0,07-08-2000
+Lyngsvinget 30,Store Fuglede,4480,3,58,1964,350000.0,03-08-2000
+Bjerge Byvej 33,Store Fuglede,4480,3,96,1964,511000.0,17-07-2000
+Åbrinken 2,Store Fuglede,4480,3,59,1971,330000.0,06-07-2000
+Jernhøj 4,Store Fuglede,4480,5,260,1901,2950000.0,22-06-2000
+Lindevej 7,Store Fuglede,4480,4,54,1967,320360.0,17-06-2000
+Roskildevej 15,Store Fuglede,4480,2,48,1960,225000.0,15-06-2000
+Vedbyvej 16,Store Fuglede,4480,2,44,1948,70000.0,13-06-2000
+Modinsvej Øst 3,Store Fuglede,4480,4,76,1968,445000.0,23-05-2000
+Absalonsvej 5,Store Fuglede,4480,3,45,1960,240000.0,22-05-2000
+Fredskovens Engvej 4,Store Fuglede,4480,4,70,1973,569925.0,10-05-2000
+Tjørnelunden 12,Store Fuglede,4480,4,78,1969,440000.0,08-05-2000
+Søndervang 7,Store Fuglede,4480,3,162,2003,163000.0,21-04-2000
+Urhøjvej 6,Store Fuglede,4480,5,135,1915,860000.0,12-04-2000
+Urhøjvej 30,Store Fuglede,4480,4,227,1912,1221000.0,10-04-2000
+Åmarksvej 37,Store Fuglede,4480,4,98,2009,40000.0,09-04-2000
+Lyngsvinget 40,Store Fuglede,4480,3,66,1967,370000.0,09-04-2000
+Bøgelunden 5,Store Fuglede,4480,4,63,1966,355000.0,09-04-2000
+Osvejen 1,Store Fuglede,4480,2,69,1960,275000.0,30-03-2000
+Bjergevang 4,Store Fuglede,4480,3,50,1972,400000.0,27-03-2000
+Åbrinken 5,Store Fuglede,4480,7,151,2001,40000.0,26-03-2000
+Frødammen 11,Store Fuglede,4480,4,85,1970,465000.0,22-03-2000
+Østvej 24,Store Fuglede,4480,4,72,1961,165000.0,22-03-2000
+Lyngbuen 4,Store Fuglede,4480,4,67,1983,441940.0,07-03-2000
+Rønnevej 4,Store Fuglede,4480,4,68,1967,275000.0,06-03-2000
+Egevej 6,Store Fuglede,4480,4,58,1961,87515.0,10-02-2000
+Vestervang 4,Store Fuglede,4480,3,60,1960,136000.0,10-02-2000
+Nyvej 9,Store Fuglede,4480,3,64,1974,210000.0,31-01-2000
+Østre Egevej 20,Store Fuglede,4480,4,100,1982,465197.0,31-01-2000
+Bakkendrupvej 23,Store Fuglede,4480,7,221,1907,1050455.0,28-01-2000
+Holmekrogen 9,Store Fuglede,4480,2,28,1962,130000.0,23-01-2000
+Bjerge Landevej 8,Store Fuglede,4480,6,142,1908,631090.0,06-01-2000
+Holmevej 26,Store Fuglede,4480,4,62,1976,190000.0,04-01-2000
+Lyngsvinget 48,Store Fuglede,4480,3,67,2009,180000.0,09-12-1999
+Bakkendrupvej 34,Store Fuglede,4480,4,94,1958,530000.0,02-12-1999
+Frødammen 12,Store Fuglede,4480,2,49,1975,130000.0,30-11-1999
+Blåmunkevej 3,Store Fuglede,4480,6,108,1982,280000.0,30-11-1999
+Mosevænget 4,Store Fuglede,4480,3,86,1967,312500.0,29-11-1999
+Flinterupvej 106,Store Fuglede,4480,8,222,1907,680000.0,22-11-1999
+Lindevej 26,Store Fuglede,4480,5,62,1968,230000.0,31-10-1999
+Roskildevej 16,Store Fuglede,4480,3,56,1959,175000.0,31-10-1999
+Flinterupvej 95,Store Fuglede,4480,3,208,1904,804000.0,19-10-1999
+Bøgelunden 9,Store Fuglede,4480,5,89,1960,276112.0,08-10-1999
+Urhøjvej 26,Store Fuglede,4480,6,168,1931,1400000.0,08-10-1999
+Lyngvænget 6,Store Fuglede,4480,3,50,1965,340000.0,04-10-1999
+Hjertegræsvej 24,Store Fuglede,4480,5,88,1961,800000.0,02-10-1999
+Odinsvej Øst 8,Store Fuglede,4480,4,96,1966,360000.0,27-09-1999
+Osvejen 78,Store Fuglede,4480,3,64,1960,415000.0,16-09-1999
+Frejasvej 2,Store Fuglede,4480,5,118,1967,449723.0,04-09-1999
+Vedbyvej 1,Store Fuglede,4480,4,82,1992,180000.0,31-08-1999
+Rønnevej 9,Store Fuglede,4480,4,71,1970,100000.0,25-08-1999
+Odinsvej Øst 10,Store Fuglede,4480,6,106,1964,320000.0,23-08-1999
+Flinterupvej 114,Store Fuglede,4480,3,170,1877,141385.0,19-07-1999
+Tystrupvej 5,Store Fuglede,4480,4,100,1934,516000.0,17-07-1999
+Lyngsvinget 7,Store Fuglede,4480,3,75,1964,350000.0,12-07-1999
+Lindevej 63,Store Fuglede,4480,2,66,1957,260000.0,30-06-1999
+Fyrrestien Øst 6,Store Fuglede,4480,4,69,1973,165000.0,28-06-1999
+Flinterupvej 25B,Store Fuglede,4480,4,115,1975,554479.0,27-06-1999
+Tystrupvej 14,Store Fuglede,4480,3,105,1987,775000.0,23-06-1999
+Enghavevej 12,Store Fuglede,4480,3,80,2010,321106.0,22-06-1999
+Flinterupvej 31,Store Fuglede,4480,6,133,1895,1054981.0,21-06-1999
+Odinsvej Øst 5,Store Fuglede,4480,10,120,1970,285000.0,14-06-1999
+Ved Stranden 4,Store Fuglede,4480,3,105,2007,120000.0,13-06-1999
+Hyrdehusvej 17,Store Fuglede,4480,2,46,1966,200000.0,11-06-1999
+Gærdestien 4,Store Fuglede,4480,4,114,2000,1200000.0,09-06-1999
+Østre Egevej 13,Store Fuglede,4480,4,78,2000,98000.0,02-06-1999
+Bjergevang 7,Store Fuglede,4480,4,94,1961,280000.0,30-05-1999
+Hybenvej Øst 1,Store Fuglede,4480,3,40,1956,174800.0,24-05-1999
+Lindevej 6,Store Fuglede,4480,4,72,1967,255000.0,13-05-1999
+Birkeholmvænget 4,Store Fuglede,4480,2,60,1970,200000.0,10-05-1999
+Egevej 13,Store Fuglede,4480,2,35,1960,192755.0,30-04-1999
+Vestre Birkevej 9,Store Fuglede,4480,3,37,1957,170000.0,27-04-1999
+Bjerge Byvej 16,Store Fuglede,4480,3,135,1900,300000.0,25-04-1999
+Østre Egevej 3,Store Fuglede,4480,3,80,2007,100000.0,06-04-1999
+Lyngsvinget 34,Store Fuglede,4480,3,65,1973,382112.0,31-03-1999
+Tystrupvej 21,Store Fuglede,4480,7,176,1916,5200000.0,29-03-1999
+Modinsvej Vest 3,Store Fuglede,4480,5,118,2008,560000.0,26-03-1999
+Søndervang 15,Store Fuglede,4480,3,81,1970,285000.0,07-03-1999
+Lindevej 73,Store Fuglede,4480,4,88,1966,402921.0,03-02-1999
+Flinterupvej 41,Store Fuglede,4480,6,198,1954,2210000.0,31-12-1998
+Enghavevej 20,Store Fuglede,4480,3,60,1965,300000.0,27-12-1998
+Lyngsvinget 46A,Store Fuglede,4480,4,91,2001,350000.0,22-12-1998
+Fredskovens Lyngvej 3,Store Fuglede,4480,3,104,2001,175000.0,21-12-1998
+Jernhøj 9,Store Fuglede,4480,4,79,1902,364223.0,19-11-1998
+Blåmunkevej 7,Store Fuglede,4480,5,70,1968,390000.0,30-10-1998
+Lindevej 15,Store Fuglede,4480,4,116,2009,190000.0,08-10-1998
+Hyrdehusvej 21,Store Fuglede,4480,2,47,1960,308000.0,05-10-1998
+Fyrrebakken 5,Store Fuglede,4480,3,76,1964,244256.0,10-09-1998
+Holmekrogen 13,Store Fuglede,4480,4,64,1974,545000.0,10-09-1998
+Skolelodden 2,Store Fuglede,4480,4,144,1900,772960.0,23-08-1998
+Bøgelunden 7,Store Fuglede,4480,4,80,1960,380000.0,20-08-1998
+Åmarksvej 45,Store Fuglede,4480,4,64,1974,315000.0,12-08-1998
+Egernvej 9,Store Fuglede,4480,3,50,1961,364000.0,11-08-1998
+Strandlodsvej 14,Store Fuglede,4480,2,80,1934,335000.0,06-08-1998
+Fyrrestien Vest 10,Store Fuglede,4480,3,60,1998,451000.0,16-07-1998
+Osvejen 98,Store Fuglede,4480,3,57,1962,366000.0,12-07-1998
+Ved Kanalen 2,Store Fuglede,4480,5,144,1961,1900000.0,01-07-1998
+Fredskovens Birkevej 9,Store Fuglede,4480,5,93,1965,230000.0,22-06-1998
+Hyrdehusvej 22,Store Fuglede,4480,2,32,1970,274280.0,18-06-1998
+Solkrogen 9,Store Fuglede,4480,4,85,2006,55000.0,16-06-1998
+Lindevej 46,Store Fuglede,4480,4,71,1964,246000.0,29-05-1998
+Solkrogen 31,Store Fuglede,4480,3,72,1976,300000.0,29-05-1998
+Lyngsandet 2,Store Fuglede,4480,4,86,1969,345130.0,28-05-1998
+Fredskovvej Vest 12,Store Fuglede,4480,4,70,1963,630000.0,19-05-1998
+Holmevej 11,Store Fuglede,4480,3,63,1960,175000.0,14-05-1998
+Odinsvej Øst 13,Store Fuglede,4480,3,64,1968,289280.0,14-05-1998
+Tjørnelunden 28,Store Fuglede,4480,5,106,1960,180000.0,14-05-1998
+Flinterup Mark 6,Store Fuglede,4480,5,123,1877,998000.0,05-05-1998
+Enghavevej 17A,Store Fuglede,4480,4,84,1977,316000.0,21-04-1998
+Duevej 15,Store Fuglede,4480,4,67,1978,437000.0,20-04-1998
+Frejasvej 11,Store Fuglede,4480,3,78,1965,285000.0,13-04-1998
+Poppelhegnet 14,Store Fuglede,4480,5,60,1957,240276.0,11-04-1998
+Lyngvænget 4,Store Fuglede,4480,3,35,1962,250000.0,02-04-1998
+Modinsvej Vest 16,Store Fuglede,4480,2,27,1932,50000.0,03-03-1998
+Havnemarken 20,Store Fuglede,4480,4,50,1972,204000.0,19-02-1998
+Klokkevej 6,Store Fuglede,4480,5,175,1973,511338.0,31-01-1998
+Blåmunkevej 17,Store Fuglede,4480,5,111,1963,105000.0,29-01-1998
+Banevej 1,Store Fuglede,4480,6,365,1902,335000.0,19-01-1998
+Elmelunden 3,Store Fuglede,4480,4,74,2005,150000.0,18-01-1998
+Rønnevænget 3,Store Fuglede,4480,4,41,1959,85000.0,31-12-1997
+Lyngsvinget 9,Store Fuglede,4480,3,50,1970,187000.0,23-12-1997
+Egernvej 5,Store Fuglede,4480,3,55,1974,229500.0,23-12-1997
+Nørrevang 28,Store Fuglede,4480,4,60,1965,240000.0,19-12-1997
+Lyngsvinget 26,Store Fuglede,4480,5,49,1962,231520.0,17-12-1997
+Fyrrebakken 23,Store Fuglede,4480,3,49,1967,335000.0,23-11-1997
+Vestre Birkevej 4,Store Fuglede,4480,4,54,1995,280000.0,20-11-1997
+Bjergevang 3,Store Fuglede,4480,3,57,1968,363000.0,06-10-1997
+Elmelunden 1,Store Fuglede,4480,4,65,1981,365000.0,29-09-1997
+Østre Ågårdsvej 6,Store Fuglede,4480,4,75,1978,235771.0,22-09-1997
+Bjerge Byvej 43,Store Fuglede,4480,2,86,1906,412350.0,19-09-1997
+Egernvej 7,Store Fuglede,4480,3,69,1960,254540.0,19-09-1997
+Fredskovvej Øst 6,Store Fuglede,4480,3,41,1966,105000.0,18-09-1997
+Vestervang 3,Store Fuglede,4480,2,26,1950,130000.0,11-09-1997
+Banevej 27,Store Fuglede,4480,6,110,1907,70000.0,04-09-1997
+Vestervang 18,Store Fuglede,4480,3,64,2003,225000.0,21-08-1997
+Hyrdehusvej 9,Store Fuglede,4480,3,60,2004,150000.0,10-08-1997
+Johannevej 5,Store Fuglede,4480,3,50,1957,195500.0,31-07-1997
+Solkrogen 7,Store Fuglede,4480,2,42,1978,170000.0,17-07-1997
+Bjerge Byvej 19,Store Fuglede,4480,6,151,1910,477280.0,14-07-1997
+Flinterupvej 64,Store Fuglede,4480,3,215,1900,708120.0,12-07-1997
+Flinterupvej 90,Store Fuglede,4480,5,105,1877,518000.0,28-06-1997
+Flinterupvej 91,Store Fuglede,4480,4,114,1930,190000.0,27-06-1997
+Fredskovens Engvej 9,Store Fuglede,4480,3,68,1977,435000.0,17-06-1997
+Frejasvej 13,Store Fuglede,4480,4,90,1976,500000.0,10-06-1997
+Frødammen 20,Store Fuglede,4480,4,91,1975,363000.0,07-06-1997
+Fyrrestien Øst 2,Store Fuglede,4480,4,72,1986,579000.0,22-05-1997
+Vestre Birkevej 15,Store Fuglede,4480,3,66,2002,210000.0,18-05-1997
+Østvej 14,Store Fuglede,4480,4,81,1961,253460.0,08-05-1997
+Fyrrebakken 15,Store Fuglede,4480,2,58,1971,315000.0,06-05-1997
+Holmevej 20,Store Fuglede,4480,3,55,1961,80000.0,29-04-1997
+Fredskovens Lyngvej 13,Store Fuglede,4480,7,162,1999,100000.0,05-04-1997
+Blåmunkevej 21,Store Fuglede,4480,4,72,1998,175000.0,31-03-1997
+Kanalvej 14,Store Fuglede,4480,5,111,1999,70000.0,19-03-1997
+Frøkær 1,Store Fuglede,4480,4,77,2007,17000.0,19-03-1997
+Duevej 6,Store Fuglede,4480,4,60,1979,354653.0,01-03-1997
+Frejasvej 16,Store Fuglede,4480,3,60,1971,142750.0,01-02-1997
+Lindevej 45,Store Fuglede,4480,4,71,1961,135000.0,18-01-1997
+Lyngsvinget 54,Store Fuglede,4480,2,27,1931,225000.0,27-12-1996
+Urhøjvej 16,Store Fuglede,4480,2,50,1800,160000.0,26-12-1996
+Østre Egevej 8,Store Fuglede,4480,3,62,1985,378048.0,20-12-1996
+Lykkevej 4,Store Fuglede,4480,3,83,1960,178500.0,02-12-1996
+Tystrupvej 39,Store Fuglede,4480,6,173,1920,867600.0,14-11-1996
+Banevej 3,Store Fuglede,4480,4,89,1900,225000.0,13-10-1996
+Enghavevej 14,Store Fuglede,4480,4,78,1960,185000.0,09-10-1996
+Roskildevej 7,Store Fuglede,4480,3,60,1960,90000.0,20-09-1996
+Søvang 4,Store Fuglede,4480,5,196,1897,391504.0,19-09-1996
+Lyngparken 2,Store Fuglede,4480,4,87,2007,135000.0,28-08-1996
+Kobjældevej 1,Store Fuglede,4480,4,78,1999,60000.0,27-08-1996
+Åmarksvej 20,Store Fuglede,4480,3,55,1979,280000.0,22-08-1996
+Lyngparken 1,Store Fuglede,4480,4,60,1971,350000.0,14-08-1996
+Fyrrestien Øst 3,Store Fuglede,4480,4,90,1977,400000.0,06-08-1996
+Kobjældevej 17,Store Fuglede,4480,3,119,2000,150000.0,02-08-1996
+Lindevej 23,Store Fuglede,4480,2,73,1971,157000.0,30-07-1996
+Bjergevang 22,Store Fuglede,4480,4,83,1966,325000.0,24-07-1996
+Fredskovens Åvej 7,Store Fuglede,4480,3,29,1967,46835.0,23-07-1996
+Lindevej 61,Store Fuglede,4480,3,45,1968,216720.0,27-06-1996
+Lyngsandet 5,Store Fuglede,4480,4,69,1974,490000.0,24-06-1996
+Poppelhegnet 10,Store Fuglede,4480,3,60,1962,195000.0,20-06-1996
+Solkrogen 18,Store Fuglede,4480,1,23,1982,45000.0,11-06-1996
+Flinterupvej 100,Store Fuglede,4480,4,128,1947,340344.0,03-06-1996
+Åmarksvej 22,Store Fuglede,4480,2,40,1978,150000.0,09-05-1996
+Bakkendrupvej 25,Store Fuglede,4480,3,119,1910,190000.0,09-05-1996
+Gærdestien 8,Store Fuglede,4480,3,77,1935,246500.0,07-05-1996
+Blåmunkevej 4,Store Fuglede,4480,4,74,1975,310000.0,05-05-1996
+Enghavevej 2,Store Fuglede,4480,3,60,2003,51400.0,01-05-1996
+Strandlodsvej 7,Store Fuglede,4480,4,121,1974,410000.0,26-04-1996
+Solkrogen 21,Store Fuglede,4480,3,67,1960,61200.0,26-04-1996
+Flinterup Mark 9A,Store Fuglede,4480,6,156,1870,375000.0,08-04-1996
+Lyngsandet 3,Store Fuglede,4480,3,63,1973,447047.0,01-04-1996
+Bjerge Byvej 13,Store Fuglede,4480,4,100,1900,155000.0,27-03-1996
+Nålestien 6,Store Fuglede,4480,2,25,1956,125000.0,12-03-1996
+Søndervang 58,Store Fuglede,4480,3,54,1993,211164.0,05-03-1996
+Bjerge Byvej 14,Store Fuglede,4480,5,101,1922,425000.0,26-02-1996
+Østvej 29,Store Fuglede,4480,3,55,1964,147120.0,17-02-1996
+Fyrrestien Øst 1,Store Fuglede,4480,3,58,1996,50000.0,06-02-1996
+Lyngsandet 7,Store Fuglede,4480,6,134,1972,391000.0,04-01-1996
+Hjertegræsvej 6,Store Fuglede,4480,3,40,1950,177250.0,29-12-1995
+Kæruldsvej 6,Store Fuglede,4480,4,76,2006,180000.0,20-12-1995
+Tremandsmarken 10,Store Fuglede,4480,4,58,1966,220000.0,16-12-1995
+Lyngparken 4,Store Fuglede,4480,3,65,1965,124000.0,11-12-1995
+Duelodsvej 20,Store Fuglede,4480,4,79,1980,180000.0,01-12-1995
+Lindevej 8A,Store Fuglede,4480,4,60,1970,245000.0,20-11-1995
+Flinterupvej 57,Store Fuglede,4480,3,131,1971,275000.0,09-11-1995
+Søndervang 20,Store Fuglede,4480,3,51,1963,219000.0,03-11-1995
+Tremandsmarken 12,Store Fuglede,4480,4,67,1966,128000.0,01-11-1995
+Søndervang 28,Store Fuglede,4480,3,112,1962,200000.0,13-10-1995
+Skolelodden 18,Store Fuglede,4480,4,120,1967,475000.0,12-09-1995
+Tjørnelunden 26,Store Fuglede,4480,3,60,1966,190000.0,29-08-1995
+Pilemosevej 3,Store Fuglede,4480,4,80,1966,265000.0,18-08-1995
+Vestervang 2,Store Fuglede,4480,3,80,1950,183000.0,23-07-1995
+Fredskovens Åvej 2,Store Fuglede,4480,4,71,1973,340000.0,17-07-1995
+Blåmunkevej 14,Store Fuglede,4480,2,38,1964,201000.0,15-07-1995
+Flinterupvej 21,Store Fuglede,4480,3,92,1700,222000.0,14-07-1995
+Bakkendrupvej 18,Store Fuglede,4480,4,110,1970,350000.0,07-07-1995
+Rønnevej 14,Store Fuglede,4480,4,108,2011,113171.0,05-07-1995
+Modinsvej Øst 15,Store Fuglede,4480,4,104,1973,300000.0,04-07-1995
+Lindevej 3,Store Fuglede,4480,4,68,1969,60000.0,26-06-1995
+Vestervang 9,Store Fuglede,4480,3,37,1959,130000.0,12-06-1995
+Østvej 4,Store Fuglede,4480,5,90,1963,270000.0,12-06-1995
+Fredskovens Lyngvej 6,Store Fuglede,4480,5,85,1968,382500.0,22-05-1995
+Fredskovvej Øst 11,Store Fuglede,4480,3,71,1982,425000.0,08-05-1995
+Filipsdalvej 3A,Store Fuglede,4480,2,50,1900,40000.0,07-05-1995
+Krokusvej 16,Store Fuglede,4480,3,56,1975,257500.0,06-05-1995
+Banevej 21,Store Fuglede,4480,4,90,1950,173500.0,21-04-1995
+Bjergevang 8,Store Fuglede,4480,3,84,1966,198000.0,19-04-1995
+Flinterupvej 80,Store Fuglede,4480,5,179,1900,450000.0,10-04-1995
+Bjergevang 5,Store Fuglede,4480,3,60,1961,300000.0,06-04-1995
+Fyrrebakken 3,Store Fuglede,4480,2,77,1966,158585.0,31-03-1995
+Birkeholmvænget 2,Store Fuglede,4480,2,80,2007,104000.0,07-03-1995
+Blåmunkevej 16,Store Fuglede,4480,4,78,1961,270400.0,16-02-1995
+Lyngbuen 1,Store Fuglede,4480,5,94,1996,55000.0,11-02-1995
+Fyrrehegnet 23,Store Fuglede,4480,2,56,1966,165000.0,31-01-1995
+Lindevej 51,Store Fuglede,4480,5,68,1972,260000.0,09-01-1995
+Nyvej 13,Store Fuglede,4480,3,64,1960,133000.0,24-11-1994
+Lindevej 60,Store Fuglede,4480,3,62,1962,250000.0,20-11-1994
+Nyvej 4,Store Fuglede,4480,3,58,1960,128000.0,07-11-1994
+Flinterupvej 18,Store Fuglede,4480,4,72,1936,259800.0,25-10-1994
+Bjergevang 11,Store Fuglede,4480,4,111,1972,245500.0,30-09-1994
+Hjertegræsvej 28,Store Fuglede,4480,4,90,1967,430000.0,26-09-1994
+Vestre Ågårdsvej 2,Store Fuglede,4480,4,61,1966,290000.0,23-09-1994
+Fredskovens Søvej 1,Store Fuglede,4480,4,48,1968,204000.0,04-09-1994
+Nyvej 5,Store Fuglede,4480,3,60,1963,80000.0,03-09-1994
+Modinsvej Vest 8,Store Fuglede,4480,4,68,1962,210000.0,28-08-1994
+Frejasvej 14,Store Fuglede,4480,4,139,1973,310000.0,17-08-1994
+Roskildevej 4,Store Fuglede,4480,3,47,1961,256000.0,15-08-1994
+Birke Alle 3,Store Fuglede,4480,2,40,1957,68000.0,15-08-1994
+Fredskovens Lyngvej 11,Store Fuglede,4480,6,110,1965,500000.0,05-08-1994
+Lindevej 38,Store Fuglede,4480,4,93,2006,114000.0,04-07-1994
+Træskostien 12,Store Fuglede,4480,4,84,1969,380000.0,01-07-1994
+Elmelunden 16,Store Fuglede,4480,2,61,1964,89250.0,28-06-1994
+Hybenvej Øst 5,Store Fuglede,4480,3,70,1963,120000.0,27-06-1994
+Ved Kanalen 9,Store Fuglede,4480,46,117,1966,500000.0,21-06-1994
+Lyngvænget 5,Store Fuglede,4480,3,54,2008,77000.0,07-06-1994
+Lyngparken 6,Store Fuglede,4480,4,73,1974,200500.0,04-06-1994
+Filipsdalvej 6,Store Fuglede,4480,3,100,1970,300000.0,29-05-1994
+Keldsvej 4,Store Fuglede,4480,3,170,1912,1800000.0,25-05-1994
+Fredskovens Åvej 12,Store Fuglede,4480,4,54,1972,97722.0,29-04-1994
+Træskostien 6,Store Fuglede,4480,4,106,1990,680000.0,28-04-1994
+Jernhøj 7,Store Fuglede,4480,7,202,1914,465000.0,28-04-1994
+Tystrupvej 19,Store Fuglede,4480,3,81,1877,345000.0,20-04-1994
+Birkeholmvænget 9,Store Fuglede,4480,3,81,2008,175000.0,12-04-1994
+Banevej 5,Store Fuglede,4480,3,154,1910,281000.0,08-04-1994
+Voldstien 7,Store Fuglede,4480,3,70,1964,267400.0,06-04-1994
+Poppelhegnet 6,Store Fuglede,4480,3,82,1965,145000.0,02-04-1994
+Elmelunden 6,Store Fuglede,4480,4,109,1960,198000.0,29-03-1994
+Nålestien 10,Store Fuglede,4480,2,50,1960,90000.0,18-03-1994
+Vedbyvej 35,Store Fuglede,4480,4,71,1933,100000.0,03-03-1994
+Vestre Birkevej 6,Store Fuglede,4480,2,36,1955,165000.0,03-03-1994
+Skolestien 6,Store Fuglede,4480,4,132,1964,507587.0,17-02-1994
+Fredskovens Gyvelvej 2,Store Fuglede,4480,5,65,1968,200000.0,14-12-1993
+Rønnevej 8,Store Fuglede,4480,3,86,1967,195500.0,29-11-1993
+Nyvej 28,Store Fuglede,4480,5,116,1937,525000.0,24-11-1993
+Enghavevej 16,Store Fuglede,4480,4,87,1960,150000.0,05-11-1993
+Fredskovens Engvej 14,Store Fuglede,4480,4,94,1971,315000.0,01-11-1993
+Kanalvej 2,Store Fuglede,4480,6,103,1970,235000.0,10-09-1993
+Modinsvej Vest 5,Store Fuglede,4480,5,90,1960,196000.0,01-09-1993
+Vedbyvej 12,Store Fuglede,4480,3,71,1998,42000.0,11-08-1993
+Lyngsvinget 12,Store Fuglede,4480,2,57,1996,115000.0,21-07-1993
+Elmelunden 7,Store Fuglede,4480,2,42,1962,95000.0,18-07-1993
+Flinterupvej 115B,Store Fuglede,4480,8,168,1908,325000.0,06-07-1993
+Vestre Birkevej 19,Store Fuglede,4480,3,54,1986,500000.0,05-07-1993
+Strandlodsvej 34,Store Fuglede,4480,4,83,2013,230000.0,24-06-1993
+Bakkendrupvej 20,Store Fuglede,4480,4,142,1961,240000.0,12-06-1993
+Lindevej 48,Store Fuglede,4480,3,126,1967,275200.0,05-06-1993
+Lyngsvinget 36,Store Fuglede,4480,2,32,1962,140000.0,25-05-1993
+Nyvej 25,Store Fuglede,4480,3,52,1961,178500.0,21-05-1993
+Kobjældevej 10,Store Fuglede,4480,3,36,1965,195000.0,18-05-1993
+Absalonsvej 9,Store Fuglede,4480,3,70,1996,90000.0,17-05-1993
+Nyvej 22,Store Fuglede,4480,3,58,1957,130000.0,30-04-1993
+Bjerge Byvej 35,Store Fuglede,4480,3,101,1967,250000.0,24-04-1993
+Fredskovens Birkevej 4,Store Fuglede,4480,7,119,1965,126000.0,21-04-1993
+Birke Alle 13,Store Fuglede,4480,2,55,1960,155000.0,21-03-1993
+Lindevej 90,Store Fuglede,4480,1,17,2000,90000.0,18-03-1993
+Askevej 4,Store Fuglede,4480,5,106,2005,130000.0,05-02-1993
+Flinterupvej 99,Store Fuglede,4480,4,136,1973,385000.0,01-02-1993
+Vognmandsvej 5,Store Fuglede,4480,5,87,1930,185000.0,08-01-1993
+Vestervang 31,Store Fuglede,4480,3,54,1973,119000.0,13-12-1992
+Hyrdehusvej 26,Store Fuglede,4480,4,47,1947,120000.0,23-11-1992
+Fredskovens Engvej 15,Store Fuglede,4480,4,70,1965,260000.0,17-11-1992
+Havnemarken 30,Store Fuglede,4480,4,113,2006,165000.0,31-10-1992
+Bakkendrupvej 27,Store Fuglede,4480,6,148,1899,600000.0,07-10-1992
+Skolelodden 12,Store Fuglede,4480,4,119,1969,183564.0,15-09-1992
+Krokusvej 2,Store Fuglede,4480,3,52,1979,115000.0,10-09-1992
+Krokusvej 20,Store Fuglede,4480,3,70,1967,220000.0,23-08-1992
+Osvejen 37,Store Fuglede,4480,3,75,1952,165000.0,27-07-1992
+Fredskovens Åvej 4,Store Fuglede,4480,5,94,1969,153500.0,27-07-1992
+Bakkendrupvej 44,Store Fuglede,4480,6,227,1992,1157750.0,14-07-1992
+Krokusvej 8,Store Fuglede,4480,3,68,1995,200000.0,09-07-1992
+Lyngsvinget 52,Store Fuglede,4480,3,48,1936,380000.0,23-05-1992
+Nørrevang 2,Store Fuglede,4480,8,205,1951,615300.0,19-05-1992
+Violvænget 6,Store Fuglede,4480,3,56,1969,150000.0,16-05-1992
+Søndervang 3,Store Fuglede,4480,5,197,1900,241250.0,30-04-1992
+Filipsdalvej 2,Store Fuglede,4480,4,98,1954,333000.0,13-04-1992
+Solkrogen 15,Store Fuglede,4480,4,93,2001,68000.0,02-04-1992
+Blåmunkevej 25,Store Fuglede,4480,4,92,2010,297000.0,01-04-1992
+Rønnevej 13,Store Fuglede,4480,2,44,1971,190000.0,05-03-1992
+Fyrrestien Vest 12,Store Fuglede,4480,4,76,1992,115000.0,26-02-1992
+Flinterupvej 119,Store Fuglede,4480,6,137,1900,240000.0,12-02-1992
+Flinterupvej 86,Store Fuglede,4480,4,122,1900,250000.0,30-01-1992
+Flinterup Mark 1,Store Fuglede,4480,5,140,1927,360000.0,20-01-1992
+Duevej 19,Store Fuglede,4480,3,57,1967,125000.0,08-01-1992

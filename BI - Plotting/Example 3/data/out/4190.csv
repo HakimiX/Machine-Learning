@@ -1,0 +1,282 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Duevej 30,Munke Bjergby,4190,3,57,1978,675000.0,21-03-2017
+Bromme Østermark 24,Munke Bjergby,4190,7,136,1915,2283819.0,17-02-2017
+Østervej 19,Munke Bjergby,4190,4,126,1955,845000.0,28-01-2017
+Veddevej 22,Munke Bjergby,4190,4,107,1962,1195000.0,19-01-2017
+Kammergavevej 17,Munke Bjergby,4190,6,157,1924,2515000.0,06-01-2017
+Østervej 12,Munke Bjergby,4190,4,252,1902,2400000.0,04-01-2017
+Døjringevej 21,Munke Bjergby,4190,4,135,1961,488034.0,23-12-2016
+Kalundborgvej 103,Munke Bjergby,4190,6,104,1877,450000.0,05-12-2016
+Bromme Østermark 20,Munke Bjergby,4190,3,112,1878,1095000.0,17-09-2016
+Hulhøjvej 5,Munke Bjergby,4190,3,87,1850,1584000.0,23-06-2016
+Krogen 3,Munke Bjergby,4190,5,140,1930,1200000.0,14-06-2016
+Duevej 12,Munke Bjergby,4190,4,87,1969,495000.0,10-05-2016
+Kalundborgvej 105,Munke Bjergby,4190,4,160,1904,1350000.0,27-04-2016
+Ålerendevej 6,Munke Bjergby,4190,9,237,1938,2850000.0,08-04-2016
+Døjringevej 16,Munke Bjergby,4190,3,85,1887,825000.0,23-03-2016
+Veddevej 13,Munke Bjergby,4190,6,147,1960,788522.0,14-03-2016
+Døjringevej 7,Munke Bjergby,4190,4,130,1907,330000.0,09-02-2016
+Skolebakken 5,Munke Bjergby,4190,3,103,1965,525000.0,02-02-2016
+Atterupvej 7,Munke Bjergby,4190,4,115,1912,370000.0,01-02-2016
+Tersløsevej 8,Munke Bjergby,4190,6,219,1909,2185000.0,18-12-2015
+Kammergavevej 5,Munke Bjergby,4190,4,128,1924,1100000.0,20-11-2015
+Duevej 8,Munke Bjergby,4190,3,78,1972,550000.0,12-11-2015
+Vinkelstræde 4,Munke Bjergby,4190,5,115,1954,600000.0,05-10-2015
+Døjringevej 26,Munke Bjergby,4190,3,80,1954,770000.0,01-08-2015
+Dybendalvej 5,Munke Bjergby,4190,4,150,1916,380000.0,31-07-2015
+Hallelevvej 7,Munke Bjergby,4190,5,188,1828,1045000.0,15-07-2015
+Kirkebakkevej 13,Munke Bjergby,4190,4,116,1887,633000.0,14-07-2015
+Sangdrosselvej 9,Munke Bjergby,4190,3,67,1980,475000.0,08-07-2015
+Spurvevej 9,Munke Bjergby,4190,3,38,1969,550000.0,15-06-2015
+Døjringevej 12,Munke Bjergby,4190,3,79,1890,375000.0,11-06-2015
+Ålerendevej 5,Munke Bjergby,4190,6,177,1877,2400000.0,06-06-2015
+Kirkebakkevej 27,Munke Bjergby,4190,5,173,1929,340573.0,01-06-2015
+Skolebakken 25,Munke Bjergby,4190,4,117,1967,835000.0,10-05-2015
+Dybendalvej 20,Munke Bjergby,4190,4,116,1850,1395000.0,19-03-2015
+Tersløsevej 14,Munke Bjergby,4190,5,132,1972,990000.0,18-03-2015
+Spurvevej 7,Munke Bjergby,4190,3,50,1974,279871.0,21-01-2015
+Kammergavevej 12,Munke Bjergby,4190,6,157,1924,279179.0,02-12-2014
+Kalundborgvej 117,Munke Bjergby,4190,9,310,1902,2167500.0,27-11-2014
+Kammergave Mark 3,Munke Bjergby,4190,4,211,1924,2180000.0,28-10-2014
+Duevej 6,Munke Bjergby,4190,3,48,2005,470000.0,23-09-2014
+Østervej 1,Munke Bjergby,4190,5,169,1960,625000.0,16-09-2014
+Toplærkevej 3,Munke Bjergby,4190,3,72,1967,100000.0,19-08-2014
+Døjringevej 17A,Munke Bjergby,4190,4,97,1987,745000.0,20-07-2014
+Spurvevej 11,Munke Bjergby,4190,4,62,1969,222599.0,28-05-2014
+Duevej 2,Munke Bjergby,4190,3,54,1971,324000.0,27-05-2014
+Skolebakken 15,Munke Bjergby,4190,5,145,1973,404418.0,22-04-2014
+Skætholm 3,Munke Bjergby,4190,3,137,1900,1850000.0,27-03-2014
+Døjringevej 20,Munke Bjergby,4190,3,72,1959,370000.0,17-12-2013
+Ødemarksvej 5,Munke Bjergby,4190,6,146,1956,754351.0,12-11-2013
+Nordskovvej 8,Munke Bjergby,4190,4,165,1927,571955.0,05-08-2013
+Ålerendevej 3,Munke Bjergby,4190,4,95,1958,450000.0,19-07-2013
+Østervej 21,Munke Bjergby,4190,2,81,1960,686000.0,22-05-2013
+Krogen 1,Munke Bjergby,4190,2,102,1906,1325000.0,04-05-2013
+Kirkebakkevej 32A,Munke Bjergby,4190,6,204,1878,1000000.0,26-04-2013
+Duevej 5,Munke Bjergby,4190,3,74,1988,900000.0,18-04-2013
+Tersløsevej 13,Munke Bjergby,4190,11,525,1891,1500000.0,19-03-2013
+Østervej 16,Munke Bjergby,4190,4,160,1825,1250000.0,16-03-2013
+Østervej 10,Munke Bjergby,4190,6,153,1946,860000.0,25-02-2013
+Bromme Østermark 1,Munke Bjergby,4190,2,82,1939,400000.0,18-02-2013
+Veddevej 11,Munke Bjergby,4190,5,135,1875,1495000.0,30-01-2013
+Døjringevej 4,Munke Bjergby,4190,4,120,1940,860000.0,13-11-2012
+Tersløsevej 17,Munke Bjergby,4190,5,217,1901,1238900.0,24-09-2012
+Døjringevej 15,Munke Bjergby,4190,3,87,1938,495000.0,24-08-2012
+Ødemarksvej 11,Munke Bjergby,4190,3,97,1890,1000000.0,20-08-2012
+Skolebakken 29,Munke Bjergby,4190,4,116,1966,1195000.0,01-08-2012
+Døjringevej 34,Munke Bjergby,4190,4,124,1964,600000.0,16-06-2012
+Kirkebakkevej 25,Munke Bjergby,4190,5,107,1922,480000.0,13-04-2012
+Kirkebakkevej 31,Munke Bjergby,4190,5,199,1915,686934.0,28-03-2012
+Dybendalvej 12,Munke Bjergby,4190,6,143,1925,1450000.0,22-01-2012
+Munke Bjergbyvej 31,Munke Bjergby,4190,5,200,1927,695000.0,01-01-2012
+Duevej 10,Munke Bjergby,4190,4,100,1973,350000.0,20-12-2011
+Duevej 24,Munke Bjergby,4190,4,73,1970,650000.0,02-11-2011
+Skætholm 11,Munke Bjergby,4190,4,169,1890,1575000.0,25-07-2011
+Skolebakken 4,Munke Bjergby,4190,5,176,1972,1200000.0,03-06-2011
+Døjringevej 3,Munke Bjergby,4190,5,140,1900,116200.0,30-05-2011
+Kirkebakkevej 21,Munke Bjergby,4190,4,109,1967,850000.0,18-05-2011
+Kirkebakkevej 12,Munke Bjergby,4190,5,120,1965,1075000.0,20-04-2011
+Kirkebakkevej 18,Munke Bjergby,4190,8,224,1920,1250000.0,16-03-2011
+Duevej 22,Munke Bjergby,4190,3,108,1989,615709.0,22-11-2010
+Skolebakken 20,Munke Bjergby,4190,3,85,1964,450000.0,27-09-2010
+Søvang 2,Munke Bjergby,4190,5,161,2006,1695000.0,16-07-2010
+Skolebakken 9,Munke Bjergby,4190,5,156,1970,1100000.0,23-06-2010
+Østervej 27,Munke Bjergby,4190,4,127,1900,995000.0,14-06-2010
+Duevej 1,Munke Bjergby,4190,4,72,1973,300000.0,02-06-2010
+Maglesøvej 8,Munke Bjergby,4190,6,192,1958,5350000.0,05-05-2010
+Ødemarksvej 8,Munke Bjergby,4190,9,215,1989,1950000.0,25-03-2010
+Ødemarksvej 2,Munke Bjergby,4190,4,134,1927,3000000.0,12-03-2010
+Veddevej 20,Munke Bjergby,4190,6,160,1972,1695000.0,05-03-2010
+Duevej 3,Munke Bjergby,4190,2,62,1975,535000.0,07-12-2009
+Munke Bjergbyvej 21,Munke Bjergby,4190,3,105,1937,995000.0,25-11-2009
+Døjringevej 11,Munke Bjergby,4190,6,115,1907,561195.0,13-11-2009
+Munke Bjergbyvej 41,Munke Bjergby,4190,4,143,1941,1130000.0,10-09-2009
+Toplærkevej 13,Munke Bjergby,4190,5,98,1969,860000.0,01-07-2009
+Døjringevej 19,Munke Bjergby,4190,6,165,1897,598037.0,25-06-2009
+Kirkebakkevej 16,Munke Bjergby,4190,5,151,1945,1252478.0,27-02-2009
+Spurvevej 13,Munke Bjergby,4190,4,52,1986,475000.0,08-12-2008
+Kalundborgvej 102,Munke Bjergby,4190,3,112,1900,750000.0,27-11-2008
+Kammergave Mark 5,Munke Bjergby,4190,6,120,1924,1500000.0,27-10-2008
+Veddevej 17,Munke Bjergby,4190,4,96,1960,950000.0,10-09-2008
+Søbrinken 2,Munke Bjergby,4190,4,134,2002,1650000.0,15-07-2008
+Krogen 13,Munke Bjergby,4190,4,99,1910,1892000.0,29-06-2008
+Døjringevej 5,Munke Bjergby,4190,4,112,1922,804267.0,15-06-2008
+Tersløsevej 1,Munke Bjergby,4190,3,74,1877,950000.0,08-04-2008
+Østervej 11,Munke Bjergby,4190,4,86,1946,1475000.0,25-03-2008
+Østervej 7,Munke Bjergby,4190,7,214,1932,2535000.0,04-03-2008
+Duevej 32,Munke Bjergby,4190,1,103,2015,350000.0,22-02-2008
+Atterupvej 10,Munke Bjergby,4190,7,310,1874,685676.0,05-02-2008
+Østervej 8,Munke Bjergby,4190,5,120,1935,850000.0,09-01-2008
+Munke Bjergbyvej 40,Munke Bjergby,4190,6,202,1900,335000.0,26-11-2007
+Døjringevej 36,Munke Bjergby,4190,4,126,1943,1995000.0,05-10-2007
+Toplærkevej 11,Munke Bjergby,4190,4,117,1969,1075000.0,11-09-2007
+Døjringevej 38,Munke Bjergby,4190,6,177,1910,117600.0,03-09-2007
+Kirkebakkevej 8B,Munke Bjergby,4190,5,189,2005,2800000.0,16-08-2007
+Dybendalvej 1A,Munke Bjergby,4190,6,279,2015,850000.0,06-06-2007
+Veddevej 12,Munke Bjergby,4190,6,200,1978,2495000.0,27-05-2007
+Vibesvinget 1,Munke Bjergby,4190,4,174,1975,827262.0,24-05-2007
+Nordskovvej 2,Munke Bjergby,4190,6,197,1917,3850000.0,16-05-2007
+Kammergavevej 11,Munke Bjergby,4190,6,187,1924,3300000.0,13-05-2007
+Tersløsevej 2,Munke Bjergby,4190,3,100,1955,1250000.0,08-05-2007
+Kalundborgvej 115,Munke Bjergby,4190,5,153,1954,923788.0,06-05-2007
+Kirkebakkevej 19,Munke Bjergby,4190,4,90,1912,975000.0,29-04-2007
+Skolebakken 1,Munke Bjergby,4190,5,150,1948,1700000.0,17-04-2007
+Døjringevej 14,Munke Bjergby,4190,8,114,1890,1250000.0,07-04-2007
+Toplærkevej 4,Munke Bjergby,4190,2,54,2007,375000.0,19-03-2007
+Toplærkevej 10,Munke Bjergby,4190,4,103,2012,160000.0,01-12-2006
+Veddevej 10,Munke Bjergby,4190,5,152,1880,1500000.0,13-10-2006
+Kammergavevej 21,Munke Bjergby,4190,8,306,1924,2375000.0,03-10-2006
+Toplærkevej 1,Munke Bjergby,4190,3,76,1970,459000.0,26-09-2006
+Kirkebakkevej 38,Munke Bjergby,4190,4,95,1931,1295000.0,20-09-2006
+Sangdrosselvej 2,Munke Bjergby,4190,5,105,1971,411336.0,28-08-2006
+Bromme Østermark 14,Munke Bjergby,4190,3,110,1914,1865000.0,11-08-2006
+Vibesvinget 2,Munke Bjergby,4190,5,95,1967,670000.0,21-07-2006
+Bromme Østermark 12,Munke Bjergby,4190,4,116,1900,1595000.0,13-06-2006
+Dybendalvej 3,Munke Bjergby,4190,4,204,2011,750000.0,09-06-2006
+Kalundborgvej 111,Munke Bjergby,4190,3,77,1919,845000.0,31-03-2006
+Atterupvej 5,Munke Bjergby,4190,10,220,1854,2825000.0,01-01-2006
+Toplærkevej 6,Munke Bjergby,4190,5,84,1973,795000.0,19-12-2005
+Spurvevej 15,Munke Bjergby,4190,4,106,2005,599697.0,07-12-2005
+Bromme Østermark 5,Munke Bjergby,4190,3,105,1956,950000.0,07-11-2005
+Vinkelstræde 10,Munke Bjergby,4190,5,219,1930,875614.0,18-09-2005
+Veddevej 2,Munke Bjergby,4190,6,216,1877,855696.0,18-08-2005
+Østervej 3B,Munke Bjergby,4190,2,55,1967,650000.0,15-08-2005
+Atterupvej 8,Munke Bjergby,4190,6,187,1902,1650000.0,25-07-2005
+Døjringevej 24,Munke Bjergby,4190,5,178,1917,1775000.0,24-06-2005
+Døjringevej 17B,Munke Bjergby,4190,4,97,1987,1095000.0,21-06-2005
+Ødemarksvej 13,Munke Bjergby,4190,6,180,1922,69750000.0,01-06-2005
+Bromme Østermark 7,Munke Bjergby,4190,7,222,1820,1175000.0,02-05-2005
+Bromme Østermark 21,Munke Bjergby,4190,4,93,1928,3000000.0,28-04-2005
+Kirkebakkevej 40,Munke Bjergby,4190,4,92,1965,795000.0,16-04-2005
+Kammergavevej 15,Munke Bjergby,4190,3,135,1996,1000000.0,21-03-2005
+Døjringevej 28,Munke Bjergby,4190,3,108,1961,750000.0,03-03-2005
+Anagervej 3,Munke Bjergby,4190,7,131,1948,2125000.0,28-01-2005
+Kalundborgvej 109,Munke Bjergby,4190,4,160,1890,621209.0,16-01-2005
+Vinkelstræde 3,Munke Bjergby,4190,7,250,2010,973446.0,15-01-2005
+Maglesøvej 11,Munke Bjergby,4190,3,70,1972,1000100.0,06-11-2004
+Skolebakken 12,Munke Bjergby,4190,3,102,1969,940000.0,25-10-2004
+Døjringevej 18,Munke Bjergby,4190,5,89,1926,1195000.0,25-08-2004
+Veddevej 26,Munke Bjergby,4190,4,65,1827,264751.0,16-08-2004
+Kirkebakkevej 28,Munke Bjergby,4190,8,242,1933,950000.0,27-07-2004
+Skolebakken 22,Munke Bjergby,4190,5,136,1965,1299000.0,26-06-2004
+Østervej 33,Munke Bjergby,4190,4,114,1968,1685535.0,24-06-2004
+Atterupvej 11,Munke Bjergby,4190,4,118,1949,1099000.0,18-06-2004
+Toplærkevej 14,Munke Bjergby,4190,4,78,1970,425000.0,19-05-2004
+Munke Bjergbyvej 44,Munke Bjergby,4190,4,102,1963,1015000.0,29-04-2004
+Tersløsevej 12,Munke Bjergby,4190,4,149,1910,1800000.0,14-04-2004
+Kammergavevej 29,Munke Bjergby,4190,3,114,1924,350000.0,14-04-2004
+Sangdrosselvej 6,Munke Bjergby,4190,3,84,1973,300000.0,17-03-2004
+Spurvevej 2,Munke Bjergby,4190,3,55,1972,110500.0,15-03-2004
+Kirkebakkevej 2,Munke Bjergby,4190,5,246,1900,1029000.0,02-02-2004
+Skolebakken 3,Munke Bjergby,4190,4,102,1966,765000.0,15-12-2003
+Østervej 31,Munke Bjergby,4190,5,145,1900,845000.0,03-12-2003
+Døjringevej 32,Munke Bjergby,4190,4,116,1962,900000.0,30-08-2003
+Østervej 18,Munke Bjergby,4190,5,177,1940,1380000.0,03-07-2003
+Hallelevvej 3,Munke Bjergby,4190,4,100,1956,1600000.0,30-06-2003
+Munke Bjergbyvej 13,Munke Bjergby,4190,8,216,1920,995000.0,23-06-2003
+Dybendalvej 16,Munke Bjergby,4190,3,80,1905,3500000.0,14-06-2003
+Veddevej 8,Munke Bjergby,4190,4,134,1924,1232500.0,12-06-2003
+Kirkebakkevej 15,Munke Bjergby,4190,6,199,1917,1618190.0,10-06-2003
+Duevej 4,Munke Bjergby,4190,3,129,1971,625000.0,09-03-2003
+Nordskovvej 6,Munke Bjergby,4190,6,176,1900,1200000.0,13-02-2003
+Duevej 7,Munke Bjergby,4190,4,85,1971,485000.0,09-12-2002
+Østervej 13,Munke Bjergby,4190,3,65,1949,695000.0,20-10-2002
+Østervej 6,Munke Bjergby,4190,3,93,1936,807842.0,27-09-2002
+Bromme Østermark 18,Munke Bjergby,4190,7,158,1950,1160000.0,17-07-2002
+Mistebjergvej 7,Munke Bjergby,4190,5,141,1924,1467233.0,23-05-2002
+Døjringevej 13,Munke Bjergby,4190,6,154,1922,1185000.0,16-05-2002
+Kammergavevej 6,Munke Bjergby,4190,3,98,1924,731000.0,21-04-2002
+Bromme Østermark 25,Munke Bjergby,4190,5,228,1984,4311010.0,08-03-2002
+Munke Bjergbyvej 27,Munke Bjergby,4190,5,175,1922,1034000.0,05-03-2002
+Sangdrosselvej 8,Munke Bjergby,4190,3,68,1971,364000.0,23-02-2002
+Ødemarksvej 9,Munke Bjergby,4190,4,109,1956,1044000.0,14-02-2002
+Kammergavevej 7,Munke Bjergby,4190,7,245,1924,930000.0,05-02-2002
+Tersløsevej 5,Munke Bjergby,4190,2,63,1920,635000.0,21-12-2001
+Skolebakken 19,Munke Bjergby,4190,3,113,1966,774790.0,07-11-2001
+Kirkebakkevej 42,Munke Bjergby,4190,2,64,1947,564000.0,18-10-2001
+Søvang 15,Munke Bjergby,4190,3,138,2003,46935.0,24-09-2001
+Døjringevej 23A,Munke Bjergby,4190,5,125,1904,500000.0,21-08-2001
+Kalundborgvej 107,Munke Bjergby,4190,3,75,1917,577078.0,08-08-2001
+Søbrinken 4,Munke Bjergby,4190,6,166,2003,90405.0,27-07-2001
+Søbrinken 6,Munke Bjergby,4190,6,152,2004,30000.0,10-07-2001
+Kammergavevej 23,Munke Bjergby,4190,6,191,1980,475000.0,02-06-2001
+Døjringevej 22,Munke Bjergby,4190,4,150,1920,1906000.0,31-05-2001
+Kirkebakkevej 17,Munke Bjergby,4190,7,171,1898,827460.0,31-05-2001
+Hulhøjvej 2,Munke Bjergby,4190,5,167,1900,1627220.0,09-05-2001
+Søvang 6,Munke Bjergby,4190,5,149,2005,87210.0,07-05-2001
+Veddevej 5,Munke Bjergby,4190,5,194,1850,523000.0,07-04-2001
+Bromme Østermark 23,Munke Bjergby,4190,7,190,1940,1890000.0,26-03-2001
+Veddevej 16,Munke Bjergby,4190,6,150,1965,1291085.0,08-03-2001
+Søbrinken 1,Munke Bjergby,4190,5,119,2005,76590.0,22-01-2001
+Krogen 5,Munke Bjergby,4190,6,154,1890,2699032.0,01-12-2000
+Tersløsevej 3,Munke Bjergby,4190,6,120,1900,672000.0,18-09-2000
+Dybendalvej 8,Munke Bjergby,4190,3,168,1880,390000.0,18-09-2000
+Skolebakken 6,Munke Bjergby,4190,6,225,1966,1350000.0,31-08-2000
+Krogen 2,Munke Bjergby,4190,10,524,1825,1324086.0,31-08-2000
+Søvang 4,Munke Bjergby,4190,7,220,2001,87525.0,26-07-2000
+Munke Bjergbyvej 26,Munke Bjergby,4190,8,296,1890,1961072.0,31-05-2000
+Dybendalvej 18,Munke Bjergby,4190,3,88,1965,442000.0,25-05-2000
+Søvang 17,Munke Bjergby,4190,5,176,2001,117990.0,10-05-2000
+Bromme Østermark 22,Munke Bjergby,4190,6,152,1959,870000.0,09-04-2000
+Munke Bjergbyvej 24,Munke Bjergby,4190,3,77,1877,297000.0,21-03-2000
+Dybendalvej 2A,Munke Bjergby,4190,6,165,1910,490000.0,23-12-1999
+Nordskovvej 12,Munke Bjergby,4190,6,208,1923,741600.0,25-11-1999
+Skolebakken 21,Munke Bjergby,4190,4,138,1968,780000.0,28-10-1999
+Skolebakken 2,Munke Bjergby,4190,3,160,1966,838908.0,23-09-1999
+Kirkebakkevej 39,Munke Bjergby,4190,6,230,1852,349515.0,15-09-1999
+Munke Bjergbyvej 18,Munke Bjergby,4190,4,104,1953,385000.0,20-07-1999
+Hallelevvej 9,Munke Bjergby,4190,7,163,1956,1409043.0,08-06-1999
+Kirkebakkevej 33,Munke Bjergby,4190,5,147,1937,803620.0,12-05-1999
+Veddevej 24,Munke Bjergby,4190,6,140,1960,3600000.0,19-02-1999
+Toplærkevej 5,Munke Bjergby,4190,6,140,1989,50000.0,14-11-1998
+Østervej 29,Munke Bjergby,4190,3,84,1827,532000.0,15-10-1998
+Sangdrosselvej 1,Munke Bjergby,4190,2,57,1969,170000.0,10-10-1998
+Anagervej 2,Munke Bjergby,4190,3,130,1827,200000.0,28-09-1998
+Munke Bjergbyvej 23,Munke Bjergby,4190,10,323,1890,1011000.0,28-08-1998
+Vinkelstræde 8,Munke Bjergby,4190,3,75,1940,507175.0,30-07-1998
+Skolebakken 23,Munke Bjergby,4190,4,146,1969,307000.0,15-05-1998
+Toplærkevej 2,Munke Bjergby,4190,2,43,1970,125000.0,18-03-1998
+Veddevej 3C,Munke Bjergby,4190,4,103,1927,475040.0,17-11-1997
+Østervej 9,Munke Bjergby,4190,4,177,1946,515000.0,24-10-1997
+Toplærkevej 9,Munke Bjergby,4190,2,29,1957,56000.0,09-09-1997
+Hulhøjvej 3,Munke Bjergby,4190,5,210,1995,1345000.0,12-07-1997
+Bromme Østermark 30,Munke Bjergby,4190,4,199,1900,700370.0,26-05-1997
+Østervej 4A,Munke Bjergby,4190,3,130,1937,497615.0,23-05-1997
+Skætholm 1,Munke Bjergby,4190,4,100,1898,575000.0,03-05-1997
+Kammergavevej 13,Munke Bjergby,4190,6,177,1924,770000.0,23-04-1997
+Tersløsevej 6,Munke Bjergby,4190,5,148,1904,1334000.0,22-04-1997
+Døjringevej 1,Munke Bjergby,4190,4,140,1890,170000.0,25-03-1997
+Veddevej 9,Munke Bjergby,4190,4,173,1850,1107000.0,03-02-1997
+Kirkebakkevej 29,Munke Bjergby,4190,4,140,1928,550000.0,23-10-1996
+Veddevej 1,Munke Bjergby,4190,4,90,1925,395000.0,29-08-1996
+Kammergavevej 9,Munke Bjergby,4190,6,158,1924,495000.0,19-08-1996
+Atterupvej 4,Munke Bjergby,4190,3,157,1910,808000.0,08-07-1996
+Østervej 17,Munke Bjergby,4190,6,111,1954,575000.0,30-06-1996
+Krogen 9,Munke Bjergby,4190,5,195,1908,500000.0,20-06-1996
+Kirkebakkevej 9,Munke Bjergby,4190,5,90,1953,553000.0,03-06-1996
+Kirkebakkevej 5,Munke Bjergby,4190,9,150,1930,430000.0,02-06-1996
+Nordskovvej 1,Munke Bjergby,4190,5,140,1921,240885.0,09-05-1996
+Munke Bjergbyvej 25,Munke Bjergby,4190,7,230,1949,670000.0,06-05-1996
+Kirkebakkevej 1,Munke Bjergby,4190,8,245,1929,581000.0,18-04-1996
+Krogen 6,Munke Bjergby,4190,6,138,1750,790000.0,15-04-1996
+Munke Bjergbyvej 20,Munke Bjergby,4190,4,125,1777,596666.0,30-03-1996
+Kammergavevej 10,Munke Bjergby,4190,4,185,1924,850000.0,11-03-1996
+Østervej 15,Munke Bjergby,4190,7,191,1953,443500.0,13-02-1996
+Kammergave Mark 1,Munke Bjergby,4190,6,176,1924,425000.0,16-01-1996
+Veddevej 15,Munke Bjergby,4190,5,131,1960,381392.0,02-12-1995
+Veddevej 18,Munke Bjergby,4190,5,129,1877,641700.0,27-11-1995
+Kirkebakkevej 23,Munke Bjergby,4190,4,129,1923,426460.0,05-10-1995
+Maglesøvej 9,Munke Bjergby,4190,9,270,1907,4900000.0,24-02-1995
+Nordrupvej 11,Munke Bjergby,4190,5,201,1870,650000.0,07-02-1995
+Skætholm 13,Munke Bjergby,4190,4,115,1897,1052680.0,09-11-1994
+Kirkebakkevej 3,Munke Bjergby,4190,9,305,1875,2050000.0,09-06-1994
+Dybendalvej 6,Munke Bjergby,4190,4,91,1890,1983425.0,01-04-1994
+Tersløsevej 11,Munke Bjergby,4190,3,157,1900,595000.0,28-10-1993
+Østervej 3A,Munke Bjergby,4190,8,242,1967,452807.0,28-08-1993
+Kirkebakkevej 44,Munke Bjergby,4190,4,151,1932,450410.0,08-06-1993
+Kirkebakkevej 48,Munke Bjergby,4190,5,98,1890,1000000.0,11-03-1993
+Nordskovvej 9,Munke Bjergby,4190,6,188,1900,174382.0,24-11-1992
+Sangdrosselvej 11,Munke Bjergby,4190,2,63,1969,170000.0,28-09-1992
+Munke Bjergbyvej 11,Munke Bjergby,4190,7,118,1900,325000.0,10-08-1992
+Kammergavevej 19,Munke Bjergby,4190,6,220,1924,611250.0,20-04-1992
+Vinkelstræde 1,Munke Bjergby,4190,2,88,1928,330000.0,10-02-1992

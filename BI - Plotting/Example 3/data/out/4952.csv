@@ -1,0 +1,349 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Vestre Landevej 195,Stokkemarke,4952,7,157,1963,600000.0,01-05-2017
+Keldernæsvej 78,Stokkemarke,4952,5,143,1887,300000.0,26-04-2017
+Bøllesmindevej 2,Stokkemarke,4952,5,144,1936,150000.0,06-02-2017
+Keldernæsvej 30,Stokkemarke,4952,5,92,1924,200000.0,01-02-2017
+Sørupvej 14,Stokkemarke,4952,3,125,1901,310000.0,12-12-2016
+Vestre Landevej 199,Stokkemarke,4952,14,819,1916,400000.0,28-11-2016
+Hestehavevej 12,Stokkemarke,4952,8,286,1940,605000.0,17-11-2016
+Keldernæs Skolevej 8,Stokkemarke,4952,5,158,1880,200000.0,21-10-2016
+Skovhusevej 56,Stokkemarke,4952,2,90,1852,100000.0,13-10-2016
+Højrebyvej 27,Stokkemarke,4952,3,90,1870,56001.0,05-10-2016
+Tjennemarkevej 50,Stokkemarke,4952,7,300,1905,595000.0,24-08-2016
+Brandsmose Ringvej 8,Stokkemarke,4952,5,127,1973,215000.0,24-08-2016
+Toftevej 6,Stokkemarke,4952,4,140,1967,185000.0,22-08-2016
+Havløkkevej 49,Stokkemarke,4952,7,145,1870,305000.0,17-06-2016
+Toftevej 3,Stokkemarke,4952,4,135,1967,325000.0,06-06-2016
+Vestre Landevej 204,Stokkemarke,4952,4,86,1920,180000.0,26-05-2016
+Vestre Landevej 215,Stokkemarke,4952,7,173,1948,152000.0,11-05-2016
+Brandsmose Ringvej 12,Stokkemarke,4952,5,130,1973,330000.0,03-05-2016
+Saltvig Hovvej 28,Stokkemarke,4952,7,169,1870,595000.0,29-04-2016
+Birketvej 292,Stokkemarke,4952,4,126,1949,50000.0,11-04-2016
+Højrebyvej 26,Stokkemarke,4952,11,255,1908,1600000.0,30-03-2016
+Bøllesmindevej 9,Stokkemarke,4952,5,225,1910,225000.0,19-02-2016
+Øltappervej 4,Stokkemarke,4952,10,376,1926,1530000.0,15-02-2016
+Keldernæs Skovvej 30,Stokkemarke,4952,4,144,1916,65000.0,18-01-2016
+Vestre Landevej 202,Stokkemarke,4952,4,188,1895,599000.0,03-12-2015
+Rørmarksvej 8,Stokkemarke,4952,4,105,1900,150000.0,01-10-2015
+Tjennemarkevej 58,Stokkemarke,4952,7,162,1859,13611645.0,04-09-2015
+Vestre Landevej 282,Stokkemarke,4952,4,65,1927,133000.0,17-06-2015
+Vestre Landevej 322,Stokkemarke,4952,3,90,1899,225000.0,02-06-2015
+Keldernæsvej 39,Stokkemarke,4952,6,190,1900,220000.0,26-02-2015
+Vestre Landevej 216,Stokkemarke,4952,2,124,1952,295000.0,06-10-2014
+Birketvej 296,Stokkemarke,4952,3,80,1953,50000.0,24-09-2014
+Sursvej 7,Stokkemarke,4952,8,169,1964,565000.0,19-09-2014
+Havløkkevej 6,Stokkemarke,4952,4,103,1941,45000.0,13-09-2014
+Havløkkevej 12,Stokkemarke,4952,4,134,1876,550000.0,16-08-2014
+Tjennemarkevej 13,Stokkemarke,4952,4,130,1987,500000.0,05-08-2014
+Vestre Landevej 312,Stokkemarke,4952,3,78,1933,300000.0,09-07-2014
+Birketvej 272,Stokkemarke,4952,3,121,1900,471123.0,01-07-2014
+Vestre Landevej 231,Stokkemarke,4952,3,103,1907,541689.0,01-07-2014
+Øltappervej 12,Stokkemarke,4952,5,128,1931,1100000.0,30-06-2014
+Birketvej 235,Stokkemarke,4952,4,68,1825,45000.0,18-06-2014
+Studiestræde 6,Stokkemarke,4952,6,167,1961,470000.0,04-06-2014
+Vestre Landevej 307,Stokkemarke,4952,4,101,1963,310000.0,25-04-2014
+Øltappervej 9,Stokkemarke,4952,8,139,1928,5567500.0,12-03-2014
+Vestre Landevej 224,Stokkemarke,4952,4,106,1951,225000.0,30-01-2014
+Vestre Landevej 259,Stokkemarke,4952,4,86,1903,115000.0,04-01-2014
+Vestre Landevej 314,Stokkemarke,4952,6,235,1965,650000.0,23-09-2013
+Tjennemarkevej 34,Stokkemarke,4952,8,286,1926,307800.0,18-09-2013
+Vestre Landevej 279,Stokkemarke,4952,3,60,1951,115000.0,27-08-2013
+Vestre Landevej 328,Stokkemarke,4952,8,183,1900,108000.0,14-08-2013
+Brandsmose Ringvej 2,Stokkemarke,4952,3,102,1974,122000.0,14-08-2013
+Vestre Landevej 292,Stokkemarke,4952,8,240,1938,595000.0,29-04-2013
+Birketvej 338,Stokkemarke,4952,8,190,1907,1050000.0,15-04-2013
+Vestre Landevej 207,Stokkemarke,4952,5,125,1914,150000.0,03-04-2013
+Keldernæsvej 13,Stokkemarke,4952,7,141,1867,520000.0,27-03-2013
+Havløkkevej 3,Stokkemarke,4952,6,178,1880,590000.0,28-01-2013
+Kommunegårdsvej 9,Stokkemarke,4952,3,122,1880,495000.0,23-01-2013
+Tjennemarkevej 24,Stokkemarke,4952,9,230,1850,8190000.0,18-01-2013
+Keldernæs Skovvej 40,Stokkemarke,4952,4,140,1911,150000.0,18-12-2012
+Rørmarksvej 12,Stokkemarke,4952,4,143,1926,690000.0,13-11-2012
+Birketvej 217,Stokkemarke,4952,4,170,1869,175000.0,01-11-2012
+Birketvej 318,Stokkemarke,4952,4,172,1917,70000.0,19-09-2012
+Birketvej 354,Stokkemarke,4952,4,113,1877,70000.0,15-08-2012
+Vestre Landevej 310,Stokkemarke,4952,4,67,1917,125699.0,23-07-2012
+Havløkkevej 1,Stokkemarke,4952,4,162,1890,150000.0,20-06-2012
+Toftevej 8,Stokkemarke,4952,4,120,1967,595000.0,23-04-2012
+Sursvej 5,Stokkemarke,4952,5,130,1964,500000.0,25-03-2012
+Skovhusevej 52,Stokkemarke,4952,3,86,1962,150000.0,12-03-2012
+Keldernæs Hovvej 12,Stokkemarke,4952,8,181,1936,530773.0,22-02-2012
+Vestre Landevej 229,Stokkemarke,4952,4,102,1912,150000.0,13-01-2012
+Studiestræde 4,Stokkemarke,4952,5,133,1959,645000.0,31-12-2011
+Vestre Landevej 228,Stokkemarke,4952,6,176,1947,720000.0,01-12-2011
+Brandsmosevej 3,Stokkemarke,4952,2,69,1887,30001.0,19-10-2011
+Vestre Landevej 271,Stokkemarke,4952,3,87,1920,375000.0,08-08-2011
+Keldernæsvej 56,Stokkemarke,4952,4,118,1903,360000.0,29-06-2011
+Godthåbsvej 5,Stokkemarke,4952,5,120,2008,600000.0,22-06-2011
+Hestehavevej 8,Stokkemarke,4952,6,256,1905,775000.0,09-05-2011
+Vestre Landevej 230,Stokkemarke,4952,3,114,1948,330000.0,09-02-2011
+Keldernæs Skolevej 32,Stokkemarke,4952,2,64,1957,180000.0,23-01-2011
+Løjetvej 2,Stokkemarke,4952,4,108,1827,250000.0,28-11-2010
+Keldernæs Hovvej 7,Stokkemarke,4952,8,230,1948,2100000.0,23-11-2010
+Vestre Landevej 287,Stokkemarke,4952,4,121,1930,370000.0,17-11-2010
+"Vestre Landevej 219, 1",Stokkemarke,4952,5,137,1954,250000.0,10-11-2010
+Vestre Landevej 324,Stokkemarke,4952,5,144,1903,275000.0,25-10-2010
+Havløkkevej 20,Stokkemarke,4952,5,126,1900,170000.0,18-10-2010
+Vestre Landevej 320,Stokkemarke,4952,4,129,1907,200000.0,04-10-2010
+Klintegårdsvej 2,Stokkemarke,4952,4,235,1933,1800000.0,03-10-2010
+Keldernæs Skovvej 11,Stokkemarke,4952,6,179,1960,3710325.0,20-09-2010
+Vestre Landevej 290,Stokkemarke,4952,5,122,1938,600000.0,08-09-2010
+Keldernæs Skolevej 23,Stokkemarke,4952,5,96,1930,125000.0,25-08-2010
+Birketvej 322,Stokkemarke,4952,4,90,1870,460000.0,27-07-2010
+Saltvig Hovvej 40,Stokkemarke,4952,3,105,1870,391539.0,06-07-2010
+Højrebyvej 13,Stokkemarke,4952,7,180,1902,6760000.0,26-03-2010
+Tjennemarkevej 21,Stokkemarke,4952,7,288,1876,4889554.0,17-03-2010
+Øltappervej 5,Stokkemarke,4952,10,260,1888,1675000.0,06-12-2009
+Vestre Landevej 217,Stokkemarke,4952,6,260,1952,463125.0,25-11-2009
+Kildevej 2,Stokkemarke,4952,4,204,1890,393000.0,14-11-2009
+Blansmosevej 11,Stokkemarke,4952,11,260,1929,12660000.0,01-09-2009
+Kommunegårdsvej 1,Stokkemarke,4952,2,88,1989,1050000.0,26-08-2009
+Havløkkevej 21,Stokkemarke,4952,4,131,1880,800000.0,18-08-2009
+Vestre Landevej 296,Stokkemarke,4952,5,125,1942,525000.0,15-08-2009
+Keldernæs Skovvej 10,Stokkemarke,4952,8,140,1865,995000.0,13-08-2009
+Vestre Landevej 297,Stokkemarke,4952,6,130,1900,392606.0,10-05-2009
+Sørupvej 11,Stokkemarke,4952,3,185,1870,2400000.0,30-03-2009
+Vestre Landevej 305,Stokkemarke,4952,4,138,1963,790000.0,11-03-2009
+Vestre Landevej 237,Stokkemarke,4952,6,242,1914,272000.0,22-12-2008
+Vestre Landevej 269,Stokkemarke,4952,6,225,1912,650000.0,01-12-2008
+Brandsmose Ringvej 1,Stokkemarke,4952,4,108,1969,765000.0,13-11-2008
+Keldernæsvej 68,Stokkemarke,4952,9,211,1948,7182500.0,22-10-2008
+Birketvej 360,Stokkemarke,4952,5,207,1949,375000.0,06-10-2008
+Keldernæsvej 72,Stokkemarke,4952,4,121,1976,720000.0,24-09-2008
+Rørmarksvej 4,Stokkemarke,4952,4,121,2006,800000.0,20-09-2008
+Vestre Landevej 247,Stokkemarke,4952,19,343,1887,400000.0,15-09-2008
+Keldernæs Skovvej 8,Stokkemarke,4952,5,227,1850,1625000.0,23-08-2008
+Saltvig Hovvej 44,Stokkemarke,4952,5,185,1914,1540000.0,15-08-2008
+Keldernæs Skovvej 34,Stokkemarke,4952,4,124,1915,650000.0,11-08-2008
+Birketvej 352,Stokkemarke,4952,2,62,1936,190000.0,04-08-2008
+Vestre Landevej 257,Stokkemarke,4952,7,285,1880,725000.0,15-07-2008
+Blansmosevej 10,Stokkemarke,4952,3,84,1827,280000.0,14-06-2008
+Brandsmose Tværvej 1,Stokkemarke,4952,3,72,1915,475000.0,12-06-2008
+Grantoften 1,Stokkemarke,4952,3,119,2009,44700.0,28-04-2008
+Thomasmindevej 9,Stokkemarke,4952,10,311,1872,1910000.0,14-04-2008
+Højrebyvej 17,Stokkemarke,4952,6,240,1877,4889554.0,07-04-2008
+Blansmosevej 7,Stokkemarke,4952,4,131,1827,570000.0,31-03-2008
+Vestre Landevej 137,Stokkemarke,4952,3,84,1920,3429000.0,27-03-2008
+Birketvej 358,Stokkemarke,4952,9,153,1777,1450000.0,17-03-2008
+Kommunegårdsvej 2,Stokkemarke,4952,5,201,1934,1995000.0,19-02-2008
+Kildevej 5,Stokkemarke,4952,4,98,1900,750000.0,10-12-2007
+Øltappervej 1,Stokkemarke,4952,5,137,1965,1050000.0,03-12-2007
+Keldernæs Hovvej 8,Stokkemarke,4952,5,197,1800,900000.0,12-11-2007
+Brandsmosevej 25,Stokkemarke,4952,3,75,1830,400000.0,30-10-2007
+Keldernæs Skovvej 18,Stokkemarke,4952,3,119,1880,595000.0,29-10-2007
+Keldernæs Skolevej 1,Stokkemarke,4952,4,126,1910,795000.0,23-10-2007
+Keldernæs Skolevej 22,Stokkemarke,4952,3,80,1952,490000.0,15-10-2007
+Vestre Landevej 261,Stokkemarke,4952,3,234,1900,630000.0,07-10-2007
+Birketvej 219,Stokkemarke,4952,3,70,1950,565000.0,05-10-2007
+Sørupvej 20,Stokkemarke,4952,3,84,1920,288000.0,26-09-2007
+Birketvej 342,Stokkemarke,4952,5,164,1900,110000.0,31-07-2007
+Brandsmose Ringvej 7,Stokkemarke,4952,6,158,1965,960000.0,13-07-2007
+Godthåbsvej 15,Stokkemarke,4952,4,193,1970,825000.0,02-07-2007
+Vestre Landevej 266,Stokkemarke,4952,5,127,1900,425000.0,25-06-2007
+Brandsmose Ringvej 9,Stokkemarke,4952,5,158,1971,330199.0,20-06-2007
+Vestre Landevej 270,Stokkemarke,4952,14,391,1912,650000.0,22-05-2007
+Havløkkevej 14,Stokkemarke,4952,4,103,1900,480000.0,07-05-2007
+Vestre Landevej 187,Stokkemarke,4952,5,171,1962,813262.0,17-04-2007
+Godthåbsvej 4,Stokkemarke,4952,3,65,1942,595000.0,12-03-2007
+Vestre Landevej 334,Stokkemarke,4952,6,130,1900,645000.0,18-01-2007
+Birketvej 203,Stokkemarke,4952,5,127,1917,531879.0,04-01-2007
+Sørupvej 18,Stokkemarke,4952,3,84,1920,332578.0,11-12-2006
+Kommunegårdsvej 11,Stokkemarke,4952,3,84,1880,500000.0,28-09-2006
+Vestre Landevej 276,Stokkemarke,4952,5,194,1900,1800000.0,21-09-2006
+Birketvej 290,Stokkemarke,4952,3,94,1860,300000.0,11-09-2006
+Vestre Landevej 360,Stokkemarke,4952,5,112,1943,693809.0,30-08-2006
+Vestre Landevej 240,Stokkemarke,4952,4,70,1912,500000.0,22-08-2006
+Havløkkevej 13,Stokkemarke,4952,2,54,1880,310000.0,09-08-2006
+Vestre Landevej 201,Stokkemarke,4952,3,90,1929,410000.0,03-08-2006
+Havløkkevej 2,Stokkemarke,4952,6,150,1917,785000.0,31-07-2006
+Tjennemarkevej 30,Stokkemarke,4952,5,150,1912,545000.0,28-06-2006
+Vestre Landevej 133,Stokkemarke,4952,7,232,1922,1045000.0,06-06-2006
+Keldernæs Skolevej 5,Stokkemarke,4952,4,108,1914,320000.0,20-05-2006
+Godthåbsvej 13,Stokkemarke,4952,4,100,1902,435000.0,11-05-2006
+Grantoften 9,Stokkemarke,4952,3,116,1981,675000.0,09-05-2006
+Vestre Landevej 304,Stokkemarke,4952,6,162,1924,535000.0,05-05-2006
+Keldernæsvej 27,Stokkemarke,4952,4,120,1947,395000.0,25-04-2006
+Keldernæs Hovvej 4,Stokkemarke,4952,5,104,1880,2090000.0,03-03-2006
+Keldernæsvej 6,Stokkemarke,4952,3,68,1946,280000.0,25-02-2006
+Bøllesmindevej 10,Stokkemarke,4952,6,311,1750,940000.0,07-02-2006
+Skovhusevej 55,Stokkemarke,4952,3,122,1927,2055000.0,19-01-2006
+Keldernæs Skolevej 4,Stokkemarke,4952,2,55,1877,250000.0,20-12-2005
+Keldernæs Skolevej 37,Stokkemarke,4952,3,88,1800,870000.0,20-12-2005
+Saltvig Hovvej 26,Stokkemarke,4952,4,108,1936,825000.0,12-12-2005
+Vestre Landevej 210,Stokkemarke,4952,3,110,1948,320000.0,29-11-2005
+Brandsmosevej 6,Stokkemarke,4952,4,144,1915,1520000.0,24-11-2005
+Godthåbsvej 10,Stokkemarke,4952,2,78,1700,323000.0,23-11-2005
+Brandsmosevej 5,Stokkemarke,4952,4,90,1933,310000.0,22-11-2005
+Kildevej 8,Stokkemarke,4952,3,84,1880,263500.0,15-11-2005
+Hestehavevej 6,Stokkemarke,4952,4,116,1902,755000.0,08-11-2005
+Vestre Landevej 213,Stokkemarke,4952,5,122,1925,650000.0,08-11-2005
+Havløkkevej 9,Stokkemarke,4952,2,51,1780,210000.0,29-10-2005
+Vestre Landevej 208,Stokkemarke,4952,4,114,1674,515000.0,26-10-2005
+Kommunegårdsvej 12,Stokkemarke,4952,8,274,1900,950000.0,06-10-2005
+Godthåbsvej 14,Stokkemarke,4952,5,124,1919,691101.0,27-09-2005
+Birketvej 253,Stokkemarke,4952,5,162,1932,665000.0,14-09-2005
+Vildmosevej 3,Stokkemarke,4952,2,100,1860,785000.0,30-08-2005
+Keldernæsvej 35,Stokkemarke,4952,4,130,1880,385000.0,11-08-2005
+Tjennemarkevej 44,Stokkemarke,4952,6,166,1877,795000.0,05-08-2005
+Keldernæs Skolevej 31,Stokkemarke,4952,4,93,1852,670000.0,19-07-2005
+Godthåbsvej 6,Stokkemarke,4952,2,64,2007,100000.0,13-07-2005
+Brandsmosevej 29,Stokkemarke,4952,3,135,1900,705000.0,12-07-2005
+Keldernæsvej 10,Stokkemarke,4952,3,120,1960,687500.0,05-07-2005
+Højrebyvej 21,Stokkemarke,4952,2,84,1965,575000.0,16-06-2005
+Vestre Landevej 306,Stokkemarke,4952,5,135,1913,660000.0,14-03-2005
+Vestre Landevej 366,Stokkemarke,4952,5,176,1900,810000.0,25-02-2005
+Brandsmosevej 22,Stokkemarke,4952,2,60,1800,245000.0,23-02-2005
+Tjennemarkevej 48,Stokkemarke,4952,5,261,1870,995000.0,10-02-2005
+Birketvej 249,Stokkemarke,4952,6,158,1700,2700000.0,03-02-2005
+Sørupvej 10,Stokkemarke,4952,3,225,1863,1826250.0,25-01-2005
+Birketvej 328,Stokkemarke,4952,5,204,1920,350000.0,22-12-2004
+Blansmosevej 18,Stokkemarke,4952,4,85,1827,110000.0,07-12-2004
+Havløkkevej 39,Stokkemarke,4952,4,100,1890,330000.0,18-11-2004
+Birketvej 211,Stokkemarke,4952,6,240,1903,235222.0,09-11-2004
+Keldernæs Skolevej 18,Stokkemarke,4952,4,100,1966,555000.0,27-10-2004
+Vestre Landevej 332,Stokkemarke,4952,3,148,1900,300000.0,26-10-2004
+Løjetvej 5,Stokkemarke,4952,4,142,1827,475000.0,07-09-2004
+Vestre Landevej 346,Stokkemarke,4952,4,107,1900,525000.0,06-09-2004
+Havløkkevej 11,Stokkemarke,4952,3,77,1880,255000.0,30-08-2004
+Vestre Landevej 263,Stokkemarke,4952,6,132,1922,456939.0,16-08-2004
+Skovhusevej 60,Stokkemarke,4952,5,180,1820,785000.0,03-08-2004
+Kildevej 13,Stokkemarke,4952,4,122,1970,800000.0,18-07-2004
+Vestre Landevej 209,Stokkemarke,4952,9,140,1937,665000.0,15-06-2004
+Keldernæs Strandvej 7,Stokkemarke,4952,7,244,1900,1300000.0,29-05-2004
+Vestre Landevej 321,Stokkemarke,4952,3,105,1946,495000.0,04-05-2004
+Vestre Landevej 203,Stokkemarke,4952,5,116,1900,375566.0,03-05-2004
+Højrebyvej 11,Stokkemarke,4952,6,162,1827,555000.0,03-05-2004
+Vestre Landevej 233,Stokkemarke,4952,5,195,1959,375000.0,17-04-2004
+Keldernæs Skovvej 16,Stokkemarke,4952,4,80,1900,321698.0,28-03-2004
+Brandsmose Ringvej 19,Stokkemarke,4952,4,132,1968,861042.0,26-03-2004
+Vestre Landevej 181,Stokkemarke,4952,4,104,1960,850000.0,20-02-2004
+Vestre Landevej 352,Stokkemarke,4952,3,96,1935,625000.0,17-02-2004
+Birketvej 346,Stokkemarke,4952,5,109,1875,495000.0,17-02-2004
+Øltappervej 10,Stokkemarke,4952,4,147,1877,325758.0,08-02-2004
+Vestre Landevej 283,Stokkemarke,4952,5,184,1900,475000.0,05-11-2003
+Vestre Landevej 189,Stokkemarke,4952,4,112,1960,650000.0,20-10-2003
+Birketvej 247,Stokkemarke,4952,7,120,1916,200000.0,13-10-2003
+Brandsmosevej 11,Stokkemarke,4952,4,112,1915,425000.0,26-09-2003
+Blansmosevej 4,Stokkemarke,4952,3,105,1920,300000.0,04-09-2003
+Vestre Landevej 278,Stokkemarke,4952,4,74,1901,400000.0,04-08-2003
+Vestre Landevej 218,Stokkemarke,4952,4,120,1947,225000.0,02-07-2003
+Vestre Landevej 235,Stokkemarke,4952,8,233,1948,623000.0,25-06-2003
+Keldernæs Skolevej 10,Stokkemarke,4952,4,79,1807,380000.0,06-06-2003
+Kildevej 11,Stokkemarke,4952,3,92,1880,555000.0,15-05-2003
+Birketvej 286,Stokkemarke,4952,5,215,1880,906000.0,24-04-2003
+Vestre Landevej 256,Stokkemarke,4952,9,250,1911,420000.0,23-03-2003
+Keldernæs Skolevej 21,Stokkemarke,4952,6,150,1800,1000000.0,20-03-2003
+Brandsmose Tværvej 5,Stokkemarke,4952,3,134,1800,835000.0,17-03-2003
+Knuthenlundvej 1,Stokkemarke,4952,5,150,1880,62719.0,17-03-2003
+Vestre Landevej 285,Stokkemarke,4952,4,149,1910,330000.0,17-02-2003
+Keldernæsvej 53,Stokkemarke,4952,3,129,1936,607000.0,08-12-2002
+Højrebyvej 7,Stokkemarke,4952,7,246,1910,226730.0,01-10-2002
+Brandsmosevej 7,Stokkemarke,4952,1,68,1921,250000.0,21-09-2002
+Vestre Landevej 286,Stokkemarke,4952,6,140,1935,228143.0,09-09-2002
+Keldernæsvej 52,Stokkemarke,4952,9,225,1872,1410000.0,19-08-2002
+Keldernæsvej 32,Stokkemarke,4952,4,132,1830,353924.0,08-08-2002
+Vestre Landevej 206,Stokkemarke,4952,4,136,1939,535000.0,01-08-2002
+Birketvej 259,Stokkemarke,4952,4,132,1905,209466.0,08-07-2002
+Keldernæsvej 24,Stokkemarke,4952,4,117,1937,540842.0,14-05-2002
+Sørupvej 12,Stokkemarke,4952,6,99,1921,419253.0,13-05-2002
+Sørupvej 3,Stokkemarke,4952,5,215,1866,2777000.0,16-04-2002
+Vestre Landevej 222,Stokkemarke,4952,2,89,1958,184500.0,06-03-2002
+Vestre Landevej 342,Stokkemarke,4952,6,157,1930,182281.0,21-12-2001
+Sørupvej 4,Stokkemarke,4952,4,121,1915,311250.0,12-12-2001
+Skovhusevej 61,Stokkemarke,4952,6,192,1920,566000.0,10-12-2001
+Keldernæs Skolevej 2,Stokkemarke,4952,5,126,1911,270480.0,15-11-2001
+Saltvig Hovvej 29,Stokkemarke,4952,5,215,1870,735000.0,15-10-2001
+Højrebyvej 19,Stokkemarke,4952,4,120,1917,308718.0,13-10-2001
+Keldernæsvej 4,Stokkemarke,4952,4,114,1936,123000.0,16-09-2001
+Vestre Landevej 374,Stokkemarke,4952,4,120,1966,529000.0,04-09-2001
+Keldernæsvej 47,Stokkemarke,4952,5,137,1900,350000.0,25-08-2001
+Vestre Landevej 268,Stokkemarke,4952,5,113,1911,400496.0,13-08-2001
+Keldernæsvej 12,Stokkemarke,4952,3,95,1960,330246.0,13-08-2001
+Brandsmosevej 26,Stokkemarke,4952,3,50,1830,627858.0,10-08-2001
+Skovstræde 4,Stokkemarke,4952,2,78,1802,450000.0,17-07-2001
+Grantoften 13,Stokkemarke,4952,5,138,1978,650000.0,05-03-2001
+Kildevej 15,Stokkemarke,4952,7,176,1880,285000.0,12-02-2001
+Tjennemarkevej 40,Stokkemarke,4952,4,161,1900,504480.0,07-02-2001
+Vestre Landevej 326,Stokkemarke,4952,7,225,1857,535000.0,29-01-2001
+Klintegårdsvej 6,Stokkemarke,4952,5,102,1900,330000.0,18-12-2000
+Rørmarksvej 10,Stokkemarke,4952,7,260,1670,4869000.0,15-12-2000
+Vestre Landevej 288,Stokkemarke,4952,7,183,1937,270000.0,22-11-2000
+Havløkkevej 33,Stokkemarke,4952,5,100,1900,227900.0,14-11-2000
+Keldernæsvej 34,Stokkemarke,4952,3,90,1935,130000.0,02-11-2000
+Brandsmose Ringvej 4,Stokkemarke,4952,3,90,1966,73331.0,09-10-2000
+Keldernæsvej 33,Stokkemarke,4952,8,198,1948,75000.0,03-10-2000
+Keldernæs Skolevej 16,Stokkemarke,4952,4,140,1964,233456.0,02-10-2000
+Bøllesmindevej 6,Stokkemarke,4952,7,181,1973,350000.0,05-07-2000
+Vestre Landevej 238,Stokkemarke,4952,5,125,1917,550000.0,24-04-2000
+Keldernæsvej 31,Stokkemarke,4952,4,160,1947,295000.0,24-03-2000
+Keldernæsvej 22,Stokkemarke,4952,2,64,1950,232164.0,01-02-2000
+Vestre Landevej 289,Stokkemarke,4952,5,90,1900,135435.0,13-12-1999
+Keldernæs Skovvej 12,Stokkemarke,4952,4,93,1900,275000.0,13-12-1999
+Vestre Landevej 172,Stokkemarke,4952,8,226,1931,88000.0,10-08-1999
+Skovhusevej 65,Stokkemarke,4952,6,150,1929,2925000.0,22-07-1999
+Blansmosevej 5,Stokkemarke,4952,5,87,1777,200000.0,14-06-1999
+Vestre Landevej 197,Stokkemarke,4952,4,96,1943,250000.0,11-06-1999
+Grantoften 15,Stokkemarke,4952,2,58,1979,180000.0,21-05-1999
+Sursvej 3,Stokkemarke,4952,6,215,1956,400000.0,13-04-1999
+Keldernæs Skolevej 9,Stokkemarke,4952,7,222,1916,405000.0,12-04-1999
+Keldernæs Skolevej 3,Stokkemarke,4952,3,75,1880,138843.0,29-03-1999
+Vestre Landevej 147,Stokkemarke,4952,4,112,1931,325126.0,23-11-1998
+Vestre Landevej 191,Stokkemarke,4952,4,130,1960,436000.0,16-11-1998
+Vestre Landevej 246,Stokkemarke,4952,9,315,1777,741000.0,07-09-1998
+Keldernæs Skolevej 25,Stokkemarke,4952,3,90,1900,286332.0,20-07-1998
+Keldernæsvej 43,Stokkemarke,4952,7,170,1936,6500000.0,20-07-1998
+Vestre Landevej 185,Stokkemarke,4952,4,120,1960,435399.0,24-05-1998
+Birketvej 243,Stokkemarke,4952,6,173,1906,609972.0,23-05-1998
+Tjennemarkevej 46,Stokkemarke,4952,3,88,1920,80000.0,11-05-1998
+Vestre Landevej 193,Stokkemarke,4952,8,178,1963,520000.0,30-04-1998
+Keldernæsvej 2,Stokkemarke,4952,4,140,1900,350000.0,05-04-1998
+Vestre Landevej 267,Stokkemarke,4952,4,88,1920,240000.0,02-04-1998
+Birketvej 310,Stokkemarke,4952,3,117,1942,411284.0,02-03-1998
+Vestre Landevej 273,Stokkemarke,4952,4,104,1962,200000.0,09-12-1997
+Blansmosevej 12,Stokkemarke,4952,5,170,1912,637840.0,08-11-1997
+Vestre Landevej 236,Stokkemarke,4952,6,140,1923,575000.0,19-09-1997
+Vestre Landevej 178,Stokkemarke,4952,6,170,1914,1250000.0,18-08-1997
+Vestre Landevej 317,Stokkemarke,4952,4,94,1939,106374.0,09-06-1997
+Vestre Landevej 161,Stokkemarke,4952,7,244,1912,641000.0,21-05-1997
+Keldernæsvej 51,Stokkemarke,4952,5,200,1780,845000.0,19-05-1997
+Tjennemarkevej 14,Stokkemarke,4952,3,140,1959,430000.0,07-04-1997
+Hjortevej 4,Stokkemarke,4952,3,83,1942,276000.0,01-03-1997
+Keldernæs Skolevej 13,Stokkemarke,4952,6,105,1926,360000.0,17-02-1997
+Rørmarksvej 5,Stokkemarke,4952,8,253,1930,1360000.0,17-12-1996
+Vestre Landevej 227,Stokkemarke,4952,10,150,1913,9000000.0,20-11-1996
+Vestre Landevej 308,Stokkemarke,4952,3,112,1910,167000.0,13-11-1996
+Saltvig Hovvej 38,Stokkemarke,4952,4,160,1864,139000.0,14-10-1996
+Kommunegårdsvej 3,Stokkemarke,4952,5,162,1920,84455.0,07-10-1996
+Keldernæs Skolevej 17,Stokkemarke,4952,4,140,1900,320000.0,07-10-1996
+Birketvej 312,Stokkemarke,4952,8,387,1890,170000.0,07-10-1996
+Birketvej 326,Stokkemarke,4952,5,161,1850,625000.0,23-09-1996
+Kommunegårdsvej 13,Stokkemarke,4952,4,136,1914,290000.0,07-09-1996
+Bøttevej 3,Stokkemarke,4952,3,107,1977,150000.0,06-09-1996
+Tjennemarkevej 26,Stokkemarke,4952,9,325,1852,320000.0,09-08-1996
+Vestre Landevej 198,Stokkemarke,4952,5,201,1890,530309.0,20-05-1996
+Birketvej 302,Stokkemarke,4952,4,81,1907,227000.0,20-05-1996
+Vestre Landevej 165,Stokkemarke,4952,6,163,1938,375000.0,11-03-1996
+Godthåbsvej 17,Stokkemarke,4952,4,149,1939,363000.0,11-12-1995
+Skovhusevej 57,Stokkemarke,4952,4,115,1923,575000.0,13-11-1995
+Vestre Landevej 254,Stokkemarke,4952,10,391,1900,373900.0,07-08-1995
+Tjennemarkevej 18,Stokkemarke,4952,4,133,1972,410000.0,04-03-1995
+Brandsmose Ringvej 5,Stokkemarke,4952,4,197,1970,385000.0,22-02-1995
+Brandsmosevej 24,Stokkemarke,4952,5,105,1800,124000.0,06-02-1995
+Vestre Landevej 232,Stokkemarke,4952,6,124,1949,475000.0,29-12-1994
+Højrebyvej 18,Stokkemarke,4952,5,105,1870,120000.0,23-12-1994
+Birketvej 231,Stokkemarke,4952,6,90,1975,75000.0,21-11-1994
+Tjennemarkevej 16,Stokkemarke,4952,8,185,1912,440000.0,14-09-1994
+Højrebyvej 33,Stokkemarke,4952,5,270,1980,5937518.0,18-05-1994
+Havløkkevej 26,Stokkemarke,4952,4,199,2002,425000.0,17-04-1994
+Keldernæs Skovvej 36,Stokkemarke,4952,3,135,1916,172800.0,06-04-1994
+Højrebyvej 5,Stokkemarke,4952,2,96,1882,30000.0,21-01-1994
+Vestre Landevej 330,Stokkemarke,4952,3,100,1920,278000.0,30-10-1993
+Birketvej 227,Stokkemarke,4952,5,152,1909,162500.0,16-08-1993
+Keldernæs Strandvej 11B,Stokkemarke,4952,7,230,1912,6500000.0,16-07-1993
+Keldernæs Skolevej 33,Stokkemarke,4952,4,72,1852,137000.0,28-06-1993
+Vestre Landevej 299,Stokkemarke,4952,5,125,1900,200800.0,28-05-1993
+Havløkkevej 23,Stokkemarke,4952,4,136,1915,240000.0,28-05-1993
+Blansmosevej 16,Stokkemarke,4952,6,148,1911,245000.0,16-04-1993
+Brandsmosevej 10,Stokkemarke,4952,7,226,1875,250000.0,23-03-1993
+Vestre Landevej 248,Stokkemarke,4952,6,144,1900,161250.0,09-10-1992
+Højrebyvej 23,Stokkemarke,4952,5,165,1877,190000.0,11-02-1992

@@ -1,0 +1,1503 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Solsortevej 9,Dronningmølle,3120,3,55,1973,250000.0,23-05-2017
+Ibisvej 4,Dronningmølle,3120,5,163,1962,1595000.0,22-05-2017
+Solsortevej 17,Dronningmølle,3120,3,73,1968,1295000.0,05-05-2017
+Tårnfalkevej 9,Dronningmølle,3120,3,50,1968,750000.0,27-04-2017
+Munkerup Have 7,Dronningmølle,3120,4,126,1986,2300000.0,12-04-2017
+Kammerrådensvej 1,Dronningmølle,3120,4,80,1936,7200000.0,11-04-2017
+Munkerup Have 12,Dronningmølle,3120,4,163,2007,4025000.0,10-04-2017
+Slåenvangen 52,Dronningmølle,3120,4,84,1974,1000000.0,04-04-2017
+Villingebæk Strandvej 607C,Dronningmølle,3120,10,230,1936,2075000.0,04-04-2017
+Munkerupvej 24,Dronningmølle,3120,6,154,1936,6630000.0,03-04-2017
+Slåenvangen 37,Dronningmølle,3120,3,78,1967,800000.0,03-04-2017
+Gøgevej 55,Dronningmølle,3120,4,55,1984,920000.0,02-04-2017
+Lærkevej 11,Dronningmølle,3120,4,76,1962,995000.0,01-04-2017
+Dr Mølle Strandvej 554,Dronningmølle,3120,6,195,1890,4150000.0,20-03-2017
+Fasanvej 5,Dronningmølle,3120,4,74,1974,1265000.0,01-03-2017
+Hindsehovgården 8,Dronningmølle,3120,4,93,1991,1250000.0,01-03-2017
+Blåmunkevej 32,Dronningmølle,3120,5,77,1987,1141000.0,24-02-2017
+Elme Alle 4,Dronningmølle,3120,3,96,1947,1050000.0,24-02-2017
+Villingebæk Strandvej 625A,Dronningmølle,3120,10,192,1919,3495000.0,24-02-2017
+Villingebæk Strandvej 583A,Dronningmølle,3120,4,100,1730,2400000.0,17-02-2017
+Skovduevej 40,Dronningmølle,3120,3,52,1974,800000.0,03-02-2017
+Villingerødvej 9,Dronningmølle,3120,4,104,1963,1150000.0,27-01-2017
+Sneppevej 45,Dronningmølle,3120,4,78,2002,1600000.0,23-01-2017
+Ny-Ager 18,Dronningmølle,3120,3,110,1972,1600000.0,18-01-2017
+Højvejen 22,Dronningmølle,3120,5,116,1973,2004000.0,11-01-2017
+Gøgevej 49,Dronningmølle,3120,4,96,2009,1615000.0,09-01-2017
+Bogfinkevej 5,Dronningmølle,3120,5,95,1977,1800000.0,15-12-2016
+Musvågevej 10,Dronningmølle,3120,5,88,1969,700000.0,17-11-2016
+Strandkrogen 2N,Dronningmølle,3120,4,190,2008,1575000.0,04-11-2016
+Fasanvej 67,Dronningmølle,3120,3,96,1989,1680000.0,04-11-2016
+Allikevej 12,Dronningmølle,3120,3,64,1970,930000.0,01-11-2016
+Strandkrogen 19,Dronningmølle,3120,3,70,1972,2100000.0,01-11-2016
+Linde Alle 11,Dronningmølle,3120,3,32,1951,896000.0,28-10-2016
+Spurvevænget 3,Dronningmølle,3120,1,25,1966,1025000.0,13-10-2016
+Hulerødvej 21D,Dronningmølle,3120,8,182,1899,8700000.0,06-10-2016
+Vestervang 10,Dronningmølle,3120,3,82,1979,750000.0,28-09-2016
+Brombærvangen 22,Dronningmølle,3120,5,100,1961,1195000.0,25-09-2016
+Park Alle 15B,Dronningmølle,3120,3,48,1975,1335000.0,19-09-2016
+Bekkasinvænget 3,Dronningmølle,3120,7,91,1957,2295000.0,19-09-2016
+Allikevej 10,Dronningmølle,3120,4,76,1970,250000.0,18-09-2016
+Ørnevej 6,Dronningmølle,3120,5,78,1965,900000.0,18-09-2016
+Svalevej 3,Dronningmølle,3120,5,96,2000,1855000.0,12-09-2016
+Mølledalen 6,Dronningmølle,3120,3,60,1941,1795000.0,09-09-2016
+Skovduevej 67,Dronningmølle,3120,3,60,2002,975000.0,19-08-2016
+Holtesgårdvej 9,Dronningmølle,3120,4,110,1966,1275000.0,19-08-2016
+Ny-Ager 32,Dronningmølle,3120,5,84,1971,900000.0,18-08-2016
+Ørnevej 5,Dronningmølle,3120,4,67,1972,1085000.0,16-08-2016
+Hulerødvej 23A,Dronningmølle,3120,5,79,1982,3125000.0,15-08-2016
+Tårnfalkevej 4,Dronningmølle,3120,4,83,1980,895000.0,12-08-2016
+Allikevej 47,Dronningmølle,3120,3,56,1971,1150000.0,10-08-2016
+Fasanvej 26,Dronningmølle,3120,6,111,1976,900000.0,10-08-2016
+Hindsehovgården 16,Dronningmølle,3120,4,93,1992,1495000.0,10-08-2016
+Strandhaven 13,Dronningmølle,3120,6,190,1971,8600000.0,07-08-2016
+Sneppevej 35,Dronningmølle,3120,3,66,1977,600000.0,07-08-2016
+Bogfinkevej 14,Dronningmølle,3120,3,78,1971,1635000.0,02-08-2016
+Blåmunkevangen 30,Dronningmølle,3120,4,72,2013,1850000.0,28-07-2016
+Dalehøjvej 7A,Dronningmølle,3120,4,132,2005,2995000.0,25-07-2016
+Birke Alle 15,Dronningmølle,3120,4,129,1986,1900000.0,22-07-2016
+Fasanvej 13,Dronningmølle,3120,3,120,1978,2060000.0,19-07-2016
+Hulerødvej 9,Dronningmølle,3120,3,50,1952,1495000.0,15-07-2016
+Gøgevej 33,Dronningmølle,3120,3,61,1978,1350000.0,11-07-2016
+Villingebæk Strandvej 631,Dronningmølle,3120,3,90,1930,1125000.0,04-07-2016
+Grøndahlsvej 4,Dronningmølle,3120,3,47,1939,2150000.0,04-07-2016
+Skovvænget 13,Dronningmølle,3120,5,160,1942,7100000.0,03-07-2016
+Blåmejsevej 18,Dronningmølle,3120,3,46,1977,1025000.0,03-07-2016
+Agerhønevej 16,Dronningmølle,3120,4,69,1969,725000.0,30-06-2016
+Allikevej 33,Dronningmølle,3120,3,59,1968,875000.0,29-06-2016
+Rævebakken 36B,Dronningmølle,3120,5,103,1963,2100000.0,26-06-2016
+Rævebakken 30A,Dronningmølle,3120,3,108,1970,3600000.0,23-06-2016
+Sneppevej 38,Dronningmølle,3120,4,58,1975,1118000.0,23-06-2016
+Kærsangervej 8,Dronningmølle,3120,3,51,1968,1100000.0,20-06-2016
+Villingebæk Strandvej 611A,Dronningmølle,3120,4,212,1920,2800000.0,16-06-2016
+Hejrevej 4A,Dronningmølle,3120,4,88,1966,975000.0,14-06-2016
+Ørnevej 2B,Dronningmølle,3120,4,72,1977,1480000.0,14-06-2016
+Poppel Alle 1A,Dronningmølle,3120,4,126,1925,2300000.0,13-06-2016
+Poppel Alle 19,Dronningmølle,3120,3,80,1981,885000.0,13-06-2016
+Birke Alle 26,Dronningmølle,3120,3,72,2007,1575000.0,12-06-2016
+Skovvænget 5,Dronningmølle,3120,10,155,1929,7500000.0,12-06-2016
+Allikevej 1,Dronningmølle,3120,5,114,2006,1995000.0,24-05-2016
+Gøgevej 34,Dronningmølle,3120,4,57,1985,1025000.0,20-05-2016
+Munkerup Have 30,Dronningmølle,3120,5,128,1979,2425000.0,20-05-2016
+Gøgevej 39,Dronningmølle,3120,4,54,1986,1035000.0,19-05-2016
+Pile Alle 28,Dronningmølle,3120,4,80,2007,150000.0,12-05-2016
+Drosselvej 40,Dronningmølle,3120,4,100,1975,1125000.0,09-05-2016
+Drosselvej 9,Dronningmølle,3120,3,61,1974,701000.0,02-05-2016
+Grøndahlsvej 3,Dronningmølle,3120,4,100,1934,4600000.0,29-04-2016
+Hulerødvej 2,Dronningmølle,3120,3,70,1962,849000.0,26-04-2016
+Rævebakken 19B,Dronningmølle,3120,5,150,2006,2900000.0,21-04-2016
+Bogfinkevej 23,Dronningmølle,3120,4,82,1973,1120000.0,21-04-2016
+Munkerup Have 64,Dronningmølle,3120,5,128,1979,2100000.0,20-04-2016
+Skovvænget 3,Dronningmølle,3120,5,85,1928,1462500.0,18-04-2016
+Park Alle 17A,Dronningmølle,3120,3,36,1961,870000.0,13-04-2016
+Bekkasinvænget 4,Dronningmølle,3120,4,59,1985,1125000.0,12-04-2016
+Rævebakken 18,Dronningmølle,3120,2,30,1948,1395000.0,07-04-2016
+Munkerup Strandvej 67,Dronningmølle,3120,4,114,1967,1095000.0,01-04-2016
+Ibisvej 21,Dronningmølle,3120,3,49,1972,1040000.0,29-03-2016
+Ibisvej 13,Dronningmølle,3120,4,118,1969,1350000.0,18-03-2016
+Skovduevej 4,Dronningmølle,3120,4,65,1974,1300000.0,10-03-2016
+Solsortevej 24,Dronningmølle,3120,4,53,1973,800000.0,03-03-2016
+Spurvevænget 1,Dronningmølle,3120,3,36,1960,850000.0,29-02-2016
+Slåenvangen 4,Dronningmølle,3120,4,108,1968,1050000.0,12-02-2016
+Fasanvej 29,Dronningmølle,3120,3,72,1981,497500.0,11-02-2016
+Slåenvej 8,Dronningmølle,3120,4,76,1958,869000.0,05-02-2016
+Højvejen 27,Dronningmølle,3120,3,87,1967,620000.0,03-02-2016
+Bogfinkevej 31,Dronningmølle,3120,4,118,1997,1000000.0,02-02-2016
+Allikevej 20,Dronningmølle,3120,4,75,1985,475000.0,02-02-2016
+Munkerup Strandvej 37,Dronningmølle,3120,6,175,1975,1995000.0,29-01-2016
+Strandkrogen 48,Dronningmølle,3120,4,105,2002,2285000.0,27-01-2016
+Rypevej 2,Dronningmølle,3120,4,116,1989,1950000.0,19-01-2016
+Musvågevej 20,Dronningmølle,3120,3,86,1969,995000.0,18-01-2016
+Dalehøjvej 5,Dronningmølle,3120,2,30,1954,310000.0,18-01-2016
+Dr Mølle Stationsvej 6,Dronningmølle,3120,2,86,2001,1850000.0,07-12-2015
+Hulerødvej 32,Dronningmølle,3120,4,75,1974,1975000.0,04-12-2015
+Hørvangen 10,Dronningmølle,3120,5,87,1971,1240000.0,01-12-2015
+Rypevej 5,Dronningmølle,3120,4,43,1965,1050000.0,20-11-2015
+Munkerup Have 19,Dronningmølle,3120,4,121,2000,3200000.0,18-11-2015
+Skovvænget 17,Dronningmølle,3120,8,238,1890,4275000.0,17-11-2015
+Skovduevej 52,Dronningmølle,3120,4,83,1998,1275000.0,15-11-2015
+Rævebakken 15A,Dronningmølle,3120,5,177,1962,2000000.0,15-11-2015
+Agerhønevej 36,Dronningmølle,3120,3,74,1969,600000.0,06-11-2015
+Hulerødvej 3,Dronningmølle,3120,4,107,1957,2650000.0,29-10-2015
+Bøgevangen 2,Dronningmølle,3120,4,85,1959,125000.0,28-10-2015
+Hulerødvej 30,Dronningmølle,3120,4,80,1999,1995000.0,26-10-2015
+Mølledalen 3B,Dronningmølle,3120,4,80,1999,1995000.0,22-10-2015
+Poppel Alle 12,Dronningmølle,3120,3,34,1951,895000.0,21-10-2015
+Allikevej 4,Dronningmølle,3120,3,46,1969,837500.0,16-10-2015
+Løvsangervej 13,Dronningmølle,3120,3,67,1975,1800000.0,15-10-2015
+Pile Alle 24,Dronningmølle,3120,3,51,1949,1050000.0,14-10-2015
+Uglevej 9,Dronningmølle,3120,4,81,1967,950000.0,13-10-2015
+Park Alle 26,Dronningmølle,3120,3,120,1962,848800.0,10-10-2015
+Sneppevej 6,Dronningmølle,3120,4,85,2000,1625000.0,09-10-2015
+Rødkildevej 8B,Dronningmølle,3120,7,149,2010,2800000.0,06-10-2015
+Blåmejsevej 23,Dronningmølle,3120,4,69,1986,1450000.0,05-10-2015
+Liebmanns Have 6,Dronningmølle,3120,4,69,1997,2900000.0,02-10-2015
+Gøgevej 40,Dronningmølle,3120,5,74,1975,1155000.0,01-10-2015
+Dalehøjvej 11,Dronningmølle,3120,5,110,1934,2100000.0,01-10-2015
+Mølledalen 2A,Dronningmølle,3120,4,122,2017,1750000.0,24-09-2015
+Rågevej 6,Dronningmølle,3120,3,84,1969,1150000.0,22-09-2015
+Skovduevej 66,Dronningmølle,3120,3,75,1999,1175000.0,21-09-2015
+Poppel Alle 28,Dronningmølle,3120,5,164,2005,2400000.0,08-09-2015
+Skovduevej 9,Dronningmølle,3120,3,40,1979,920000.0,01-09-2015
+Åsvinget 13,Dronningmølle,3120,4,80,1962,1300000.0,30-08-2015
+Vænget 1,Dronningmølle,3120,4,83,1970,690000.0,25-08-2015
+Villingebæk Strandvej 520,Dronningmølle,3120,8,250,1912,17000000.0,25-08-2015
+Holtesgårdvej 25,Dronningmølle,3120,8,270,1910,1795000.0,24-08-2015
+Løvsangervej 6,Dronningmølle,3120,4,78,1986,1010000.0,20-08-2015
+Blåmunkevej 28,Dronningmølle,3120,4,76,1986,1260000.0,17-08-2015
+Tårnfalkevej 6,Dronningmølle,3120,4,71,2002,1950000.0,05-08-2015
+Ørnevej 22,Dronningmølle,3120,5,73,1971,1650000.0,04-08-2015
+Dr Mølle Stationsvej 28,Dronningmølle,3120,2,91,2005,1250000.0,03-08-2015
+Bogfinkevej 21,Dronningmølle,3120,5,64,1969,1195000.0,31-07-2015
+Linde Alle 27,Dronningmølle,3120,3,47,1943,1000000.0,30-07-2015
+Poppel Alle 5,Dronningmølle,3120,2,50,1952,661500.0,28-07-2015
+"Dr Mølle Strandvej 651, 1",Dronningmølle,3120,7,164,1947,2000000.0,27-07-2015
+Sneppevej 43,Dronningmølle,3120,4,115,2006,2195000.0,24-07-2015
+Strandgårds Vænge 17,Dronningmølle,3120,5,80,1913,2525000.0,21-07-2015
+Hørvangen 5,Dronningmølle,3120,4,104,1973,1245000.0,19-07-2015
+Sneppevej 31,Dronningmølle,3120,4,82,1993,1595000.0,17-07-2015
+Rævebakken 15B,Dronningmølle,3120,4,92,1973,12000.0,16-07-2015
+Kærsangervej 7,Dronningmølle,3120,2,46,1964,720000.0,13-07-2015
+Rødstjertvej 11,Dronningmølle,3120,3,50,1968,1100000.0,06-07-2015
+Villingebæk Strandvej 587,Dronningmølle,3120,3,92,1976,2500000.0,05-07-2015
+Ny-Ager 40,Dronningmølle,3120,4,70,1971,168000.0,03-07-2015
+Ny-Ager 14,Dronningmølle,3120,3,111,1970,915000.0,03-07-2015
+Højvejen 43,Dronningmølle,3120,4,84,1968,1100000.0,01-07-2015
+Kragevej 7,Dronningmølle,3120,4,101,1998,1745000.0,30-06-2015
+Firhøjvej 16,Dronningmølle,3120,4,103,2007,1950000.0,29-06-2015
+Skovvænget 2,Dronningmølle,3120,4,49,1960,900000.0,29-06-2015
+Musvågevej 27,Dronningmølle,3120,4,110,1968,1975000.0,25-06-2015
+Villingebæk Strandvej 575B,Dronningmølle,3120,3,85,1976,1200000.0,25-06-2015
+Pile Alle 19,Dronningmølle,3120,4,64,1976,824500.0,24-06-2015
+Strandkrogen 20,Dronningmølle,3120,3,47,1986,1100000.0,24-06-2015
+Agerhønevej 21,Dronningmølle,3120,3,91,1970,1200000.0,22-06-2015
+Solsortevej 20,Dronningmølle,3120,4,66,1973,850000.0,22-06-2015
+Agerhønevej 27,Dronningmølle,3120,4,60,1973,1087500.0,18-06-2015
+Bogfinkevej 24,Dronningmølle,3120,4,91,2002,2025000.0,18-06-2015
+Gøgevej 56,Dronningmølle,3120,4,50,1978,1195000.0,11-06-2015
+Dr Mølle Stationsvej 36,Dronningmølle,3120,4,142,1979,910500.0,10-06-2015
+Grøndahlsvej 5,Dronningmølle,3120,4,60,1969,2050000.0,05-06-2015
+Fasanvej 46,Dronningmølle,3120,3,51,1980,800000.0,02-06-2015
+Bogfinkevej 17,Dronningmølle,3120,1,68,1969,1165000.0,31-05-2015
+Villingebæk Strandvej 575D,Dronningmølle,3120,3,88,1993,1795000.0,28-05-2015
+Vænget 5,Dronningmølle,3120,4,65,1970,506000.0,26-05-2015
+Dr Mølle Stationsvej 8,Dronningmølle,3120,2,86,2001,1650000.0,25-05-2015
+Rævebakken 34,Dronningmølle,3120,5,101,1961,2375000.0,23-05-2015
+Vænget 13,Dronningmølle,3120,5,118,1971,2000000.0,21-05-2015
+Rødkildevej 5,Dronningmølle,3120,8,107,1959,1350000.0,20-05-2015
+Dalehøjvej 3,Dronningmølle,3120,2,50,1932,865000.0,20-05-2015
+Gøgevej 20,Dronningmølle,3120,4,119,2016,300000.0,19-05-2015
+Spurvevænget 5,Dronningmølle,3120,3,42,1965,900000.0,18-05-2015
+Mølledalen 2B,Dronningmølle,3120,6,120,1940,1750000.0,18-05-2015
+Fasanvej 4,Dronningmølle,3120,3,95,1976,750000.0,18-05-2015
+Fasanvej 60,Dronningmølle,3120,4,107,1989,1750000.0,12-05-2015
+Munkerup Strandvej 46,Dronningmølle,3120,8,207,1800,2075000.0,05-05-2015
+Birke Alle 5,Dronningmølle,3120,4,87,1961,1465000.0,27-04-2015
+Dalevænget 21,Dronningmølle,3120,4,129,1947,690050.0,27-04-2015
+Allikevej 6,Dronningmølle,3120,3,59,1967,425000.0,23-04-2015
+Slåenvangen 8,Dronningmølle,3120,3,161,1964,1850000.0,20-04-2015
+Brombærvangen 1A,Dronningmølle,3120,6,122,1979,1625000.0,20-04-2015
+Drosselvej 4,Dronningmølle,3120,3,60,1970,695000.0,19-04-2015
+Løvsangervej 4,Dronningmølle,3120,2,43,1978,830000.0,19-04-2015
+Holtesgårdvej 21,Dronningmølle,3120,4,142,1969,1725000.0,17-04-2015
+Gøgevej 12,Dronningmølle,3120,3,56,1974,1000000.0,16-04-2015
+Dalevænget 15,Dronningmølle,3120,6,82,1964,1175000.0,16-04-2015
+Spættevej 7,Dronningmølle,3120,4,138,2003,2225000.0,15-04-2015
+Ørnevej 24,Dronningmølle,3120,4,128,1970,2950000.0,13-04-2015
+Rødstjertvej 4,Dronningmølle,3120,4,71,1968,1620000.0,08-04-2015
+Rørsangervej 5,Dronningmølle,3120,5,125,1971,3200000.0,03-04-2015
+Allikevej 39,Dronningmølle,3120,4,103,1971,1825000.0,02-04-2015
+Musvågevej 45,Dronningmølle,3120,3,99,1997,2450000.0,01-04-2015
+Sneppevej 1,Dronningmølle,3120,4,114,2002,2020000.0,31-03-2015
+Poppel Alle 22A,Dronningmølle,3120,5,149,1958,3200000.0,27-03-2015
+Skovduevej 82,Dronningmølle,3120,4,75,2004,1875000.0,25-03-2015
+Firhøjvej 18,Dronningmølle,3120,3,65,1968,676600.0,24-03-2015
+Sneppevej 3,Dronningmølle,3120,4,81,1973,650000.0,24-03-2015
+Skovduevej 80,Dronningmølle,3120,4,81,1972,1185000.0,19-03-2015
+Munkerupvej 9,Dronningmølle,3120,5,62,1934,1275000.0,15-03-2015
+Ørnevej 16,Dronningmølle,3120,3,41,1973,745000.0,12-03-2015
+Bøgevangen 4,Dronningmølle,3120,4,170,2012,2167500.0,04-03-2015
+Skovvænget 16,Dronningmølle,3120,4,79,1943,935000.0,23-02-2015
+Agerhønevej 8,Dronningmølle,3120,5,84,1971,1075000.0,22-02-2015
+Fasanvej 15,Dronningmølle,3120,4,72,1974,1440000.0,18-02-2015
+Musvågevej 22,Dronningmølle,3120,3,114,1967,1000000.0,17-02-2015
+Dr Mølle Stationsvej 4,Dronningmølle,3120,2,86,2001,1695000.0,09-02-2015
+Skovduevej 21,Dronningmølle,3120,3,84,1974,1545000.0,06-02-2015
+Vænget 2,Dronningmølle,3120,4,87,1972,1100000.0,01-02-2015
+Musvågevej 11,Dronningmølle,3120,2,57,1971,1000000.0,31-01-2015
+Slåenvangen 35,Dronningmølle,3120,3,45,1969,900000.0,19-01-2015
+Villingebæk Strandvej 629,Dronningmølle,3120,6,138,1934,2470000.0,07-01-2015
+Sneppevej 26,Dronningmølle,3120,3,47,1973,945000.0,05-01-2015
+Villingebæk Strandvej 623B,Dronningmølle,3120,8,168,1830,1950000.0,27-12-2014
+Solsortevej 7,Dronningmølle,3120,4,64,1977,995000.0,09-12-2014
+Park Alle 20,Dronningmølle,3120,4,72,1978,1206000.0,03-12-2014
+Højvejen 25,Dronningmølle,3120,3,49,1965,518600.0,02-12-2014
+Fasanvej 33,Dronningmølle,3120,3,55,1973,531500.0,02-12-2014
+Poppel Alle 8,Dronningmølle,3120,5,133,2002,2400000.0,27-11-2014
+Løvsangervej 3,Dronningmølle,3120,5,119,1991,2085000.0,24-11-2014
+Højvejen 11,Dronningmølle,3120,3,103,1987,1170000.0,20-11-2014
+Skovduevej 11,Dronningmølle,3120,1,90,1988,1317500.0,20-11-2014
+Poppel Alle 27,Dronningmølle,3120,3,55,1969,1350000.0,09-11-2014
+Park Alle 29,Dronningmølle,3120,3,82,2008,1400000.0,06-11-2014
+Drosselvej 30,Dronningmølle,3120,3,70,1975,1050000.0,04-11-2014
+Drosselvej 5,Dronningmølle,3120,3,65,1974,925000.0,30-10-2014
+Holtesgårdvej 26,Dronningmølle,3120,4,109,1969,1050000.0,25-10-2014
+Tranevej 10,Dronningmølle,3120,3,49,1967,540000.0,17-10-2014
+Munkerup Strandvej 33,Dronningmølle,3120,4,48,1944,900000.0,14-10-2014
+Hørvangen 9,Dronningmølle,3120,4,82,1973,910000.0,06-10-2014
+Poppel Alle 4,Dronningmølle,3120,6,171,1972,780000.0,28-09-2014
+Villingebæk Strandvej 605,Dronningmølle,3120,4,60,1952,2337500.0,22-09-2014
+Blåmunkevangen 7,Dronningmølle,3120,5,172,1966,3200000.0,21-09-2014
+Blåmejsevej 25,Dronningmølle,3120,4,65,1977,1070000.0,21-09-2014
+Hulerødvej 8A,Dronningmølle,3120,3,120,1997,1595000.0,08-09-2014
+Agerhønevej 26,Dronningmølle,3120,4,84,2003,1495000.0,31-08-2014
+Blåmunkevangen 20,Dronningmølle,3120,6,118,1961,750000.0,29-08-2014
+Holtesgårdvej 20,Dronningmølle,3120,6,87,1957,1200000.0,27-08-2014
+Ibisvej 11,Dronningmølle,3120,4,90,1964,975000.0,20-08-2014
+Pile Alle 2B,Dronningmølle,3120,3,74,1971,1800000.0,17-08-2014
+Vagtelvej 29,Dronningmølle,3120,4,81,2002,1925000.0,14-08-2014
+Skovduevej 29,Dronningmølle,3120,4,67,1973,1220000.0,10-08-2014
+Munkerup Have 10,Dronningmølle,3120,4,169,2002,4350000.0,07-08-2014
+Blåmejsevej 2,Dronningmølle,3120,2,93,1980,1595000.0,07-08-2014
+Dalevænget 11,Dronningmølle,3120,2,30,1950,1000000.0,05-08-2014
+Slåenvangen 19,Dronningmølle,3120,5,112,1971,1200000.0,03-08-2014
+Elme Alle 35,Dronningmølle,3120,2,51,1947,925000.0,30-07-2014
+Strandkrogen 62,Dronningmølle,3120,4,69,1988,1425000.0,26-07-2014
+Birke Alle 9A,Dronningmølle,3120,3,76,1960,1300000.0,15-07-2014
+Firhøjvej 17,Dronningmølle,3120,6,80,1966,1375000.0,15-07-2014
+Musvågevej 24,Dronningmølle,3120,4,83,1975,1595000.0,07-07-2014
+Birke Alle 4,Dronningmølle,3120,4,73,1961,1200000.0,02-07-2014
+Sneppevej 9,Dronningmølle,3120,3,57,1971,1000000.0,26-06-2014
+Firhøjvej 13,Dronningmølle,3120,4,57,1942,680000.0,24-06-2014
+Dr Mølle Strandvej 550B,Dronningmølle,3120,3,66,1959,820000.0,24-06-2014
+Rørsangervej 7,Dronningmølle,3120,5,97,2000,2100000.0,23-06-2014
+Blåmunkevangen 22,Dronningmølle,3120,3,75,2015,735000.0,18-06-2014
+Strandkrogen 25,Dronningmølle,3120,5,68,1969,820000.0,18-06-2014
+Skovduevej 26,Dronningmølle,3120,4,120,2010,2150000.0,16-06-2014
+Solsortevej 13,Dronningmølle,3120,3,61,1970,875000.0,15-06-2014
+Fasanvej 11,Dronningmølle,3120,3,51,1977,1095000.0,14-06-2014
+Hørvangen 25,Dronningmølle,3120,4,60,1980,1100000.0,28-05-2014
+Ibisvej 19,Dronningmølle,3120,3,35,1964,770000.0,27-05-2014
+Munkerup Strandvej 25,Dronningmølle,3120,2,87,1978,1945000.0,26-05-2014
+Storkevej 5,Dronningmølle,3120,3,99,1976,950000.0,24-05-2014
+Gøgevej 30,Dronningmølle,3120,3,51,1982,982000.0,21-05-2014
+Fasanvej 35,Dronningmølle,3120,4,53,1976,950000.0,19-05-2014
+Vipstjertvej 3,Dronningmølle,3120,3,50,1965,870000.0,15-05-2014
+Højvejen 34,Dronningmølle,3120,3,105,1997,1890000.0,11-05-2014
+Stillidsvej 6,Dronningmølle,3120,3,46,1964,599881.0,10-05-2014
+Højvejen 3,Dronningmølle,3120,3,88,1966,965000.0,09-05-2014
+Gøgevej 50,Dronningmølle,3120,3,62,1979,1230000.0,09-05-2014
+Bogfinkevej 9,Dronningmølle,3120,3,49,1978,800000.0,05-05-2014
+Gøgevej 41,Dronningmølle,3120,4,90,1973,1600000.0,01-05-2014
+Tranevej 2,Dronningmølle,3120,4,91,1967,915000.0,30-04-2014
+Munkerup Strandvej 42,Dronningmølle,3120,4,131,1972,1725000.0,18-04-2014
+Bekkasinvænget 10,Dronningmølle,3120,5,86,1993,1325000.0,20-03-2014
+Strandkrogen 60,Dronningmølle,3120,4,75,1969,200000.0,11-03-2014
+Sneppevej 47,Dronningmølle,3120,6,91,1980,1650000.0,08-03-2014
+Ny-Ager 25,Dronningmølle,3120,3,61,1978,475000.0,07-03-2014
+Strandkrogen 15,Dronningmølle,3120,4,70,1974,1145000.0,05-03-2014
+Dr Mølle Strandvej 568F,Dronningmølle,3120,3,59,1600,1250000.0,04-03-2014
+Fasanvej 62,Dronningmølle,3120,4,97,2004,1800000.0,02-03-2014
+Højvejen 4,Dronningmølle,3120,2,49,1965,356500.0,26-02-2014
+Holtesgårdvej 33,Dronningmølle,3120,4,115,2005,1050000.0,12-02-2014
+Slåenvangen 28,Dronningmølle,3120,3,76,1967,1420000.0,10-02-2014
+Linde Alle 28,Dronningmølle,3120,4,53,1950,700000.0,05-02-2014
+Hejrevej 3,Dronningmølle,3120,5,132,2012,2800000.0,02-02-2014
+Ved Skellet 17,Dronningmølle,3120,3,50,1952,833000.0,27-01-2014
+Dr Mølle Strandvej 568G,Dronningmølle,3120,3,59,1600,1100000.0,21-01-2014
+Blåmejsevej 37,Dronningmølle,3120,2,54,1983,1165000.0,19-01-2014
+Slåenvangen 45,Dronningmølle,3120,4,62,1972,700000.0,16-01-2014
+Skovduevej 59,Dronningmølle,3120,3,44,1975,290000.0,14-01-2014
+Storkevej 10,Dronningmølle,3120,6,106,1965,720000.0,09-01-2014
+Blåmunkevangen 33,Dronningmølle,3120,5,216,1999,1700000.0,07-01-2014
+Park Alle 15A,Dronningmølle,3120,4,72,1961,700000.0,06-01-2014
+Villingebæk Strandvej 641,Dronningmølle,3120,4,134,1951,1300000.0,29-12-2013
+Firhøjvej 10,Dronningmølle,3120,3,36,1955,905000.0,19-12-2013
+Blåmunkevangen 25,Dronningmølle,3120,4,126,2015,705000.0,16-12-2013
+Elme Alle 31,Dronningmølle,3120,2,120,1946,2227000.0,13-12-2013
+Munkerup Strandvej 32,Dronningmølle,3120,5,142,1906,1100000.0,06-12-2013
+Brombærvangen 2,Dronningmølle,3120,3,37,1962,625000.0,28-11-2013
+Ny-Ager 13,Dronningmølle,3120,2,117,1970,1350000.0,28-11-2013
+Dr Mølle Stationsvej 38,Dronningmølle,3120,9,172,1972,1551600.0,26-11-2013
+Højvejen 7,Dronningmølle,3120,4,65,1977,1005000.0,11-11-2013
+Løvsangervej 28,Dronningmølle,3120,5,76,1969,309800.0,08-11-2013
+Fasanvej 49,Dronningmølle,3120,4,98,1999,1495000.0,03-11-2013
+Bekkasinvænget 9,Dronningmølle,3120,3,98,1955,1517100.0,28-10-2013
+Gøgevej 6,Dronningmølle,3120,3,55,1974,748000.0,28-10-2013
+Fasanvej 34,Dronningmølle,3120,3,112,2000,1495000.0,25-10-2013
+Petersborgvej 2,Dronningmølle,3120,7,293,1890,3800000.0,23-10-2013
+Hulerødvej 4,Dronningmølle,3120,3,97,1955,1095000.0,22-10-2013
+Tårnfalkevej 2,Dronningmølle,3120,4,100,1973,650000.0,22-10-2013
+Storkevej 4,Dronningmølle,3120,5,118,1966,500000.0,10-10-2013
+Ved Skellet 3,Dronningmølle,3120,9,219,2014,1000000.0,02-10-2013
+Poppel Alle 11,Dronningmølle,3120,4,101,1964,430000.0,10-09-2013
+Holtesgårdvej 22,Dronningmølle,3120,7,128,1965,1300000.0,04-09-2013
+Munkerup Strandvej 68,Dronningmølle,3120,6,249,1920,6800000.0,28-08-2013
+Dr Mølle Strandvej 568S,Dronningmølle,3120,2,43,1600,800000.0,26-08-2013
+Dalevænget 14,Dronningmølle,3120,3,50,1936,315000.0,22-08-2013
+Åsvinget 38,Dronningmølle,3120,5,55,1946,530000.0,19-08-2013
+Musvågevej 12,Dronningmølle,3120,4,88,1968,860000.0,13-08-2013
+Tornsangervej 4,Dronningmølle,3120,3,58,1965,1350000.0,11-08-2013
+Drosselvej 38,Dronningmølle,3120,4,66,1974,645000.0,10-08-2013
+Solsortevej 21,Dronningmølle,3120,3,65,1971,1135000.0,08-08-2013
+Gøgevej 11,Dronningmølle,3120,4,56,1977,875000.0,31-07-2013
+Strandkrogen 54,Dronningmølle,3120,4,66,1977,1350000.0,25-07-2013
+"Dr Mølle Strandvej 568N, ST",Dronningmølle,3120,2,48,1600,1200000.0,20-07-2013
+Musvågevej 33,Dronningmølle,3120,4,78,1971,1125000.0,09-07-2013
+Skovduevej 45,Dronningmølle,3120,3,77,1996,1217000.0,04-07-2013
+Drosselvej 24,Dronningmølle,3120,3,60,1971,745000.0,26-06-2013
+Skovduevej 71,Dronningmølle,3120,5,97,1986,1550000.0,25-06-2013
+Spættevej 3,Dronningmølle,3120,6,110,1965,950000.0,24-06-2013
+Park Alle 9B,Dronningmølle,3120,4,53,1975,920000.0,21-06-2013
+Elme Alle 24,Dronningmølle,3120,4,74,1947,1100000.0,19-06-2013
+Pandehavevej 15,Dronningmølle,3120,3,47,1945,870000.0,18-06-2013
+Grøndahlsvej 2B,Dronningmølle,3120,7,241,2016,1900000.0,17-06-2013
+Lærkevej 6,Dronningmølle,3120,3,93,1945,1175000.0,16-06-2013
+Skovduevej 84,Dronningmølle,3120,4,65,1975,1100000.0,12-06-2013
+Park Alle 7B,Dronningmølle,3120,4,62,1974,1800000.0,09-06-2013
+Tranevej 11,Dronningmølle,3120,5,141,1978,1460000.0,06-06-2013
+Åsvinget 2,Dronningmølle,3120,4,63,1950,870000.0,29-05-2013
+Gøgevej 38,Dronningmølle,3120,4,76,1978,1075000.0,06-05-2013
+Højvejen 47,Dronningmølle,3120,4,120,2006,2575000.0,06-05-2013
+Fasanvej 68,Dronningmølle,3120,4,65,1980,383333.0,30-04-2013
+Rævebakken 32,Dronningmølle,3120,4,60,1972,1425000.0,25-04-2013
+Højvejen 39,Dronningmølle,3120,3,97,1965,1650000.0,21-04-2013
+Munkerupvej 6,Dronningmølle,3120,4,109,2013,1450000.0,10-04-2013
+Rørsangervej 2,Dronningmølle,3120,3,70,1997,1550000.0,05-04-2013
+Dr Mølle Strandvej 647A,Dronningmølle,3120,2,154,1912,1195000.0,04-04-2013
+Firhøjvej 5,Dronningmølle,3120,6,143,2009,2600000.0,29-03-2013
+Fasanvej 10,Dronningmølle,3120,4,56,1986,1235000.0,27-03-2013
+Rævebakken 19A,Dronningmølle,3120,3,101,1970,482000.0,19-03-2013
+Dalehøjvej 12,Dronningmølle,3120,4,75,1959,800000.0,21-02-2013
+Strandgårds Vænge 9,Dronningmølle,3120,4,105,1932,3600000.0,08-02-2013
+Grøndahlsvej 11,Dronningmølle,3120,4,127,2014,4650000.0,08-02-2013
+Munkerup Have 68,Dronningmølle,3120,5,128,1979,1650000.0,07-02-2013
+Munkerup Strandvej 41A,Dronningmølle,3120,4,103,2006,1750000.0,05-02-2013
+Kærsangervej 2,Dronningmølle,3120,3,80,1971,875000.0,01-02-2013
+Pile Alle 8,Dronningmølle,3120,2,40,1982,1095000.0,29-01-2013
+Gøgevej 14,Dronningmølle,3120,5,101,1995,1500000.0,21-01-2013
+Holtesgårdvej 27,Dronningmølle,3120,4,72,1967,700000.0,18-01-2013
+Fasanvej 24,Dronningmølle,3120,4,42,1974,716000.0,17-01-2013
+Højvejen 49,Dronningmølle,3120,4,83,2002,1645000.0,16-01-2013
+Rågevej 3,Dronningmølle,3120,5,140,1972,1000000.0,11-01-2013
+Tornsangervej 2,Dronningmølle,3120,4,94,1965,1875000.0,06-01-2013
+Slåenvej 1,Dronningmølle,3120,3,40,1950,1650000.0,01-01-2013
+Løvsangervej 38,Dronningmølle,3120,4,77,1969,1050000.0,12-12-2012
+Vipstjertvej 4,Dronningmølle,3120,4,49,1967,935000.0,10-12-2012
+Munkerup Have 20,Dronningmølle,3120,5,166,1986,2225000.0,04-12-2012
+Løvsangervej 20,Dronningmølle,3120,4,95,2014,575000.0,03-12-2012
+Sneppevej 24,Dronningmølle,3120,3,75,1999,1650000.0,27-11-2012
+Skovduevej 65,Dronningmølle,3120,3,59,1975,817600.0,25-11-2012
+Holtesgårdvej 30,Dronningmølle,3120,4,71,1967,450000.0,20-11-2012
+Vipstjertvej 6,Dronningmølle,3120,4,89,1971,900000.0,15-11-2012
+Skovduevej 20,Dronningmølle,3120,4,77,1973,1025000.0,12-11-2012
+Allikevej 35,Dronningmølle,3120,3,78,1969,700000.0,06-11-2012
+Allikevej 9,Dronningmølle,3120,5,82,1970,675000.0,22-10-2012
+Blåmunkevangen 28,Dronningmølle,3120,4,57,1961,663000.0,15-10-2012
+Slåenvangen 23,Dronningmølle,3120,3,74,1974,816000.0,10-10-2012
+Skovvænget 1C,Dronningmølle,3120,4,105,1991,1805200.0,04-10-2012
+Allikevej 15,Dronningmølle,3120,3,57,1971,1275000.0,03-10-2012
+Slåenvangen 44,Dronningmølle,3120,4,83,2000,1900000.0,03-10-2012
+Strandkrogen 36,Dronningmølle,3120,4,51,1950,1125000.0,01-10-2012
+Munkerup Have 56,Dronningmølle,3120,5,115,1985,3800000.0,24-09-2012
+Slåenvangen 49,Dronningmølle,3120,4,73,1971,1420000.0,18-09-2012
+Åsvinget 20,Dronningmølle,3120,3,50,1953,1145000.0,13-09-2012
+Fasanvej 41,Dronningmølle,3120,3,57,1995,1151300.0,05-09-2012
+Drosselvej 48,Dronningmølle,3120,3,60,1969,750000.0,04-09-2012
+Elme Alle 23,Dronningmølle,3120,2,98,1945,1675000.0,23-08-2012
+Villingebæk Strandvej 597,Dronningmølle,3120,4,89,2009,3750000.0,15-08-2012
+Tranevej 1,Dronningmølle,3120,5,153,1981,900000.0,12-08-2012
+Hørvangen 11,Dronningmølle,3120,4,104,1974,890000.0,08-08-2012
+Løvsangervej 40,Dronningmølle,3120,3,72,1975,999000.0,03-08-2012
+Sneppevej 55,Dronningmølle,3120,4,74,1972,850000.0,02-08-2012
+Rødkildevej 6,Dronningmølle,3120,2,114,1965,935000.0,09-07-2012
+Bogfinkevej 30,Dronningmølle,3120,5,111,2007,2085000.0,02-07-2012
+Munkerupvej 5,Dronningmølle,3120,4,87,1978,1580000.0,26-06-2012
+Rødstjertvej 3,Dronningmølle,3120,4,66,1972,1100000.0,25-06-2012
+Ved Skellet 12,Dronningmølle,3120,4,68,1984,1165000.0,21-06-2012
+Fasanvej 72,Dronningmølle,3120,1,30,1983,822500.0,21-06-2012
+Pandehavevej 9,Dronningmølle,3120,4,118,2016,1154577.0,04-06-2012
+Højvejen 30,Dronningmølle,3120,3,50,1965,650000.0,21-05-2012
+Pile Alle 21,Dronningmølle,3120,9,111,1964,1150000.0,16-05-2012
+Linde Alle 3A,Dronningmølle,3120,6,174,2010,2900000.0,10-05-2012
+Dr Mølle Strandvej 568E,Dronningmølle,3120,3,56,1600,1300000.0,10-05-2012
+Fasanvej 69,Dronningmølle,3120,4,90,1995,1250000.0,01-05-2012
+Elme Alle 9,Dronningmølle,3120,4,102,1954,1085000.0,30-04-2012
+Poppel Alle 29,Dronningmølle,3120,3,33,1957,1049000.0,30-04-2012
+Agerhønevej 10,Dronningmølle,3120,4,38,1976,800000.0,23-04-2012
+Villingebæk Strandvej 589,Dronningmølle,3120,6,120,1939,1337700.0,23-04-2012
+Strandhaven 10,Dronningmølle,3120,6,160,1900,17000000.0,10-04-2012
+Vagtelvej 23,Dronningmølle,3120,4,95,1982,1625000.0,04-04-2012
+Linde Alle 24,Dronningmølle,3120,4,76,1961,591250.0,26-03-2012
+Smedevej 8,Dronningmølle,3120,3,54,1850,511000.0,23-03-2012
+Elme Alle 2,Dronningmølle,3120,3,48,1947,1080000.0,20-03-2012
+Spurvevænget 10,Dronningmølle,3120,2,50,1958,900000.0,19-03-2012
+Hellebjergvej 19B,Dronningmølle,3120,7,296,1969,4100000.0,16-03-2012
+Kærsangervej 3,Dronningmølle,3120,4,110,1966,1800000.0,13-03-2012
+Rødstjertvej 7,Dronningmølle,3120,3,48,1966,700000.0,08-03-2012
+Allikevej 45,Dronningmølle,3120,2,36,1975,365200.0,06-03-2012
+Hindsehovgården 14,Dronningmølle,3120,4,93,1991,1220000.0,06-03-2012
+Vænget 15,Dronningmølle,3120,4,61,1977,860000.0,04-03-2012
+Vestervang 9,Dronningmølle,3120,4,121,1978,1200000.0,01-03-2012
+Rævebakken 11,Dronningmølle,3120,5,111,2003,1850000.0,23-02-2012
+Skovduevej 32,Dronningmølle,3120,5,99,2000,1630000.0,22-02-2012
+Bynkevangen 18,Dronningmølle,3120,3,74,1967,1470000.0,17-02-2012
+Åsvinget 6,Dronningmølle,3120,3,67,1950,810000.0,13-02-2012
+Blåmejsevej 6,Dronningmølle,3120,4,89,2015,550000.0,08-02-2012
+Munkerup Have 50,Dronningmølle,3120,5,115,1987,5500000.0,20-12-2011
+Fasanvej 22,Dronningmølle,3120,3,71,1973,505933.0,29-11-2011
+Bekkasinvænget 12,Dronningmølle,3120,5,86,1992,1255000.0,27-11-2011
+Strandkrogen 16,Dronningmølle,3120,3,46,1933,675000.0,20-11-2011
+Dr Mølle Stationsvej 42,Dronningmølle,3120,4,109,1897,1350000.0,18-11-2011
+Kragevej 10,Dronningmølle,3120,5,148,1972,1800000.0,15-11-2011
+"Dr Mølle Strandvej 550A, 1",Dronningmølle,3120,5,113,2010,2900000.0,08-11-2011
+Rågevej 7,Dronningmølle,3120,5,164,2012,750000.0,03-11-2011
+Slåenvangen 36,Dronningmølle,3120,4,89,1967,172636.0,14-10-2011
+Musvågevej 9,Dronningmølle,3120,4,88,1971,900000.0,13-10-2011
+Hørvangen 17,Dronningmølle,3120,3,74,1972,700000.0,30-09-2011
+Skovduevej 3,Dronningmølle,3120,3,68,1978,695000.0,28-09-2011
+Uglevej 3,Dronningmølle,3120,4,51,1965,825000.0,18-09-2011
+Mølledalen 3A,Dronningmølle,3120,4,44,1938,700000.0,16-09-2011
+Tårnfalkevej 5,Dronningmølle,3120,4,80,1970,1150000.0,02-09-2011
+Ibisvej 22,Dronningmølle,3120,4,105,1964,1865000.0,10-08-2011
+Hindsehovgården 31,Dronningmølle,3120,4,93,1992,1495000.0,10-08-2011
+Gøgevej 44,Dronningmølle,3120,4,113,2015,510000.0,01-08-2011
+Dr Mølle Strandvej 568B,Dronningmølle,3120,2,88,1600,1650000.0,30-07-2011
+"Dr Mølle Strandvej 568R, 1. 1",Dronningmølle,3120,2,88,1600,1745000.0,21-07-2011
+Villingebæk Strandvej 591B,Dronningmølle,3120,6,156,1918,4200000.0,11-07-2011
+Gøgevej 10,Dronningmølle,3120,4,77,1979,990000.0,05-07-2011
+Slåenvangen 41,Dronningmølle,3120,3,56,1968,970000.0,26-06-2011
+Rævebakken 26,Dronningmølle,3120,3,120,2008,2200000.0,09-06-2011
+Musvågevej 57,Dronningmølle,3120,4,79,1980,750000.0,07-06-2011
+Pandehavevej 21,Dronningmølle,3120,4,82,2000,2500000.0,26-05-2011
+Poppel Alle 38,Dronningmølle,3120,4,43,1951,391000.0,23-05-2011
+Slåenvej 6,Dronningmølle,3120,5,89,1959,2600000.0,21-04-2011
+Liebmanns Have 11,Dronningmølle,3120,3,70,1961,7100000.0,14-04-2011
+Bøgevangen 11,Dronningmølle,3120,7,236,1935,2300000.0,14-04-2011
+Strandkrogen 22,Dronningmølle,3120,4,91,2014,200000.0,14-04-2011
+Sneppevej 46,Dronningmølle,3120,3,65,2002,800000.0,09-04-2011
+Park Alle 13,Dronningmølle,3120,3,62,1963,875000.0,08-04-2011
+Uglevej 6,Dronningmølle,3120,3,100,1967,1000000.0,07-04-2011
+Strandkrogen 23,Dronningmølle,3120,4,76,1978,720000.0,06-04-2011
+Musvågevej 41,Dronningmølle,3120,3,60,1973,2300000.0,03-04-2011
+Kærsangervej 13,Dronningmølle,3120,6,114,1995,2450000.0,03-04-2011
+Munkerup Have 17,Dronningmølle,3120,5,137,1988,2422500.0,22-03-2011
+Sneppevej 20,Dronningmølle,3120,3,50,1973,756500.0,14-03-2011
+Åsvinget 3,Dronningmølle,3120,4,87,1970,1450000.0,10-03-2011
+Munkerup Strandvej 22,Dronningmølle,3120,6,150,1952,1025000.0,02-03-2011
+Blåmunkevangen 16,Dronningmølle,3120,3,55,1964,500923.0,04-02-2011
+Linde Alle 10,Dronningmølle,3120,4,87,1971,1400000.0,21-01-2011
+Musvågevej 18,Dronningmølle,3120,3,90,2016,650000.0,05-01-2011
+Rågevej 4,Dronningmølle,3120,5,140,1976,1765000.0,30-12-2010
+Rødkildevej 1,Dronningmølle,3120,8,211,1961,2400000.0,27-12-2010
+Højvejen 17,Dronningmølle,3120,6,135,1965,770000.0,22-12-2010
+Hulerødvej 21C,Dronningmølle,3120,4,69,1899,2550000.0,22-12-2010
+Hejrevej 11,Dronningmølle,3120,5,118,2005,2500000.0,21-12-2010
+Bogfinkevej 22,Dronningmølle,3120,4,65,1972,950000.0,20-12-2010
+Solsortevej 8,Dronningmølle,3120,3,74,1974,600000.0,20-12-2010
+Pile Alle 4,Dronningmølle,3120,4,140,1959,1000000.0,17-12-2010
+Gøgevej 57,Dronningmølle,3120,4,59,1984,680000.0,14-12-2010
+Hellebjergvej 13,Dronningmølle,3120,4,75,2002,1062500.0,09-12-2010
+Løvsangervej 16,Dronningmølle,3120,5,71,1982,936000.0,07-12-2010
+Fasanvej 20,Dronningmølle,3120,4,83,1974,1155000.0,23-11-2010
+Skovvænget 18,Dronningmølle,3120,5,113,1959,3400000.0,19-11-2010
+Ibisvej 12,Dronningmølle,3120,6,142,1964,1460000.0,15-11-2010
+Sneppevej 11,Dronningmølle,3120,3,60,1974,1300000.0,31-10-2010
+Munkerup Have 16,Dronningmølle,3120,4,163,2003,5900000.0,22-10-2010
+Slåenvangen 2A,Dronningmølle,3120,5,151,1965,1800000.0,17-10-2010
+Blåmejsevej 19,Dronningmølle,3120,3,39,1977,400000.0,08-10-2010
+Tornsangervej 9,Dronningmølle,3120,7,108,1968,1800000.0,07-09-2010
+Sneppevej 13,Dronningmølle,3120,4,62,1971,850000.0,02-09-2010
+Hulerødvej 36,Dronningmølle,3120,3,31,1940,1300000.0,31-08-2010
+Park Alle 25,Dronningmølle,3120,3,105,1988,1450000.0,27-08-2010
+Villingerødvej 63,Dronningmølle,3120,3,92,1949,1200000.0,24-08-2010
+Elme Alle 7,Dronningmølle,3120,3,40,1955,1175000.0,18-08-2010
+Agerhønevej 31,Dronningmølle,3120,3,52,1973,935000.0,12-08-2010
+"Dr Mølle Strandvej 552A, 1",Dronningmølle,3120,3,102,1890,1800000.0,11-08-2010
+Åsvinget 9,Dronningmølle,3120,3,70,1962,1269076.0,28-07-2010
+Blåmejsevej 5,Dronningmølle,3120,2,100,1996,1600000.0,21-07-2010
+"Villingebæk Strandvej 536, 1",Dronningmølle,3120,2,106,2009,1500000.0,17-07-2010
+"Villingebæk Strandvej 536, ST",Dronningmølle,3120,3,129,2009,1500000.0,17-07-2010
+Højvejen 5,Dronningmølle,3120,3,54,1970,1010000.0,16-07-2010
+Pandehavevej 13,Dronningmølle,3120,3,62,1944,1050000.0,14-07-2010
+Ørnevej 8,Dronningmølle,3120,3,50,1966,1050000.0,14-07-2010
+Nordkrogen 3,Dronningmølle,3120,5,168,1971,8050000.0,06-07-2010
+Hulerødvej 5,Dronningmølle,3120,4,165,2012,1450000.0,01-07-2010
+Drosselvej 29,Dronningmølle,3120,5,83,1969,690000.0,24-06-2010
+Munkerup Have 4,Dronningmølle,3120,3,153,1986,3095000.0,24-06-2010
+Fasanvej 42,Dronningmølle,3120,3,120,2016,795000.0,20-06-2010
+Strandkrogen 46,Dronningmølle,3120,3,64,1987,2400000.0,08-06-2010
+Gøgevej 21,Dronningmølle,3120,4,69,1974,945000.0,02-06-2010
+Rævebakken 7,Dronningmølle,3120,4,128,2004,1800000.0,01-06-2010
+Skovduevej 12,Dronningmølle,3120,3,55,1975,429000.0,30-05-2010
+Tårnfalkevej 3,Dronningmølle,3120,4,64,1974,1150000.0,11-05-2010
+Vipstjertvej 7,Dronningmølle,3120,4,91,2005,2499000.0,09-05-2010
+Sneppevej 36,Dronningmølle,3120,4,81,2000,1325000.0,05-05-2010
+Fasanvej 32,Dronningmølle,3120,3,50,1974,1100000.0,03-05-2010
+Bogfinkevej 10,Dronningmølle,3120,4,68,1989,1685000.0,27-04-2010
+Bakkevangen 8,Dronningmølle,3120,4,87,2005,2750000.0,25-04-2010
+Hørvangen 3,Dronningmølle,3120,3,114,1975,1345000.0,07-04-2010
+Blåmunkevej 30,Dronningmølle,3120,4,66,1986,1565000.0,21-03-2010
+Munkerup Strandvej 1,Dronningmølle,3120,3,64,1950,1100000.0,04-03-2010
+Poppel Alle 10,Dronningmølle,3120,4,100,1947,1500000.0,19-02-2010
+Elme Alle 22,Dronningmølle,3120,5,135,1946,1700000.0,14-02-2010
+Munkerup Have 60,Dronningmølle,3120,5,115,2000,2700000.0,14-02-2010
+Agerhønevej 29,Dronningmølle,3120,6,146,1897,1300000.0,28-01-2010
+Hellebjergvej 5,Dronningmølle,3120,4,74,1946,1275000.0,26-01-2010
+Sneppevej 19,Dronningmølle,3120,3,54,1974,1000000.0,21-01-2010
+Hulerødvej 34,Dronningmølle,3120,4,69,1974,1985000.0,18-01-2010
+Slåenvangen 27,Dronningmølle,3120,4,105,2002,2000000.0,09-01-2010
+Musvågevej 55,Dronningmølle,3120,3,43,1974,1050000.0,17-12-2009
+Skovduevej 86,Dronningmølle,3120,4,65,1974,1335000.0,14-12-2009
+Firhøjvej 6,Dronningmølle,3120,3,145,1952,1775000.0,10-12-2009
+Drosselvej 2,Dronningmølle,3120,4,75,1969,532500.0,01-12-2009
+Villingebæk Strandvej 524A,Dronningmølle,3120,4,104,1978,6400000.0,23-11-2009
+Skovduevej 37,Dronningmølle,3120,3,48,1962,1100000.0,09-11-2009
+Bogfinkevej 8,Dronningmølle,3120,3,70,1973,1150000.0,05-11-2009
+Dr Mølle Stationsvej 2,Dronningmølle,3120,4,150,1916,2695000.0,03-11-2009
+Blåmunkevangen 37,Dronningmølle,3120,2,40,1975,975000.0,26-10-2009
+Strandkrogen 52,Dronningmølle,3120,2,77,1973,1775000.0,22-10-2009
+Møllemarken 8,Dronningmølle,3120,3,70,1959,1575000.0,06-10-2009
+Bakkevangen 2,Dronningmølle,3120,4,127,1947,1900000.0,05-10-2009
+Ny-Ager 31,Dronningmølle,3120,3,77,1973,2325000.0,05-10-2009
+Skovduevej 24,Dronningmølle,3120,4,49,1990,1400000.0,30-09-2009
+Strandkrogen 58,Dronningmølle,3120,5,124,2016,1000000.0,28-09-2009
+Bogfinkevej 32,Dronningmølle,3120,6,115,1972,1500000.0,21-09-2009
+Munkerup Strandvej 45,Dronningmølle,3120,4,79,1925,1350000.0,09-09-2009
+Hejrevej 10,Dronningmølle,3120,4,107,1990,1850000.0,01-09-2009
+Munkerup Strandvej 4A,Dronningmølle,3120,3,90,1977,1275000.0,01-09-2009
+Rødstjertvej 9,Dronningmølle,3120,2,42,1965,650000.0,19-08-2009
+Hindsehovgården 11,Dronningmølle,3120,4,93,1992,1365000.0,12-08-2009
+Gøgevej 35,Dronningmølle,3120,3,54,1980,875000.0,11-08-2009
+Munkerup Strandvej 72,Dronningmølle,3120,6,199,1959,3445000.0,10-08-2009
+Fasanvej 23,Dronningmølle,3120,4,103,2005,1375000.0,09-08-2009
+Villingebæk Strandvej 524B,Dronningmølle,3120,3,144,1979,9450000.0,05-08-2009
+Hulerødvej 23B,Dronningmølle,3120,5,79,1982,3000000.0,03-08-2009
+Munkerup Strandvej 48,Dronningmølle,3120,6,155,1959,1110000.0,20-07-2009
+Rørsangervej 15,Dronningmølle,3120,4,75,1970,2550000.0,14-07-2009
+Ny-Ager 9,Dronningmølle,3120,2,77,1972,1225000.0,06-07-2009
+Birke Alle 27,Dronningmølle,3120,3,82,1962,1325000.0,01-07-2009
+Lærkevej 2,Dronningmølle,3120,4,71,1962,895000.0,24-06-2009
+Vagtelvej 1,Dronningmølle,3120,4,71,1970,1250000.0,24-06-2009
+Tornsangervej 10,Dronningmølle,3120,5,115,1972,2700000.0,18-06-2009
+Ørnevej 18,Dronningmølle,3120,3,60,1969,1300000.0,17-06-2009
+Løvsangervej 22,Dronningmølle,3120,3,50,1969,750000.0,15-06-2009
+Ved Skellet 6,Dronningmølle,3120,3,61,2009,620000.0,10-06-2009
+Birke Alle 25,Dronningmølle,3120,4,69,1942,1375000.0,09-06-2009
+Linde Alle 44,Dronningmølle,3120,3,60,1951,522000.0,09-06-2009
+Mølledalen 9,Dronningmølle,3120,4,86,1943,2000000.0,07-06-2009
+Ternevej 5,Dronningmølle,3120,4,55,1969,1100000.0,04-06-2009
+Strandkrogen 32,Dronningmølle,3120,3,62,1969,1100000.0,01-06-2009
+Drosselvej 15,Dronningmølle,3120,4,76,1969,1270902.0,15-05-2009
+Vipstjertvej 13,Dronningmølle,3120,5,155,2011,860000.0,15-05-2009
+Fasanvej 7,Dronningmølle,3120,3,85,1974,820000.0,13-05-2009
+Munkerup Strandvej 31,Dronningmølle,3120,4,141,2005,3324275.0,07-05-2009
+Rødstjertvej 2,Dronningmølle,3120,3,108,1965,1475000.0,03-05-2009
+Gøgevej 5,Dronningmølle,3120,3,40,1979,900000.0,01-05-2009
+Gøgevej 53,Dronningmølle,3120,3,55,1974,750000.0,29-04-2009
+Rypevej 11,Dronningmølle,3120,3,60,1968,1275000.0,22-04-2009
+Brombærvangen 9,Dronningmølle,3120,5,87,1962,1330000.0,15-04-2009
+Allikevej 13,Dronningmølle,3120,4,67,1970,1200000.0,08-04-2009
+Pile Alle 16,Dronningmølle,3120,3,67,1959,1300000.0,06-04-2009
+Rypevej 10,Dronningmølle,3120,5,114,1965,1750000.0,02-04-2009
+Skovduevej 42,Dronningmølle,3120,4,72,1973,410866.0,01-04-2009
+Møllemarken 16,Dronningmølle,3120,3,70,1964,540000.0,31-03-2009
+Møllemarken 12,Dronningmølle,3120,4,102,1968,941500.0,20-03-2009
+Spurvevænget 4,Dronningmølle,3120,6,111,1980,1305000.0,09-03-2009
+Park Alle 24,Dronningmølle,3120,4,112,1997,1250000.0,22-02-2009
+"Dr Mølle Strandvej 568R, 1. 3",Dronningmølle,3120,3,85,1600,1295000.0,17-02-2009
+Dalevænget 8,Dronningmølle,3120,3,42,1942,1000000.0,08-02-2009
+Park Alle 17B,Dronningmølle,3120,3,50,1975,1185000.0,02-02-2009
+Hulerødvej 11,Dronningmølle,3120,3,54,1938,1250000.0,29-01-2009
+Strandkrogen 17,Dronningmølle,3120,3,61,1940,1495000.0,23-01-2009
+Ibisvej 1,Dronningmølle,3120,4,63,1937,700000.0,15-01-2009
+Fasanvej 56,Dronningmølle,3120,3,51,1983,1020000.0,15-01-2009
+Sneppevej 27,Dronningmølle,3120,4,120,1977,840000.0,03-01-2009
+Strandkrogen 2Y,Dronningmølle,3120,1,49,2008,4200000.0,19-12-2008
+Bekkasinvænget 1,Dronningmølle,3120,3,60,1959,1325000.0,27-11-2008
+Stærevangen 1,Dronningmølle,3120,4,94,2002,1295512.0,17-11-2008
+Ny-Ager 8,Dronningmølle,3120,2,67,1971,1650000.0,24-09-2008
+Fasanvej 12,Dronningmølle,3120,4,89,1975,1650000.0,23-09-2008
+Firhøjvej 19,Dronningmølle,3120,4,72,1942,1235000.0,16-09-2008
+Drosselvej 3,Dronningmølle,3120,4,70,1974,1475000.0,03-09-2008
+Hindsehovgården 15,Dronningmølle,3120,4,97,1992,1650000.0,15-08-2008
+Lærkevej 7,Dronningmølle,3120,5,105,2016,1300000.0,27-07-2008
+Løvsangervej 18,Dronningmølle,3120,4,59,1969,1185000.0,10-07-2008
+Drosselvej 28,Dronningmølle,3120,4,75,1969,900000.0,09-07-2008
+Linde Alle 42A,Dronningmølle,3120,4,73,1967,1600000.0,08-07-2008
+Dr Mølle Strandvej 643,Dronningmølle,3120,4,119,1938,2000000.0,07-07-2008
+Pile Alle 14,Dronningmølle,3120,5,121,1950,1500000.0,04-07-2008
+Sneppevej 39,Dronningmølle,3120,4,61,1970,1675000.0,29-06-2008
+Hulerødvej 7,Dronningmølle,3120,3,117,1942,2250000.0,27-06-2008
+Poppel Alle 7,Dronningmølle,3120,4,128,1945,957000.0,20-06-2008
+Holtesgårdvej 17,Dronningmølle,3120,4,120,1967,521500.0,16-06-2008
+Rypevej 9,Dronningmølle,3120,3,51,1976,1850000.0,03-06-2008
+Bogfinkevej 20,Dronningmølle,3120,3,69,1968,1200000.0,01-06-2008
+Sanglærkevej 19,Dronningmølle,3120,2,42,1965,691430.0,01-06-2008
+Fasanvej 70,Dronningmølle,3120,4,62,1989,2200000.0,30-05-2008
+Ny-Ager 33,Dronningmølle,3120,4,63,1980,1970000.0,28-05-2008
+Pandehavevej 39,Dronningmølle,3120,4,50,1941,550000.0,21-05-2008
+Ny-Ager 21,Dronningmølle,3120,5,104,2002,3500000.0,05-05-2008
+Fasanvej 16,Dronningmølle,3120,3,67,1976,1900000.0,07-04-2008
+Mølledalen 8,Dronningmølle,3120,4,55,1942,2100000.0,03-04-2008
+Fasanvej 36,Dronningmølle,3120,4,120,2005,875000.0,24-03-2008
+Gøgevej 45,Dronningmølle,3120,3,50,1977,1300000.0,18-02-2008
+Løvsangervej 34,Dronningmølle,3120,5,92,1975,2000000.0,13-01-2008
+Allikevej 23,Dronningmølle,3120,3,48,1973,935000.0,09-01-2008
+Bynkevangen 13,Dronningmølle,3120,3,64,1980,1650000.0,28-12-2007
+Holtesgårdvej 28,Dronningmølle,3120,4,73,1960,1020000.0,27-12-2007
+Vænget 7,Dronningmølle,3120,3,83,2005,1572500.0,19-12-2007
+Munkerup Strandvej 10,Dronningmølle,3120,4,167,1974,3420000.0,28-11-2007
+Sneppevej 48,Dronningmølle,3120,4,89,1998,2125000.0,25-11-2007
+Ørnevej 4,Dronningmølle,3120,4,67,1974,1625000.0,21-11-2007
+Fasanvej 37,Dronningmølle,3120,3,36,1975,1250000.0,06-11-2007
+Mølledalen 4,Dronningmølle,3120,4,75,1972,2500000.0,05-11-2007
+Højvejen 2,Dronningmølle,3120,3,77,1969,1375000.0,29-10-2007
+Ved Skellet 15,Dronningmølle,3120,3,96,1967,2875000.0,20-10-2007
+Munkerup Have 44,Dronningmølle,3120,5,128,1979,3500000.0,18-10-2007
+Skovduevej 56,Dronningmølle,3120,3,56,1988,1750000.0,14-10-2007
+Skovduevej 62,Dronningmølle,3120,3,50,1973,850000.0,01-10-2007
+Møllemarken 10,Dronningmølle,3120,7,204,2007,4300000.0,01-10-2007
+Drosselvej 13,Dronningmølle,3120,4,96,1969,1600000.0,30-09-2007
+Petersborgvej 3,Dronningmølle,3120,5,139,1880,9500000.0,29-09-2007
+Fasanvej 54,Dronningmølle,3120,3,50,1978,1200000.0,25-09-2007
+Slåenvangen 6B,Dronningmølle,3120,6,193,2012,2895000.0,20-09-2007
+Hørvangen 6,Dronningmølle,3120,4,63,1969,1445000.0,20-09-2007
+Munkerup Strandvej 53,Dronningmølle,3120,4,95,1935,1900000.0,10-09-2007
+Sneppevej 33,Dronningmølle,3120,3,67,1974,1500000.0,09-09-2007
+Tornsangervej 3,Dronningmølle,3120,4,50,1969,1300000.0,30-08-2007
+Ved Skellet 8,Dronningmølle,3120,4,93,2009,977500.0,28-08-2007
+Fasanvej 58,Dronningmølle,3120,5,125,2007,3325000.0,22-08-2007
+Sneppevej 40,Dronningmølle,3120,4,74,1974,1390000.0,21-08-2007
+Blåmejsevej 4,Dronningmølle,3120,3,51,1977,1600000.0,16-08-2007
+Tranevej 7,Dronningmølle,3120,4,125,1977,1460000.0,16-08-2007
+Skovduevej 63,Dronningmølle,3120,4,120,2007,500000.0,07-08-2007
+Hulerødvej 14,Dronningmølle,3120,4,81,1976,2100000.0,01-08-2007
+Blåmunkevangen 3,Dronningmølle,3120,4,124,1964,2300000.0,23-07-2007
+Gøgevej 13,Dronningmølle,3120,4,52,1982,1600000.0,17-07-2007
+Munkerup Have 23,Dronningmølle,3120,3,151,1986,4200000.0,10-07-2007
+Rørsangervej 8,Dronningmølle,3120,4,100,1970,2987500.0,05-07-2007
+Møllevænget 3,Dronningmølle,3120,3,60,1953,2600000.0,05-07-2007
+Vagtelvej 33,Dronningmølle,3120,4,57,1973,2000000.0,03-07-2007
+Villingerødvej 53,Dronningmølle,3120,8,280,1870,6000000.0,22-06-2007
+Tranevej 12,Dronningmølle,3120,3,35,1965,1300000.0,17-06-2007
+Skovvænget 12,Dronningmølle,3120,4,103,1999,3350000.0,14-06-2007
+Firhøjvej 1A,Dronningmølle,3120,4,136,1946,1303933.0,14-06-2007
+Park Alle 30,Dronningmølle,3120,4,120,2006,2850000.0,08-06-2007
+Allikevej 2,Dronningmølle,3120,3,54,1970,1800000.0,06-06-2007
+Drosselvej 1,Dronningmølle,3120,3,100,1971,1400000.0,29-05-2007
+Ny-Ager 26,Dronningmølle,3120,5,104,1969,2200000.0,24-05-2007
+Kragevej 8,Dronningmølle,3120,3,100,1965,2750000.0,23-05-2007
+Kragevej 2,Dronningmølle,3120,3,92,1986,2380000.0,11-05-2007
+Kærsangervej 12,Dronningmølle,3120,4,72,1970,1775000.0,11-05-2007
+Munkerup Have 26,Dronningmølle,3120,5,128,1979,2900000.0,10-05-2007
+Rødstjertvej 12,Dronningmølle,3120,3,72,1967,1650000.0,30-04-2007
+Slåenvangen 30,Dronningmølle,3120,4,70,1965,1450000.0,19-04-2007
+Højvejen 26,Dronningmølle,3120,4,57,1967,977500.0,13-04-2007
+Solsortevej 5,Dronningmølle,3120,5,73,1973,1925000.0,13-04-2007
+Gøgevej 28,Dronningmølle,3120,3,58,1977,1750000.0,04-04-2007
+Poppel Alle 16,Dronningmølle,3120,3,116,1982,2350000.0,03-04-2007
+Munkerup Have 8,Dronningmølle,3120,5,164,1987,3700000.0,03-04-2007
+Skovduevej 5,Dronningmølle,3120,4,85,1979,2100000.0,22-03-2007
+Drosselvej 25,Dronningmølle,3120,4,81,1974,1320000.0,21-03-2007
+Spættevej 5,Dronningmølle,3120,3,50,1965,2240000.0,15-03-2007
+Rævebakken 12,Dronningmølle,3120,4,86,1964,1875000.0,15-03-2007
+Bogfinkevej 6,Dronningmølle,3120,3,70,1969,1850000.0,14-03-2007
+Blåmunkevej 36,Dronningmølle,3120,2,53,2003,925000.0,27-02-2007
+Ørnevej 11,Dronningmølle,3120,5,129,1967,2100000.0,23-02-2007
+Musvågevej 37,Dronningmølle,3120,4,97,1967,2682500.0,15-01-2007
+Hellebjergvej 15,Dronningmølle,3120,4,124,2007,825000.0,30-12-2006
+Brombærvangen 6,Dronningmølle,3120,3,53,1985,892900.0,11-12-2006
+Munkerup Strandvej 41B,Dronningmølle,3120,6,173,2006,4155000.0,10-12-2006
+Højvejen 10,Dronningmølle,3120,4,81,1972,1500000.0,04-12-2006
+Kærsangervej 9,Dronningmølle,3120,4,91,1977,1700000.0,29-11-2006
+Firhøjvej 14,Dronningmølle,3120,4,93,2004,2600000.0,22-11-2006
+Park Alle 19,Dronningmølle,3120,4,88,1961,2600000.0,16-11-2006
+Højvejen 13,Dronningmølle,3120,3,52,1967,1245000.0,04-11-2006
+Sneppevej 60,Dronningmølle,3120,5,88,1973,2550000.0,01-11-2006
+Park Alle 32,Dronningmølle,3120,3,56,1980,1850000.0,30-10-2006
+Villingebæk Strandvej 619B,Dronningmølle,3120,3,70,1860,2325000.0,30-10-2006
+Grøndahlsvej 17,Dronningmølle,3120,6,150,1932,12000000.0,30-10-2006
+Svalevej 2,Dronningmølle,3120,5,82,1993,2245000.0,15-10-2006
+Bekkasinvænget 6,Dronningmølle,3120,5,106,1989,1027875.0,02-10-2006
+Bakkevangen 6,Dronningmølle,3120,4,84,1999,2700000.0,02-10-2006
+Skovduevej 23,Dronningmølle,3120,5,99,1975,1350000.0,11-09-2006
+Gøgevej 48,Dronningmølle,3120,4,78,1993,2050000.0,11-09-2006
+Elme Alle 15,Dronningmølle,3120,4,120,2007,612000.0,06-09-2006
+Drosselvej 26,Dronningmølle,3120,4,63,1969,688500.0,04-09-2006
+Villingebæk Strandvej 599,Dronningmølle,3120,6,108,1956,4885000.0,04-09-2006
+Vænget 6,Dronningmølle,3120,4,61,1979,1750000.0,21-08-2006
+Dr Mølle Stationsvej 32,Dronningmølle,3120,4,130,1975,2400000.0,21-08-2006
+Ny-Ager 36,Dronningmølle,3120,2,52,1985,1550000.0,18-08-2006
+Dr Mølle Strandvej 661,Dronningmølle,3120,4,197,1961,3800000.0,15-08-2006
+Holtesgårdvej 16,Dronningmølle,3120,4,133,1980,2495000.0,07-08-2006
+Agerhønevej 22,Dronningmølle,3120,6,81,1976,1850000.0,30-07-2006
+Fasanvej 38,Dronningmølle,3120,3,63,1986,616667.0,19-07-2006
+Rørsangervej 1,Dronningmølle,3120,4,67,1967,807500.0,17-07-2006
+Rævebakken 17B,Dronningmølle,3120,3,57,1967,1400000.0,17-07-2006
+Møllevænget 5,Dronningmølle,3120,4,121,2003,3150000.0,14-07-2006
+Park Alle 27,Dronningmølle,3120,5,85,1969,1950000.0,11-07-2006
+Brombærvangen 18,Dronningmølle,3120,4,117,2007,1590000.0,10-07-2006
+Skovduevej 68,Dronningmølle,3120,4,66,1978,1730000.0,05-07-2006
+Løvsangervej 14,Dronningmølle,3120,3,42,1970,1400000.0,02-07-2006
+Linde Alle 36,Dronningmølle,3120,3,40,1948,1712500.0,26-06-2006
+Birke Alle 1,Dronningmølle,3120,2,26,1914,600000.0,21-06-2006
+Rypevej 16,Dronningmølle,3120,4,72,1968,2362500.0,20-06-2006
+Munkerup Strandvej 38,Dronningmølle,3120,8,229,1965,3700000.0,19-06-2006
+Drosselvej 18,Dronningmølle,3120,3,50,1973,1485000.0,19-06-2006
+Ved Skellet 10,Dronningmølle,3120,3,69,1963,1525000.0,19-06-2006
+Hulerødvej 1,Dronningmølle,3120,7,152,1942,2100000.0,19-06-2006
+Agerhønevej 18,Dronningmølle,3120,5,89,1977,2531000.0,12-06-2006
+Blåmejsevej 21,Dronningmølle,3120,1,16,2005,1250000.0,07-06-2006
+Højvejen 28,Dronningmølle,3120,7,107,1966,650000.0,05-06-2006
+Munkerup Have 62,Dronningmølle,3120,5,128,1979,2595000.0,29-05-2006
+Bogfinkevej 34,Dronningmølle,3120,4,54,1984,1695000.0,28-05-2006
+Hindsehovgården 27,Dronningmølle,3120,4,93,1992,1995000.0,25-05-2006
+Hejrevej 8,Dronningmølle,3120,4,102,1991,2495000.0,22-05-2006
+Munkerupvej 7A,Dronningmølle,3120,5,121,2007,2500000.0,21-05-2006
+Hellebjergvej 17,Dronningmølle,3120,3,88,1800,1300000.0,15-05-2006
+Dr Mølle Stationsvej 33,Dronningmølle,3120,5,273,1977,4250000.0,15-05-2006
+Ørnevej 15,Dronningmølle,3120,5,77,1966,2080000.0,12-05-2006
+Strandkrogen 6,Dronningmølle,3120,3,56,1984,600000.0,10-05-2006
+Hellebjergvej 11,Dronningmølle,3120,3,72,1957,2650000.0,09-05-2006
+Dalevænget 17,Dronningmølle,3120,3,42,1951,1400000.0,01-05-2006
+Munkerupvej 3,Dronningmølle,3120,4,100,1970,2995000.0,26-04-2006
+Åsvinget 10,Dronningmølle,3120,5,158,1966,1572500.0,24-04-2006
+Brombærvangen 20,Dronningmølle,3120,5,92,1997,1875000.0,24-04-2006
+Poppel Alle 40,Dronningmølle,3120,3,48,1956,1650000.0,17-04-2006
+Slåenvangen 16,Dronningmølle,3120,5,143,1967,750000.0,10-04-2006
+Hindsehovgården 12,Dronningmølle,3120,4,97,1991,1970000.0,05-04-2006
+"Dr Mølle Strandvej 568R, 1. 4",Dronningmølle,3120,1,55,1600,350000.0,29-03-2006
+Gøgevej 3,Dronningmølle,3120,3,69,1988,1800000.0,20-03-2006
+Sneppevej 17,Dronningmølle,3120,3,50,1981,682500.0,06-03-2006
+Bynkevangen 8,Dronningmølle,3120,5,128,1964,550000.0,27-02-2006
+Fasanvej 19,Dronningmølle,3120,5,54,1978,1370000.0,23-02-2006
+Fasanvej 64,Dronningmølle,3120,4,100,1975,1750000.0,14-02-2006
+Ibisvej 6,Dronningmølle,3120,4,110,1967,2025000.0,22-01-2006
+Linde Alle 14,Dronningmølle,3120,4,60,1960,782000.0,09-01-2006
+Ny-Ager 23,Dronningmølle,3120,5,104,2005,3075000.0,02-01-2006
+Ved Skellet 19,Dronningmølle,3120,3,63,1951,700000.0,22-12-2005
+Ved Skellet 11,Dronningmølle,3120,4,82,1970,277666.0,20-12-2005
+Park Alle 8,Dronningmølle,3120,3,53,1965,1645000.0,20-12-2005
+Løvsangervej 12,Dronningmølle,3120,3,59,1980,731000.0,15-12-2005
+Ved Skellet 1,Dronningmølle,3120,4,130,1953,2260000.0,11-12-2005
+Hellebjergvej 2,Dronningmølle,3120,4,135,1973,1900000.0,06-12-2005
+Holtesgårdvej 35,Dronningmølle,3120,3,45,1961,569500.0,28-11-2005
+Hindsehovgården 3,Dronningmølle,3120,4,93,1992,1550000.0,27-11-2005
+Stillidsvej 4,Dronningmølle,3120,4,54,1975,1467500.0,21-11-2005
+Hindsehovgården 10,Dronningmølle,3120,4,97,1991,1795000.0,17-11-2005
+Løvsangervej 10,Dronningmølle,3120,4,120,2006,1355000.0,14-11-2005
+Strandkrogen 3,Dronningmølle,3120,4,65,1975,1525000.0,14-11-2005
+Holtesgårdvej 23,Dronningmølle,3120,4,101,1963,1800000.0,11-11-2005
+"Dr Mølle Strandvej 568H, 1. TV",Dronningmølle,3120,2,45,1600,1285000.0,11-11-2005
+Rørsangervej 11,Dronningmølle,3120,5,101,1993,2750000.0,17-10-2005
+Firhøjvej 11,Dronningmølle,3120,5,92,1957,1200000.0,13-10-2005
+Linde Alle 41,Dronningmølle,3120,3,60,1971,2450000.0,11-10-2005
+Fasanvej 3,Dronningmølle,3120,4,120,2005,2200000.0,10-10-2005
+Allikevej 7,Dronningmølle,3120,3,54,1970,646000.0,03-10-2005
+Smedevej 12,Dronningmølle,3120,11,219,1897,3255000.0,03-10-2005
+Spættevej 2,Dronningmølle,3120,5,162,1972,1100000.0,16-09-2005
+Strandgårds Vænge 7,Dronningmølle,3120,6,136,2008,2395000.0,11-09-2005
+Strandkrogen 26,Dronningmølle,3120,4,63,1974,1500000.0,08-09-2005
+Møllemarken 4,Dronningmølle,3120,4,153,1988,3200000.0,02-09-2005
+"Dr Mølle Strandvej 568P, ST. TH",Dronningmølle,3120,1,86,1600,1625000.0,31-08-2005
+Poppel Alle 25,Dronningmølle,3120,4,68,1957,1150000.0,25-08-2005
+Munkerup Strandvej 26,Dronningmølle,3120,4,167,1968,2695000.0,19-08-2005
+Munkerup Strandvej 43A,Dronningmølle,3120,4,125,1981,1950000.0,16-08-2005
+Villingebæk Strandvej 526,Dronningmølle,3120,5,200,1982,8200000.0,11-08-2005
+Park Alle 22,Dronningmølle,3120,5,109,1997,2075000.0,08-08-2005
+Birke Alle 17,Dronningmølle,3120,5,83,1951,740000.0,30-07-2005
+Blåmejsevej 41,Dronningmølle,3120,3,50,1975,1285000.0,18-07-2005
+Musvågevej 8,Dronningmølle,3120,4,116,1967,1700000.0,13-07-2005
+Pandehavevej 41,Dronningmølle,3120,5,125,1919,3000000.0,27-06-2005
+Villingerødvej 61,Dronningmølle,3120,7,188,1939,164989.0,27-06-2005
+Fasanvej 6,Dronningmølle,3120,4,65,1974,1300000.0,22-06-2005
+Strandkrogen 30,Dronningmølle,3120,4,69,1973,1795000.0,14-06-2005
+Musvågevej 39,Dronningmølle,3120,4,84,1968,2585000.0,09-06-2005
+Sneppevej 28,Dronningmølle,3120,3,80,1977,1315000.0,09-06-2005
+Hindsehovgården 23,Dronningmølle,3120,4,97,1991,1400000.0,07-06-2005
+Dr Mølle Stationsvej 30,Dronningmølle,3120,6,169,1977,2000000.0,06-06-2005
+Ibisvej 10,Dronningmølle,3120,5,155,1964,1924000.0,30-05-2005
+Skovduevej 16,Dronningmølle,3120,3,73,1973,1000000.0,23-05-2005
+Munkerup Have 6,Dronningmølle,3120,4,172,2001,2895000.0,23-05-2005
+Slåenvangen 26,Dronningmølle,3120,2,35,1964,800000.0,20-05-2005
+Agerhønevej 2,Dronningmølle,3120,4,79,1969,1450000.0,18-05-2005
+Vænget 14,Dronningmølle,3120,5,90,1970,2595000.0,15-05-2005
+Ny-Ager 44,Dronningmølle,3120,4,92,1973,2875000.0,13-05-2005
+Blåmejsevej 15,Dronningmølle,3120,3,64,1974,1170000.0,02-05-2005
+Skovduevej 51,Dronningmølle,3120,3,63,1979,765132.0,01-05-2005
+Rævebakken 14,Dronningmølle,3120,3,79,1967,1300000.0,28-04-2005
+Kærsangervej 16,Dronningmølle,3120,4,126,2006,900000.0,28-04-2005
+Poppel Alle 14,Dronningmølle,3120,3,130,1950,1660000.0,26-04-2005
+Ny-Ager 10,Dronningmølle,3120,5,60,1970,1210000.0,25-04-2005
+Rødstjertvej 6,Dronningmølle,3120,3,49,1967,1290000.0,22-04-2005
+Dr Mølle Stationsvej 34,Dronningmølle,3120,7,180,1977,2400000.0,21-04-2005
+Blåmunkevangen 13,Dronningmølle,3120,6,145,1978,1550000.0,11-04-2005
+Musvågevej 16,Dronningmølle,3120,3,55,1969,1350000.0,09-04-2005
+Poppel Alle 1B,Dronningmølle,3120,2,82,2006,300000.0,06-04-2005
+Munkerup Have 2,Dronningmølle,3120,5,170,2001,2795000.0,05-04-2005
+Skovduevej 1,Dronningmølle,3120,3,120,1988,1875000.0,04-04-2005
+Munkerupvej 14,Dronningmølle,3120,3,136,1938,2545000.0,04-04-2005
+Åsvinget 26B,Dronningmølle,3120,2,54,1948,700000.0,01-04-2005
+Ibisvej 17,Dronningmølle,3120,4,75,1966,1295000.0,01-04-2005
+Kærsangervej 15,Dronningmølle,3120,4,107,1998,2150000.0,29-03-2005
+Dr Mølle Strandvej 568L,Dronningmølle,3120,2,45,1600,1250000.0,20-03-2005
+Slåenvangen 14A,Dronningmølle,3120,6,154,1968,1985000.0,18-03-2005
+Villingebæk Strandvej 633,Dronningmølle,3120,9,386,1962,2880000.0,17-03-2005
+Villingebæk Strandvej 575C,Dronningmølle,3120,4,74,1992,2210000.0,14-03-2005
+Munkerup Have 36,Dronningmølle,3120,5,128,1979,2316180.0,09-03-2005
+Fasanvej 14,Dronningmølle,3120,3,55,1973,1289000.0,07-03-2005
+Skovduevej 76,Dronningmølle,3120,5,104,1974,1275000.0,05-03-2005
+Linde Alle 32,Dronningmølle,3120,5,172,1954,1675000.0,05-03-2005
+Tranevej 9,Dronningmølle,3120,3,69,1965,1410000.0,23-02-2005
+Storkevej 7,Dronningmølle,3120,4,99,1966,2045000.0,10-02-2005
+Skovduevej 7,Dronningmølle,3120,2,28,1973,1125000.0,04-02-2005
+Dalehøjvej 4,Dronningmølle,3120,4,123,2005,995000.0,01-02-2005
+Strandkrogen 74,Dronningmølle,3120,4,113,2012,800000.0,01-02-2005
+Linde Alle 8,Dronningmølle,3120,8,137,1952,1675000.0,31-01-2005
+Skovduevej 39,Dronningmølle,3120,3,71,1974,1590000.0,24-01-2005
+Skovduevej 54,Dronningmølle,3120,4,94,1973,600000.0,17-01-2005
+Blåmejsevej 36,Dronningmølle,3120,3,50,1980,1500000.0,30-12-2004
+Holtesgårdvej 31,Dronningmølle,3120,7,192,1877,2650000.0,22-12-2004
+Elme Alle 6,Dronningmølle,3120,5,119,1948,500000.0,21-12-2004
+Ørnevej 10,Dronningmølle,3120,3,78,1967,455000.0,21-12-2004
+Munkerup Strandvej 51B,Dronningmølle,3120,4,130,1981,1745000.0,15-12-2004
+Hørvangen 19,Dronningmølle,3120,4,96,1994,1427000.0,08-12-2004
+Tranevej 6,Dronningmølle,3120,2,75,1965,495000.0,06-12-2004
+Fasanvej 18,Dronningmølle,3120,3,46,1974,950000.0,03-12-2004
+Munkerup Strandvej 7,Dronningmølle,3120,6,88,1973,1995000.0,26-11-2004
+Dalevænget 7,Dronningmølle,3120,4,57,2012,1000000.0,25-11-2004
+Villingebæk Strandvej 518A,Dronningmølle,3120,4,91,2002,1920000.0,19-11-2004
+Vænget 3,Dronningmølle,3120,3,66,1971,845000.0,18-11-2004
+Villingebæk Strandvej 540,Dronningmølle,3120,4,175,1898,4350000.0,14-11-2004
+Drosselvej 14,Dronningmølle,3120,4,86,1978,950000.0,02-11-2004
+Højvejen 32,Dronningmølle,3120,4,79,1967,1400000.0,31-10-2004
+Firhøjvej 12,Dronningmølle,3120,5,96,1936,1495000.0,22-10-2004
+Munkerup Have 5,Dronningmølle,3120,4,143,1988,2495000.0,18-10-2004
+Pile Alle 9,Dronningmølle,3120,6,152,2005,408000.0,11-10-2004
+Munkerupvej 26,Dronningmølle,3120,6,224,1938,9500000.0,05-10-2004
+Elme Alle 39,Dronningmølle,3120,4,70,1987,1900000.0,05-10-2004
+"Dr Mølle Strandvej 568N, 1",Dronningmølle,3120,4,166,1600,2700000.0,28-09-2004
+Birke Alle 7,Dronningmølle,3120,3,84,1958,1445000.0,12-09-2004
+Spættevej 8,Dronningmølle,3120,4,168,1969,2150000.0,08-09-2004
+Storkevej 3,Dronningmølle,3120,3,59,1971,1125000.0,27-08-2004
+Skovduevej 17,Dronningmølle,3120,5,119,1990,1715000.0,24-08-2004
+Åsvinget 16,Dronningmølle,3120,2,52,1955,331667.0,16-08-2004
+Blåmunkevangen 32,Dronningmølle,3120,4,82,1961,900000.0,13-08-2004
+Vipstjertvej 1,Dronningmølle,3120,5,132,1969,1770000.0,11-08-2004
+Dalehøjvej 7B,Dronningmølle,3120,3,72,1952,995000.0,10-08-2004
+Blåmunkevangen 12,Dronningmølle,3120,3,54,1968,1025000.0,05-08-2004
+Drosselvej 20,Dronningmølle,3120,3,75,1970,1025000.0,03-08-2004
+Bogfinkevej 33,Dronningmølle,3120,3,55,1969,70330.0,23-07-2004
+Kærsangervej 5,Dronningmølle,3120,5,117,1969,945000.0,08-07-2004
+Petersborgvej 8,Dronningmølle,3120,5,167,1970,6000000.0,30-06-2004
+Skovduevej 25,Dronningmølle,3120,5,84,1974,1525000.0,23-06-2004
+Linde Alle 40,Dronningmølle,3120,3,77,2004,1656565.0,18-06-2004
+Ny-Ager 6,Dronningmølle,3120,4,65,1971,1195000.0,18-06-2004
+Hulerødvej 21A,Dronningmølle,3120,4,72,1984,2537500.0,16-06-2004
+Gøgevej 47,Dronningmølle,3120,4,113,2004,1735000.0,14-06-2004
+Drosselvej 11,Dronningmølle,3120,4,65,1969,875000.0,12-06-2004
+Munkerup Strandvej 19,Dronningmølle,3120,2,45,1927,290000.0,07-06-2004
+Bakkevangen 12,Dronningmølle,3120,3,60,1927,930000.0,24-05-2004
+Sneppevej 54,Dronningmølle,3120,4,75,1987,1240000.0,24-05-2004
+Strandkrogen 40,Dronningmølle,3120,4,94,1999,1890000.0,17-05-2004
+Hulerødvej 6,Dronningmølle,3120,4,109,1996,1700000.0,11-05-2004
+Møllemarken 6,Dronningmølle,3120,4,114,1973,2300000.0,07-05-2004
+"Dr Mølle Strandvej 568H, 1. TH",Dronningmølle,3120,2,45,1600,1025000.0,05-05-2004
+Hejrevej 1,Dronningmølle,3120,3,48,1965,808762.0,04-05-2004
+Gøgevej 46,Dronningmølle,3120,4,61,1974,1310000.0,23-04-2004
+Ibisvej 8,Dronningmølle,3120,7,257,1971,2235000.0,19-04-2004
+Hindsehovgården 4,Dronningmølle,3120,4,93,1992,1360000.0,19-04-2004
+Hindsehovgården 29,Dronningmølle,3120,4,93,1992,1270000.0,07-04-2004
+Gøgevej 7,Dronningmølle,3120,3,53,1974,1125000.0,31-03-2004
+Blåmejsevej 51,Dronningmølle,3120,4,57,1978,995000.0,30-03-2004
+Bogfinkevej 18,Dronningmølle,3120,4,82,1970,788440.0,29-03-2004
+Brombærvangen 1B,Dronningmølle,3120,4,93,2002,2160031.0,29-03-2004
+Ibisvej 3,Dronningmølle,3120,3,41,1964,950000.0,26-03-2004
+Munkerup Strandvej 70,Dronningmølle,3120,7,204,1875,1960000.0,08-03-2004
+Strandhaven 3,Dronningmølle,3120,3,61,1960,1300000.0,08-03-2004
+Ibisvej 14,Dronningmølle,3120,4,142,1964,1425000.0,08-03-2004
+Hindsehovgården 17,Dronningmølle,3120,4,93,1992,1357625.0,05-03-2004
+Hindsehovgården 25,Dronningmølle,3120,4,97,1992,1310000.0,05-03-2004
+Villingerødvej 65,Dronningmølle,3120,3,137,1995,1675000.0,26-02-2004
+Bakkevangen 4,Dronningmølle,3120,4,89,1950,1596000.0,24-02-2004
+Poppel Alle 35,Dronningmølle,3120,4,121,1976,466666.0,16-02-2004
+Munkerup Have 15,Dronningmølle,3120,4,150,2000,3900000.0,21-01-2004
+Hejrevej 40,Dronningmølle,3120,3,37,1965,280625.0,15-01-2004
+Musvågevej 47,Dronningmølle,3120,3,66,1969,500000.0,08-12-2003
+Fasanvej 47,Dronningmølle,3120,2,33,1979,700000.0,08-12-2003
+Munkerupvej 2,Dronningmølle,3120,4,68,1951,1350000.0,04-12-2003
+Vipstjertvej 12,Dronningmølle,3120,4,75,1969,1275000.0,01-12-2003
+"Dr Mølle Strandvej 568P, ST. TV",Dronningmølle,3120,1,72,1600,1385000.0,28-11-2003
+Smedevej 6,Dronningmølle,3120,8,136,1870,877555.0,24-11-2003
+Linde Alle 22,Dronningmølle,3120,3,51,1958,472070.0,18-11-2003
+Hørvangen 8,Dronningmølle,3120,3,79,1985,357000.0,17-11-2003
+Villingebæk Strandvej 591A,Dronningmølle,3120,3,116,1909,2205000.0,17-11-2003
+Højvejen 38,Dronningmølle,3120,3,77,1965,1350000.0,14-11-2003
+Allikevej 31,Dronningmølle,3120,3,78,1971,771025.0,11-11-2003
+Bekkasinvænget 8,Dronningmølle,3120,5,86,1993,1525000.0,09-11-2003
+Blåmunkevangen 23,Dronningmølle,3120,5,106,1960,925000.0,08-11-2003
+Munkerupvej 12,Dronningmølle,3120,4,52,1952,880000.0,03-11-2003
+Blåmunkevangen 2,Dronningmølle,3120,4,125,1966,1580000.0,24-10-2003
+Musvågevej 25,Dronningmølle,3120,3,72,1969,1068083.0,20-10-2003
+Ny-Ager 22,Dronningmølle,3120,5,160,1900,850000.0,20-10-2003
+Munkerup Have 58,Dronningmølle,3120,5,117,1991,3600000.0,11-10-2003
+Bekkasinvænget 7,Dronningmølle,3120,2,23,1962,650000.0,09-10-2003
+Hellebjergvej 1,Dronningmølle,3120,5,145,2008,1795000.0,03-10-2003
+Smedevej 5,Dronningmølle,3120,8,189,1897,2070000.0,30-09-2003
+Strandgårds Vænge 11,Dronningmølle,3120,4,106,1912,2210000.0,25-09-2003
+Bøgevangen 6,Dronningmølle,3120,4,60,1945,712827.0,22-09-2003
+Møllevænget 1,Dronningmølle,3120,4,66,1957,950000.0,22-09-2003
+Løvsangervej 48,Dronningmølle,3120,4,70,1972,1000000.0,15-09-2003
+Villingebæk Strandvej 607B,Dronningmølle,3120,5,204,1910,1530000.0,15-09-2003
+Strandkrogen 10,Dronningmølle,3120,4,66,1982,1245000.0,02-09-2003
+Munkerup Have 28,Dronningmølle,3120,5,128,1979,430000.0,01-09-2003
+Bynkevangen 16,Dronningmølle,3120,3,60,2006,170000.0,31-08-2003
+Pile Alle 10,Dronningmølle,3120,3,50,1964,784000.0,25-08-2003
+Brombærvangen 13,Dronningmølle,3120,4,114,2006,350000.0,18-08-2003
+Højvejen 16,Dronningmølle,3120,5,75,1966,720000.0,03-08-2003
+Slåenvangen 3,Dronningmølle,3120,6,153,2006,287500.0,02-08-2003
+Ørnevej 1A,Dronningmølle,3120,3,77,1971,1030000.0,30-07-2003
+Hulerødvej 12,Dronningmølle,3120,6,223,2009,855000.0,21-07-2003
+Brombærvangen 16,Dronningmølle,3120,4,75,1964,700000.0,03-07-2003
+Hindsehovgården 21,Dronningmølle,3120,4,93,1992,1350000.0,02-07-2003
+Slåenvangen 51,Dronningmølle,3120,4,76,1973,850000.0,30-06-2003
+Allikevej 43,Dronningmølle,3120,4,87,2007,895000.0,28-06-2003
+Lærkevej 3,Dronningmølle,3120,3,92,1999,1500000.0,27-06-2003
+Pile Alle 1B,Dronningmølle,3120,3,86,1962,1275000.0,24-06-2003
+Skovduevej 35,Dronningmølle,3120,3,104,2005,465000.0,21-06-2003
+Villingerødvej 1,Dronningmølle,3120,3,140,1938,1350000.0,12-06-2003
+Storkevej 11,Dronningmølle,3120,3,54,1969,945000.0,06-06-2003
+Elme Alle 25,Dronningmølle,3120,6,138,1947,1295000.0,19-05-2003
+Fasanvej 30,Dronningmølle,3120,4,66,1986,402770.0,08-05-2003
+Birke Alle 22,Dronningmølle,3120,3,48,1989,1075000.0,07-05-2003
+Villingebæk Strandvej 619A,Dronningmølle,3120,12,297,1860,2300000.0,28-04-2003
+Fasanvej 66,Dronningmølle,3120,4,65,1973,892390.0,22-04-2003
+Linde Alle 21,Dronningmølle,3120,4,82,2005,930000.0,17-04-2003
+Strandgårds Vænge 6,Dronningmølle,3120,4,142,2005,2000000.0,15-04-2003
+Munkerup Strandvej 21,Dronningmølle,3120,5,58,1948,590000.0,11-04-2003
+Allikevej 37,Dronningmølle,3120,3,64,1969,770000.0,07-04-2003
+Fasanvej 28,Dronningmølle,3120,3,52,1986,785000.0,07-04-2003
+Fasanvej 2,Dronningmølle,3120,4,74,1997,1150000.0,06-04-2003
+Elme Alle 12,Dronningmølle,3120,3,75,1947,1276000.0,03-04-2003
+Munkerup Have 54,Dronningmølle,3120,5,130,1995,3417000.0,31-03-2003
+Uglevej 2,Dronningmølle,3120,7,115,1964,678000.0,30-03-2003
+Vagtelvej 31,Dronningmølle,3120,4,112,1971,935000.0,18-03-2003
+Ternevej 8,Dronningmølle,3120,4,112,1964,1100000.0,13-03-2003
+Holtesgårdvej 1,Dronningmølle,3120,5,133,1964,1535000.0,12-03-2003
+Rørsangervej 17,Dronningmølle,3120,4,72,1979,900000.0,02-03-2003
+Åsvinget 4,Dronningmølle,3120,4,69,1942,1125000.0,24-02-2003
+Blåmunkevangen 5,Dronningmølle,3120,4,125,1963,1565000.0,20-02-2003
+Strandkrogen 28,Dronningmølle,3120,3,57,1970,895000.0,17-02-2003
+Munkerup Strandvej 44,Dronningmølle,3120,5,140,1994,2218948.0,19-01-2003
+Ternevej 6,Dronningmølle,3120,2,41,1963,275258.0,01-01-2003
+Park Alle 33,Dronningmølle,3120,4,62,1961,55250.0,24-12-2002
+Højvejen 51,Dronningmølle,3120,3,50,1965,450500.0,23-12-2002
+Grøndahlsvej 6,Dronningmølle,3120,3,50,1938,705000.0,22-12-2002
+Munkerup Have 48,Dronningmølle,3120,4,127,2001,2413173.0,18-12-2002
+Slåenvangen 15,Dronningmølle,3120,3,73,1967,1100000.0,01-12-2002
+Strandkrogen 4B,Dronningmølle,3120,3,62,1986,970000.0,30-11-2002
+Blåmejsevej 26,Dronningmølle,3120,3,49,1974,544000.0,28-11-2002
+Rævebakken 28B,Dronningmølle,3120,3,51,1969,510000.0,27-11-2002
+Solsortevej 14,Dronningmølle,3120,4,76,1980,822602.0,18-11-2002
+Hejrevej 30,Dronningmølle,3120,3,68,1962,250750.0,01-11-2002
+Vagtelvej 15,Dronningmølle,3120,4,83,1986,800000.0,31-10-2002
+Villingerødvej 64,Dronningmølle,3120,5,122,1957,1375000.0,31-10-2002
+Strandhaven 11,Dronningmølle,3120,6,193,1986,4500000.0,25-10-2002
+Dr Mølle Stationsvej 14,Dronningmølle,3120,2,86,2001,1550000.0,24-10-2002
+Ørnevej 20,Dronningmølle,3120,3,70,1966,640000.0,21-10-2002
+Villingerødvej 60,Dronningmølle,3120,4,192,1900,2100000.0,21-10-2002
+Sneppevej 30,Dronningmølle,3120,3,43,1978,775000.0,08-10-2002
+Slåenvangen 34,Dronningmølle,3120,4,72,1976,1136672.0,26-09-2002
+Holtesgårdvej 10,Dronningmølle,3120,4,138,1974,1600000.0,24-09-2002
+Dr Mølle Stationsvej 44,Dronningmølle,3120,3,155,1974,1615000.0,22-09-2002
+Slåenvej 12,Dronningmølle,3120,6,197,1961,6000000.0,09-09-2002
+Højvejen 6,Dronningmølle,3120,3,88,1970,806000.0,06-09-2002
+Brombærvangen 14,Dronningmølle,3120,4,54,1964,928751.0,03-09-2002
+Munkerupvej 15,Dronningmølle,3120,3,66,1941,368300.0,02-09-2002
+Agerhønevej 28,Dronningmølle,3120,5,118,1972,895000.0,19-08-2002
+Skovduevej 69,Dronningmølle,3120,4,114,2004,650000.0,19-08-2002
+Højvejen 41,Dronningmølle,3120,3,91,1965,770000.0,05-08-2002
+Rørsangervej 6,Dronningmølle,3120,3,50,1971,710000.0,29-07-2002
+Hindsehovgården 33,Dronningmølle,3120,4,97,1992,1143533.0,26-07-2002
+Nordkrogen 6,Dronningmølle,3120,5,163,1952,4000000.0,22-07-2002
+Solsortevej 16,Dronningmølle,3120,4,50,1974,315000.0,22-07-2002
+"Dr Mølle Strandvej 568R, ST",Dronningmølle,3120,2,67,1600,1095000.0,18-07-2002
+Allikevej 22,Dronningmølle,3120,4,56,1970,735000.0,16-07-2002
+Munkerup Strandvej 61,Dronningmølle,3120,4,144,1968,1495000.0,15-07-2002
+Hejrevej 15,Dronningmølle,3120,4,81,1962,695000.0,01-07-2002
+Skovduevej 2,Dronningmølle,3120,3,93,2002,325000.0,24-06-2002
+Løvsangervej 30,Dronningmølle,3120,4,74,1971,700000.0,23-06-2002
+Poppel Alle 6,Dronningmølle,3120,3,102,1952,1250000.0,18-06-2002
+Dr Mølle Stationsvej 10,Dronningmølle,3120,2,86,2001,1380000.0,30-05-2002
+Dr Mølle Strandvej 568M,Dronningmølle,3120,2,38,1600,750000.0,29-05-2002
+Gøgevej 2,Dronningmølle,3120,4,65,1974,710000.0,13-05-2002
+Villingerødvej 43,Dronningmølle,3120,6,253,1877,2995000.0,08-05-2002
+Munkerup Have 38,Dronningmølle,3120,5,128,1979,1895000.0,06-05-2002
+Blåmejsevej 9,Dronningmølle,3120,3,57,1973,785000.0,27-04-2002
+Åsvinget 8,Dronningmølle,3120,3,87,1955,825000.0,25-04-2002
+Villingerødvej 4,Dronningmølle,3120,2,76,2004,686363.0,25-04-2002
+Uglevej 5,Dronningmølle,3120,3,48,1966,510000.0,24-04-2002
+Sneppevej 32,Dronningmølle,3120,4,62,1987,795000.0,22-04-2002
+Gøgevej 29,Dronningmølle,3120,4,64,1975,360788.0,19-04-2002
+Sneppevej 59,Dronningmølle,3120,4,90,1981,650000.0,14-04-2002
+Villingerødvej 6,Dronningmølle,3120,4,100,1982,1000000.0,03-04-2002
+Storkevej 12,Dronningmølle,3120,4,116,1967,870000.0,27-03-2002
+Blåmejsevej 8,Dronningmølle,3120,3,69,1974,654430.0,18-03-2002
+Blåmunkevangen 14,Dronningmølle,3120,2,50,1967,679712.0,12-03-2002
+Agerhønevej 20,Dronningmølle,3120,3,52,1977,725000.0,11-03-2002
+Kragevej 3,Dronningmølle,3120,4,156,1984,1850000.0,07-03-2002
+Skovvænget 1A,Dronningmølle,3120,2,38,1975,513000.0,26-02-2002
+Hejrevej 34,Dronningmølle,3120,3,118,2007,568250.0,17-02-2002
+Blåmunkevangen 18,Dronningmølle,3120,4,59,1962,690000.0,11-02-2002
+Poppel Alle 31,Dronningmølle,3120,3,110,1967,995000.0,28-01-2002
+Blåmunkevangen 11,Dronningmølle,3120,4,180,1969,1300000.0,25-01-2002
+Elme Alle 20,Dronningmølle,3120,4,103,1947,1286000.0,25-01-2002
+Munkerup Have 3,Dronningmølle,3120,4,126,1986,1825000.0,17-01-2002
+Dr Mølle Strandvej 560,Dronningmølle,3120,6,155,1912,1395000.0,14-01-2002
+Pile Alle 12,Dronningmølle,3120,3,69,1948,485000.0,08-01-2002
+Hejrevej 24,Dronningmølle,3120,3,80,1965,305999.0,07-01-2002
+Ternevej 4,Dronningmølle,3120,3,59,1964,600000.0,31-12-2001
+Dr Mølle Stationsvej 12,Dronningmølle,3120,3,95,2001,1380000.0,27-12-2001
+Løvsangervej 42,Dronningmølle,3120,3,60,1969,485000.0,15-12-2001
+Hulerødvej 28,Dronningmølle,3120,4,46,1940,405000.0,14-12-2001
+Strandkrogen 38,Dronningmølle,3120,3,68,2008,284750.0,10-12-2001
+Villingerødvej 5B,Dronningmølle,3120,3,85,1958,406000.0,08-12-2001
+Dalevænget 1,Dronningmølle,3120,4,131,1937,1272140.0,26-11-2001
+Gøgevej 32,Dronningmølle,3120,3,74,1978,275000.0,25-11-2001
+Stillidsvej 3,Dronningmølle,3120,3,35,1963,382500.0,18-11-2001
+Sneppevej 21,Dronningmølle,3120,3,50,1972,675000.0,03-11-2001
+Linde Alle 3B,Dronningmølle,3120,6,165,1960,1825000.0,02-11-2001
+Bynkevangen 15,Dronningmølle,3120,5,92,1969,695000.0,22-10-2001
+Ørnevej 1B,Dronningmølle,3120,3,61,1978,660000.0,10-10-2001
+Dalevænget 10,Dronningmølle,3120,4,40,1936,1900000.0,09-10-2001
+Rypevej 8,Dronningmølle,3120,3,50,1965,645000.0,08-10-2001
+Villingebæk Strandvej 518B,Dronningmølle,3120,3,68,1970,1820000.0,01-10-2001
+Allikevej 27,Dronningmølle,3120,4,50,1969,625000.0,04-09-2001
+Park Alle 3,Dronningmølle,3120,4,144,1961,1510000.0,27-08-2001
+Vipstjertvej 11,Dronningmølle,3120,4,66,1968,815000.0,22-08-2001
+Linde Alle 33,Dronningmølle,3120,5,72,1950,270000.0,22-08-2001
+Ny-Ager 42,Dronningmølle,3120,4,67,1987,775000.0,20-08-2001
+Dr Mølle Strandvej 552F,Dronningmølle,3120,2,71,1890,740000.0,15-08-2001
+Blåmejsevej 43,Dronningmølle,3120,4,102,1999,998000.0,06-08-2001
+Vipstjertvej 2,Dronningmølle,3120,4,108,1965,544694.0,29-07-2001
+Linde Alle 39,Dronningmølle,3120,7,68,1945,660000.0,26-07-2001
+Brombærvangen 11,Dronningmølle,3120,3,69,1962,580000.0,18-07-2001
+Agerhønevej 12,Dronningmølle,3120,3,57,1972,685000.0,13-07-2001
+Strandkrogen 12,Dronningmølle,3120,4,94,1973,1050000.0,10-07-2001
+Lærkevej 4,Dronningmølle,3120,5,95,2000,1600000.0,26-06-2001
+Villingerødvej 67B,Dronningmølle,3120,7,213,1900,709947.0,17-06-2001
+Birke Alle 8,Dronningmølle,3120,3,64,1950,650000.0,15-06-2001
+Musvågevej 29,Dronningmølle,3120,6,120,1967,944085.0,06-06-2001
+Villingerødvej 12,Dronningmølle,3120,4,145,2005,470000.0,01-06-2001
+Pile Alle 18,Dronningmølle,3120,4,93,2002,480000.0,29-05-2001
+Ny-Ager 16,Dronningmølle,3120,6,152,1994,400000.0,27-05-2001
+Fasanvej 1,Dronningmølle,3120,4,119,1980,995278.0,21-05-2001
+Ternevej 7,Dronningmølle,3120,6,87,1963,560200.0,15-05-2001
+Højvejen 9,Dronningmølle,3120,3,72,1966,1309225.0,15-05-2001
+Dr Mølle Strandvej 568C,Dronningmølle,3120,3,60,1600,795593.0,14-05-2001
+"Dr Mølle Strandvej 568R, 2",Dronningmølle,3120,1,71,1600,715000.0,09-05-2001
+Hejrevej 4B,Dronningmølle,3120,4,56,1946,850000.0,02-05-2001
+Hellebjergvej 25A,Dronningmølle,3120,5,137,1777,1475542.0,01-05-2001
+Holtesgårdvej 7,Dronningmølle,3120,5,107,1965,1100143.0,01-05-2001
+Dr Mølle Strandvej 568T,Dronningmølle,3120,2,46,1600,740000.0,26-04-2001
+Blåmejsevej 3,Dronningmølle,3120,4,67,1977,750000.0,16-04-2001
+Kærsangervej 6,Dronningmølle,3120,3,42,1967,365500.0,16-04-2001
+Vænget 10,Dronningmølle,3120,4,93,1977,822528.0,08-04-2001
+Løvsangervej 2,Dronningmølle,3120,4,95,2002,692000.0,06-04-2001
+Munkerup Have 9,Dronningmølle,3120,3,160,2007,350000.0,01-04-2001
+Højvejen 15,Dronningmølle,3120,3,55,1995,753120.0,26-03-2001
+Solsortevej 15,Dronningmølle,3120,4,68,1969,514388.0,21-03-2001
+Musvågevej 21,Dronningmølle,3120,4,63,1967,434000.0,12-03-2001
+Strandkrogen 2B. 2,Dronningmølle,3120,4,98,1992,1600000.0,08-03-2001
+Blåmunkevej 14,Dronningmølle,3120,3,120,2012,215000.0,05-03-2001
+Munkerup Have 1,Dronningmølle,3120,4,136,1986,1694844.0,08-02-2001
+Gøgevej 1,Dronningmølle,3120,3,51,1974,550000.0,06-02-2001
+Munkerupvej 17,Dronningmølle,3120,7,103,1942,2131000.0,22-01-2001
+Skovduevej 43,Dronningmølle,3120,3,50,1980,618844.0,08-01-2001
+Villingerødvej 10,Dronningmølle,3120,3,89,1954,1079000.0,23-12-2000
+Skovduevej 57,Dronningmølle,3120,6,91,1974,620000.0,13-12-2000
+Villingerødvej 39,Dronningmølle,3120,4,67,1974,652137.0,05-12-2000
+Hindsehovgården 5,Dronningmølle,3120,4,93,1992,930000.0,22-11-2000
+Skovduevej 19,Dronningmølle,3120,6,107,1978,630000.0,13-11-2000
+Bogfinkevej 3,Dronningmølle,3120,3,62,1969,591000.0,31-10-2000
+Nordkrogen 1,Dronningmølle,3120,3,63,1951,3000000.0,24-10-2000
+Blåmejsevej 30,Dronningmølle,3120,3,62,1975,830000.0,16-10-2000
+Munkerup Strandvej 4C,Dronningmølle,3120,3,90,1977,973000.0,11-10-2000
+Dr Mølle Strandvej 552E,Dronningmølle,3120,3,114,1890,875000.0,02-10-2000
+Rypevej 14,Dronningmølle,3120,3,50,1969,640000.0,28-09-2000
+Blåmunkevangen 21,Dronningmølle,3120,3,61,1964,439718.0,16-09-2000
+Bogfinkevej 7,Dronningmølle,3120,3,76,1970,712854.0,05-09-2000
+Firhøjvej 7,Dronningmølle,3120,4,95,1953,935000.0,02-09-2000
+Rørsangervej 3,Dronningmølle,3120,3,50,1965,612143.0,30-08-2000
+Slåenvangen 43,Dronningmølle,3120,3,70,1973,575000.0,29-08-2000
+Pandehavevej 12,Dronningmølle,3120,4,125,2010,285000.0,21-08-2000
+Slåenvangen 22,Dronningmølle,3120,3,50,1969,660000.0,16-08-2000
+Fasanvej 40,Dronningmølle,3120,3,42,1986,752640.0,07-08-2000
+Højvejen 42,Dronningmølle,3120,4,68,1974,778000.0,01-08-2000
+Vipstjertvej 14,Dronningmølle,3120,5,102,1965,545000.0,28-07-2000
+Villingebæk Strandvej 625B,Dronningmølle,3120,3,92,1967,970000.0,28-07-2000
+Hindsehovgården 2,Dronningmølle,3120,4,97,1991,980000.0,26-07-2000
+Slåenvangen 6A,Dronningmølle,3120,4,112,1966,1095000.0,20-07-2000
+Rævebakken 9,Dronningmølle,3120,4,96,2001,325000.0,17-07-2000
+Strandkrogen 21,Dronningmølle,3120,4,113,1973,1325000.0,11-07-2000
+Rørsangervej 13,Dronningmølle,3120,4,120,2002,650000.0,06-07-2000
+Slåenvangen 46,Dronningmølle,3120,4,119,2000,1738000.0,04-07-2000
+Linde Alle 31,Dronningmølle,3120,5,141,1950,769857.0,04-07-2000
+Dr Mølle Strandvej 568K,Dronningmølle,3120,3,89,1600,995045.0,30-06-2000
+Strandkrogen 24,Dronningmølle,3120,4,80,2005,60000.0,22-06-2000
+Ny-Ager 34,Dronningmølle,3120,3,49,1969,575000.0,22-06-2000
+Ny-Ager 37,Dronningmølle,3120,2,30,1980,235000.0,19-06-2000
+Ny-Ager 20,Dronningmølle,3120,4,75,1971,706081.0,13-06-2000
+Pandehavevej 23,Dronningmølle,3120,3,91,2010,160000.0,12-06-2000
+Vagtelvej 11,Dronningmølle,3120,3,67,1971,800000.0,12-06-2000
+Poppel Alle 24,Dronningmølle,3120,4,42,1937,650000.0,12-06-2000
+Rævebakken 10A,Dronningmølle,3120,6,277,1872,1613662.0,09-06-2000
+Pandehavevej 11,Dronningmølle,3120,4,111,1942,805882.0,08-06-2000
+Pile Alle 3,Dronningmølle,3120,6,146,1960,836000.0,31-05-2000
+Pandehavevej 25,Dronningmølle,3120,1,22,2004,125000.0,30-05-2000
+Tornsangervej 6,Dronningmølle,3120,4,87,1967,507000.0,29-05-2000
+Blåmejsevej 55,Dronningmølle,3120,3,88,1996,1437274.0,15-05-2000
+Linde Alle 37,Dronningmølle,3120,2,64,1951,761100.0,12-05-2000
+Grøndahlsvej 1A,Dronningmølle,3120,7,127,1935,2200000.0,04-05-2000
+Blåmunkevangen 19,Dronningmølle,3120,6,100,1964,297500.0,30-04-2000
+Munkerupvej 4,Dronningmølle,3120,4,101,1952,1150000.0,29-04-2000
+Rypevej 1,Dronningmølle,3120,4,112,1972,1009410.0,14-04-2000
+Strandkrogen 80,Dronningmølle,3120,4,74,1978,820000.0,03-04-2000
+Gøgevej 22,Dronningmølle,3120,3,47,1973,530000.0,30-03-2000
+Bogfinkevej 11,Dronningmølle,3120,4,73,1969,399500.0,27-03-2000
+Munkerup Have 70,Dronningmølle,3120,4,126,1880,1555000.0,24-03-2000
+Brombærvangen 19,Dronningmølle,3120,3,43,1960,550000.0,13-03-2000
+Park Alle 31,Dronningmølle,3120,7,87,1962,480000.0,13-03-2000
+Ny-Ager 7,Dronningmølle,3120,4,60,1969,665000.0,13-03-2000
+Vestervang 3,Dronningmølle,3120,3,50,1955,272000.0,28-02-2000
+Munkerup Have 66,Dronningmølle,3120,5,128,1979,1560748.0,23-02-2000
+Birke Alle 3,Dronningmølle,3120,7,133,1956,850000.0,07-02-2000
+Rævebakken 16,Dronningmølle,3120,3,48,1967,175000.0,16-01-2000
+Strandkrogen 11,Dronningmølle,3120,4,61,1969,500000.0,13-01-2000
+Pandehavevej 43,Dronningmølle,3120,3,82,1917,1800000.0,28-12-1999
+Pile Alle 7,Dronningmølle,3120,5,129,1998,1237500.0,25-12-1999
+Pandehavevej 19,Dronningmølle,3120,3,37,1949,370000.0,22-12-1999
+Bogfinkevej 16,Dronningmølle,3120,3,64,1974,701674.0,15-12-1999
+Villingebæk Strandvej 522A,Dronningmølle,3120,4,77,1970,2300000.0,09-12-1999
+Rævebakken 22,Dronningmølle,3120,3,81,1967,695594.0,09-11-1999
+Gøgevej 51,Dronningmølle,3120,3,42,1985,300000.0,28-10-1999
+Hørvangen 23,Dronningmølle,3120,4,82,1966,485000.0,05-10-1999
+Hellebjergvej 6,Dronningmølle,3120,7,233,1897,1143190.0,30-09-1999
+Munkerup Strandvej 4B,Dronningmølle,3120,3,90,1977,940435.0,26-09-1999
+Rævebakken 17A,Dronningmølle,3120,5,207,1961,396154.0,14-09-1999
+Dalehøjvej 9B,Dronningmølle,3120,3,64,1939,625000.0,30-08-1999
+Allikevej 17,Dronningmølle,3120,3,49,1969,522236.0,28-08-1999
+Møllemarken 14,Dronningmølle,3120,7,164,2001,1020000.0,28-08-1999
+Blåmunkevangen 1,Dronningmølle,3120,4,103,1968,1350000.0,22-08-1999
+Kragevej 4,Dronningmølle,3120,6,151,1997,2000000.0,19-08-1999
+Dalehøjvej 6,Dronningmølle,3120,3,66,1950,360724.0,04-08-1999
+Slåenvangen 40,Dronningmølle,3120,3,71,1969,725820.0,31-07-1999
+Munkerup Strandvej 17,Dronningmølle,3120,3,70,1930,590000.0,26-07-1999
+Højvejen 18,Dronningmølle,3120,5,106,1965,561639.0,12-07-1999
+Villingebæk Strandvej 534,Dronningmølle,3120,3,53,1949,1650000.0,30-06-1999
+Solsortevej 10,Dronningmølle,3120,3,52,1972,597000.0,18-06-1999
+Hulerødvej 19,Dronningmølle,3120,4,118,1968,2425000.0,14-06-1999
+Rågevej 2,Dronningmølle,3120,3,124,1969,1290500.0,12-06-1999
+Spættevej 1,Dronningmølle,3120,3,108,1971,1035000.0,04-06-1999
+Blåmunkevej 16,Dronningmølle,3120,2,54,1987,395000.0,29-05-1999
+Hejrevej 6,Dronningmølle,3120,4,64,2000,250000.0,28-05-1999
+Hindsehovgården 20,Dronningmølle,3120,4,97,1992,997039.0,26-05-1999
+Gøgevej 42,Dronningmølle,3120,4,57,1985,501307.0,16-05-1999
+Linde Alle 30,Dronningmølle,3120,4,51,1947,413370.0,13-05-1999
+Villingebæk Strandvej 579B,Dronningmølle,3120,6,154,1827,2600000.0,12-05-1999
+Brombærvangen 3,Dronningmølle,3120,3,39,1963,617000.0,09-05-1999
+Birke Alle 24,Dronningmølle,3120,3,64,1969,620000.0,05-05-1999
+Munkerup Strandvej 36,Dronningmølle,3120,8,215,1951,1401572.0,03-05-1999
+Munkerup Strandvej 40,Dronningmølle,3120,5,172,1912,1018110.0,28-04-1999
+Dr Mølle Strandvej 552B,Dronningmølle,3120,2,49,1890,495000.0,20-04-1999
+Hejrevej 28,Dronningmølle,3120,3,57,1972,670000.0,19-04-1999
+Dr Mølle Strandvej 552D,Dronningmølle,3120,3,94,1890,650000.0,08-04-1999
+Slåenvangen 5,Dronningmølle,3120,6,146,1972,1376000.0,08-03-1999
+"Dr Mølle Strandvej 568D, 1. TV",Dronningmølle,3120,2,45,1600,420000.0,09-02-1999
+Løvsangervej 44,Dronningmølle,3120,4,102,2003,97100.0,21-01-1999
+Rødstjertvej 8,Dronningmølle,3120,3,66,1969,400000.0,16-01-1999
+Agerhønevej 15,Dronningmølle,3120,4,65,1972,370000.0,15-01-1999
+Birke Alle 19,Dronningmølle,3120,3,133,1958,690000.0,04-01-1999
+Birke Alle 21,Dronningmølle,3120,4,120,1957,640000.0,04-01-1999
+Højvejen 45,Dronningmølle,3120,4,97,1972,800000.0,21-12-1998
+Agerhønevej 4,Dronningmølle,3120,3,61,1970,306000.0,07-12-1998
+Løvsangervej 7,Dronningmølle,3120,3,54,1969,583384.0,03-12-1998
+Blåmejsevej 47,Dronningmølle,3120,2,52,2011,120000.0,23-11-1998
+Linde Alle 12,Dronningmølle,3120,5,105,1952,612500.0,08-11-1998
+Slåenvangen 39,Dronningmølle,3120,5,132,2007,1157140.0,01-10-1998
+Villingebæk Strandvej 522C,Dronningmølle,3120,4,121,1987,713613.0,14-09-1998
+Hulerødvej 8B,Dronningmølle,3120,5,169,1997,412916.0,09-09-1998
+Strandhaven 7,Dronningmølle,3120,3,57,1968,862880.0,08-09-1998
+Rævebakken 36A,Dronningmølle,3120,5,105,1974,880583.0,07-09-1998
+Brombærvangen 12,Dronningmølle,3120,3,74,1961,385000.0,07-09-1998
+Dr Mølle Strandvej 548,Dronningmølle,3120,4,70,1955,710000.0,25-08-1998
+Hindsehovgården 9,Dronningmølle,3120,4,93,1992,986000.0,24-08-1998
+Blåmejsevej 49,Dronningmølle,3120,4,67,1974,617889.0,19-08-1998
+Åsvinget 36,Dronningmølle,3120,3,78,1947,496560.0,17-08-1998
+Brombærvangen 4,Dronningmølle,3120,4,78,1978,757640.0,14-08-1998
+Blåmejsevej 28,Dronningmølle,3120,4,75,1979,703000.0,12-08-1998
+Villingebæk Strandvej 627,Dronningmølle,3120,5,130,1915,1590525.0,10-08-1998
+Holtesgårdvej 5,Dronningmølle,3120,4,146,1964,1128720.0,10-08-1998
+Storkevej 9,Dronningmølle,3120,2,50,1966,544500.0,27-07-1998
+Villingebæk Strandvej 577,Dronningmølle,3120,5,115,1927,1100000.0,21-07-1998
+Birke Alle 10,Dronningmølle,3120,3,65,1957,400000.0,19-07-1998
+Fasanvej 48,Dronningmølle,3120,3,95,2000,160000.0,10-07-1998
+Slåenvangen 21,Dronningmølle,3120,2,34,1962,361520.0,24-06-1998
+Hejrevej 20,Dronningmølle,3120,4,85,1973,450733.0,22-06-1998
+Agerhønevej 3,Dronningmølle,3120,4,63,1980,660400.0,15-06-1998
+Agerhønevej 24,Dronningmølle,3120,4,61,1971,562000.0,15-06-1998
+Tornsangervej 5,Dronningmølle,3120,6,86,1966,660000.0,15-06-1998
+Løvsangervej 36,Dronningmølle,3120,3,58,1973,425000.0,07-06-1998
+Hindsehovgården 1,Dronningmølle,3120,4,97,1991,680000.0,03-06-1998
+Hindsehovgården 7,Dronningmølle,3120,4,93,1992,660000.0,03-06-1998
+Hindsehovgården 6,Dronningmølle,3120,4,93,1992,670000.0,03-06-1998
+Hindsehovgården 13,Dronningmølle,3120,4,97,1991,680000.0,03-06-1998
+Hindsehovgården 18,Dronningmølle,3120,4,93,1991,640000.0,03-06-1998
+Hindsehovgården 19,Dronningmølle,3120,4,93,1992,640000.0,03-06-1998
+Uglevej 1,Dronningmølle,3120,3,112,2004,125000.0,30-05-1998
+Sneppevej 23,Dronningmølle,3120,3,115,2000,150000.0,17-05-1998
+Gøgevej 17,Dronningmølle,3120,5,107,1975,715680.0,09-05-1998
+Tranevej 5,Dronningmølle,3120,3,90,1967,922300.0,29-04-1998
+Strandkrogen 4A,Dronningmølle,3120,3,80,1973,666000.0,20-04-1998
+Drosselvej 8,Dronningmølle,3120,6,113,1974,667000.0,10-04-1998
+Agerhønevej 17,Dronningmølle,3120,2,55,1969,453000.0,09-04-1998
+Musvågevej 43,Dronningmølle,3120,3,104,1985,638000.0,05-04-1998
+Slåenvangen 18,Dronningmølle,3120,5,176,1971,1195575.0,01-04-1998
+Blåmunkevangen 6,Dronningmølle,3120,4,119,1974,997289.0,31-03-1998
+Rypevej 7,Dronningmølle,3120,4,108,1966,817000.0,30-03-1998
+Munkerup Have 52,Dronningmølle,3120,5,130,1995,1990000.0,15-03-1998
+Strandgårds Vænge 3,Dronningmølle,3120,4,80,1976,850000.0,07-03-1998
+Pile Alle 6,Dronningmølle,3120,5,111,1998,300000.0,04-03-1998
+Drosselvej 22,Dronningmølle,3120,3,61,1969,491240.0,18-02-1998
+Hejrevej 14,Dronningmølle,3120,5,85,1978,624015.0,16-02-1998
+Blåmunkevangen 4,Dronningmølle,3120,4,114,1965,959000.0,09-02-1998
+Lærkevej 13,Dronningmølle,3120,2,45,1965,260000.0,09-02-1998
+Løvsangervej 46,Dronningmølle,3120,3,45,1998,325000.0,09-02-1998
+Hejrevej 13,Dronningmølle,3120,4,68,1963,123003.0,26-01-1998
+Løvsangervej 11,Dronningmølle,3120,6,119,1972,637895.0,26-01-1998
+Bekkasinvænget 2,Dronningmølle,3120,4,107,1960,360943.0,26-01-1998
+Kragevej 5,Dronningmølle,3120,4,142,1969,860000.0,16-12-1997
+Sneppevej 50,Dronningmølle,3120,4,85,1998,150000.0,08-12-1997
+Munkerup Strandvej 39A,Dronningmølle,3120,4,124,1997,1354882.0,25-11-1997
+Gøgevej 43,Dronningmølle,3120,4,94,1999,100000.0,10-11-1997
+Hulerødvej 13,Dronningmølle,3120,4,57,1961,565000.0,06-11-1997
+Fasanvej 53,Dronningmølle,3120,4,85,2011,650000.0,03-11-1997
+Strandkrogen 56,Dronningmølle,3120,5,75,1969,610000.0,20-10-1997
+Bogfinkevej 13,Dronningmølle,3120,5,100,1970,475900.0,18-10-1997
+Tornsangervej 8,Dronningmølle,3120,4,71,1971,250000.0,15-10-1997
+Blåmunkevangen 15,Dronningmølle,3120,4,73,1971,390000.0,29-09-1997
+Elme Alle 27,Dronningmølle,3120,4,100,1947,765000.0,29-09-1997
+Pile Alle 20,Dronningmølle,3120,4,66,1992,793636.0,23-09-1997
+Møllemarken 5,Dronningmølle,3120,5,132,1959,750000.0,22-09-1997
+Skovduevej 44,Dronningmølle,3120,3,81,1998,85000.0,03-09-1997
+Slåenvangen 25,Dronningmølle,3120,3,56,1969,437145.0,01-09-1997
+Skovduevej 38,Dronningmølle,3120,4,97,1973,472605.0,25-08-1997
+Tårnfalkevej 8,Dronningmølle,3120,4,140,1999,150000.0,23-08-1997
+Munkerup Strandvej 39B,Dronningmølle,3120,4,124,1997,1318000.0,18-08-1997
+Skovvænget 10,Dronningmølle,3120,5,80,1950,337200.0,14-08-1997
+Hejrevej 5,Dronningmølle,3120,3,68,2001,521947.0,11-08-1997
+Agerhønevej 19,Dronningmølle,3120,3,121,1976,382840.0,07-08-1997
+Blåmejsevej 11,Dronningmølle,3120,3,57,1997,120000.0,21-07-1997
+Park Alle 4,Dronningmølle,3120,4,81,1987,854000.0,12-07-1997
+Vestervang 2,Dronningmølle,3120,6,107,1955,680000.0,10-07-1997
+Sneppevej 37,Dronningmølle,3120,2,40,1971,348000.0,10-07-1997
+Vagtelvej 17,Dronningmølle,3120,3,35,1985,265000.0,10-07-1997
+Højvejen 44,Dronningmølle,3120,4,86,1964,335000.0,30-06-1997
+Skovduevej 64,Dronningmølle,3120,3,103,2005,75000.0,22-06-1997
+Blåmejsevej 12,Dronningmølle,3120,1,42,1985,276000.0,20-06-1997
+Slåenvangen 13,Dronningmølle,3120,3,37,1963,277000.0,15-06-1997
+Ny-Ager 35,Dronningmølle,3120,5,94,1980,621960.0,15-06-1997
+Munkerup Strandvej 43B,Dronningmølle,3120,4,125,1981,710000.0,09-06-1997
+Hejrevej 26,Dronningmølle,3120,4,119,2002,358005.0,09-06-1997
+Elme Alle 14,Dronningmølle,3120,3,123,1947,684752.0,25-05-1997
+Smedevej 10,Dronningmølle,3120,5,168,1934,550000.0,19-05-1997
+Villingebæk Strandvej 530,Dronningmølle,3120,5,102,1777,1748000.0,19-05-1997
+Bogfinkevej 12,Dronningmølle,3120,4,70,1987,707260.0,13-05-1997
+Drosselvej 31,Dronningmølle,3120,3,65,1969,443000.0,11-05-1997
+Agerhønevej 7,Dronningmølle,3120,4,97,1972,179644.0,06-05-1997
+Dr Mølle Strandvej 657,Dronningmølle,3120,5,163,1932,1325000.0,29-04-1997
+Fasanvej 57,Dronningmølle,3120,4,67,1974,455795.0,14-04-1997
+Munkerup Have 34,Dronningmølle,3120,5,128,1979,1194000.0,01-04-1997
+Blåmejsevej 42,Dronningmølle,3120,3,57,1995,587000.0,21-03-1997
+Sneppevej 15,Dronningmølle,3120,3,64,1978,621000.0,20-03-1997
+Ørnevej 3,Dronningmølle,3120,5,107,2007,425000.0,26-02-1997
+Skovduevej 15,Dronningmølle,3120,4,84,1998,90000.0,20-02-1997
+Sneppevej 10,Dronningmølle,3120,3,71,1998,87500.0,20-02-1997
+Højvejen 36,Dronningmølle,3120,4,111,1969,548000.0,15-02-1997
+Vagtelvej 25,Dronningmølle,3120,4,83,1997,250000.0,06-02-1997
+Skovduevej 36,Dronningmølle,3120,3,35,1985,265563.0,05-02-1997
+Rypevej 12,Dronningmølle,3120,4,73,1966,423445.0,01-01-1997
+Strandkrogen 78,Dronningmølle,3120,4,55,1942,175000.0,27-12-1996
+Musvågevej 49,Dronningmølle,3120,5,87,1987,576000.0,11-12-1996
+Munkerupvej 7B,Dronningmølle,3120,4,53,1940,451850.0,09-12-1996
+Kragevej 6,Dronningmølle,3120,5,122,1991,915907.0,05-12-1996
+Pile Alle 22,Dronningmølle,3120,3,88,1955,255533.0,26-11-1996
+Linde Alle 13,Dronningmølle,3120,4,122,1954,376625.0,21-11-1996
+Birke Alle 13,Dronningmølle,3120,3,73,1959,70000.0,11-11-1996
+Munkerup Strandvej 76,Dronningmølle,3120,3,142,1997,125000.0,28-10-1996
+Sanglærkevej 15,Dronningmølle,3120,4,68,1964,365040.0,15-10-1996
+Munkerup Have 13,Dronningmølle,3120,4,170,2012,180000.0,14-10-1996
+Park Alle 10,Dronningmølle,3120,3,100,1965,560000.0,11-10-1996
+Ørnevej 13,Dronningmølle,3120,3,43,1967,323000.0,20-09-1996
+Skovduevej 6,Dronningmølle,3120,4,78,1975,585000.0,15-09-1996
+Villingebæk Strandvej 635,Dronningmølle,3120,7,190,1946,546000.0,15-09-1996
+Munkerup Have 25,Dronningmølle,3120,5,147,1986,1165000.0,01-09-1996
+Sneppevej 34,Dronningmølle,3120,4,94,1997,80000.0,23-08-1996
+Strandkrogen 50,Dronningmølle,3120,2,79,1972,570000.0,12-08-1996
+Bekkasinvænget 11,Dronningmølle,3120,3,128,2007,265000.0,07-08-1996
+Agerhønevej 13,Dronningmølle,3120,4,93,1971,605690.0,04-08-1996
+Vestervang 11,Dronningmølle,3120,7,171,1954,797575.0,19-07-1996
+Musvågevej 35,Dronningmølle,3120,3,131,1967,384000.0,04-07-1996
+Munkerup Strandvej 8,Dronningmølle,3120,4,81,1960,374000.0,24-06-1996
+Tornsangervej 1,Dronningmølle,3120,5,89,1969,421700.0,20-06-1996
+Skovduevej 47,Dronningmølle,3120,4,120,2000,85000.0,10-06-1996
+Bakkevangen 14,Dronningmølle,3120,4,66,1946,700000.0,20-05-1996
+Poppel Alle 18B,Dronningmølle,3120,4,66,1966,375000.0,15-05-1996
+Linde Alle 25,Dronningmølle,3120,5,83,1975,481400.0,13-05-1996
+Birke Alle 9B,Dronningmølle,3120,4,94,1956,385000.0,06-05-1996
+Hejrevej 19,Dronningmølle,3120,4,115,1968,475000.0,30-04-1996
+Dalehøjvej 13,Dronningmølle,3120,3,62,1956,336000.0,15-04-1996
+Musvågevej 13,Dronningmølle,3120,3,40,1959,215000.0,08-04-1996
+Højvejen 12,Dronningmølle,3120,4,84,2008,237500.0,20-03-1996
+Linde Alle 16,Dronningmølle,3120,3,33,1957,170000.0,20-03-1996
+Agerhønevej 9,Dronningmølle,3120,4,66,1970,432000.0,15-03-1996
+Linde Alle 43,Dronningmølle,3120,4,118,1967,300000.0,26-02-1996
+Tårnfalkevej 7,Dronningmølle,3120,6,109,1968,275000.0,23-02-1996
+Birke Alle 31,Dronningmølle,3120,5,97,1996,180000.0,18-02-1996
+Holtesgårdvej 13,Dronningmølle,3120,3,100,1965,695000.0,17-02-1996
+Agerhønevej 1,Dronningmølle,3120,5,81,1972,495000.0,08-02-1996
+Firhøjvej 4A,Dronningmølle,3120,4,103,1936,485000.0,05-02-1996
+Dr Mølle Strandvej 645A,Dronningmølle,3120,7,220,1958,670000.0,02-02-1996
+Museumsvej 15,Dronningmølle,3120,4,133,1790,115022.0,21-01-1996
+Munkerup Have 11,Dronningmølle,3120,6,166,2009,281930.0,09-01-1996
+Musvågevej 1,Dronningmølle,3120,4,150,2000,90000.0,11-12-1995
+Rågevej 1,Dronningmølle,3120,3,110,1966,612960.0,11-12-1995
+Linde Alle 5,Dronningmølle,3120,3,84,1949,684000.0,14-11-1995
+Munkerup Strandvej 28,Dronningmølle,3120,4,138,1862,625000.0,26-10-1995
+Skovvænget 4,Dronningmølle,3120,4,80,1941,356000.0,01-10-1995
+Villingebæk Strandvej 639,Dronningmølle,3120,3,90,1950,605800.0,11-09-1995
+Firhøjvej 3,Dronningmølle,3120,3,93,1955,382500.0,18-08-1995
+Linde Alle 2,Dronningmølle,3120,5,90,1955,163630.0,10-08-1995
+Elme Alle 18,Dronningmølle,3120,5,130,1946,520000.0,01-08-1995
+Poppel Alle 9,Dronningmølle,3120,4,87,1977,289050.0,28-07-1995
+Holtesgårdvej 14,Dronningmølle,3120,4,105,1961,478200.0,25-07-1995
+Munkerup Strandvej 47,Dronningmølle,3120,4,80,1936,490000.0,24-07-1995
+Solsortevej 12,Dronningmølle,3120,3,47,1974,325000.0,26-06-1995
+Bakkevangen 10,Dronningmølle,3120,4,62,1928,440000.0,13-06-1995
+Munkerup Strandvej 5,Dronningmølle,3120,2,77,1996,150000.0,29-05-1995
+Sneppevej 57,Dronningmølle,3120,3,50,1973,267400.0,26-05-1995
+Ibisvej 5,Dronningmølle,3120,3,55,1964,229500.0,18-05-1995
+Kærsangervej 1,Dronningmølle,3120,3,55,1974,305000.0,17-05-1995
+Spurvevænget 9,Dronningmølle,3120,4,64,1996,100000.0,15-05-1995
+Ny-Ager 11,Dronningmølle,3120,1,50,1974,315000.0,15-05-1995
+Park Alle 15C,Dronningmølle,3120,3,48,1975,310000.0,01-05-1995
+Nordkrogen 2,Dronningmølle,3120,4,53,1955,490000.0,17-04-1995
+Vagtelvej 21,Dronningmølle,3120,4,82,1971,310000.0,24-03-1995
+Dalevænget 16,Dronningmølle,3120,4,82,1960,305000.0,14-03-1995
+Dr Mølle Strandvej 562,Dronningmølle,3120,4,94,1910,522200.0,08-03-1995
+Rypevej 6,Dronningmølle,3120,4,95,1972,269000.0,15-02-1995
+Slåenvangen 17,Dronningmølle,3120,4,136,1969,614000.0,06-02-1995
+Ny-Ager 17,Dronningmølle,3120,3,82,1971,390000.0,06-02-1995
+Blåmejsevej 45,Dronningmølle,3120,6,119,1991,570000.0,23-01-1995
+Bogfinkevej 4,Dronningmølle,3120,3,70,1970,250000.0,09-01-1995
+Linde Alle 35,Dronningmølle,3120,6,109,2005,282500.0,30-12-1994
+Hulerødvej 10,Dronningmølle,3120,4,133,1950,437000.0,13-12-1994
+Villingerødvej 3,Dronningmølle,3120,1,53,1949,160000.0,29-11-1994
+Allikevej 3,Dronningmølle,3120,3,51,1980,264272.0,21-11-1994
+Birke Alle 12,Dronningmølle,3120,3,70,1947,350000.0,21-10-1994
+Munkerup Strandvej 6,Dronningmølle,3120,4,134,1973,694570.0,14-10-1994
+Linde Alle 15,Dronningmølle,3120,4,71,1955,295000.0,02-10-1994
+Linde Alle 7,Dronningmølle,3120,9,206,1959,625000.0,27-09-1994
+Munkerup Strandvej 55A,Dronningmølle,3120,5,140,1960,550000.0,19-09-1994
+Munkerup Have 32,Dronningmølle,3120,5,128,1979,377500.0,19-09-1994
+Lærkevej 1,Dronningmølle,3120,4,82,1963,420000.0,16-09-1994
+Kammerrådensvej 3,Dronningmølle,3120,7,205,1937,2130000.0,04-09-1994
+Pandehavevej 35,Dronningmølle,3120,4,66,1986,122000.0,02-09-1994
+Slåenvangen 50,Dronningmølle,3120,4,114,1966,360000.0,22-08-1994
+Sneppevej 41,Dronningmølle,3120,3,60,1971,393000.0,22-08-1994
+Fasanvej 17,Dronningmølle,3120,3,49,1978,373308.0,16-08-1994
+Allikevej 18,Dronningmølle,3120,4,94,1975,330000.0,12-08-1994
+Birke Alle 2,Dronningmølle,3120,3,63,2009,225000.0,29-07-1994
+Munkerup Have 27,Dronningmølle,3120,4,152,1987,905000.0,20-07-1994
+Birke Alle 6,Dronningmølle,3120,4,70,1961,277130.0,15-07-1994
+Vænget 9,Dronningmølle,3120,3,60,1970,300000.0,14-07-1994
+Villingerødvej 23,Dronningmølle,3120,3,70,1972,370000.0,07-07-1994
+Kærsangervej 14,Dronningmølle,3120,3,48,1970,400000.0,08-06-1994
+Pandehavevej 37,Dronningmølle,3120,2,48,1942,187000.0,06-06-1994
+Munkerup Have 40,Dronningmølle,3120,5,128,1979,881200.0,03-06-1994
+Villingebæk Strandvej 607A,Dronningmølle,3120,6,125,1880,390000.0,23-05-1994
+Skovvænget 9,Dronningmølle,3120,4,58,1937,365000.0,18-05-1994
+Hørvangen 7,Dronningmølle,3120,4,105,1972,328000.0,09-05-1994
+Slåenvej 10,Dronningmølle,3120,4,123,1996,820000.0,08-05-1994
+Gøgevej 19,Dronningmølle,3120,3,50,1979,320000.0,03-05-1994
+Sneppevej 53,Dronningmølle,3120,6,110,1979,381000.0,15-04-1994
+Munkerup Strandvej 83,Dronningmølle,3120,6,108,1950,667655.0,11-04-1994
+Strandgårds Vænge 5,Dronningmølle,3120,4,92,2006,499000.0,06-04-1994
+Villingerødvej 31,Dronningmølle,3120,4,105,1789,1083637.0,17-03-1994
+Skovvænget 8,Dronningmølle,3120,3,28,1959,228000.0,05-03-1994
+Blåmunkevangen 9,Dronningmølle,3120,5,142,1965,127137.0,14-02-1994
+Ibisvej 26,Dronningmølle,3120,5,123,1967,525000.0,10-02-1994
+Vagtelvej 5,Dronningmølle,3120,4,99,1969,415000.0,07-01-1994
+Elme Alle 11,Dronningmølle,3120,6,163,1947,100000.0,03-01-1994
+Højvejen 29,Dronningmølle,3120,4,110,1974,199750.0,30-12-1993
+Lærkevej 15,Dronningmølle,3120,3,65,1969,248000.0,22-12-1993
+Højvejen 14,Dronningmølle,3120,5,119,1974,393690.0,29-11-1993
+Drosselvej 10,Dronningmølle,3120,4,100,1970,250000.0,23-11-1993
+Højvejen 40,Dronningmølle,3120,2,70,1964,360000.0,08-11-1993
+Drosselvej 27,Dronningmølle,3120,4,104,1980,195500.0,25-10-1993
+Linde Alle 38,Dronningmølle,3120,3,60,1962,270760.0,18-10-1993
+Dr Mølle Strandvej 673A,Dronningmølle,3120,3,51,1959,236750.0,20-09-1993
+Blåmunkevangen 39,Dronningmølle,3120,4,77,1986,495000.0,01-09-1993
+Strandhaven 9,Dronningmølle,3120,4,84,1960,588000.0,29-08-1993
+Vænget 4,Dronningmølle,3120,4,67,1994,70000.0,16-08-1993
+Ny-Ager 19,Dronningmølle,3120,6,100,1996,110000.0,02-08-1993
+Ny-Ager 5,Dronningmølle,3120,3,61,1971,300000.0,13-07-1993
+Poppel Alle 13,Dronningmølle,3120,3,61,2014,155000.0,08-07-1993
+Hellebjergvej 3,Dronningmølle,3120,4,167,1890,510000.0,01-07-1993
+Kammerrådensvej 2,Dronningmølle,3120,4,116,1935,850000.0,23-06-1993
+Åsvinget 11,Dronningmølle,3120,3,60,1962,200000.0,21-06-1993
+Villingerødvej 52,Dronningmølle,3120,8,185,1940,2040000.0,18-06-1993
+Villingerødvej 25,Dronningmølle,3120,7,229,1875,292625.0,10-06-1993
+Slåenvangen 48,Dronningmølle,3120,4,78,1993,85000.0,09-06-1993
+Blåmejsevej 44,Dronningmølle,3120,2,68,1981,291181.0,07-06-1993
+Munkerup Strandvej 80,Dronningmølle,3120,10,227,1917,2600000.0,28-05-1993
+Villingerødvej 16,Dronningmølle,3120,6,140,2006,150000.0,20-05-1993
+Rørsangervej 9,Dronningmølle,3120,4,120,1967,453775.0,16-05-1993
+"Hulerødvej 15, 1",Dronningmølle,3120,6,144,1896,1524000.0,14-05-1993
+Park Alle 7A,Dronningmølle,3120,5,64,1961,224000.0,03-05-1993
+Poppel Alle 26,Dronningmølle,3120,3,119,2003,225000.0,26-04-1993
+Linde Alle 18,Dronningmølle,3120,4,80,2007,77000.0,12-04-1993
+Tranevej 4,Dronningmølle,3120,2,50,1967,280000.0,25-03-1993
+Hulerødvej 33,Dronningmølle,3120,5,105,1974,450000.0,24-03-1993
+Solsortevej 2,Dronningmølle,3120,4,66,1993,485100.0,19-03-1993
+Munkerup Strandvej 3,Dronningmølle,3120,3,92,1952,145000.0,22-02-1993
+Rypevej 4,Dronningmølle,3120,4,70,1993,102157.0,20-12-1992
+Lærkevej 9,Dronningmølle,3120,4,97,1961,250000.0,30-11-1992
+Rødkildevej 3A,Dronningmølle,3120,5,82,1993,100000.0,16-11-1992
+Dr Mølle Strandvej 568Q,Dronningmølle,3120,1,51,1600,155000.0,28-10-1992
+Slåenvangen 42,Dronningmølle,3120,3,96,1968,385000.0,26-10-1992
+Fasanvej 43,Dronningmølle,3120,3,40,1981,288147.0,23-10-1992
+Holtesgårdvej 19,Dronningmølle,3120,5,177,1997,170000.0,11-10-1992
+Gøgevej 26,Dronningmølle,3120,2,84,1975,420000.0,28-09-1992
+Gøgevej 15,Dronningmølle,3120,3,56,1976,325000.0,15-09-1992
+Allikevej 41,Dronningmølle,3120,4,50,1976,298000.0,11-08-1992
+Hørvangen 21,Dronningmølle,3120,4,111,1973,375500.0,20-07-1992
+Slåenvangen 2B,Dronningmølle,3120,4,142,1969,631962.0,15-07-1992
+Bogfinkevej 26,Dronningmølle,3120,5,88,1970,415000.0,28-06-1992
+Sneppevej 18,Dronningmølle,3120,3,98,1977,460000.0,01-06-1992
+Agerhønevej 25,Dronningmølle,3120,3,60,1970,337000.0,27-05-1992
+Sneppevej 44,Dronningmølle,3120,6,98,1974,409728.0,22-05-1992
+Storkevej 2,Dronningmølle,3120,4,58,1968,177516.0,18-05-1992
+Solsortevej 4,Dronningmølle,3120,4,79,1973,166461.0,11-05-1992
+Bøgevangen 5,Dronningmølle,3120,4,160,2004,100000.0,04-05-1992
+Sneppevej 7,Dronningmølle,3120,3,48,1972,366443.0,27-04-1992
+Drosselvej 6,Dronningmølle,3120,3,58,1969,207500.0,14-04-1992
+Hørvangen 12,Dronningmølle,3120,3,115,1964,430649.0,30-03-1992
+Slåenvangen 11,Dronningmølle,3120,4,83,1973,565000.0,27-03-1992
+Munkerup Have 46,Dronningmølle,3120,4,82,1981,575000.0,13-03-1992
+Birke Alle 14,Dronningmølle,3120,4,55,1965,215000.0,09-03-1992
+Bynkevangen 6,Dronningmølle,3120,4,110,1969,268933.0,06-03-1992
+Gøgevej 27,Dronningmølle,3120,4,56,1986,193149.0,10-02-1992
+Ternevej 1,Dronningmølle,3120,4,35,1963,155000.0,22-01-1992

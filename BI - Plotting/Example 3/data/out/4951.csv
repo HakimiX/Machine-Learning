@@ -1,0 +1,237 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+Pårup Møllevej 222,Nørreballe,4951,12,320,1885,25500000.0,03-04-2017
+Skovengen 1,Nørreballe,4951,3,60,1938,200000.0,26-01-2017
+Birkevej 1,Nørreballe,4951,5,144,1965,350000.0,11-11-2016
+Birkevej 10,Nørreballe,4951,5,122,1965,400000.0,24-09-2016
+Skovengen 13,Nørreballe,4951,4,136,1960,295000.0,02-09-2016
+Præstevænget 4,Nørreballe,4951,4,105,1969,240000.0,17-08-2016
+Birkevej 2,Nørreballe,4951,4,120,1964,250000.0,03-08-2016
+Reersnæs Kirkevej 350,Nørreballe,4951,5,100,1850,195000.0,28-07-2016
+Præstevænget 5,Nørreballe,4951,4,127,1974,487807.0,18-07-2016
+Østofte Gade 12,Nørreballe,4951,3,97,1827,220000.0,11-07-2016
+Sørup Hovvej 45,Nørreballe,4951,11,239,1912,825000.0,06-04-2016
+Møllevænget 7,Nørreballe,4951,4,110,1979,425000.0,15-03-2016
+Birkevej 11,Nørreballe,4951,4,130,1966,250000.0,28-02-2016
+Stationsvænget 1,Nørreballe,4951,4,121,1939,480000.0,19-02-2016
+Havløkkevej 65,Nørreballe,4951,3,119,1770,2700000.0,22-01-2016
+Koholtvej 45,Nørreballe,4951,4,104,1890,75000.0,26-12-2015
+Vestre Landevej 121,Nørreballe,4951,3,78,1895,298000.0,28-10-2015
+Havløkkevej 60,Nørreballe,4951,3,84,1960,125000.0,22-10-2015
+Koholtvej 54,Nørreballe,4951,5,129,1872,275000.0,23-03-2015
+Vestre Landevej 29,Nørreballe,4951,5,150,1926,315000.0,28-01-2015
+Vestre Landevej 33,Nørreballe,4951,3,117,1927,430000.0,28-08-2014
+Koholtvej 27,Nørreballe,4951,7,262,1780,800000.0,16-06-2014
+Havløkke Gade 7,Nørreballe,4951,4,124,1875,489000.0,04-06-2014
+Vestre Landevej 69,Nørreballe,4951,5,95,1900,50001.0,23-04-2014
+Havløkke Gade 20,Nørreballe,4951,5,68,1850,35000.0,12-03-2014
+Præstevænget 25,Nørreballe,4951,4,160,1971,400000.0,15-11-2013
+Vestre Landevej 66,Nørreballe,4951,3,89,1827,75000.0,17-09-2013
+Vestre Landevej 76,Nørreballe,4951,4,125,1959,250000.0,12-09-2013
+Østofte Gade 15,Nørreballe,4951,6,140,1890,519055.0,01-08-2013
+Koholtvej 40,Nørreballe,4951,9,227,1913,1000000.0,15-06-2013
+Pårup Møllevej 213,Nørreballe,4951,4,104,1924,200000.0,12-06-2013
+Møllevænget 3,Nørreballe,4951,6,133,1985,525000.0,22-05-2013
+Pårup Møllevej 233,Nørreballe,4951,3,90,1962,265000.0,25-04-2013
+Præstevænget 6,Nørreballe,4951,7,231,1971,400000.0,21-03-2013
+Møllevænget 17,Nørreballe,4951,5,131,1980,475000.0,11-02-2013
+Kirkevejen 270,Nørreballe,4951,4,103,1926,150000.0,05-12-2012
+Koholtvej 23,Nørreballe,4951,4,150,1911,280000.0,24-07-2012
+Østofte Gade 36,Nørreballe,4951,12,396,1797,78804.0,14-06-2012
+Præstevænget 24,Nørreballe,4951,4,144,1977,875000.0,13-06-2012
+Østofte Gade 54,Nørreballe,4951,2,78,1850,165000.0,15-05-2012
+Sørup Mosevej 30,Nørreballe,4951,5,214,1870,150000.0,07-03-2012
+Østofte Gade 74,Nørreballe,4951,4,89,1827,500000.0,07-12-2011
+Præstevænget 13,Nørreballe,4951,5,135,1969,497143.0,24-11-2011
+Koholtvej 50,Nørreballe,4951,4,84,1900,200000.0,16-11-2011
+Skovengen 4,Nørreballe,4951,3,91,1941,400000.0,31-08-2011
+Præstevænget 18,Nørreballe,4951,3,104,1987,500000.0,17-05-2011
+Vestre Landevej 116,Nørreballe,4951,5,152,1939,100000.0,11-05-2011
+Stationsvænget 17,Nørreballe,4951,4,134,1970,825000.0,15-04-2011
+Østofte Møllevej 259,Nørreballe,4951,6,171,1926,1375000.0,25-02-2011
+Østofte Gade 11,Nørreballe,4951,4,90,1937,975000.0,05-01-2011
+Præstevænget 22,Nørreballe,4951,5,160,1974,597500.0,15-11-2010
+Østofte Gade 23,Nørreballe,4951,4,130,1925,453812.0,08-11-2010
+Reersnæs Kirkevej 329,Nørreballe,4951,3,209,1926,1935000.0,29-10-2010
+Østofte Gade 18,Nørreballe,4951,3,96,1959,475000.0,14-10-2010
+Sørup Hovvej 49,Nørreballe,4951,9,266,1800,805591.0,13-10-2010
+Vestre Landevej 81,Nørreballe,4951,3,75,1905,130000.0,03-08-2010
+Vestre Landevej 56,Nørreballe,4951,3,97,1927,210000.0,19-06-2010
+Østofte Gade 34,Nørreballe,4951,4,188,1958,400000.0,22-04-2010
+Præstevænget 7,Nørreballe,4951,4,142,1969,725000.0,11-03-2010
+Østofte Gade 41,Nørreballe,4951,4,87,1963,600000.0,16-12-2009
+Østofte Møllevej 253,Nørreballe,4951,5,176,1920,975000.0,04-11-2009
+Præstevænget 9,Nørreballe,4951,4,103,1969,850000.0,10-09-2009
+Østofte Gade 30,Nørreballe,4951,4,60,1887,130000.0,30-07-2009
+Vestre Landevej 83,Nørreballe,4951,4,178,1917,915987.0,23-07-2009
+Birkevej 19,Nørreballe,4951,3,119,1967,750000.0,20-07-2009
+Koholtvej 41,Nørreballe,4951,5,278,1830,1300000.0,22-05-2009
+Birkevej 14,Nørreballe,4951,4,116,1967,680000.0,15-05-2009
+Vestre Landevej 61,Nørreballe,4951,4,90,1910,150000.0,01-04-2009
+Pårup Møllevej 205,Nørreballe,4951,2,124,1930,300000.0,20-02-2009
+Vestre Landevej 53,Nørreballe,4951,5,129,1904,330000.0,19-02-2009
+Vestre Landevej 55,Nørreballe,4951,5,129,1917,360000.0,19-02-2009
+Vestre Landevej 89,Nørreballe,4951,3,102,1946,400000.0,08-12-2008
+Pårup Møllevej 229,Nørreballe,4951,2,96,1954,540000.0,01-12-2008
+Vestre Landevej 134,Nørreballe,4951,4,154,1912,1500000.0,24-11-2008
+Østofte Møllevej 277,Nørreballe,4951,3,86,1900,570000.0,10-10-2008
+Vestre Landevej 142,Nørreballe,4951,5,157,1932,825000.0,07-08-2008
+Kristianssædevej 70,Nørreballe,4951,5,132,1942,575000.0,25-07-2008
+Vestre Landevej 72,Nørreballe,4951,4,135,1886,1500000.0,07-07-2008
+Koholtvej 32,Nørreballe,4951,3,104,1820,100000.0,20-06-2008
+Skolestræde 28,Nørreballe,4951,4,105,1965,313514.0,17-06-2008
+Vestre Landevej 85,Nørreballe,4951,5,110,1937,450000.0,15-06-2008
+Sørup Mosevej 27,Nørreballe,4951,6,200,1888,4800000.0,10-06-2008
+Vestre Landevej 154,Nørreballe,4951,4,105,1943,735000.0,10-06-2008
+Ådalen 4,Nørreballe,4951,4,136,1987,855000.0,03-03-2008
+Havløkke Gade 3,Nørreballe,4951,7,180,1720,860000.0,26-02-2008
+"Vestre Landevej 110, 1",Nørreballe,4951,2,55,1943,1280000.0,07-02-2008
+Sørup Hovvej 24,Nørreballe,4951,5,181,1948,16291850.0,24-01-2008
+Koholtvej 15,Nørreballe,4951,6,160,1880,13700000.0,15-01-2008
+Østofte Gade 68,Nørreballe,4951,3,78,1887,569000.0,11-12-2007
+Skovengen 11,Nørreballe,4951,5,127,1959,825000.0,15-10-2007
+Østofte Gade 17,Nørreballe,4951,5,187,1898,487800.0,07-10-2007
+Præstevænget 14,Nørreballe,4951,4,132,1970,435000.0,14-08-2007
+Vestre Landevej 78,Nørreballe,4951,5,126,1957,645000.0,25-06-2007
+Vestre Landevej 122,Nørreballe,4951,4,133,1870,525000.0,19-03-2007
+Østofte Gade 58,Nørreballe,4951,3,84,1873,425000.0,10-03-2007
+Koholtvej 19,Nørreballe,4951,3,100,1956,495000.0,07-03-2007
+Havløkke Gade 12,Nørreballe,4951,4,99,1880,815000.0,22-02-2007
+Vestre Landevej 52,Nørreballe,4951,8,220,1955,1950000.0,26-01-2007
+Sørup Hovvej 29,Nørreballe,4951,4,135,1960,459000.0,19-01-2007
+Sørup Hovvej 31,Nørreballe,4951,6,232,1980,11050000.0,19-01-2007
+Østofte Gade 20,Nørreballe,4951,5,160,1928,656000.0,01-01-2007
+Vestre Landevej 106,Nørreballe,4951,4,116,1935,500000.0,19-12-2006
+Havløkkevej 59,Nørreballe,4951,3,92,1896,645000.0,18-12-2006
+Pårup Møllevej 241,Nørreballe,4951,5,141,1920,700000.0,23-10-2006
+Sørup Hovvej 11,Nørreballe,4951,3,90,1878,705000.0,13-09-2006
+Koholtvej 11,Nørreballe,4951,4,118,1905,860000.0,07-09-2006
+Østofte Gade 6,Nørreballe,4951,5,122,1900,156554.0,31-08-2006
+Vestre Landevej 102,Nørreballe,4951,3,113,1927,600000.0,17-08-2006
+Vestre Landevej 97,Nørreballe,4951,3,81,1929,515000.0,31-05-2006
+Østofte Gade 49,Nørreballe,4951,5,148,1827,800000.0,31-05-2006
+Vestre Landevej 87,Nørreballe,4951,4,143,1943,825000.0,15-04-2006
+Sørup Hovvej 30,Nørreballe,4951,3,98,1892,390000.0,16-03-2006
+Stationsvænget 13,Nørreballe,4951,4,118,1977,1150000.0,01-03-2006
+Møllevænget 1,Nørreballe,4951,4,117,1979,845000.0,28-10-2005
+Møllevænget 29,Nørreballe,4951,4,111,1980,915000.0,29-08-2005
+Havløkke Gade 23,Nørreballe,4951,5,138,1800,1150000.0,01-07-2005
+Vestre Landevej 98,Nørreballe,4951,3,126,1934,845000.0,10-06-2005
+Havløkke Gade 27,Nørreballe,4951,3,99,1900,400000.0,16-05-2005
+Reersnæs Kirkevej 355,Nørreballe,4951,5,156,1850,1249000.0,04-05-2005
+Østofte Gade 28,Nørreballe,4951,3,79,1877,435000.0,30-04-2005
+Havløkke Gade 8,Nørreballe,4951,5,125,1900,865000.0,23-04-2005
+Vestre Landevej 63,Nørreballe,4951,3,90,1920,475000.0,18-04-2005
+Sørup Hovvej 25,Nørreballe,4951,5,83,1965,280000.0,01-03-2005
+Østofte Gade 8,Nørreballe,4951,4,89,1932,575000.0,28-02-2005
+Koholtvej 5,Nørreballe,4951,4,168,1964,1100000.0,14-02-2005
+Havløkke Gade 11,Nørreballe,4951,4,84,1900,265000.0,03-01-2005
+Vestre Landevej 162,Nørreballe,4951,5,130,1910,360000.0,16-12-2004
+Vestre Landevej 60,Nørreballe,4951,5,95,1930,275000.0,18-11-2004
+Sørup Hovvej 7,Nørreballe,4951,5,144,1890,510000.0,07-09-2004
+Birkevej 7,Nørreballe,4951,3,118,1966,795000.0,19-08-2004
+Præstevænget 15,Nørreballe,4951,4,140,1970,1145000.0,12-07-2004
+Vestre Landevej 84,Nørreballe,4951,5,135,1947,640000.0,07-07-2004
+Præstevænget 3,Nørreballe,4951,4,118,1969,685000.0,01-06-2004
+Ådalen 1,Nørreballe,4951,2,86,1987,450000.0,28-05-2004
+Ådalen 8,Nørreballe,4951,4,136,1987,450000.0,28-05-2004
+Ådalen 3,Nørreballe,4951,4,136,1987,450000.0,28-05-2004
+"Østofte Gade 4, 1",Nørreballe,4951,3,103,1940,234261.0,15-04-2004
+Pårup Møllevej 209,Nørreballe,4951,3,101,1954,700000.0,02-04-2004
+Vestre Landevej 100,Nørreballe,4951,3,90,1932,400000.0,27-03-2004
+Havløkkevej 57,Nørreballe,4951,12,280,1896,525000.0,22-03-2004
+Birkevej 17,Nørreballe,4951,4,130,1969,650000.0,12-03-2004
+Vestre Landevej 96,Nørreballe,4951,3,85,1934,375000.0,29-02-2004
+Østofte Gade 31,Nørreballe,4951,5,130,1920,219119.0,03-02-2004
+Koholtvej 6,Nørreballe,4951,8,130,1947,657500.0,23-12-2003
+Ådalen 9,Nørreballe,4951,3,114,1987,535247.0,08-12-2003
+Præstevænget 23,Nørreballe,4951,5,193,1973,1135000.0,03-12-2003
+Østofte Gade 72,Nørreballe,4951,5,133,1908,200000.0,02-11-2003
+Østofte Gade 21,Nørreballe,4951,3,130,1777,720000.0,25-08-2003
+Præstevænget 16,Nørreballe,4951,3,103,1986,630000.0,01-07-2003
+Skovengen 5,Nørreballe,4951,3,71,1958,465000.0,16-06-2003
+Vestre Landevej 160,Nørreballe,4951,4,251,1887,392000.0,02-06-2003
+Vestre Landevej 90,Nørreballe,4951,3,120,1938,521000.0,28-04-2003
+Sørup Hovvej 19,Nørreballe,4951,3,100,1870,370000.0,11-04-2003
+Præstevænget 8,Nørreballe,4951,5,156,1977,900000.0,12-03-2003
+Præstevænget 27,Nørreballe,4951,4,184,1973,1075000.0,09-12-2002
+Havløkke Gade 16,Nørreballe,4951,7,158,1900,775000.0,02-12-2002
+Havløkkevej 75,Nørreballe,4951,5,209,1921,1196000.0,09-10-2002
+Vestre Landevej 111,Nørreballe,4951,4,118,1953,364243.0,30-09-2002
+Havløkkevej 58,Nørreballe,4951,5,134,1926,440000.0,02-09-2002
+Kristianssædevej 59,Nørreballe,4951,3,100,1900,123250.0,31-07-2002
+Koholtvej 33,Nørreballe,4951,4,124,1880,645000.0,18-04-2002
+Vestre Landevej 64,Nørreballe,4951,3,104,1950,280000.0,11-04-2002
+Vestre Landevej 115,Nørreballe,4951,4,150,1905,500000.0,08-04-2002
+Møllevænget 23,Nørreballe,4951,5,144,1981,820000.0,02-11-2001
+Vestre Landevej 80,Nørreballe,4951,5,149,1959,423000.0,26-05-2001
+Havløkkevej 69,Nørreballe,4951,5,219,1998,2900000.0,28-01-2001
+Pårup Møllevej 221,Nørreballe,4951,3,82,1870,215000.0,26-12-2000
+Møllevænget 13,Nørreballe,4951,5,170,1981,897000.0,12-12-2000
+Vestre Landevej 104,Nørreballe,4951,3,80,1960,202487.0,23-10-2000
+Birkevej 12,Nørreballe,4951,3,118,1965,642500.0,29-09-2000
+Skolestræde 23,Nørreballe,4951,5,105,1967,400000.0,18-09-2000
+Stationsvænget 21,Nørreballe,4951,4,151,1958,350000.0,14-08-2000
+Sørup Gade 5,Nørreballe,4951,3,78,1870,140000.0,01-05-2000
+Østofte Møllevej 271,Nørreballe,4951,4,106,1900,225000.0,10-04-2000
+Koholtvej 8,Nørreballe,4951,5,96,1952,430000.0,03-04-2000
+Ådalen 2,Nørreballe,4951,4,136,1987,479907.0,28-02-2000
+Koholtvej 26,Nørreballe,4951,5,132,1910,410000.0,28-02-2000
+Koholtvej 10,Nørreballe,4951,5,101,1954,300000.0,14-02-2000
+Østofte Møllevej 260,Nørreballe,4951,6,188,1860,650000.0,13-12-1999
+Koholtvej 14,Nørreballe,4951,6,193,1974,643000.0,13-12-1999
+Vestre Landevej 99,Nørreballe,4951,6,201,1860,350000.0,03-12-1999
+Havløkkevej 56,Nørreballe,4951,4,208,1860,635000.0,20-11-1999
+Stationsvænget 15,Nørreballe,4951,5,116,1977,570000.0,06-08-1999
+Sørup Hovvej 16,Nørreballe,4951,3,151,1870,114369.0,28-01-1999
+Vestre Landevej 95,Nørreballe,4951,5,170,1870,715000.0,21-01-1999
+Vestre Landevej 71,Nørreballe,4951,7,167,1929,200460.0,14-12-1998
+Koholtvej 20,Nørreballe,4951,9,247,1892,200000.0,29-11-1998
+Østofte Gade 16,Nørreballe,4951,4,125,1910,516840.0,02-09-1998
+Vestre Landevej 103,Nørreballe,4951,9,299,1827,476698.0,15-06-1998
+Birkevej 4,Nørreballe,4951,5,130,1964,629000.0,29-05-1998
+Østofte Gade 2,Nørreballe,4951,5,126,1850,293200.0,20-04-1998
+Vestre Landevej 158,Nørreballe,4951,4,88,1943,228000.0,08-02-1998
+Skovengen 6,Nørreballe,4951,4,102,1954,600000.0,02-02-1998
+Vestre Landevej 126,Nørreballe,4951,3,180,1921,530000.0,26-01-1998
+Koholtvej 46,Nørreballe,4951,7,150,1950,1850000.0,17-12-1997
+Sørup Hovvej 41,Nørreballe,4951,5,87,1870,130000.0,11-12-1997
+Birkevej 20,Nørreballe,4951,5,150,1968,500000.0,15-09-1997
+Vestre Landevej 79,Nørreballe,4951,7,153,1911,305000.0,11-08-1997
+Havløkkevej 87,Nørreballe,4951,3,80,1700,132000.0,07-07-1997
+Vestre Landevej 140,Nørreballe,4951,3,102,1900,345958.0,23-06-1997
+Koholtvej 1B,Nørreballe,4951,2,60,1972,524000.0,18-06-1997
+Havløkke Gade 17,Nørreballe,4951,3,66,1830,125000.0,07-04-1997
+Pårup Møllevej 201,Nørreballe,4951,3,92,1830,220000.0,17-02-1997
+Vestre Landevej 59,Nørreballe,4951,3,81,1911,268000.0,14-02-1997
+Sørup Hovvej 14,Nørreballe,4951,4,136,1870,200000.0,20-12-1996
+Præstevænget 1,Nørreballe,4951,4,126,1971,540000.0,11-12-1996
+Birkevej 16,Nørreballe,4951,4,150,1968,485000.0,31-10-1996
+Vestre Landevej 136,Nørreballe,4951,8,169,1900,325000.0,09-10-1996
+Vestre Landevej 74,Nørreballe,4951,4,176,1974,640000.0,29-09-1996
+Østofte Gade 24,Nørreballe,4951,4,100,1934,232000.0,20-05-1996
+Koholtvej 9,Nørreballe,4951,5,141,1966,560000.0,10-04-1996
+Vestre Landevej 91,Nørreballe,4951,2,73,1952,246000.0,12-02-1996
+Østofte Gade 43,Nørreballe,4951,5,81,1936,275000.0,12-02-1996
+Reersnæs Kirkevej 325,Nørreballe,4951,3,132,1926,280000.0,14-01-1996
+Vestre Landevej 92,Nørreballe,4951,3,65,1936,523500.0,24-11-1995
+Reersnæs Kirkevej 356,Nørreballe,4951,2,139,1893,365000.0,10-11-1995
+Havløkkevej 68,Nørreballe,4951,6,200,1920,407000.0,08-08-1995
+Vestre Landevej 113,Nørreballe,4951,5,132,1912,195000.0,10-04-1995
+Pårup Møllevej 218,Nørreballe,4951,6,144,1893,328000.0,28-02-1995
+Præstevænget 11,Nørreballe,4951,3,150,1968,500000.0,25-02-1995
+Vestre Landevej 130,Nørreballe,4951,4,125,1930,205588.0,06-02-1995
+Kirkevejen 284,Nørreballe,4951,4,95,1926,500000.0,19-01-1995
+Stationsvænget 19,Nørreballe,4951,4,112,1970,410000.0,02-01-1995
+Sørup Hovvej 5,Nørreballe,4951,4,177,1827,398706.0,14-12-1994
+Kirkevejen 280,Nørreballe,4951,4,91,1920,245000.0,21-11-1994
+Sørup Hovvej 8,Nørreballe,4951,5,136,1935,134000.0,25-03-1994
+Vestre Landevej 124,Nørreballe,4951,4,99,1924,165000.0,21-03-1994
+Møllevænget 11,Nørreballe,4951,4,121,1979,635000.0,18-03-1994
+Vestre Landevej 114,Nørreballe,4951,8,195,1939,365000.0,08-11-1993
+Østofte Møllevej 265,Nørreballe,4951,6,198,1880,345000.0,04-08-1993
+Pårup Møllevej 230,Nørreballe,4951,10,237,1922,276898.0,30-06-1993
+Havløkkevej 70,Nørreballe,4951,9,346,1900,292800.0,02-04-1993
+Pårup Møllevej 243,Nørreballe,4951,4,112,1860,580000.0,08-02-1993
+Pårup Møllevej 212,Nørreballe,4951,7,190,1935,4234300.0,03-08-1992
+Østofte Gade 5,Nørreballe,4951,6,183,1919,180000.0,14-05-1992
+Vestre Landevej 164,Nørreballe,4951,4,106,1887,235000.0,01-05-1992

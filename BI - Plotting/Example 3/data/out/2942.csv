@@ -1,0 +1,598 @@
+street,city,zipcode,no_rooms,size_in_sq_m,year_of_construction,price,sale_date_str
+"Skodsborgparken 20, ST. TV",Skodsborg,2942,3,117,1981,4600000.0,03-05-2017
+"Skodsborg Strandvej 157A, 1. TV",Skodsborg,2942,3,82,1934,2450000.0,08-04-2017
+"Skodsborgparken 64, 3. TH",Skodsborg,2942,3,132,1963,7250000.0,24-03-2017
+"Skodsborgparken 60, 2. TH",Skodsborg,2942,5,134,1963,5325000.0,01-03-2017
+"Skodsborgparken 30, 3. TV",Skodsborg,2942,2,82,1963,3995000.0,15-02-2017
+Skodsborgparken 7,Skodsborg,2942,3,97,1920,3150000.0,14-02-2017
+"Solgårdsvej 7, ST. TV",Skodsborg,2942,3,91,1937,2440000.0,14-02-2017
+Skodsborg Strandvej 11,Skodsborg,2942,7,320,1916,13061893.0,08-02-2017
+"Solgårdsvej 6, 1. TV",Skodsborg,2942,3,79,1935,1500000.0,07-02-2017
+Frydenlundsvej 14,Skodsborg,2942,6,171,1919,550000.0,30-01-2017
+Skodsborg Strandvej 214,Skodsborg,2942,4,258,1978,12890000.0,27-01-2017
+"Høje Skodsborgvej 4, 1. TV",Skodsborg,2942,4,96,1936,3500000.0,24-01-2017
+"Skodsborgparken 56, 4. TV",Skodsborg,2942,3,111,1963,5800000.0,22-01-2017
+"Høje Skodsborgvej 2, 2. TH",Skodsborg,2942,4,118,1936,3145000.0,19-01-2017
+"Høje Skodsborgvej 22, 2. TH",Skodsborg,2942,3,79,1936,3275000.0,19-01-2017
+Højagervej 5,Skodsborg,2942,5,86,1934,3800000.0,12-01-2017
+Skodsborg Strandvej 288,Skodsborg,2942,6,156,1958,11300000.0,28-12-2016
+"Skodsborgparken 54, 3. TV",Skodsborg,2942,3,111,1963,4900000.0,19-12-2016
+"Skodsborgparken 52, 3. TV",Skodsborg,2942,2,84,1963,3395000.0,13-12-2016
+Skodsborg Strandvej 15,Skodsborg,2942,8,260,1917,10200000.0,03-12-2016
+"Skodsborg Strandvej 157A, ST. TV",Skodsborg,2942,4,98,1934,2800000.0,17-11-2016
+"Skodsborg Strandvej 157A, 1. TH",Skodsborg,2942,5,114,1934,3450000.0,09-11-2016
+Bøllemosevej 2,Skodsborg,2942,4,119,1922,4125000.0,08-11-2016
+Enrumvej 24,Skodsborg,2942,5,144,1958,5350000.0,31-10-2016
+"Høje Skodsborgvej 2, 3. TV",Skodsborg,2942,4,97,1936,4695000.0,21-10-2016
+"Skodsborgparken 40, 2. TH",Skodsborg,2942,4,120,1963,4900000.0,21-10-2016
+"Skodsborgparken 46, 1. TV",Skodsborg,2942,2,85,1963,3100000.0,12-10-2016
+"Skodsborg Strandvej 157, 1. TH",Skodsborg,2942,4,99,1934,2700000.0,29-09-2016
+Skodsborg Strandvej 302,Skodsborg,2942,5,205,2013,11700000.0,02-09-2016
+"Skodsborgparken 56, 2. TV",Skodsborg,2942,3,111,1963,5400000.0,18-08-2016
+Skodsborg Strandvej 275,Skodsborg,2942,7,254,1933,6900000.0,12-08-2016
+"Skodsborgparken 26, 4. TV",Skodsborg,2942,3,111,1963,5450000.0,11-08-2016
+"Høje Skodsborgvej 10, 3. TV",Skodsborg,2942,3,81,1936,3145000.0,08-08-2016
+"Skodsborgparken 54, 4. TH",Skodsborg,2942,4,121,1963,5275000.0,19-07-2016
+Skodsborg Strandvej 17A,Skodsborg,2942,5,174,1989,6625000.0,11-07-2016
+"Høje Skodsborgvej 28, 2. TH",Skodsborg,2942,6,168,1936,7500000.0,07-07-2016
+"Solgårdsvej 7, ST. TH",Skodsborg,2942,3,94,1937,1995000.0,06-07-2016
+"Skodsborgparken 16, 2. TV",Skodsborg,2942,3,141,1981,7995000.0,29-06-2016
+"Høje Skodsborgvej 14, 2. TH",Skodsborg,2942,2,79,1936,3200000.0,26-06-2016
+"Skodsborg Strandvej 227, 1. 16",Skodsborg,2942,1,43,1886,895000.0,24-06-2016
+Aggershvile Alle 16,Skodsborg,2942,6,126,1785,5400000.0,22-06-2016
+Kettebakken 16,Skodsborg,2942,5,150,1964,4850000.0,14-06-2016
+"Skodsborg Strandvej 225B, 2. TV",Skodsborg,2942,4,143,1886,5500000.0,27-05-2016
+"Høje Skodsborgvej 8, 1. TV",Skodsborg,2942,3,82,1936,3150000.0,20-05-2016
+"Skodsborgparken 50, 1. TH",Skodsborg,2942,5,132,1963,4800000.0,09-05-2016
+Egemosen 16,Skodsborg,2942,5,176,1966,6100000.0,09-05-2016
+Skodsborg Strandvej 260,Skodsborg,2942,12,358,1896,27000000.0,25-04-2016
+"Solgårdsvej 6, 1. TH",Skodsborg,2942,2,57,1935,1565000.0,20-04-2016
+"Skodsborgparken 46, 1. TH",Skodsborg,2942,4,132,1963,6250000.0,19-04-2016
+"Skodsborgparken 28, 5",Skodsborg,2942,4,152,1963,10200000.0,18-04-2016
+"Skodsborgparken 10, 1. TH",Skodsborg,2942,2,102,1981,3945000.0,15-04-2016
+"Solgårdsvej 2, ST. TV",Skodsborg,2942,3,67,1935,1585000.0,14-04-2016
+"Skodsborgparken 62, 5. TH",Skodsborg,2942,3,97,1963,6250000.0,07-04-2016
+"Høje Skodsborgvej 28, ST. TV",Skodsborg,2942,7,204,1936,6625000.0,07-04-2016
+"Skodsborgparken 50, 1. TV",Skodsborg,2942,2,82,1963,3120000.0,31-03-2016
+"Skodsborgparken 12, 3. TV",Skodsborg,2942,3,146,1981,6500000.0,23-03-2016
+"Skodsborgparken 42, 4. TV",Skodsborg,2942,2,82,1963,3650000.0,18-03-2016
+Skodsborg Strandvej 101,Skodsborg,2942,4,120,1885,5750000.0,17-03-2016
+"Skodsborgparken 16, ST. TV",Skodsborg,2942,4,141,1981,5495000.0,10-03-2016
+"Skodsborgparken 32, 3. TH",Skodsborg,2942,5,132,1963,5700000.0,08-03-2016
+"Skodsborgparken 60, 4. TH",Skodsborg,2942,5,134,1963,7295000.0,03-03-2016
+Skodsborg Strandvej 263,Skodsborg,2942,4,209,1981,15600000.0,01-03-2016
+"Høje Skodsborgvej 24, ST. TH",Skodsborg,2942,3,106,1936,3800000.0,29-02-2016
+"Solgårdsvej 2, 1. TH",Skodsborg,2942,3,69,1935,1775000.0,19-02-2016
+"Skodsborg Strandvej 217, ST. TV",Skodsborg,2942,4,95,1890,3800000.0,16-02-2016
+Aggersvej 13,Skodsborg,2942,6,199,1917,6650000.0,15-02-2016
+"Skodsborgparken 24, 5. TV",Skodsborg,2942,3,90,1963,6800000.0,28-01-2016
+"Skodsborgparken 58, 3. TH",Skodsborg,2942,4,120,1963,5250000.0,15-01-2016
+"Skodsborg Strandvej 227, 1. 17",Skodsborg,2942,1,41,1886,801000.0,15-01-2016
+"Skodsborg Strandvej 227, ST. 9",Skodsborg,2942,2,63,1886,1300000.0,12-01-2016
+"Skodsborgparken 44, 1. TV",Skodsborg,2942,2,82,1963,2950000.0,11-01-2016
+"Skodsborg Strandvej 153, 2. TH",Skodsborg,2942,2,57,1935,1600000.0,06-01-2016
+"Høje Skodsborgvej 6, ST. TH",Skodsborg,2942,1,62,1936,1925000.0,14-12-2015
+"Høje Skodsborgvej 16, 2. TV",Skodsborg,2942,3,79,1936,2930000.0,10-12-2015
+"Skodsborgparken 20, 2. TH",Skodsborg,2942,3,125,1981,5000000.0,13-11-2015
+"Skodsborg Strandvej 225A, 1. TV",Skodsborg,2942,3,137,1886,4333333.0,03-11-2015
+"Skodsborg Strandvej 225B, 1. TV",Skodsborg,2942,3,146,1886,4333333.0,03-11-2015
+Køromvej 1,Skodsborg,2942,3,98,1933,3900000.0,29-10-2015
+"Høje Skodsborgvej 14, 3. TH",Skodsborg,2942,3,79,1936,3395000.0,26-10-2015
+"Skodsborg Strandvej 155A, 2. TH",Skodsborg,2942,2,57,1935,1550000.0,16-10-2015
+"Skodsborg Strandvej 155B, 1. TH",Skodsborg,2942,2,60,1935,1375000.0,06-10-2015
+"Høje Skodsborgvej 16, 3. TV",Skodsborg,2942,3,79,1936,3600000.0,01-10-2015
+"Solgårdsvej 5, 2. TH",Skodsborg,2942,3,87,1937,2175000.0,01-10-2015
+"Skodsborgparken 58, 1. TH",Skodsborg,2942,4,120,1963,5900000.0,30-09-2015
+Skodsborg Strandvej 313B,Skodsborg,2942,4,212,1993,7700000.0,25-09-2015
+Køromvej 4,Skodsborg,2942,4,151,1968,5150000.0,17-09-2015
+"Skodsborg Strandvej 215, 1. TH",Skodsborg,2942,7,165,1890,6650000.0,16-09-2015
+Skodsborg Strandvej 45,Skodsborg,2942,8,325,1934,11500000.0,14-09-2015
+"Skodsborgparken 58, 4. TH",Skodsborg,2942,4,120,1963,5500000.0,26-08-2015
+"Skodsborgparken 16, 4. TV",Skodsborg,2942,3,100,1981,3550000.0,24-08-2015
+"Skodsborgparken 40, 5. TV",Skodsborg,2942,3,92,1963,2890000.0,20-08-2015
+Gyvelvej 1,Skodsborg,2942,6,202,1939,7045000.0,12-08-2015
+Skodsborg Strandvej 77,Skodsborg,2942,5,127,1914,5610000.0,10-08-2015
+"Skodsborg Strandvej 157, 2. TH",Skodsborg,2942,3,99,1934,1287500.0,18-07-2015
+Køromvej 2B,Skodsborg,2942,5,200,1965,4225000.0,15-07-2015
+Enrumvej 12,Skodsborg,2942,6,275,1950,5375000.0,13-07-2015
+"Skodsborgparken 30, 4. TV",Skodsborg,2942,2,82,1963,3501000.0,08-07-2015
+"Skodsborgparken 18, 1. TH",Skodsborg,2942,3,121,1981,4750000.0,05-07-2015
+Skodsborg Strandvej 43,Skodsborg,2942,9,266,1906,15000000.0,26-06-2015
+"Skodsborgparken 40, 2. TV",Skodsborg,2942,3,113,1963,4725000.0,15-06-2015
+"Skodsborgparken 28, 1. TH",Skodsborg,2942,4,120,1963,5495000.0,10-06-2015
+"Skodsborgparken 12, 1. TV",Skodsborg,2942,3,146,1981,7400000.0,15-05-2015
+Skodsborg Strandvej 105,Skodsborg,2942,4,98,1891,5105000.0,10-05-2015
+"Skodsborgparken 22, 2. TV",Skodsborg,2942,3,111,1963,5000000.0,07-05-2015
+"Solgårdsvej 2, 2. TV",Skodsborg,2942,3,67,1935,1575000.0,21-04-2015
+"Høje Skodsborgvej 4, ST. TH",Skodsborg,2942,2,62,1936,1995000.0,17-04-2015
+"Skodsborgparken 26, 2. TH",Skodsborg,2942,4,120,1963,6500000.0,14-04-2015
+"Skodsborg Strandvej 155A, 1. TV",Skodsborg,2942,2,57,1935,1400000.0,31-03-2015
+"Skodsborgparken 54, 2. TH",Skodsborg,2942,4,121,1963,3230000.0,27-03-2015
+"Skodsborg Strandvej 227, 2. 27",Skodsborg,2942,2,62,1886,1375000.0,19-03-2015
+"Skodsborgparken 40, 1. TV",Skodsborg,2942,3,113,1963,4100000.0,13-03-2015
+"Skodsborg Strandvej 225A, 2. TV",Skodsborg,2942,3,132,1886,6100000.0,10-03-2015
+"Skodsborgparken 64, 1. TV",Skodsborg,2942,2,85,1963,3250000.0,07-03-2015
+"Solgårdsvej 1, ST. TV",Skodsborg,2942,2,68,1937,1450000.0,06-03-2015
+Enrumvej 8,Skodsborg,2942,9,237,1955,286875.0,04-03-2015
+"Skodsborgparken 34, 2. TV",Skodsborg,2942,2,85,1963,3150000.0,25-02-2015
+"Skodsborgparken 52, 4. TH",Skodsborg,2942,5,132,1963,5995000.0,23-02-2015
+Skodsborg Strandvej 57,Skodsborg,2942,7,244,1970,7100000.0,20-02-2015
+"Skodsborgparken 38, 2. TV",Skodsborg,2942,3,111,1963,4700000.0,12-02-2015
+"Skodsborgparken 34, 1. TV",Skodsborg,2942,2,85,1963,2850000.0,06-02-2015
+"Skodsborg Strandvej 225B, 1. TH",Skodsborg,2942,5,219,1886,8750000.0,05-02-2015
+"Skodsborg Strandvej 225B, 3",Skodsborg,2942,3,138,1886,5350000.0,27-01-2015
+"Skodsborg Strandvej 225A, ST. TV",Skodsborg,2942,4,232,1886,6250000.0,20-01-2015
+"Høje Skodsborgvej 12, 2. TV",Skodsborg,2942,3,79,1936,2167000.0,15-01-2015
+"Skodsborg Strandvej 225A, 2. TH",Skodsborg,2942,4,194,1886,9000000.0,08-01-2015
+"Skodsborg Strandvej 227, 2. 19",Skodsborg,2942,2,66,1886,2140000.0,07-01-2015
+"Skodsborgparken 14, 3. TV",Skodsborg,2942,3,119,1981,5300000.0,05-01-2015
+"Høje Skodsborgvej 4, 3. TV",Skodsborg,2942,4,96,1936,4435000.0,29-12-2014
+"Skodsborg Strandvej 215, ST. TH",Skodsborg,2942,5,157,1890,3325000.0,20-12-2014
+Skodsborg Strandvej 198,Skodsborg,2942,8,199,1907,3000000.0,03-12-2014
+Skodsborg Strandvej 262B,Skodsborg,2942,7,198,1977,12500000.0,26-11-2014
+Køromvej 16,Skodsborg,2942,6,175,1973,6050000.0,19-11-2014
+"Høje Skodsborgvej 22, 1. TH",Skodsborg,2942,3,79,1936,2475000.0,17-11-2014
+"Skodsborgparken 14, 1. TV",Skodsborg,2942,3,119,1981,6250000.0,13-11-2014
+"Skodsborgparken 26, 5. TV",Skodsborg,2942,3,90,1963,6500000.0,03-11-2014
+Skodsborgparken 13,Skodsborg,2942,4,108,1897,3200000.0,14-10-2014
+"Skodsborgparken 16, 3. TV",Skodsborg,2942,3,141,1981,6000000.0,13-10-2014
+"Skodsborg Strandvej 225B, ST. TV",Skodsborg,2942,3,244,1886,5800000.0,09-10-2014
+"Skodsborgparken 12, 1. TH",Skodsborg,2942,3,119,1981,4850000.0,04-09-2014
+"Skodsborgparken 50, 4. TV",Skodsborg,2942,2,82,1963,3250000.0,04-09-2014
+Egemosen 20,Skodsborg,2942,6,223,1971,2720000.0,30-08-2014
+Højagervej 9B,Skodsborg,2942,4,113,1963,4755000.0,26-08-2014
+Skodsborg Strandvej 279,Skodsborg,2942,7,295,1972,7349000.0,26-08-2014
+Skodsborg Strandvej 277,Skodsborg,2942,9,216,1923,13300000.0,22-08-2014
+"Høje Skodsborgvej 22, 3. TH",Skodsborg,2942,3,79,1936,2675000.0,21-08-2014
+"Høje Skodsborgvej 22, 2. TV",Skodsborg,2942,3,101,1936,3950000.0,05-08-2014
+"Skodsborgparken 64, 2. TH",Skodsborg,2942,5,132,1963,4650000.0,30-07-2014
+Gyvelvej 12,Skodsborg,2942,3,111,1935,5975000.0,28-07-2014
+"Høje Skodsborgvej 14, 3. TV",Skodsborg,2942,4,115,1936,4600000.0,15-07-2014
+"Solgårdsvej 3, 1. TV",Skodsborg,2942,2,65,1937,1595000.0,15-07-2014
+Gyvelvej 5,Skodsborg,2942,5,158,1969,6050000.0,14-07-2014
+Skodsborg Strandvej 73,Skodsborg,2942,10,331,1914,10000000.0,13-07-2014
+Rolighedsvej 2,Skodsborg,2942,8,295,1942,13250000.0,09-07-2014
+"Høje Skodsborgvej 16, 2. TH",Skodsborg,2942,4,136,1936,5625000.0,02-07-2014
+"Høje Skodsborgvej 28, 1. TH",Skodsborg,2942,6,168,1936,5600000.0,17-06-2014
+Skodsborg Strandvej 265,Skodsborg,2942,4,96,1933,11000000.0,08-06-2014
+"Skodsborg Strandvej 225A, ST. TH",Skodsborg,2942,5,228,1886,9050000.0,03-06-2014
+Skodsborg Strandvej 162,Skodsborg,2942,4,132,1923,6800000.0,21-05-2014
+Skodsborg Strandvej 262A,Skodsborg,2942,6,198,1977,10500000.0,21-05-2014
+"Høje Skodsborgvej 16, 1. TV",Skodsborg,2942,3,79,1936,2425000.0,20-05-2014
+"Skodsborgparken 20, 3. TV",Skodsborg,2942,3,117,1981,4750000.0,19-05-2014
+"Skodsborgparken 24, 2. TV",Skodsborg,2942,3,111,1963,4625000.0,15-05-2014
+"Solgårdsvej 5, 1. TV",Skodsborg,2942,3,88,1937,1995000.0,14-05-2014
+Frydenlundsvej 7,Skodsborg,2942,4,153,1959,4500000.0,09-05-2014
+Høje Skodsborgvej 30,Skodsborg,2942,6,226,1928,16100000.0,08-05-2014
+"Skodsborgparken 64, 2. TV",Skodsborg,2942,2,85,1963,3200000.0,06-05-2014
+Skodsborg Strandvej 83,Skodsborg,2942,9,232,1877,5192000.0,21-03-2014
+Højagervej 16B,Skodsborg,2942,6,244,1917,4500000.0,10-03-2014
+"Skodsborg Strandvej 227, 1. 18",Skodsborg,2942,2,62,1886,1425000.0,07-03-2014
+"Solgårdsvej 6, ST. TV",Skodsborg,2942,3,69,1935,1600000.0,13-01-2014
+"Skodsborgparken 38, 4. TH",Skodsborg,2942,4,120,1963,5275000.0,15-12-2013
+Skodsborg Strandvej 313A,Skodsborg,2942,6,183,1959,8200000.0,09-12-2013
+"Solgårdsvej 4, ST. TV",Skodsborg,2942,2,57,1935,1025000.0,06-12-2013
+"Skodsborg Strandvej 31B, 1",Skodsborg,2942,7,202,1905,6695000.0,05-11-2013
+"Høje Skodsborgvej 22, ST",Skodsborg,2942,4,143,1936,2150000.0,01-11-2013
+"Skodsborgparken 10, 2. TH",Skodsborg,2942,2,102,1981,3525000.0,10-10-2013
+"Skodsborg Strandvej 225B, ST. TH",Skodsborg,2942,3,147,1886,5650000.0,08-10-2013
+"Skodsborgparken 28, 2. TH",Skodsborg,2942,4,120,1963,4700000.0,01-10-2013
+"Skodsborgparken 10, 2. TV",Skodsborg,2942,2,112,1981,4200000.0,31-08-2013
+Skodsborg Strandvej 37,Skodsborg,2942,8,220,1903,8750000.0,26-08-2013
+Højagervej 11,Skodsborg,2942,8,159,1963,7000000.0,25-08-2013
+"Skodsborgparken 28, 1. TV",Skodsborg,2942,3,115,1963,4249000.0,05-08-2013
+"Høje Skodsborgvej 24, 1. TH",Skodsborg,2942,3,106,1936,2900000.0,22-07-2013
+"Skodsborgparken 30, 2. TH",Skodsborg,2942,5,135,1963,5550000.0,14-07-2013
+"Skodsborg Strandvej 225A, 3",Skodsborg,2942,3,150,1886,6500000.0,12-07-2013
+Højagervej 18,Skodsborg,2942,5,315,2015,6850000.0,05-07-2013
+"Skodsborgparken 58, 5. TH",Skodsborg,2942,2,97,1963,6337500.0,28-06-2013
+"Skodsborg Strandvej 225A, 1. TH",Skodsborg,2942,4,193,1886,9770000.0,25-06-2013
+Skodsborg Strandvej 258A,Skodsborg,2942,5,146,1988,8200000.0,31-05-2013
+Frydenlundsvej 10,Skodsborg,2942,5,160,1957,5000000.0,30-05-2013
+"Skodsborgparken 30, 2. TV",Skodsborg,2942,2,82,1963,2850000.0,29-05-2013
+"Solgårdsvej 1, 1. TV",Skodsborg,2942,2,68,1937,1400000.0,24-05-2013
+Køromvej 28,Skodsborg,2942,5,199,1973,6300000.0,07-05-2013
+"Høje Skodsborgvej 20, 1. TV",Skodsborg,2942,2,75,1936,2350000.0,16-04-2013
+"Skodsborgparken 34, 1. TH",Skodsborg,2942,5,132,1963,5400000.0,12-04-2013
+Skodsborg Strandvej 278B,Skodsborg,2942,5,216,1981,12000000.0,04-04-2013
+"Skodsborgparken 26, 1. TH",Skodsborg,2942,4,120,1963,3495000.0,27-03-2013
+Egemosen 14,Skodsborg,2942,7,170,1963,6000000.0,04-03-2013
+"Skodsborgparken 44, 1. TH",Skodsborg,2942,4,132,1963,4300000.0,02-01-2013
+Skodsborg Strandvej 47,Skodsborg,2942,6,219,1918,11000000.0,08-11-2012
+"Skodsborg Strandvej 155A, 2. TV",Skodsborg,2942,2,57,1935,1169000.0,06-11-2012
+"Skodsborgparken 58, 2. TV",Skodsborg,2942,3,113,1963,3150000.0,23-10-2012
+"Skodsborgparken 14, ST. TV",Skodsborg,2942,3,119,1981,3850000.0,12-10-2012
+Skodsborgparken 3,Skodsborg,2942,3,96,1921,2700000.0,25-09-2012
+"Skodsborgparken 12, 3. TH",Skodsborg,2942,3,119,1981,3950000.0,25-09-2012
+Rolighedsvej 8B,Skodsborg,2942,9,327,1860,11250000.0,21-09-2012
+"Høje Skodsborgvej 22, 3. TV",Skodsborg,2942,2,101,1936,2695000.0,12-09-2012
+"Høje Skodsborgvej 2, 1. TH",Skodsborg,2942,4,118,1936,3000000.0,07-09-2012
+"Høje Skodsborgvej 10, 2. TH",Skodsborg,2942,3,79,1936,2300000.0,30-08-2012
+Høje Skodsborgvej 42,Skodsborg,2942,6,185,1938,12300000.0,29-08-2012
+"Skodsborg Strandvej 227, ST. 3",Skodsborg,2942,1,66,1886,1600000.0,31-07-2012
+"Skodsborgparken 10, 3. TV",Skodsborg,2942,2,112,1981,3400000.0,30-07-2012
+"Skodsborgparken 64, 4. TV",Skodsborg,2942,2,85,1963,3150000.0,19-07-2012
+"Skodsborgparken 42, 4. TH",Skodsborg,2942,5,134,1963,5750000.0,19-07-2012
+Egemosen 18,Skodsborg,2942,4,133,1966,5700000.0,13-07-2012
+Køromvej 24,Skodsborg,2942,5,200,1960,5750000.0,06-07-2012
+"Skodsborgparken 18, ST. TH",Skodsborg,2942,3,121,1981,3900000.0,22-06-2012
+Enrumvej 22,Skodsborg,2942,6,220,1958,9300000.0,22-06-2012
+"Skodsborgparken 16, 2. TH",Skodsborg,2942,2,97,1981,3200000.0,20-06-2012
+Aggersvej 16,Skodsborg,2942,8,204,1918,6650000.0,19-06-2012
+"Høje Skodsborgvej 8, 2. TH",Skodsborg,2942,4,135,1936,3700000.0,18-06-2012
+Skodsborg Strandvej 258B,Skodsborg,2942,5,146,1988,8800000.0,11-06-2012
+Aggersvej 10,Skodsborg,2942,6,151,1918,2087442.0,04-06-2012
+"Skodsborg Strandvej 155A, ST. TV",Skodsborg,2942,2,57,1935,600000.0,22-05-2012
+"Skodsborgparken 60, 3. TV",Skodsborg,2942,2,82,1963,3000000.0,16-05-2012
+"Høje Skodsborgvej 6, 3. TV",Skodsborg,2942,4,101,1936,3075000.0,15-05-2012
+Skodsborgparken 9,Skodsborg,2942,3,97,1920,3115000.0,01-04-2012
+"Skodsborgparken 44, 3. TH",Skodsborg,2942,5,132,1963,4950000.0,14-03-2012
+"Skodsborgparken 24, 1. TV",Skodsborg,2942,3,111,1963,2650000.0,05-03-2012
+"Skodsborgparken 40, 3. TV",Skodsborg,2942,3,113,1963,2750000.0,05-03-2012
+Skodsborg Strandvej 253,Skodsborg,2942,7,299,1859,11500000.0,02-03-2012
+Højagervej 14,Skodsborg,2942,7,158,1955,4505000.0,28-02-2012
+Skodsborg Strandvej 216,Skodsborg,2942,6,201,1988,12200000.0,24-02-2012
+"Skodsborgparken 54, 1. TH",Skodsborg,2942,4,121,1963,3800000.0,14-02-2012
+"Skodsborgparken 38, 3. TH",Skodsborg,2942,4,120,1963,4500000.0,28-01-2012
+"Skodsborgparken 62, 4. TV",Skodsborg,2942,2,82,1963,2450000.0,06-01-2012
+"Skodsborgparken 50, 4. TH",Skodsborg,2942,4,132,1963,4000000.0,17-12-2011
+"Skodsborg Strandvej 153, 1. TH",Skodsborg,2942,2,57,1935,1150000.0,08-12-2011
+"Skodsborg Strandvej 31A, ST",Skodsborg,2942,4,160,1905,3000000.0,18-11-2011
+Egemosen 8,Skodsborg,2942,6,155,1967,2950000.0,02-11-2011
+Skodsborg Strandvej 250,Skodsborg,2942,7,290,1997,34250000.0,31-10-2011
+"Skodsborgparken 24, 4. TV",Skodsborg,2942,3,111,1963,4400000.0,15-09-2011
+Skodsborg Strandvej 29,Skodsborg,2942,8,232,1913,11500000.0,24-08-2011
+Skodsborg Strandvej 154C,Skodsborg,2942,5,136,1887,8000000.0,23-08-2011
+Egemosen 11,Skodsborg,2942,6,228,1969,3150000.0,16-08-2011
+"Skodsborgparken 38, 4. TV",Skodsborg,2942,3,111,1963,4500000.0,11-08-2011
+"Solgårdsvej 7, 1. TV",Skodsborg,2942,3,91,1937,1850000.0,11-07-2011
+"Skodsborg Strandvej 153, 1. TV",Skodsborg,2942,4,100,1935,1840000.0,06-07-2011
+"Skodsborgparken 52, 1. TV",Skodsborg,2942,2,84,1963,2950000.0,23-06-2011
+"Skodsborg Strandvej 155B, ST. TV",Skodsborg,2942,2,57,1935,850000.0,22-06-2011
+Skodsborg Strandvej 210,Skodsborg,2942,4,100,1958,7800000.0,14-06-2011
+"Skodsborg Strandvej 215, 2. TV",Skodsborg,2942,3,85,1890,3500000.0,01-06-2011
+Høje Skodsborgvej 40,Skodsborg,2942,5,238,1930,10900000.0,29-04-2011
+"Skodsborgparken 24, 2. TH",Skodsborg,2942,4,120,1963,4500000.0,01-04-2011
+"Skodsborgparken 14, 2. TH",Skodsborg,2942,3,119,1981,4475000.0,28-03-2011
+"Skodsborgparken 28, 4. TV",Skodsborg,2942,3,115,1963,4900000.0,25-03-2011
+"Skodsborg Strandvej 227, 2. 24",Skodsborg,2942,1,43,1886,1290000.0,22-03-2011
+"Skodsborgparken 20, 4",Skodsborg,2942,3,107,1981,5950000.0,14-03-2011
+Kettebakken 15,Skodsborg,2942,5,151,1969,4600000.0,03-03-2011
+Egemosen 7,Skodsborg,2942,8,228,1958,7750000.0,02-02-2011
+"Skodsborgparken 14, 3. TH",Skodsborg,2942,3,119,1981,4800000.0,26-01-2011
+Kettebakken 3,Skodsborg,2942,6,173,1967,4574000.0,21-01-2011
+"Skodsborgparken 60, 1. TV",Skodsborg,2942,2,82,1963,2625000.0,20-01-2011
+"Solgårdsvej 3, 2. TV",Skodsborg,2942,2,65,1937,1250000.0,05-01-2011
+"Høje Skodsborgvej 10, 3. TH",Skodsborg,2942,3,79,1936,2600000.0,22-11-2010
+"Skodsborgparken 62, 4. TH",Skodsborg,2942,5,205,1963,10700000.0,22-11-2010
+"Skodsborgparken 34, 4. TH",Skodsborg,2942,4,132,1963,5450000.0,09-11-2010
+Køromvej 30,Skodsborg,2942,7,268,1900,9095000.0,03-11-2010
+"Høje Skodsborgvej 24, 1. TV",Skodsborg,2942,3,80,1936,1950000.0,27-10-2010
+"Skodsborgparken 40, 4. TH",Skodsborg,2942,4,120,1963,4600000.0,22-10-2010
+"Skodsborg Strandvej 219, ST. TH",Skodsborg,2942,2,64,1890,2150000.0,01-10-2010
+"Høje Skodsborgvej 28, ST. TH",Skodsborg,2942,6,168,1936,4750000.0,25-08-2010
+"Skodsborgparken 48, 2. TH",Skodsborg,2942,5,135,1963,6100000.0,20-08-2010
+Skodsborg Strandvej 280B,Skodsborg,2942,5,198,1981,7600000.0,19-07-2010
+Skodsborg Strandvej 301,Skodsborg,2942,2,,1930,56000000.0,25-06-2010
+Aggersvej 4,Skodsborg,2942,6,219,1913,5400000.0,22-06-2010
+Kettebakken 5,Skodsborg,2942,4,148,1967,1850000.0,21-06-2010
+Rolighedsvej 7,Skodsborg,2942,7,216,1929,10500000.0,16-06-2010
+Frydenlundsvej 16,Skodsborg,2942,4,148,1959,5300000.0,17-05-2010
+"Skodsborgparken 46, 2. TV",Skodsborg,2942,2,85,1963,2675000.0,14-05-2010
+"Solgårdsvej 7, 2. TH",Skodsborg,2942,3,94,1937,2500000.0,24-03-2010
+"Skodsborgparken 62, 3. TV",Skodsborg,2942,2,82,1963,3250000.0,23-03-2010
+Skodsborg Strandvej 9A,Skodsborg,2942,5,136,1972,2960500.0,17-03-2010
+Egemosen 12,Skodsborg,2942,4,142,1967,5120000.0,11-03-2010
+"Skodsborgparken 32, 5. TH",Skodsborg,2942,2,97,1963,2100000.0,03-03-2010
+"Skodsborgparken 48, 4. TH",Skodsborg,2942,5,135,1963,2230000.0,03-02-2010
+Enrumvej 4,Skodsborg,2942,4,180,1950,7498000.0,01-02-2010
+"Skodsborgparken 50, 2. TV",Skodsborg,2942,2,82,1963,3400000.0,19-01-2010
+Højagervej 8,Skodsborg,2942,5,205,2010,3450000.0,15-01-2010
+"Skodsborgparken 34, 5",Skodsborg,2942,3,166,1963,13500000.0,14-01-2010
+"Skodsborgparken 54, 4. TV",Skodsborg,2942,3,111,1963,5550000.0,31-12-2009
+"Skodsborgparken 52, 1. TH",Skodsborg,2942,5,132,1963,4500000.0,09-12-2009
+"Skodsborgparken 22, 2. TH",Skodsborg,2942,4,123,1963,800000.0,30-11-2009
+"Skodsborg Strandvej 157A, 2. TV",Skodsborg,2942,4,98,1934,2105000.0,03-11-2009
+"Solgårdsvej 6, ST. TH",Skodsborg,2942,3,67,1935,1900000.0,02-11-2009
+Skodsborg Strandvej 67,Skodsborg,2942,6,253,1913,10000000.0,04-10-2009
+"Skodsborgparken 12, 2. TV",Skodsborg,2942,3,146,1981,5150000.0,03-09-2009
+"Høje Skodsborgvej 24, 2. TV",Skodsborg,2942,3,80,1936,2500000.0,26-08-2009
+Skodsborg Strandvej 300,Skodsborg,2942,9,610,1956,50500000.0,18-08-2009
+"Skodsborgparken 16, 1. TV",Skodsborg,2942,4,141,1981,5250000.0,12-08-2009
+Skodsborg Strandvej 290,Skodsborg,2942,8,299,1961,27000000.0,10-07-2009
+"Skodsborg Strandvej 215, 1. TV",Skodsborg,2942,3,166,1890,5500000.0,24-06-2009
+"Høje Skodsborgvej 2, 2. TV",Skodsborg,2942,3,97,1936,3000000.0,21-06-2009
+"Skodsborgparken 24, 3. TH",Skodsborg,2942,3,120,1963,3750000.0,02-06-2009
+Køromvej 2D,Skodsborg,2942,4,237,1987,3090000.0,22-05-2009
+"Skodsborgparken 50, 3. TH",Skodsborg,2942,5,132,1963,5200000.0,15-05-2009
+"Skodsborgparken 18, 1. TV",Skodsborg,2942,3,119,1981,3500000.0,04-05-2009
+"Skodsborgparken 22, 1. TV",Skodsborg,2942,3,111,1963,3931000.0,30-04-2009
+"Skodsborg Strandvej 211, 1. TH",Skodsborg,2942,2,90,1889,1775000.0,27-04-2009
+"Skodsborg Strandvej 155A, 1. TH",Skodsborg,2942,2,57,1935,1195000.0,14-04-2009
+"Skodsborgparken 24, 3. TV",Skodsborg,2942,3,111,1963,3400000.0,19-02-2009
+Gyvelvej 9,Skodsborg,2942,8,275,1923,3900000.0,11-02-2009
+Rolighedsvej 11,Skodsborg,2942,9,281,1945,7750000.0,22-01-2009
+Skodsborg Strandvej 13,Skodsborg,2942,11,454,1915,16000000.0,12-12-2008
+Højagervej 17,Skodsborg,2942,6,179,1981,5057500.0,24-11-2008
+Skodsborg Strandvej 120,Skodsborg,2942,8,380,1891,22600000.0,25-09-2008
+Skodsborg Strandvej 209,Skodsborg,2942,5,175,1899,10300000.0,22-09-2008
+Skodsborg Strandvej 132,Skodsborg,2942,6,273,1935,30000000.0,16-09-2008
+Skodsborg Strandvej 53,Skodsborg,2942,8,253,1918,13750000.0,01-08-2008
+"Skodsborgparken 44, 5. TH",Skodsborg,2942,2,97,1963,7000000.0,01-08-2008
+Skodsborg Strandvej 204,Skodsborg,2942,8,216,1877,9999999.0,01-07-2008
+"Skodsborgparken 48, 1. TH",Skodsborg,2942,5,135,1963,2997500.0,30-06-2008
+Egemosen 2,Skodsborg,2942,4,162,2009,4100000.0,27-06-2008
+Skodsborg Strandvej 39,Skodsborg,2942,8,246,1900,12500000.0,11-06-2008
+Enrumvej 17,Skodsborg,2942,5,198,2003,5150000.0,01-04-2008
+Kettebakken 11,Skodsborg,2942,5,142,1970,1900000.0,31-03-2008
+"Skodsborgparken 56, 1. TH",Skodsborg,2942,3,120,1963,7000000.0,03-03-2008
+"Høje Skodsborgvej 26, 2. TH",Skodsborg,2942,2,79,1936,2507500.0,25-02-2008
+"Skodsborg Strandvej 227, 1. 14",Skodsborg,2942,1,40,1886,1795000.0,25-02-2008
+"Skodsborgparken 42, 2. TH",Skodsborg,2942,4,134,1963,6600000.0,10-01-2008
+"Høje Skodsborgvej 12, 3. TH",Skodsborg,2942,3,79,1936,2635600.0,09-01-2008
+Skodsborg Strandvej 174,Skodsborg,2942,7,173,1727,15000000.0,07-01-2008
+"Skodsborg Strandvej 227, ST. 6",Skodsborg,2942,1,41,1886,1795000.0,05-12-2007
+"Skodsborg Strandvej 227, ST. 4",Skodsborg,2942,1,69,1886,1358500.0,25-11-2007
+"Skodsborgparken 10, 3. TH",Skodsborg,2942,2,102,1981,5000000.0,23-11-2007
+"Skodsborg Strandvej 227, ST. 2",Skodsborg,2942,1,61,1886,2500000.0,22-11-2007
+"Skodsborg Strandvej 227, 1. 11",Skodsborg,2942,1,46,1886,1895000.0,09-10-2007
+"Skodsborgparken 26, 3. TH",Skodsborg,2942,4,120,1963,2465000.0,12-09-2007
+Frydenlundsvej 8,Skodsborg,2942,6,188,1961,4400000.0,01-09-2007
+"Solgårdsvej 7, 2. TV",Skodsborg,2942,3,91,1937,2900000.0,09-08-2007
+Aggershvile Alle 12,Skodsborg,2942,5,128,1958,7828000.0,30-07-2007
+Egemosen 13,Skodsborg,2942,6,179,1969,8250000.0,28-07-2007
+Aggershvile Alle 4,Skodsborg,2942,10,255,2009,8225000.0,25-07-2007
+Skodsborg Strandvej 293,Skodsborg,2942,5,168,1978,6400000.0,09-07-2007
+"Skodsborgparken 16, ST. TH",Skodsborg,2942,2,97,1981,4500000.0,03-07-2007
+"Skodsborgparken 26, 5. TH",Skodsborg,2942,2,97,1963,7200000.0,03-07-2007
+"Skodsborg Strandvej 219, ST. TV",Skodsborg,2942,3,100,1890,4600000.0,23-06-2007
+Højagervej 12,Skodsborg,2942,8,258,1956,6750000.0,07-06-2007
+"Skodsborg Strandvej 227, 2. 22",Skodsborg,2942,1,44,1886,1500000.0,29-05-2007
+"Skodsborg Strandvej 157, 2. TV",Skodsborg,2942,4,99,1934,3500000.0,22-04-2007
+Skodsborgparken 5,Skodsborg,2942,3,97,1921,3300000.0,11-04-2007
+"Skodsborgparken 60, 3. TH",Skodsborg,2942,5,134,1963,6850000.0,03-04-2007
+Skodsborg Strandvej 258C,Skodsborg,2942,8,312,1896,30000000.0,29-03-2007
+"Skodsborgparken 20, 2. TV",Skodsborg,2942,3,117,1981,6150000.0,26-02-2007
+Skodsborg Strandvej 33,Skodsborg,2942,8,256,1906,17000000.0,15-01-2007
+"Solgårdsvej 4, 2. TH",Skodsborg,2942,2,57,1935,1660000.0,04-01-2007
+"Høje Skodsborgvej 8, ST. TV",Skodsborg,2942,2,63,1936,2250000.0,22-12-2006
+"Skodsborg Strandvej 155B, 2. TV",Skodsborg,2942,2,57,1935,1900000.0,11-12-2006
+"Skodsborgparken 62, 1. TV",Skodsborg,2942,2,82,1963,3550000.0,02-11-2006
+"Solgårdsvej 6, 2. TH",Skodsborg,2942,2,57,1935,1575000.0,12-10-2006
+"Skodsborgparken 20, ST. TH",Skodsborg,2942,3,125,1981,5550000.0,28-09-2006
+"Skodsborgparken 56, 3. TV",Skodsborg,2942,3,111,1963,5500000.0,28-06-2006
+Skodsborg Strandvej 268A,Skodsborg,2942,11,370,1900,23000000.0,20-06-2006
+Skodsborg Strandvej 269,Skodsborg,2942,5,161,1931,8950000.0,31-05-2006
+"Skodsborgparken 54, 5. TH",Skodsborg,2942,2,99,1963,6000000.0,19-05-2006
+"Solgårdsvej 3, 2. TH",Skodsborg,2942,2,66,1937,2350000.0,11-05-2006
+Aggershvile Alle 10,Skodsborg,2942,10,330,1914,15000000.0,11-05-2006
+"Skodsborg Strandvej 227, ST. 8",Skodsborg,2942,1,41,1886,1075000.0,28-04-2006
+"Skodsborgparken 54, 1. TV",Skodsborg,2942,3,111,1963,5595000.0,03-04-2006
+Køromvej 26,Skodsborg,2942,6,197,1973,7200000.0,23-03-2006
+"Solgårdsvej 5, ST. TV",Skodsborg,2942,3,88,1937,2250000.0,20-03-2006
+Skodsborg Strandvej 270,Skodsborg,2942,7,240,1954,6417500.0,03-03-2006
+"Skodsborg Strandvej 155B, 1. TV",Skodsborg,2942,2,57,1935,1900000.0,02-03-2006
+"Skodsborg Strandvej 227, 1. 10",Skodsborg,2942,2,66,1886,3900000.0,22-02-2006
+"Høje Skodsborgvej 12, 3. TV",Skodsborg,2942,2,79,1936,3050000.0,08-02-2006
+"Skodsborgparken 14, 4",Skodsborg,2942,5,145,1981,3527500.0,10-01-2006
+"Høje Skodsborgvej 14, ST. TV",Skodsborg,2942,2,62,1936,1550000.0,20-12-2005
+"Solgårdsvej 1, 2. TH",Skodsborg,2942,2,65,1937,2095000.0,15-12-2005
+"Skodsborg Strandvej 154B, ST",Skodsborg,2942,4,142,1887,7600000.0,04-11-2005
+"Skodsborg Strandvej 227, ST. 7",Skodsborg,2942,1,44,1886,1350000.0,09-10-2005
+"Skodsborg Strandvej 227, 2. 26",Skodsborg,2942,2,53,1886,2025000.0,04-10-2005
+"Skodsborgparken 62, 3. TH",Skodsborg,2942,5,132,1963,5395000.0,28-09-2005
+Egemosen 5,Skodsborg,2942,5,212,2010,4425000.0,11-07-2005
+Skodsborg Strandvej 282,Skodsborg,2942,14,406,1937,13800000.0,01-06-2005
+Skodsborg Strandvej 287,Skodsborg,2942,6,254,1976,5100000.0,12-05-2005
+"Skodsborgparken 42, 3. TV",Skodsborg,2942,2,82,1963,3150000.0,29-04-2005
+"Skodsborg Strandvej 227, 1. 13",Skodsborg,2942,1,44,1886,1795000.0,27-04-2005
+Skodsborg Strandvej 9B,Skodsborg,2942,10,437,1918,12350000.0,15-04-2005
+"Skodsborgparken 32, 4. TH",Skodsborg,2942,5,132,1963,4649000.0,10-04-2005
+"Skodsborgparken 48, 1. TV",Skodsborg,2942,2,82,1963,3095000.0,08-04-2005
+"Skodsborg Strandvej 221, 1",Skodsborg,2942,5,145,1890,4495000.0,17-03-2005
+Kettebakken 13,Skodsborg,2942,6,168,1968,4050000.0,15-03-2005
+Rolighedsvej 9,Skodsborg,2942,7,212,1965,6800000.0,06-02-2005
+Skodsborg Strandvej 87,Skodsborg,2942,7,179,1888,6700000.0,25-01-2005
+"Skodsborg Strandvej 227, ST. 1",Skodsborg,2942,4,105,1886,2750000.0,13-01-2005
+"Høje Skodsborgvej 4, 2. TV",Skodsborg,2942,4,96,1936,2700000.0,16-12-2004
+"Skodsborg Strandvej 154A, ST",Skodsborg,2942,5,199,1887,4750000.0,14-12-2004
+"Skodsborgparken 22, 4. TV",Skodsborg,2942,3,111,1963,3375000.0,09-11-2004
+Aggershvile Alle 2,Skodsborg,2942,5,255,2004,5885000.0,03-11-2004
+"Skodsborgparken 36, 5. TV",Skodsborg,2942,3,90,1963,2350000.0,01-11-2004
+"Skodsborgparken 34, 3. TV",Skodsborg,2942,2,85,1963,2400000.0,05-09-2004
+"Solgårdsvej 2, 2. TH",Skodsborg,2942,3,69,1935,460000.0,28-08-2004
+"Skodsborgparken 58, 3. TV",Skodsborg,2942,3,113,1963,2995000.0,18-08-2004
+Skodsborg Strandvej 68,Skodsborg,2942,5,116,1933,6551000.0,30-07-2004
+"Høje Skodsborgvej 2, ST",Skodsborg,2942,3,126,1936,1550000.0,16-07-2004
+Skodsborg Strandvej 276B,Skodsborg,2942,5,178,1981,7350000.0,29-06-2004
+"Høje Skodsborgvej 20, 1. TH",Skodsborg,2942,2,77,1936,1950000.0,22-06-2004
+Køromvej 6,Skodsborg,2942,5,208,1968,4231000.0,10-06-2004
+Skodsborg Strandvej 176,Skodsborg,2942,4,138,1900,5700000.0,08-06-2004
+Enrumvej 15,Skodsborg,2942,7,215,1950,4900000.0,27-04-2004
+"Skodsborg Strandvej 227, 2. 21",Skodsborg,2942,1,45,1886,1185000.0,19-04-2004
+"Solgårdsvej 1, 1. TH",Skodsborg,2942,2,65,1937,1420000.0,25-02-2004
+Kettebakken 19,Skodsborg,2942,5,148,1965,3335000.0,18-02-2004
+Kettebakken 14,Skodsborg,2942,5,145,1965,1400000.0,10-02-2004
+"Skodsborgparken 10, 4",Skodsborg,2942,4,157,1981,7100000.0,07-02-2004
+"Skodsborgparken 58, 2. TH",Skodsborg,2942,4,120,1963,3302400.0,26-01-2004
+"Skodsborgparken 18, 4. TV",Skodsborg,2942,2,100,1981,3950000.0,20-01-2004
+"Skodsborgparken 32, 4. TV",Skodsborg,2942,2,82,1963,2375000.0,12-01-2004
+"Skodsborgparken 26, 1. TV",Skodsborg,2942,3,111,1963,2700000.0,22-12-2003
+Enrumvej 11,Skodsborg,2942,5,194,1979,3250000.0,02-11-2003
+Kettebakken 8,Skodsborg,2942,7,160,1967,2200000.0,17-10-2003
+"Skodsborgparken 46, 3. TV",Skodsborg,2942,2,85,1963,2495000.0,08-10-2003
+Skodsborg Strandvej 103,Skodsborg,2942,7,186,1880,3250000.0,02-10-2003
+"Skodsborgparken 36, 4. TV",Skodsborg,2942,3,111,1963,2900000.0,10-09-2003
+"Skodsborgparken 54, 5. TV",Skodsborg,2942,3,90,1963,3340000.0,05-09-2003
+"Skodsborg Strandvej 227, 2. 23",Skodsborg,2942,2,66,1886,1795000.0,14-08-2003
+Enrumvej 10,Skodsborg,2942,5,111,1954,2507500.0,13-08-2003
+"Skodsborgparken 64, 5",Skodsborg,2942,4,138,1963,6400000.0,30-06-2003
+Skodsborg Strandvej 295,Skodsborg,2942,8,308,1902,6100000.0,28-06-2003
+Højagervej 15B,Skodsborg,2942,4,154,1982,3350000.0,23-06-2003
+"Skodsborgparken 30, 5",Skodsborg,2942,4,139,1963,7100000.0,16-06-2003
+"Skodsborgparken 64, 3. TV",Skodsborg,2942,2,85,1963,2000000.0,05-06-2003
+"Skodsborgparken 32, 2. TV",Skodsborg,2942,2,82,1963,2040000.0,23-05-2003
+"Skodsborgparken 32, 1. TH",Skodsborg,2942,5,132,1963,3325000.0,11-05-2003
+"Solgårdsvej 7, 1. TH",Skodsborg,2942,3,94,1937,1670000.0,02-03-2003
+"Høje Skodsborgvej 6, 2. TH",Skodsborg,2942,3,96,1936,2275000.0,21-01-2003
+"Skodsborg Strandvej 215, ST. TV",Skodsborg,2942,4,157,1890,1750000.0,30-12-2002
+"Skodsborgparken 26, 2. TV",Skodsborg,2942,3,111,1963,3000000.0,19-12-2002
+"Skodsborgparken 38, 5. TV",Skodsborg,2942,2,90,1963,2900000.0,21-10-2002
+Skodsborg Strandvej 64,Skodsborg,2942,5,159,1913,4950000.0,22-08-2002
+Skodsborg Strandvej 271,Skodsborg,2942,4,120,1923,3500000.0,12-08-2002
+"Skodsborgparken 46, 3. TH",Skodsborg,2942,5,132,1963,3250000.0,08-07-2002
+Kettebakken 26,Skodsborg,2942,5,140,1964,2600000.0,16-06-2002
+"Skodsborg Strandvej 155B, ST. TH",Skodsborg,2942,3,98,1935,525000.0,03-06-2002
+Frydenlundsvej 18,Skodsborg,2942,7,200,1934,2350000.0,01-06-2002
+"Skodsborgparken 44, 2. TH",Skodsborg,2942,5,132,1963,3300000.0,11-04-2002
+Aggersvej 11,Skodsborg,2942,6,220,1921,3875000.0,20-03-2002
+"Høje Skodsborgvej 18, 1. TH",Skodsborg,2942,2,77,1936,1800000.0,14-03-2002
+"Solgårdsvej 5, 2. TV",Skodsborg,2942,3,88,1937,1670000.0,07-02-2002
+"Skodsborgparken 14, 2. TV",Skodsborg,2942,3,119,1981,2980000.0,10-01-2002
+"Høje Skodsborgvej 10, 1. TV",Skodsborg,2942,3,81,1936,1988000.0,12-12-2001
+"Skodsborgparken 18, 4. TH",Skodsborg,2942,3,163,1981,7550000.0,10-12-2001
+"Skodsborgparken 12, 2. TH",Skodsborg,2942,3,119,1981,2910000.0,03-10-2001
+Skodsborg Strandvej 61,Skodsborg,2942,7,197,1910,6250000.0,01-10-2001
+Rolighedsvej 12,Skodsborg,2942,5,182,1877,2925000.0,19-08-2001
+"Høje Skodsborgvej 22, 1. TV",Skodsborg,2942,3,101,1936,2485000.0,13-07-2001
+Aggersvej 9,Skodsborg,2942,11,353,1916,5500000.0,11-07-2001
+"Skodsborgparken 46, 4. TH",Skodsborg,2942,4,132,1963,3800000.0,24-06-2001
+Kettebakken 20,Skodsborg,2942,6,150,1964,3000000.0,23-06-2001
+Høje Skodsborgvej 34,Skodsborg,2942,7,218,1933,5900000.0,12-06-2001
+"Skodsborg Strandvej 157A, ST. TH",Skodsborg,2942,4,98,1934,1619404.0,06-06-2001
+Skodsborg Strandvej 164,Skodsborg,2942,6,198,1899,5000000.0,30-04-2001
+"Høje Skodsborgvej 26, ST. TV",Skodsborg,2942,3,79,1936,1725000.0,27-04-2001
+Skodsborg Strandvej 111,Skodsborg,2942,6,182,1880,4772000.0,09-04-2001
+Gyvelvej 2,Skodsborg,2942,7,211,1918,4800000.0,01-04-2001
+Skodsborg Strandvej 49,Skodsborg,2942,6,371,1902,5500000.0,01-04-2001
+Skodsborg Strandvej 106,Skodsborg,2942,6,237,1886,9100000.0,23-03-2001
+"Skodsborgparken 12, ST. TH",Skodsborg,2942,3,119,1981,3200000.0,20-03-2001
+"Skodsborg Strandvej 227, ST. 5",Skodsborg,2942,2,88,1886,2316000.0,16-03-2001
+Kettebakken 22,Skodsborg,2942,7,222,1963,2422500.0,27-02-2001
+"Skodsborgparken 30, 1. TH",Skodsborg,2942,5,135,1963,3600000.0,24-02-2001
+"Skodsborgparken 46, 2. TH",Skodsborg,2942,3,132,1963,3450000.0,15-01-2001
+Skodsborgparken 1,Skodsborg,2942,4,105,1950,1935001.0,22-12-2000
+"Høje Skodsborgvej 4, 1. TH",Skodsborg,2942,4,74,1936,1535000.0,15-12-2000
+Skodsborg Strandvej 126,Skodsborg,2942,6,202,1896,3650000.0,03-12-2000
+"Skodsborgparken 34, 3. TH",Skodsborg,2942,5,132,1963,2530000.0,20-10-2000
+"Skodsborg Strandvej 154B, 2",Skodsborg,2942,4,280,1887,5100000.0,19-10-2000
+Skodsborg Strandvej 110,Skodsborg,2942,6,276,1890,9812000.0,10-10-2000
+"Solgårdsvej 6, 2. TV",Skodsborg,2942,3,79,1935,1210000.0,23-09-2000
+"Høje Skodsborgvej 12, 1. TV",Skodsborg,2942,3,79,1936,1630000.0,12-09-2000
+Køromvej 8,Skodsborg,2942,6,194,1966,3599700.0,21-08-2000
+"Skodsborgparken 54, 3. TH",Skodsborg,2942,4,121,1963,2700326.0,08-08-2000
+"Skodsborg Strandvej 154B, 1",Skodsborg,2942,6,197,1887,3999683.0,20-04-2000
+Skodsborg Strandvej 99,Skodsborg,2942,6,205,1870,3675000.0,14-04-2000
+"Skodsborgparken 28, 4. TH",Skodsborg,2942,4,120,1963,2449905.0,12-04-2000
+Skodsborg Strandvej 108,Skodsborg,2942,8,254,1888,6077000.0,31-03-2000
+"Skodsborgparken 38, 3. TV",Skodsborg,2942,3,111,1963,2625000.0,29-02-2000
+Skodsborg Strandvej 276A,Skodsborg,2942,4,178,1981,6525000.0,16-02-2000
+"Skodsborgparken 22, 3. TV",Skodsborg,2942,3,111,1963,2500000.0,05-01-2000
+"Skodsborgparken 62, 2. TV",Skodsborg,2942,2,82,1963,1815000.0,22-12-1999
+"Høje Skodsborgvej 6, 3. TH",Skodsborg,2942,3,96,1936,1788200.0,18-11-1999
+"Skodsborgparken 52, 4. TV",Skodsborg,2942,2,84,1963,1750000.0,18-11-1999
+"Høje Skodsborgvej 26, 2. TV",Skodsborg,2942,3,79,1936,1525237.0,12-11-1999
+"Skodsborgparken 50, 3. TV",Skodsborg,2942,2,82,1963,1900000.0,08-11-1999
+Frydenlundsvej 15,Skodsborg,2942,6,161,1978,2600000.0,24-08-1999
+Skodsborg Strandvej 91,Skodsborg,2942,5,179,1887,1025000.0,07-07-1999
+"Skodsborgparken 36, 2. TV",Skodsborg,2942,3,111,1963,2490000.0,22-06-1999
+Skodsborgparken 23,Skodsborg,2942,3,110,1910,1749000.0,06-06-1999
+"Høje Skodsborgvej 8, 1. TH",Skodsborg,2942,5,135,1936,808000.0,05-06-1999
+"Skodsborgparken 58, 4. TV",Skodsborg,2942,3,113,1963,2649486.0,25-05-1999
+Enrumvej 14,Skodsborg,2942,4,167,1954,3096476.0,12-05-1999
+"Skodsborgparken 52, 2. TH",Skodsborg,2942,5,132,1963,1317500.0,29-04-1999
+Egemosen 15,Skodsborg,2942,5,162,1968,2892000.0,05-01-1999
+Skodsborg Strandvej 21,Skodsborg,2942,5,130,1954,3033316.0,09-12-1998
+"Skodsborgparken 16, 4. TH",Skodsborg,2942,3,100,1981,1535925.0,07-12-1998
+"Skodsborg Strandvej 215, 2. TH",Skodsborg,2942,4,103,1890,1673487.0,17-09-1998
+Skodsborg Strandvej 65,Skodsborg,2942,8,215,1912,2500000.0,22-06-1998
+Skodsborg Strandvej 196,Skodsborg,2942,10,392,1911,11000000.0,19-06-1998
+"Skodsborgparken 24, 1. TH",Skodsborg,2942,4,120,1963,2650000.0,23-05-1998
+Skodsborg Strandvej 178,Skodsborg,2942,6,170,1817,3315000.0,06-05-1998
+"Høje Skodsborgvej 10, 2. TV",Skodsborg,2942,3,81,1936,1359000.0,29-03-1998
+"Skodsborgparken 52, 5",Skodsborg,2942,6,234,1963,7100000.0,19-03-1998
+"Skodsborg Strandvej 157A, 2. TH",Skodsborg,2942,4,98,1934,1304320.0,10-02-1998
+Skodsborg Strandvej 172,Skodsborg,2942,9,250,1900,4350000.0,01-12-1997
+Aggershvile Alle 8,Skodsborg,2942,5,124,1913,1300000.0,28-10-1997
+"Solgårdsvej 2, 1. TV",Skodsborg,2942,3,67,1935,661252.0,21-10-1997
+"Skodsborgparken 16, 1. TH",Skodsborg,2942,2,97,1981,1950000.0,09-10-1997
+"Skodsborgparken 38, 1. TV",Skodsborg,2942,3,111,1963,1600000.0,08-10-1997
+Høje Skodsborgvej 32,Skodsborg,2942,7,273,1934,4229100.0,01-10-1997
+Skodsborg Strandvej 63,Skodsborg,2942,6,181,1912,3211000.0,24-09-1997
+"Skodsborgparken 36, 5. TH",Skodsborg,2942,2,100,1963,2600000.0,16-09-1997
+"Skodsborgparken 46, 4. TV",Skodsborg,2942,2,85,1963,1648000.0,10-09-1997
+"Skodsborg Strandvej 219, 1. TH",Skodsborg,2942,2,69,1890,1105448.0,15-08-1997
+Enrumvej 9,Skodsborg,2942,4,144,1958,1550000.0,16-06-1997
+Skodsborg Strandvej 278A,Skodsborg,2942,3,178,1981,4650000.0,14-06-1997
+Køromvej 2C,Skodsborg,2942,5,270,1971,2868870.0,21-05-1997
+Gyvelvej 4,Skodsborg,2942,8,149,1957,1923000.0,28-04-1997
+Skodsborg Strandvej 124,Skodsborg,2942,9,268,1974,6800000.0,23-03-1997
+"Skodsborgparken 64, 4. TH",Skodsborg,2942,5,132,1963,2261560.0,11-03-1997
+Enrumvej 23,Skodsborg,2942,6,231,1930,2650000.0,10-03-1997
+"Skodsborg Strandvej 217, ST. TH",Skodsborg,2942,3,94,1890,1500000.0,03-02-1997
+"Solgårdsvej 1, ST. TH",Skodsborg,2942,2,65,1937,508380.0,28-01-1997
+Skodsborg Strandvej 118,Skodsborg,2942,8,277,1880,3227500.0,21-01-1997
+Skodsborg Strandvej 81,Skodsborg,2942,5,192,1917,2300010.0,05-11-1996
+Gyvelvej 11,Skodsborg,2942,4,183,1938,1830280.0,28-10-1996
+"Skodsborgparken 56, 2. TH",Skodsborg,2942,4,120,1963,1932115.0,22-10-1996
+Frydenlundsvej 9,Skodsborg,2942,5,161,1962,1727969.0,19-08-1996
+"Solgårdsvej 4, 1. TH",Skodsborg,2942,2,57,1935,338000.0,05-07-1996
+"Solgårdsvej 4, ST. TH",Skodsborg,2942,2,57,1935,464760.0,04-07-1996
+"Skodsborgparken 10, 1. TV",Skodsborg,2942,2,112,1981,1500000.0,14-06-1996
+Højagervej 7,Skodsborg,2942,4,128,1939,1129000.0,04-06-1996
+"Skodsborg Strandvej 211, ST. TV",Skodsborg,2942,3,101,1889,1000000.0,24-05-1996
+Skodsborg Strandvej 186,Skodsborg,2942,7,267,1900,5541000.0,23-05-1996
+"Høje Skodsborgvej 6, 1. TV",Skodsborg,2942,4,101,1936,1257599.0,21-05-1996
+Skodsborg Strandvej 59,Skodsborg,2942,6,240,1968,2916185.0,14-05-1996
+"Høje Skodsborgvej 26, 1. TH",Skodsborg,2942,3,79,1936,1550000.0,29-04-1996
+"Skodsborgparken 42, 5",Skodsborg,2942,3,165,1963,3900000.0,14-01-1996
+"Solgårdsvej 1, 2. TV",Skodsborg,2942,2,68,1937,735935.0,30-11-1995
+"Høje Skodsborgvej 8, 2. TV",Skodsborg,2942,3,82,1936,1011280.0,14-11-1995
+Kettebakken 10,Skodsborg,2942,8,197,1962,1096500.0,12-10-1995
+"Skodsborgparken 58, 5. TV",Skodsborg,2942,3,92,1963,2200000.0,18-09-1995
+"Skodsborgparken 34, 2. TH",Skodsborg,2942,5,132,1963,1800000.0,04-09-1995
+"Høje Skodsborgvej 2, 3. TH",Skodsborg,2942,3,118,1936,1128750.0,09-08-1995
+Høje Skodsborgvej 44,Skodsborg,2942,8,218,1927,1750000.0,20-07-1995
+Enrumvej 2,Skodsborg,2942,5,165,1972,2326000.0,13-06-1995
+Køromvej 10,Skodsborg,2942,6,189,1969,791683.0,11-06-1995
+Skodsborg Strandvej 220A,Skodsborg,2942,8,188,1877,2450000.0,23-05-1995
+Skodsborg Strandvej 257,Skodsborg,2942,6,262,1933,2200000.0,22-05-1995
+"Skodsborg Strandvej 211, 1. TV",Skodsborg,2942,3,94,1889,1069810.0,18-05-1995
+"Skodsborg Strandvej 219, 1. TV",Skodsborg,2942,3,91,1890,1311000.0,12-03-1995
+"Skodsborgparken 42, 1. TH",Skodsborg,2942,5,134,1963,1503000.0,03-03-1995
+"Skodsborgparken 60, 2. TV",Skodsborg,2942,2,82,1963,950000.0,10-01-1995
+"Skodsborg Strandvej 156, 2",Skodsborg,2942,5,201,1885,14316448.0,30-12-1994
+"Skodsborg Strandvej 227, 2. 20",Skodsborg,2942,1,46,1886,375000.0,30-11-1994
+"Skodsborgparken 32, 3. TV",Skodsborg,2942,2,82,1963,1225000.0,28-11-1994
+Gyvelvej 8,Skodsborg,2942,8,271,1919,2540190.0,11-10-1994
+Skodsborg Strandvej 261,Skodsborg,2942,7,288,1969,3000000.0,23-09-1994
+"Skodsborgparken 42, 3. TH",Skodsborg,2942,5,134,1963,1850000.0,16-09-1994
+Skodsborg Strandvej 17B,Skodsborg,2942,5,174,1989,2545000.0,23-06-1994
+"Skodsborgparken 32, 2. TH",Skodsborg,2942,5,132,1963,1765000.0,31-05-1994
+"Skodsborgparken 36, 4. TH",Skodsborg,2942,4,122,1963,1559520.0,25-04-1994
+"Skodsborgparken 60, 5",Skodsborg,2942,3,165,1963,2640000.0,10-02-1994
+Kettebakken 4,Skodsborg,2942,5,184,1963,1130200.0,31-10-1993
+"Skodsborgparken 22, 4. TH",Skodsborg,2942,4,123,1963,1406410.0,28-10-1993
+"Skodsborgparken 30, 4. TH",Skodsborg,2942,3,135,1963,1400000.0,26-10-1993
+"Skodsborg Strandvej 217, 1. TH",Skodsborg,2942,3,94,1890,1200000.0,18-10-1993
+Frydenlundsvej 12,Skodsborg,2942,6,288,1973,2025000.0,30-09-1993
+"Skodsborgparken 12, 4. TH",Skodsborg,2942,5,138,1981,2800000.0,28-09-1993
+Skodsborg Strandvej 69,Skodsborg,2942,6,194,1913,1625000.0,05-08-1993
+Egemosen 17,Skodsborg,2942,5,141,1965,553788.0,17-07-1993
+"Skodsborgparken 52, 3. TH",Skodsborg,2942,5,132,1963,1309300.0,16-07-1993
+"Skodsborgparken 42, 2. TV",Skodsborg,2942,2,82,1963,1075000.0,15-07-1993
+Kettebakken 12,Skodsborg,2942,5,178,1968,995000.0,07-07-1993
+Skodsborg Strandvej 280A,Skodsborg,2942,6,198,1981,2621500.0,08-06-1993
+"Høje Skodsborgvej 26, ST. TH",Skodsborg,2942,3,79,1936,703000.0,12-05-1993
+"Skodsborg Strandvej 153, ST. TH",Skodsborg,2942,2,28,1935,300000.0,03-05-1993
+Skodsborg Strandvej 75,Skodsborg,2942,5,127,1914,975000.0,25-03-1993
+Skodsborg Strandvej 36,Skodsborg,2942,7,188,1912,6081000.0,18-03-1993
+"Skodsborg Strandvej 211, ST. TH",Skodsborg,2942,3,95,1889,863251.0,06-03-1993
+Skodsborg Strandvej 272,Skodsborg,2942,7,286,1985,5010000.0,19-02-1993
+"Høje Skodsborgvej 26, 1. TV",Skodsborg,2942,3,79,1936,762670.0,27-01-1993
+Skodsborg Strandvej 114,Skodsborg,2942,7,321,1878,1700000.0,19-01-1993
+Højagervej 15A,Skodsborg,2942,6,165,1917,1300000.0,16-01-1993
+"Skodsborgparken 50, 5",Skodsborg,2942,3,97,1963,1900000.0,30-09-1992
+Skodsborg Strandvej 252,Skodsborg,2942,8,210,1929,400000.0,24-05-1992
+Kettebakken 24,Skodsborg,2942,7,175,1967,1660000.0,16-05-1992
+Aggersvej 6,Skodsborg,2942,5,207,1918,1025000.0,15-03-1992
